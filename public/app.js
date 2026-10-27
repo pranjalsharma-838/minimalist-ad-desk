@@ -12,10 +12,10 @@ const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<
 
 // The visitor's Claude key (online version, 2026-10-27): kept in this browser tab only and sent with each of this visitor's
 // requests; the server uses it for that request and never stores it.
-let claudeKey = "";
-try { claudeKey = sessionStorage.getItem("claudeKey") || ""; } catch { /* storage blocked: the key lasts until the page reloads */ }
+let claudeKey = "", openaiKey = "";
+try { claudeKey = sessionStorage.getItem("claudeKey") || ""; openaiKey = sessionStorage.getItem("openaiKey") || ""; } catch { /* storage blocked: the key lasts until the page reloads */ }
 async function api(path, body) {
-  const headers = { ...(body ? { "content-type": "application/json" } : {}), ...(claudeKey ? { "x-claude-key": claudeKey } : {}) };
+  const headers = { ...(body ? { "content-type": "application/json" } : {}), ...(claudeKey ? { "x-claude-key": claudeKey } : {}), ...(openaiKey ? { "x-openai-key": openaiKey } : {}) };
   const r = await fetch(path, body ? { method: "POST", headers, body: JSON.stringify(body) } : { headers });
   const j = await r.json().catch(() => ({ error: `HTTP ${r.status}` }));
   if (!r.ok || j.error) throw new Error(j.error || `HTTP ${r.status}`);
@@ -29,11 +29,11 @@ let llm = false, online = false;
 function showStatus(s) {
   llm = s.llm;
   online = Boolean(s.online);
-  $("#status").innerHTML = `Rules v${esc(s.rulesVersion)} · AI judge: <b class="${s.llm ? "on" : "off"}">${s.llm ? "on" : "off (rules only)"}</b> · Images: <b class="${s.openai ? "on" : "off"}">${s.online ? "not in the online version" : s.openai ? "OpenAI" : "ChatGPT window"}</b>`;
+  $("#status").innerHTML = `Rules v${esc(s.rulesVersion)} · AI judge: <b class="${s.llm ? "on" : "off"}">${s.llm ? "on" : "off (rules only)"}</b> · Images: <b class="${s.openai ? "on" : "off"}">${s.openai ? "OpenAI" : s.online ? "off (add an OpenAI key)" : "ChatGPT window"}</b>`;
   $("#mode").querySelector('[value="model"]').disabled = !s.llm;
   if (!s.llm) $("#mode").value = "verbatim";
   $("#keyform").style.display = s.llm ? "none" : "";
-  $("#oaform").style.display = s.openai || s.online ? "none" : "";
+  $("#oaform").style.display = s.openai ? "none" : "";
   updateBulkControls(); // image rows that were waiting for the key can be scored now
 }
 api("/api/status").then(showStatus).catch(() => ($("#status").textContent = "server not reachable"));
@@ -58,7 +58,10 @@ $("#oaform").addEventListener("submit", async (e) => {
   e.preventDefault();
   $("#oamsg").textContent = "checking…";
   try {
-    await api("/api/openai-key", { key: $("#oakey").value });
+    const key = $("#oakey").value.trim();
+    await api("/api/openai-key", { key });
+    // Online the server only checks it; this tab keeps it and sends it with each request (as with the Claude key).
+    if (online) { openaiKey = key; try { sessionStorage.setItem("openaiKey", key); } catch { /* kept in memory only */ } }
     $("#oakey").value = "";
     $("#oamsg").textContent = "";
     showStatus(await api("/api/status"));
@@ -179,6 +182,9 @@ const imgCache = new Map();
 function dataUrlOf(src) {
   if (!src) return Promise.resolve("");
   if (src.startsWith("data:")) return Promise.resolve(src);
+  // Online: a new image this tab made (runJobs); the server only knows its id.
+  const own = /^\/api\/request-image\?id=([\w-]+)$/.exec(src);
+  if (own && jobImages[own[1]]) return Promise.resolve(jobImages[own[1]]);
   if (!imgCache.has(src)) {
     imgCache.set(src, (async () => {
       const r = await fetch(/^https?:/.test(src) ? "/api/image?src=" + encodeURIComponent(src) : src);
@@ -1013,6 +1019,39 @@ async function showBuild(out, t0) {
   judgeAll();
   pollImages();
 }
+// ---------- online: new images made from this tab with the visitor's own keys (2026-10-28) ----------
+// The server keeps nothing: each job /api/generate queued is made here, one round per /api/make-image call (OpenAI draws
+// from the real pack, Claude checks the label against it; up to 3 rounds, as in the laptop's image studio). The jobs'
+// states go with every request (inputs.images) and the images stay in this tab (jobImages), where dataUrlOf() finds them.
+const jobImages = {};
+let jobState = {};
+async function makeJob(job, myGen) {
+  const st = (jobState[job.id] = { status: "working", progress: "Round 1 of 3: drawing the image" });
+  let best = null;
+  for (let round = 1; round <= 3; round++) {
+    if (myGen !== gen) return;
+    st.progress = `Round ${round} of 3: drawing the image, then checking the pack label`;
+    const baseData = job.after && jobState[job.after]?.status === "done" ? jobImages[job.after] : "";
+    let r;
+    try { r = await api("/api/make-image", { job, round, baseData }); }
+    catch (err) { if (!best) return Object.assign(st, { status: "failed", progress: "", notes: `Could not make this image: ${err.message}. Build again to retry.` }); break; }
+    if (!best?.pass) best = r;
+    jobImages[job.id] = best.image;
+    if (r.pass || !r.checked) break; // an unchecked image (no Claude key) can't get better by asking again
+  }
+  Object.assign(st, best.pass
+    ? { status: "done", progress: "", notes: `${best.verdict}, round ${best.round} of 3. Automatic check only: still read the label by eye. Any person in the image is an AI model: Severe, AI mark.` }
+    : { status: "needs_review", progress: "", notes: `${best.verdict}. Check the pack label by eye before using this ad.` });
+}
+// The product render first; every other image waits for it and is built on it when it passes (as on the laptop), 3 at a time.
+async function runJobs(jobs, myGen) {
+  for (const j of jobs) jobState[j.id] = { status: "queued", progress: "Waiting for the product render" };
+  const render = jobs.find((j) => j.format === "render"), rest = jobs.filter((j) => j !== render);
+  if (render) await makeJob(render, myGen);
+  let i = 0;
+  await Promise.all(Array.from({ length: 3 }, async () => { while (i < rest.length && myGen === gen) await makeJob(rest[i++], myGen); }));
+}
+
 // Every few seconds, formats waiting for a new image are re-read; the card swaps to the finished ad by itself.
 let imgPoll = null, renderSeen = false;
 function pollImages() {
@@ -1022,7 +1061,7 @@ function pollImages() {
     clearTimeout(imgPoll);
     imgPoll = setTimeout(async () => {
       if (myGen !== gen) return;
-      const r = ((await api(`/api/image-requests?handle=${encodeURIComponent(handle)}`).catch(() => ({ requests: [] }))).requests || []).find((x) => x.id === rid);
+      const r = online ? jobState[rid] : ((await api(`/api/image-requests?handle=${encodeURIComponent(handle)}`).catch(() => ({ requests: [] }))).requests || []).find((x) => x.id === rid);
       if (r && ["done", "needs_review", "failed"].includes(r.status)) { renderSeen = true; if (r.status === "done") await showBuild(await api("/api/formats", { copy, sheet, inputs, variant })); else pollImages(); return; }
       pollImages();
     }, 6000);
@@ -1046,8 +1085,7 @@ let keysWaived = false;
 async function missingKeys() {
   const s = await api("/api/status").catch(() => ({}));
   showStatus(s);
-  // Online, images aren't made at all, so only the Claude key is asked for.
-  return [!s.llm ? "Claude API key (writes the copy, runs the AI judge)" : "", !s.online && !s.openai && !s.studio ? "OpenAI API key (makes the images)" : ""].filter(Boolean);
+  return [!s.llm ? `Claude API key (writes the copy, runs the AI judge${s.online ? ", checks new images' labels" : ""})` : "", !s.openai && !s.studio ? "OpenAI API key (makes the images)" : ""].filter(Boolean);
 }
 $("#generate").onclick = async () => {
   const miss = keysWaived ? [] : await missingKeys();
@@ -1067,7 +1105,9 @@ $("#generate").onclick = async () => {
     const out = await api("/api/generate", { sheet, mode: $("#mode").value, variant });
     if (out.refused) return ($("#extract-msg").innerHTML = `<div class="refusal">${esc(out.reason)}</div>`);
     copy = out.copy; mode = out.mode; log = out.log || [];
-    inputs = { requests: out.requests || {} }; renderSeen = false;
+    jobState = {};
+    inputs = { requests: out.requests || {}, images: jobState }; renderSeen = false;
+    if (out.jobs?.length) runJobs(out.jobs, gen);
     fillEditor(copy);
     // Who the page says the product is for; the scene images rotate across these audiences.
     $("#extract-msg").innerHTML = (out.audiences || []).length ? `<p class="hint">Audiences from the product page: ${out.audiences.map((a) => `<b>${esc(a.label)}</b>${a.cites.length ? ` (${esc(a.cites.join(", "))})` : ""}`).join(" · ")}. New scene images rotate across them.</p>` : "";

@@ -34,8 +34,12 @@ const PORT = Number(process.env.PORT || 5173);
 // their own requests (x-claude-key header) and is never stored on the server; new images (OpenAI key / ChatGPT window
 // queue) are off, since they need this computer.
 const ONLINE = process.env.ONLINE === "1";
-const ONLINE_NO_IMAGES = "New images can't be made in the online version; ads that need one show as waiting. Run the tool on your own computer to make them.";
+const ONLINE_NO_IMAGES = "The online version makes new images for a build only (with your OpenAI key); this image box needs the tool on your own computer.";
 const keyFrom = (req) => { const k = String(req.headers["x-claude-key"] || "").trim(); return /^sk-ant-[A-Za-z0-9_-]{20,}$/.test(k) ? k : ""; };
+// The visitor's OpenAI key, the same way (2026-10-28: new images online with the visitor's own key).
+const openaiFrom = (req) => { const k = String(req.headers["x-openai-key"] || "").trim(); return ONLINE && /^sk-[A-Za-z0-9_-]{20,}$/.test(k) ? k : ""; };
+// The states of the visitor's image jobs (inputs.images), kept to plain short strings.
+const imageStates = (m) => Object.fromEntries(Object.entries(m && typeof m === "object" ? m : {}).slice(0, 60).filter(([k]) => /^[\w-]{1,160}$/.test(k)).map(([k, v]) => [k, { status: String(v?.status || "").slice(0, 20), progress: String(v?.progress || "").slice(0, 200), notes: String(v?.notes || "").slice(0, 600) }]));
 const IMAGE_HOSTS = new Set(["cdn.shopify.com", "beminimalist.co", "www.beminimalist.co"]);
 // Images referenced by a product page this server has just read (any brand): the only other images /api/image will fetch.
 const pageImages = new Set();
@@ -76,7 +80,7 @@ async function handleApi(req, res, url) {
   if (url.pathname === "/api/status") {
     const { judgeAvailable } = await lazy("./lib/judge.js");
     const { studioAvailable } = await lazy("./lib/library.js");
-    return send(res, 200, { openai: !ONLINE && Boolean(process.env.OPENAI_API_KEY), studio: !ONLINE && studioAvailable(), llm: judgeAvailable(), online: ONLINE, rulesVersion: (await lazy("./lib/rules.js")).RULES.version });
+    return send(res, 200, { openai: ONLINE ? Boolean(keyStore.getStore()?.openai) : Boolean(process.env.OPENAI_API_KEY), studio: !ONLINE && studioAvailable(), llm: judgeAvailable(), online: ONLINE, rulesVersion: (await lazy("./lib/rules.js")).RULES.version });
   }
   if (req.method === "GET") {
     if (url.pathname === "/api/image") {
@@ -127,6 +131,7 @@ async function handleApi(req, res, url) {
   }
   if (req.method !== "POST") return send(res, 405, { error: "POST only" });
   const body = await readJson(req);
+  if (ONLINE) keyStore.getStore().images = imageStates(body.inputs?.images);
   // Claude API key typed into the app (2026-10-04: the people running it bring their own key). It lives only in this
   // server's memory: never written to disk, never logged, gone on restart. A key in .env still works and is kept.
   // Only accepted from this machine.
@@ -147,16 +152,22 @@ async function handleApi(req, res, url) {
   // OpenAI key for images (memory only, localhost only). With a key the server itself makes queued image-studio requests through
   // the OpenAI Images API; without one the web-ChatGPT worker (npm run studio) stays the way.
   if (url.pathname === "/api/openai-key") {
-    if (ONLINE) return send(res, 403, { error: ONLINE_NO_IMAGES });
-    if (!["127.0.0.1", "::1", "::ffff:127.0.0.1"].includes(req.socket.remoteAddress)) return send(res, 403, { error: "Keys can only be set from this computer." });
-    if (body.clear) { delete process.env.OPENAI_API_KEY; return send(res, 200, { images: false }); }
+    if (!ONLINE && !["127.0.0.1", "::1", "::ffff:127.0.0.1"].includes(req.socket.remoteAddress)) return send(res, 403, { error: "Keys can only be set from this computer." });
+    if (body.clear) { if (!ONLINE) delete process.env.OPENAI_API_KEY; return send(res, 200, { images: false }); }
     const key = String(body.key || "").trim();
     if (!/^sk-[A-Za-z0-9_-]{20,}$/.test(key)) return send(res, 400, { error: "That doesn't look like an OpenAI API key (it starts with sk-)." });
     const { validateOpenAiKey } = await lazy("./lib/image_api.js");
     const v = await validateOpenAiKey(key);
     if (!v.ok) return send(res, 400, { error: v.error });
-    process.env.OPENAI_API_KEY = key;
+    // Online: checked only; the visitor's browser keeps it and sends it with each of their own requests.
+    if (!ONLINE) process.env.OPENAI_API_KEY = key;
     return send(res, 200, { images: true });
+  }
+  // Online: one round of making a new image for a job the browser holds (lib/online_image.js).
+  if (url.pathname === "/api/make-image") {
+    if (!ONLINE) return send(res, 404, { error: "Unknown endpoint" });
+    const { makeImageRound } = await lazy("./lib/online_image.js");
+    return send(res, 200, await makeImageRound({ job: body.job, baseData: body.baseData, round: body.round }));
   }
 
   if (url.pathname === "/api/extract") {
@@ -184,7 +195,9 @@ async function handleApi(req, res, url) {
   }
   if (url.pathname === "/api/generate") {
     const { generateAd } = await lazy("./lib/generate.js");
-    return send(res, 200, await generateAd(body.sheet, { mode: body.mode, format: body.format, inputs: body.inputs, variant: body.variant }));
+    const out = await generateAd(body.sheet, { mode: body.mode, format: body.format, inputs: body.inputs, variant: body.variant });
+    // Online: the new-image jobs this build queued, for the visitor's browser to make.
+    return send(res, 200, ONLINE ? { ...out, jobs: keyStore.getStore().queued } : out);
   }
   if (url.pathname === "/api/formats") {
     const { allFormats } = await lazy("./lib/generate.js");
@@ -213,7 +226,7 @@ async function handleApi(req, res, url) {
 }
 
 // Also the Vercel function's handler (vercel/build.mjs), which runs it without the listener or the image timer below.
-export const app = (req, res) => keyStore.run({ claude: keyFrom(req) }, () => handle(req, res));
+export const app = (req, res) => keyStore.run({ claude: keyFrom(req), openai: openaiFrom(req), queued: [] }, () => handle(req, res));
 const server = http.createServer(app);
 async function handle(req, res) {
   const url = new URL(req.url, `http://${req.headers.host}`);
