@@ -51,6 +51,11 @@ function send(res, code, body, type = "application/json; charset=utf-8") {
   res.end(type.startsWith("application/json") ? JSON.stringify(body) : body);
 }
 async function sendFile(res, file, maxAge = 3600) {
+  // On Vercel the function holds empty stand-ins for images; the real file is a static file at the same path.
+  if (process.env.VERCEL && /\.(png|jpe?g|webp)$/i.test(file)) {
+    res.writeHead(302, { location: "/" + path.relative(here, file).split(path.sep).map(encodeURIComponent).join("/"), "cache-control": `max-age=${maxAge}` });
+    return res.end();
+  }
   res.writeHead(200, { "content-type": TYPES[path.extname(file).toLowerCase()] || "application/octet-stream", "cache-control": `max-age=${maxAge}` });
   res.end(await fs.readFile(file));
 }
@@ -207,7 +212,9 @@ async function handleApi(req, res, url) {
   return send(res, 404, { error: "Unknown endpoint" });
 }
 
-const server = http.createServer((req, res) => keyStore.run({ claude: keyFrom(req) }, () => handle(req, res)));
+// Also the Vercel function's handler (vercel/build.mjs), which runs it without the listener or the image timer below.
+export const app = (req, res) => keyStore.run({ claude: keyFrom(req) }, () => handle(req, res));
+const server = http.createServer(app);
 async function handle(req, res) {
   const url = new URL(req.url, `http://${req.headers.host}`);
   try {
@@ -237,7 +244,7 @@ async function handle(req, res) {
 
 // Image requests: made here through the OpenAI Images API whenever an OpenAI key is set (checked each time, so a key pasted later works).
 let apiBusy = false;
-setInterval(async () => {
+if (!process.env.VERCEL) setInterval(async () => {
   if (!process.env.OPENAI_API_KEY) return;
   // heartbeat first, also while a batch is still running, so the ChatGPT worker keeps to its backup role
   try { const W0 = await import("./scripts/image_studio_worker.mjs"); fs2.mkdirSync(W0.queuePath(), { recursive: true }); fs2.writeFileSync(path2.join(W0.queuePath(), "api.heartbeat"), new Date().toISOString()); } catch { /* never stop */ }
@@ -254,7 +261,7 @@ setInterval(async () => {
   apiBusy = false;
 }, 5000).unref();
 
-server.listen(PORT, () => {
+if (!process.env.VERCEL) server.listen(PORT, () => {
   console.log(`Minimalist ad tool running at http://localhost:${PORT}`);
   if (!process.env.ANTHROPIC_API_KEY) {
     console.log("No Claude API key yet: paste one in the app (top right), or put ANTHROPIC_API_KEY in .env. Until then, copy is word-for-word from the product page and the scorer runs its rules only.");

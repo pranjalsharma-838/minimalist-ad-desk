@@ -3,3 +3,4 @@ node_modules/
 cache/
 image_requests/*.heartbeat
 image_requests/worker.log
+.vercel/
