@@ -1,0 +1,33 @@
+<!doctype html>
+<meta charset="utf-8" />
+<title>Format preview (dev)</title>
+<style>body{margin:0;overflow:hidden}</style>
+<body>
+<div id="out"></div>
+<script type="module">
+  // Dev-only: /dev-formats.html?f=actives|journey|stat|callouts|spec|range|offer|before_after
+  import { renderAdSvg, measure, layoutProblems } from "./render.js";
+  const img = (u) => "/api/image?src=" + encodeURIComponent(u);
+  const NIA = img("https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Nia10New.png?v=1721398127");
+  const sheet = await (await fetch("/api/extract", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ url: "https://beminimalist.co/products/salicylic-lha-2-cleanser" }) })).json();
+  const SAL = img(sheet.sheet.images[0]);
+  const spf = await (await fetch("/api/extract", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ url: "https://beminimalist.co/products/multi-vitamin-spf-50" }) })).json();
+  const SPF = img(spf.sheet.images[0]);
+  const base = { cta: "Shop now", footnote: "The product has been evaluated for safety through patch testing under the supervision of a Dermatologist.", testMark: "INTERNAL TEST — not for publication" };
+  const S = {
+    actives: { ...base, layout: "actives", headline: "What's inside, and what each one does", productName: "Niacinamide 10% Face Serum", imageHref: NIA,
+      actives: [{ pct: "10%", name: "Niacinamide", line: "Reduces the sebum level of the skin and evens skin tone" }, { pct: "", name: "Matmarine", line: "A biotech marine extract that helps regulate oiliness and the look of pores" }, { pct: "", name: "Zinc", line: "Balances sebum activity" }] },
+    journey: { ...base, layout: "journey", headline: "A three-step routine for oily, acne-prone skin", productName: "",
+      steps: [{ label: "Step 1 · Cleanse", productName: "Salicylic Acid + LHA 2% Cleanser", line: "Gentle exfoliating cleanse, AM & PM", imageHref: SAL }, { label: "Step 2 · Treat the look of oil", productName: "Niacinamide 10% Face Serum", line: "2-3 drops after cleansing", imageHref: NIA }, { label: "Step 3 · Protect", productName: "SPF 50 Sunscreen", line: "Last step every morning", imageHref: SPF }] },
+    stat: { ...base, layout: "stat", headline: "What people noticed in a consumer study", productName: "Salicylic Acid + LHA 2% Cleanser", imageHref: SAL, stat: { value: "90%", label: "subjects agreed skin felt less oily after 6 washes*" }, footnote: "*Consumer perception study. Patch tested under the supervision of a Dermatologist." },
+    callouts: { ...base, layout: "callouts", headline: "For oily skin, start with the active", productName: "Salicylic Acid + LHA 2% Cleanser", imageHref: SAL, callouts: [{ text: "Salicylic Acid clears out pores" }, { text: "LHA gently exfoliates the surface" }, { text: "Sulfate-free, mild cleansers" }, { text: "Zinc for oil balance" }] },
+    spec: { ...base, layout: "spec", headline: "The numbers behind SPF 50", productName: "SPF 50 Sunscreen", imageHref: SPF, specs: [{ label: "Labelled SPF", value: "50, PA++++" }, { label: "Test", value: "In-vivo, ISO 24444:2019" }, { label: "Lab", value: "Independent third-party lab" }, { label: "Finish", value: "No white cast" }] },
+    range: { ...base, layout: "range", headline: "Pick by what your skin needs", productName: "", range: [{ label: "Oily skin", productName: "Salicylic Acid + LHA 2% Cleanser", imageHref: SAL }, { label: "Oil & pores", productName: "Niacinamide 10% Face Serum", imageHref: NIA }, { label: "Daily SPF", productName: "SPF 50 Sunscreen", imageHref: SPF }] },
+    offer: { ...base, layout: "offer", headline: "", productName: "Niacinamide 10% Face Serum", imageHref: NIA, offer: { line: "Buy any 2, get the 3rd free", condition: "Add 3 products to cart; the lowest-priced one is free.", valid_till: "31 Oct 2026" }, subhead: "Offer terms entered by the marketer — confirm before running." },
+    before_after: { ...base, layout: "before_after", headline: "90% said their dark spots faded after 8 weeks*", productName: "Vitamin C 10% Face Serum", imageHref: NIA, photos: [], footnote: "*Consumer perception study. Real, unretouched study photos only." },
+  };
+  const f = new URLSearchParams(location.search).get("f") || "actives";
+  document.getElementById("out").innerHTML = renderAdSvg(S[f]);
+  window.__check = { measure: measure(S[f]), problems: layoutProblems(S[f]) };
+</script>
+</body>

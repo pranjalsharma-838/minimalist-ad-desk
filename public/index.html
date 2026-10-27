@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Minimalist Ad Desk</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header class="top">
+    <div class="brand">Ad Desk</div>
+    <button type="button" id="settings-btn" class="gear" aria-label="Settings" title="Settings">&#9881;</button>
+  </header>
+  <dialog id="settings" class="viewer settings">
+    <form method="dialog"><button class="ghost close" aria-label="Close">Close</button></form>
+    <h3>Settings</h3>
+    <div id="status" class="status">checking…</div>
+      <form id="keyform" class="keyform" autocomplete="off">
+        <input id="apikey" type="password" placeholder="Paste your Claude API key (sk-ant-…)" aria-label="Claude API key" />
+        <button type="submit">Use key</button>
+        <span id="keymsg" class="keymsg"></span>
+      </form>
+      <form id="oaform" class="keyform" autocomplete="off">
+        <input id="oakey" type="password" placeholder="OpenAI key, for images (sk-…)" aria-label="OpenAI key, for images" />
+        <button type="submit">Use key</button>
+        <span id="oamsg" class="keymsg"></span>
+      </form>
+    
+  </dialog>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab active" data-tab="generate" role="tab">Ads for a product</button>
+    <button class="tab" data-tab="score" role="tab">Score any ad</button>
+    <button class="tab" data-tab="final" role="tab">Final ads</button>
+    <button class="tab" data-tab="images" role="tab">Image library</button>
+  </nav>
+
+  <main>
+    <!-- GENERATE -->
+    <section id="tab-generate" class="panel">
+      <form id="extract-form" class="row">
+        <input id="url" type="text" inputmode="url" autocomplete="off" spellcheck="false" placeholder="Paste a beminimalist.co product link" required />
+        <button type="submit">Open product</button>
+        <details class="more"><summary>More</summary>
+          <div class="morebox">
+            <button type="button" id="manual-toggle" class="ghost">Enter manually</button>
+            <button type="button" id="lib-all" class="ghost" title="Browse and filter every saved ad, across all products">Browse all saved ads</button>
+            <label class="inline small"><input type="checkbox" id="useSaved" /> Use the saved copy of the page (off = read live)</label>
+          </div>
+        </details>
+      </form>
+      <form id="manual-form" class="manual hidden">
+        <p class="hint">Fallback if the page can't be fetched. Manually entered facts are treated as unverified.</p>
+        <label>Product name (as on pack)<input name="title" placeholder="Niacinamide 10% Face Serum" required /></label>
+        <label>Tagline<input name="tagline" /></label>
+        <label>Claims, one per line (copy from the product page — not from reviews)<textarea name="claims" rows="5"></textarea></label>
+        <label>Product image URL (Shopify CDN)<input name="imageUrl" /></label>
+        <button type="submit">Use these facts</button>
+      </form>
+      <div id="extract-msg" class="msg"></div>
+
+      <section id="gen-controls" class="newbox hidden" aria-label="Build new ads">
+        <div class="row buildrow">
+          <button id="generate" class="primary big">Build new ads</button>
+          <details class="more"><summary>Options</summary><div class="morebox"><label class="inline small">Copy
+            <select id="mode">
+              <option value="model">Model-written, cited to facts</option>
+              <option value="verbatim">Word for word from the page (no model)</option>
+            </select>
+          </label></div></details>
+        </div>
+        
+      </section>
+      <div id="gen-result" class="hidden">
+        <div class="sechead">
+          <h2>New ads <span id="variant-tag" class="tag"></span></h2>
+          <p id="gen-progress" class="hint"></p>
+        </div>
+        <div id="strip" class="strip" role="listbox" aria-label="Ad formats"></div>
+        <details class="more"><summary>Not offered / needs input</summary><p id="not-shown" class="hint"></p></details>
+        <div class="result">
+          <div class="left">
+            <div id="preview" class="preview"></div>
+            <div id="needs" class="needs hidden"></div>
+            <div class="exports">
+              <div class="sizes"><span class="hint">Preview</span><span id="size-preview" class="sizebtns"></span></div>
+              <details class="more"><summary>Download</summary><div class="morebox">
+                <div class="sizes"><span class="hint">PNG</span><span id="size-dl" class="sizebtns"></span></div>
+                <button id="dl-ticket" class="ghost">Review ticket</button>
+              </div></details>
+              <p id="export-note" class="hint"></p>
+            </div>
+            <details class="edit">
+              <summary>Edit copy and re-check (applies to every format)</summary>
+              <label>Headline<input id="e-headline" /></label>
+              <label>Subhead<input id="e-subhead" /></label>
+              <label>Caption lines (post text, not on the image; one per line, max 3)<textarea id="e-proofs" rows="3"></textarea></label>
+              <label>Footnote<textarea id="e-footnote" rows="2"></textarea></label>
+              <label>CTA<select id="e-cta"><option>Shop now</option><option>Learn more</option><option>See ingredients</option></select></label>
+              <button id="recheck">Re-check</button>
+            </details>
+            <div id="gen-log" class="log"></div>
+          </div>
+          <div class="right">
+            <div id="fmt-head" class="fmt-head"></div>
+            <div id="gen-report"></div>
+          </div>
+        </div>
+      </div>
+      <details id="facts" class="facts hidden">
+        <summary>Product facts</summary>
+        <div id="facts-body"></div>
+      </details>
+
+      <details id="img-studio" class="facts hidden">
+        <summary>Make a different image</summary>
+        <p class="hint">Describe the picture. The request goes to the image studio (your ChatGPT, the pack label checked word for word, up to 3 rounds); this app never draws the product itself.</p>
+        <textarea id="img-prompt" rows="3" placeholder="e.g. The bottle on a bathroom shelf in soft morning light, plain white tiles, nothing else"></textarea>
+        <div class="row"><button id="img-queue" class="ghost">Queue for the image studio</button><span id="img-msg" class="hint"></span></div>
+        <div id="img-requests"></div>
+      </details>
+      <p class="hint"><a href="#" id="pi-open">See this product's images in the Image library</a></p>
+      <section id="library" class="library hidden" aria-label="Saved ads">
+        <details id="lib-details"><summary>Saved ads <span id="lib-count" class="hint"></span></summary>
+          <fieldset class="modes" id="lib-mode"><legend class="sr">Which ads</legend>
+            <label class="fchip"><input type="radio" name="libmode" value="p" /> This product</label>
+            <label class="fchip"><input type="radio" name="libmode" value="all" /> All ads</label>
+          </fieldset>
+          <form id="lib-filters" class="filters" autocomplete="off" aria-label="Filter the saved ads">
+            <div class="frow">
+              <label class="fgrow">Search<input id="f-q" type="search" placeholder="Headline, caption, format or product" /></label>
+              <label id="f-product-wrap">Product<select id="f-product"><option value="">All products</option></select></label>
+              <label>Format<select id="f-fmt"><option value="">All formats</option></select></label>
+              <label>Sort by<select id="f-sort"></select></label>
+            </div>
+            <details class="more"><summary>More filters</summary>
+              <div class="frow">
+                <fieldset class="fset" id="f-verdict"><legend>Verdict</legend></fieldset>
+                <fieldset class="fset" id="f-risk"><legend>Risk</legend></fieldset>
+                <fieldset class="fset" id="f-size"><legend>Size available (has every ticked size)</legend></fieldset>
+              </div>
+              <div class="frow">
+                <label>Exportable<select id="f-exp"><option value="">Any</option><option value="yes">Yes</option><option value="no">No</option></select></label>
+                <label>AI people<select id="f-ai"><option value="">Any</option><option value="yes">Yes</option><option value="no">No</option></select></label>
+                <label class="slider">Minimum alignment score: <output id="f-align-out" for="f-align">any</output><input id="f-align" type="range" min="0" max="100" step="5" value="0" /></label>
+                <label class="slider">Minimum win score: <output id="f-win-out" for="f-win">any</output><input id="f-win" type="range" min="0" max="100" step="5" value="0" /></label>
+              </div>
+            </details>
+            <div class="fcount"><span id="lib-shown" class="count" role="status" aria-live="polite"></span><button type="button" id="f-clear" class="ghost">Clear filters</button></div>
+          </form>
+          <div id="lib-body"></div>
+        </details>
+      </section>
+    </section>
+
+    <!-- SCORE -->
+    <section id="tab-score" class="panel hidden">
+      <form id="score-form" class="score-form">
+        <p class="hint">Paste any ad. Something must be filled.</p>
+        <label class="inline">Ad type
+          <select name="ad_type">
+            <option value="brand">Brand-authored</option>
+            <option value="creator">Creator / paid partnership</option>
+          </select>
+        </label>
+        <label>Headline<input name="headline" /></label>
+        <label>Primary text<textarea name="primary_text" rows="6"></textarea></label>
+        <label>On-image text<textarea name="on_image_text" rows="3"></textarea></label>
+        <label>Footnote / small print<input name="footnote" /></label>
+        <label>CTA<input name="cta" /></label>
+        <label>Product URL (optional — checks claims against that product's page)<input name="product_url" type="text" inputmode="url" spellcheck="false" /></label>
+        <div class="row">
+          <button type="submit">Score ad</button>
+          <label class="file">or upload an image ad<input id="image" type="file" accept="image/png,image/jpeg,image/webp" /></label>
+        </div>
+      </form>
+      <div id="score-msg" class="msg"></div>
+      <div id="score-report"></div>
+
+      <!-- BULK: many images and/or a CSV / XLSX of ad copy, scored one by one through the same /api/score -->
+      <details id="bulk" class="bulk more" open><summary id="bulk-h">Score many ads at once</summary>
+        <p class="hint">Choose or drop many files together: ad images (PNG, JPG, WebP) and/or a CSV or XLSX of ad copy with the columns <b>headline, primary_text, on_image_text, footnote, cta, ad_type, product_url</b>. Copy rows are scored with or without a Claude API key. Image rows need the key, because the model reads the text off the picture.</p>
+        <div class="row">
+          <label class="file">Choose files <input id="bulk-files" type="file" multiple accept=".png,.jpg,.jpeg,.webp,.csv,.xlsx,image/png,image/jpeg,image/webp,text/csv" /></label>
+          <button type="button" id="bulk-template" class="ghost">Download the CSV template</button>
+        </div>
+        <div id="bulk-drop" class="dropzone" tabindex="-1">Or drop files here</div>
+        <p id="bulk-msg" class="hint" role="status" aria-live="polite"></p>
+        <div id="bulk-run" class="hidden">
+          <div class="row">
+            <button type="button" id="bulk-start">Score</button>
+            <button type="button" id="bulk-stop" class="ghost hidden">Stop</button>
+            <button type="button" id="bulk-clear" class="ghost">Clear all</button>
+          </div>
+          <div class="progress"><progress id="bulk-bar" max="100" value="0" aria-label="Scoring progress"></progress> <span id="bulk-prog" class="hint" role="status" aria-live="polite"></span></div>
+          <form id="bulk-filters" class="filters" autocomplete="off" aria-label="Filter the results">
+            <div class="frow">
+              <label class="fgrow">Search<input id="bulk-q" type="search" placeholder="File name, headline or finding" /></label>
+              <label>Verdict<select id="bulk-verdict">
+                <option value="">All</option><option value="ready">Ready for review</option><option value="rules">Rules only</option><option value="fix">Needs fixes</option><option value="blocked">Blocked</option><option value="pending">Not scored (waiting, needs the key, failed)</option>
+              </select></label>
+              <label>Sort by<select id="bulk-sort">
+                <option value="order">Order added</option><option value="verdict">Verdict (worst first)</option><option value="alignment">Alignment score</option><option value="win">Win score</option><option value="findings">Number of findings</option><option value="name">Name</option>
+              </select></label>
+              <label class="inline small"><input type="checkbox" id="bulk-asc" /> Reverse</label>
+            </div>
+            <div class="fcount"><span id="bulk-count" class="count" role="status" aria-live="polite"></span><button type="button" id="bulk-reset" class="ghost">Clear filters</button><button type="button" id="bulk-csv" class="ghost">Download results (CSV)</button></div>
+          </form>
+          <div class="tablewrap">
+            <table id="bulk-table" class="results">
+              <thead><tr><th scope="col">#</th><th scope="col">Ad</th><th scope="col">Verdict</th><th scope="col">Alignment</th><th scope="col">Win</th><th scope="col">Compliance</th><th scope="col">Top findings</th><th scope="col"><span class="sr">Open</span></th></tr></thead>
+              <tbody id="bulk-body"></tbody>
+            </table>
+          </div>
+        </div>
+      </details>
+    </section>
+
+    <!-- IMAGE LIBRARY -->
+    <section id="tab-final" class="panel hidden" aria-label="Final ads"></section>
+    <section id="tab-images" class="panel hidden">
+      <form id="img-search" class="filters" autocomplete="off" aria-label="Filter the images">
+        <div class="frow">
+          <label class="fgrow">Search<input id="img-q" type="search" placeholder="e.g. niacinamide texture, bathroom shelf, cut-out, review photo" /></label>
+          <label>Product<select id="img-handle"><option value="">All products</option></select></label>
+          <label>Sort by<select id="img-sort"></select></label>
+        </div>
+        <details class="more"><summary>More filters</summary>
+          <label>Usable in ads<select id="img-use"><option value="">Any</option><option value="yes">Yes</option><option value="no">No</option></select></label>
+          <fieldset class="fset" id="img-types"><legend>Type</legend></fieldset>
+        </details>
+        <div class="fcount"><span id="img-count" class="count" role="status" aria-live="polite"></span><button type="button" id="img-clear" class="ghost">Clear filters</button></div>
+      </form>
+      <div id="img-grid" class="img-grid"></div>
+      <p class="row"><button type="button" id="img-more" class="ghost hidden">Show more</button></p>
+    </section>
+  </main>
+
+  <dialog id="viewer" class="viewer">
+    <form method="dialog"><button class="ghost close" aria-label="Close">Close</button></form>
+    <div id="viewer-body"></div>
+  </dialog>
+
+  <script type="module" src="/app.js"></script>
+</body>
+</html>

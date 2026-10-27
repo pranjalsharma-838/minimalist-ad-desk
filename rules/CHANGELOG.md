@@ -1,0 +1,21 @@
+# Rulebook changelog
+
+Every change to the rules (`rules/brand_rules.json`), the brand/legal decisions (`rules/brand_decisions.json`) and the rule engine (`lib/rules.js`), newest first, from the commit history. Current rulebook: 44 rules, version 0.4. Each rule also carries `policy_checked` (the date its sources were last re-opened). To see exactly what changed in an entry: `git log -p -- rules/brand_rules.json`.
+
+- **2026-10-05** — App: full filters (library + image library), bulk scoring (images/CSV/XLSX), app ads use our AI images, OpenAI key as an image engine for any device; shorter broader ingredient line in bottle colours; DEC-04 AI texture = Low
+- **2026-10-05** — Checker: three scores (alignment, win probability, compliance gate); Meta voice profile; policy pack re-verified 2026-10-05 (AI-01, CLM-11/14); problem-to-product layout fix
+- **2026-10-04** — ﻿Weekly Trending check, 7 app layouts with real reviews and texture, clean white-pack cut-outs
+- **2026-10-04** — Brand/legal answers recorded and applied in code: acne wording accepted, comparison ads in scope
+- **2026-10-04** — Brand style pass: statics-only evidence, Us vs Them, "Hide Nothing.", minimal house design, style check, models are Severe
+- **2026-10-03** — Review fixes (part 2): eval provenance per split + OOD results (frozen: 81% recall, 0 missed blocks, 5/12 over-severity); catalog checks scoped to Minimalist's own ads (post-fix re-run reported separately); decision doc: rule split + defence, ad-type mechanics, scope; submission leads with the standard
+- **2026-10-03** — CLM-16: 'buying/purchase' counts as the free item's condition; pilot 8/8 pass rules
+- **2026-10-03** — Live offers + real reviews by script (no browser); OFR-01..04 offer/discount rules (CCPA/ASCI); reviews screened by rules + negative-wording filter; price bug fix (224 was smallest size's sale price)
+- **2026-10-03** — House rule: labelled SPF is the claim; lab results in footnote unless lab results are the brief's main theme (then labelled row OK with SPF 50 stated); catches 'SPF obtained: 56'
+- **2026-10-02** — Format run gate: 12 briefs across 8 layouts; first pass 5 blocked = 2 real (anti-bacterial drug claims) + 3 checker FPs (ingredient-code numbers, 'space for the headline', multi-product SPF); new rule pattern 'against ... bacteria' (missed drug claim). Now 8 to image step, 2 flagged, 2 blocked, all real
+- **2026-10-02** — Stage 4+5 run: 12 briefs; first gate run blocked 12/12 — all false blocks from 6 checker bugs (product name citable, 'space for a product photo', component strengths on page, fuzzy catalog lookup, cross-line match, penetration % not a concentration), fixed with regression tests. Gate now: 8 to image step, 4 flagged (real: SPF 56 as claim, Sweatproof, timed result), 0 blocked; rules-only so far
+- **2026-10-02** — Generator stand-in test: 3 real products, all copy passes citation/number/layout checks; fixes: lab-measured SPF is fix (claim) / advisory (footnote) not block, '-free' attributes aren't offers
+- **2026-10-02** — Rulebook v0.3 from eval run 1 disagreements: bare 'treat' -> fix (CLM-26), 'No Nasties' -> fix (CLM-27), 'absolutely nothing to hide' FP removed, unsold concentration -> block with previous-formula heuristic; eval adds over-severity column. Run 2 (holdout now SEEN): 42/49 agree, 1 missed block
+- **2026-10-02** — Scorer fixes from stand-in eval: model can't raise code-only checks; model severity = min(model, rulebook); 3-level creator disclosure; brand-name masking; 2 FP patterns narrowed; draft decision doc
+- **2026-10-02** — Rulebook v0.2: sources reconciled to verified entries; +4 rules from regulatory research (appearance inferiority, ingredient-as-product efficacy, structure/function, new/improved); 'reduces acne' gap found in app test; footnote 26px per ASCI disclaimer guideline; rules-only verdict no longer green
+- **2026-10-02** — Rulebook v0.1-draft (31 rules: policy/tone/language, sourced); tuning-set pass fixed 3 FPs + 3 misses, pinned as regression tests
+- **2026-10-02** — Scorer engine: rule layer with spans + product-name masking, model judge (validated spans, rulebook-set severity, can add not remove), computed verdict; scorer prompts as files

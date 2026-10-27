@@ -1,0 +1,728 @@
+{
+  "checked": "2026-10-05",
+  "method": "Scripted, unattended (scripts/adlib_weekly.js): headless Edge with a throwaway profile reads each competitor's active-ads list in the Meta Ad Library (India); an ad missing from its brand's list is opened on its own page.",
+  "brands": [
+    {
+      "brand": "Chemist at Play",
+      "page_id": "104769401793203",
+      "ok": true,
+      "cards": 26,
+      "statics": 3,
+      "videos": 23,
+      "new_statics": 0
+    },
+    {
+      "brand": "Conscious Chemist",
+      "page_id": "484270765443744",
+      "ok": true,
+      "cards": 29,
+      "statics": 3,
+      "videos": 26,
+      "new_statics": 0
+    },
+    {
+      "brand": "Deconstruct",
+      "page_id": "110954974008148",
+      "ok": true,
+      "cards": 28,
+      "statics": 16,
+      "videos": 12,
+      "new_statics": 0
+    },
+    {
+      "brand": "The Derma Co",
+      "page_id": "107783513956553",
+      "ok": true,
+      "cards": 30,
+      "statics": 14,
+      "videos": 16,
+      "new_statics": 0
+    },
+    {
+      "brand": "Dot & Key",
+      "page_id": "1806087489455976",
+      "ok": true,
+      "cards": 30,
+      "statics": 15,
+      "videos": 15,
+      "new_statics": 0
+    },
+    {
+      "brand": "Dr. Sheth's",
+      "page_id": "1532336456993990",
+      "ok": true,
+      "cards": 26,
+      "statics": 9,
+      "videos": 17,
+      "new_statics": 0
+    },
+    {
+      "brand": "Foxtale",
+      "page_id": "110186374689636",
+      "ok": true,
+      "cards": 28,
+      "statics": 4,
+      "videos": 24,
+      "new_statics": 0
+    },
+    {
+      "brand": "Pilgrim",
+      "page_id": "111982120196545",
+      "ok": true,
+      "cards": 30,
+      "statics": 9,
+      "videos": 21,
+      "new_statics": 0
+    },
+    {
+      "brand": "Plum",
+      "page_id": "511641355600533",
+      "ok": true,
+      "cards": 29,
+      "statics": 5,
+      "videos": 24,
+      "new_statics": 0
+    },
+    {
+      "brand": "Re'equil",
+      "page_id": "1914679578768869",
+      "ok": true,
+      "cards": 25,
+      "statics": 20,
+      "videos": 5,
+      "new_statics": 0
+    }
+  ],
+  "ads": [
+    {
+      "id": "2196301691128293",
+      "status": "active",
+      "started": "Jun 12, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1323892835918767",
+      "status": "active",
+      "started": "Jun 17, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1112998357723510",
+      "status": "active",
+      "started": "Sep 16, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1346398654244073",
+      "status": "active",
+      "started": "Sep 4, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1739037801557913",
+      "status": "active",
+      "started": "Aug 10, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1038411485571340",
+      "status": "active",
+      "started": "Aug 12, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "4416615341943591",
+      "status": "active",
+      "started": "May 13, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "4365417093788256",
+      "status": "active",
+      "started": "Sep 23, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1043812398239559",
+      "status": "active",
+      "started": "Aug 6, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1689296475500089",
+      "status": "active",
+      "started": "Sep 3, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1585888172980145",
+      "status": "active",
+      "started": "Sep 9, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "2291206748367354",
+      "status": "active",
+      "started": "Sep 16, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "3142590132578065",
+      "status": "active",
+      "started": "Sep 7, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "3999564906846461",
+      "status": "active",
+      "started": "Sep 1, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1413961507592174",
+      "status": "active",
+      "started": "Sep 28, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1051779923890874",
+      "status": "active",
+      "started": "Aug 13, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "2021491641849953",
+      "status": "active",
+      "started": "Sep 23, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "4500111383646459",
+      "status": "active",
+      "started": "May 26, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "3159883944203364",
+      "status": "active",
+      "started": "Aug 27, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1414040904207915",
+      "status": "active",
+      "started": "Sep 16, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "2577485959347287",
+      "status": "active",
+      "started": "Sep 16, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "953410207770910",
+      "status": "active",
+      "started": "Aug 27, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1080631984556046",
+      "status": "active",
+      "started": "Aug 27, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "38610251661899533",
+      "status": "active",
+      "started": "Aug 27, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1778713726796593",
+      "status": "active",
+      "started": "Sep 16, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1387490716125146",
+      "status": "active",
+      "started": "Aug 27, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1401645621925864",
+      "status": "active",
+      "started": "Aug 27, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1066280599228544",
+      "status": "active",
+      "started": "Aug 27, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "2585628381951932",
+      "status": "active",
+      "started": "Aug 27, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1644230463794398",
+      "status": "active",
+      "started": "Aug 27, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "931759333309878",
+      "status": "active",
+      "started": "Aug 27, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1686510039132864",
+      "status": "active",
+      "started": "Aug 7, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "2593621517723635",
+      "status": "active",
+      "started": "Aug 12, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "2634392720313080",
+      "status": "active",
+      "started": "Jun 22, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1791672931858222",
+      "status": "active",
+      "started": "Aug 24, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "621835826921394",
+      "status": "active",
+      "started": "Jan 30, 2025",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1728067308529188",
+      "status": "active",
+      "started": "Aug 7, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "9868853523169382",
+      "status": "active",
+      "started": "May 12, 2025",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1052585330967773",
+      "status": "active",
+      "started": "Aug 12, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1345878971083946",
+      "status": "active",
+      "started": "Jul 24, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "986987480766438",
+      "status": "active",
+      "started": "Jul 1, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1606881954486073",
+      "status": "active",
+      "started": "Jul 24, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "984872741086615",
+      "status": "active",
+      "started": "Jul 4, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1063699049628531",
+      "status": "active",
+      "started": "Sep 4, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "3559165394258032",
+      "status": "active",
+      "started": "Sep 2, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1718878085892428",
+      "status": "active",
+      "started": "Aug 20, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1366133142166031",
+      "status": "active",
+      "started": "Aug 28, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "2879694605722470",
+      "status": "active",
+      "started": "Sep 22, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1344061094202970",
+      "status": "active",
+      "started": "Sep 4, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "28393502023577410",
+      "status": "active",
+      "started": "Sep 4, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "903698342763669",
+      "status": "active",
+      "started": "Jun 29, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "3298401657013295",
+      "status": "active",
+      "started": "Aug 11, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1475983576999549",
+      "status": "active",
+      "started": "Apr 30, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "3885583851576384",
+      "status": "active",
+      "started": "May 18, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1000219876379194",
+      "status": "active",
+      "started": "Aug 31, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1111018274708028",
+      "status": "active",
+      "started": "Sep 1, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1079958907863521",
+      "status": "active",
+      "started": "Sep 2, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1518480183631080",
+      "status": "active",
+      "started": "Aug 26, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1988982778427959",
+      "status": "active",
+      "started": "Sep 2, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "28367886479503739",
+      "status": "active",
+      "started": "Aug 26, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1765439924891420",
+      "status": "active",
+      "started": "Aug 26, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1442275664562421",
+      "status": "active",
+      "started": "Sep 7, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1751688796093249",
+      "status": "active",
+      "started": "Sep 8, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1401994495465220",
+      "status": "active",
+      "started": "Oct 1, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1801892730993739",
+      "status": "active",
+      "started": "Oct 1, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1785027909215807",
+      "status": "active",
+      "started": "Sep 30, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "2605626533204905",
+      "status": "active",
+      "started": "Sep 28, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "2130523984569698",
+      "status": "active",
+      "started": "Sep 16, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1101473269058810",
+      "status": "active",
+      "started": "Sep 7, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "2274657823309888",
+      "status": "active",
+      "started": "Sep 7, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1128957876743266",
+      "status": "active",
+      "started": "Sep 25, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1405373168193801",
+      "status": "active",
+      "started": "Sep 7, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1079448151618280",
+      "status": "active",
+      "started": "Sep 25, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "2333707560370954",
+      "status": "active",
+      "started": "Sep 7, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1612128897222308",
+      "status": "active",
+      "started": "Sep 16, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1062276283260494",
+      "status": "active",
+      "started": "Sep 16, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1074025215538273",
+      "status": "active",
+      "started": "Oct 1, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1523894492929181",
+      "status": "active",
+      "started": "Oct 1, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1753626335689772",
+      "status": "active",
+      "started": "Sep 29, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1414652177442475",
+      "status": "active",
+      "started": "Sep 29, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1120733447309827",
+      "status": "active",
+      "started": "Sep 29, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "3961263437511522",
+      "status": "active",
+      "started": "Jul 28, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "3759764100846028",
+      "status": "active",
+      "started": "Sep 29, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1039318678808682",
+      "status": "active",
+      "started": "Jul 28, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1160155059723607",
+      "status": "active",
+      "started": "Sep 29, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "1080198611639843",
+      "status": "active",
+      "started": "Sep 16, 2026",
+      "how": "in the brand's active list"
+    },
+    {
+      "id": "2167030027575229",
+      "status": "active",
+      "started": "Sep 4, 2026",
+      "how": "own Ad Library page"
+    },
+    {
+      "id": "1587965372880796",
+      "status": "active",
+      "started": "Sep 11, 2026",
+      "how": "own Ad Library page"
+    },
+    {
+      "id": "1393840196150399",
+      "status": "active",
+      "started": "Sep 18, 2026",
+      "how": "own Ad Library page"
+    },
+    {
+      "id": "1619243416440363",
+      "status": "active",
+      "started": "Aug 13, 2026",
+      "how": "own Ad Library page"
+    },
+    {
+      "id": "2950827325263069",
+      "status": "active",
+      "started": "Sep 5, 2026",
+      "how": "own Ad Library page"
+    },
+    {
+      "id": "1411336474460924",
+      "status": "active",
+      "started": "Sep 1, 2026",
+      "how": "own Ad Library page"
+    },
+    {
+      "id": "1391126049254669",
+      "status": "active",
+      "started": "Sep 11, 2026",
+      "how": "own Ad Library page"
+    },
+    {
+      "id": "2307135286779864",
+      "status": "active",
+      "started": "Aug 27, 2026",
+      "how": "own Ad Library page"
+    },
+    {
+      "id": "848238494946602",
+      "status": "active",
+      "started": "Sep 3, 2026",
+      "how": "own Ad Library page"
+    },
+    {
+      "id": "4305763079698667",
+      "status": "active",
+      "started": "Aug 28, 2026",
+      "how": "own Ad Library page"
+    },
+    {
+      "id": "1550169393471299",
+      "status": "active",
+      "started": "Aug 26, 2026",
+      "how": "own Ad Library page"
+    },
+    {
+      "id": "1290012680862234",
+      "status": "active",
+      "started": "Aug 31, 2026",
+      "how": "own Ad Library page"
+    },
+    {
+      "id": "1594682718905718",
+      "status": "active",
+      "started": "Aug 17, 2026",
+      "how": "own Ad Library page"
+    },
+    {
+      "id": "952136181261603",
+      "status": "active",
+      "started": "Aug 27, 2026",
+      "how": "own Ad Library page"
+    },
+    {
+      "id": "1380221640890732",
+      "status": "active",
+      "started": "Aug 11, 2026",
+      "how": "own Ad Library page"
+    },
+    {
+      "id": "1418542033483616",
+      "status": "active",
+      "started": "Sep 1, 2026",
+      "how": "own Ad Library page"
+    },
+    {
+      "id": "1408884340671180",
+      "status": "active",
+      "started": "Sep 3, 2026",
+      "how": "own Ad Library page"
+    },
+    {
+      "id": "1420890446893063",
+      "status": "active",
+      "started": "Aug 31, 2026",
+      "how": "own Ad Library page"
+    },
+    {
+      "id": "2412798742586564",
+      "status": "unknown",
+      "started": "",
+      "how": "own Ad Library page"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "product": "salicylic-acid-2",
+  "source": "brand_packs/minimalist/assets/hires/salicylic-acid-2.png",
+  "tool": "ChatGPT web (user account), 2026-10-05",
+  "rounds": 2,
+  "accepted": "round2.png",
+  "auto_check": {
+    "matches": 476,
+    "inliers": 368,
+    "label_similarity": 0.566
+  },
+  "visual_read": "Round 2: all label words identical (Salicylic Acid / 02% / FACE SERUM / with oligopeptide-10 + egcg + horehound extract / reduces oil, acne, blackheads / for acne prone skin / 30ml / 1 fl oz / Minimalist); pink line, black ribbed collar and bulb, shape match. Glass fixed: shoulder mean RGB about 37,34,32 vs real 31,28,26 (near-black, no amber tint).",
+  "shape": "bottle",
+  "status": "approved",
+  "fix_prompt": null
+}

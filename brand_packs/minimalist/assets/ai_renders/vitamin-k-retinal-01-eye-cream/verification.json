@@ -1,0 +1,16 @@
+{
+  "product": "vitamin-k-retinal-01-eye-cream",
+  "source": "brand_packs/minimalist/assets/hires/vitamin-k-retinal-01-eye-cream.png",
+  "tool": "ChatGPT web (user account), 2026-10-05",
+  "rounds": 1,
+  "accepted": "round1.png",
+  "auto_check": {
+    "matches": 414,
+    "inliers": 328,
+    "label_similarity": 0.792
+  },
+  "visual_read": "Read: Vitamin K + Retinal / 01% / EYE CREAM / creme contour des yeux with caffeine (3%) + 3 peptides + zerumbone / reduces dark circles, puffiness & fine lines / reduit les cernes, les poches et les ridules / ophthalmologist tested / for all skin types / 14g / 0.49 oz / Minimalist. All identical incl. French accents; lime line, ribbed cap and black base cap identical. Note: pearl tube reads lighter/creamier in the AI render than the grey-khaki real photo (lighting; same hue).",
+  "shape": "tube",
+  "status": "approved",
+  "fix_prompt": ""
+}

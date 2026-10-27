@@ -1,0 +1,131 @@
+{
+  "id": "salicylic-acid-2__t31__scale",
+  "run": "2026-10-03-scale",
+  "handle": "salicylic-acid-2",
+  "layout": "native",
+  "alignment": 97,
+  "alignment_band": "high",
+  "win": 76,
+  "win_band": "medium",
+  "compliance": 100,
+  "verdict": "READY_FOR_REVIEW",
+  "verdict_label": "Ready for human review",
+  "findings": [],
+  "reviewed_by": "AI judge (stand-in, same prompt)",
+  "parts": {
+    "alignment": [
+      {
+        "name": "tone & language rules",
+        "score": 92,
+        "why": "1 tone/language finding(s): LNG-01 advisory \"salicylic acid\" (fix −25, advisory −8 each)."
+      },
+      {
+        "name": "Meta voice match",
+        "score": 96,
+        "why": "Measured against 10 long-running brand copies and 8 top statics (meta_voice_profile.json, built 2026-10-05): sentence length 100 — median 7 words per sentence vs the brand's 7 (middle half 4–9); exclamation marks 100 — 0 per 100 words vs the brand's 0.6; emoji 100 — 0 per 100 words vs the brand's 0.6; hype words 100 — none (0/100 words vs the brand's 0.2); fear / problem words 100 — none (0/100 words vs the brand's 0.4); ingredient / % first 100 — opens with an active or a concentration (as the brand does in 37% of its openers); hook type 75 — opening hook reads as \"statement\" (10% of the brand's long-running copies)."
+      },
+      {
+        "name": "transparency & no exaggeration",
+        "score": 100,
+        "why": "shows the active's strength, as the brand does."
+      },
+      {
+        "name": "on-image text budget",
+        "score": 100,
+        "why": "15 words on the image (brand's single statics: 13 median, 21 max; limit used 21), headline 8 word(s). Within the budget. Counts words only; layout, white space and product size are not seen by this score."
+      },
+      {
+        "name": "AI judge tone read",
+        "score": 100,
+        "why": "Calm, declarative and education-led, in line with Minimalist voice; no fear, hype or urgency pressure."
+      }
+    ],
+    "win": [
+      {
+        "name": "format / template",
+        "score": 73,
+        "n": 1,
+        "wins": 1,
+        "reference_n": 122,
+        "base_rate": 67,
+        "range": [
+          38,
+          100
+        ],
+        "small_sample": true,
+        "why": "Format \"Creator selfie\" (given (ctx.template_id)): 1 of 1 comparable statics ran 30+ days (all statics with this feature known: 67% of 122). Shrunk towards that base rate; small group, read as a direction only."
+      },
+      {
+        "name": "text density on the image",
+        "score": 82,
+        "n": 35,
+        "wins": 29,
+        "reference_n": 74,
+        "base_rate": 80,
+        "range": [
+          73,
+          89
+        ],
+        "small_sample": false,
+        "why": "15 words on the image (9–20 words; headline + on-image text, footnote not counted): 29 of 35 comparable statics ran 30+ days (all statics with this feature known: 80% of 74). Shrunk towards that base rate."
+      },
+      {
+        "name": "offer on the image",
+        "score": 78,
+        "n": 69,
+        "wins": 54,
+        "reference_n": 122,
+        "base_rate": 67,
+        "range": [
+          71,
+          84
+        ],
+        "small_sample": false,
+        "why": "No offer on the image: 54 of 69 comparable statics ran 30+ days (all statics with this feature known: 67% of 122). Shrunk towards that base rate."
+      },
+      {
+        "name": "stat / number claim on the image",
+        "score": 78,
+        "n": 64,
+        "wins": 50,
+        "reference_n": 74,
+        "base_rate": 80,
+        "range": [
+          71,
+          84
+        ],
+        "small_sample": false,
+        "why": "No stat on the image: 50 of 64 comparable statics ran 30+ days (all statics with this feature known: 80% of 74). Shrunk towards that base rate."
+      },
+      {
+        "name": "CTA drawn on the image",
+        "score": 78,
+        "n": 59,
+        "wins": 46,
+        "reference_n": 74,
+        "base_rate": 80,
+        "range": [
+          70,
+          84
+        ],
+        "small_sample": false,
+        "why": "No CTA drawn on the image (Meta's button only): 46 of 59 comparable statics ran 30+ days (all statics with this feature known: 80% of 74). Shrunk towards that base rate."
+      },
+      {
+        "name": "person in the image",
+        "score": 66,
+        "n": 103,
+        "wins": 68,
+        "reference_n": 122,
+        "base_rate": 67,
+        "range": [
+          60,
+          72
+        ],
+        "small_sample": false,
+        "why": "No person (given (ctx.has_person)): 68 of 103 comparable statics ran 30+ days (all statics with this feature known: 67% of 122). Shrunk towards that base rate."
+      }
+    ]
+  },
+  "scored_at": "2026-10-27T15:20:12.378Z"
+}

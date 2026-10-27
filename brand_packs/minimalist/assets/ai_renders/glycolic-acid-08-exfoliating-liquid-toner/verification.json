@@ -1,0 +1,16 @@
+{
+  "product": "glycolic-acid-08-exfoliating-liquid-toner",
+  "source": "brand_packs/minimalist/assets/hires/glycolic-acid-08-exfoliating-liquid-toner.png",
+  "tool": "ChatGPT web (user account), 2026-10-05",
+  "rounds": 1,
+  "accepted": "round1.png",
+  "auto_check": {
+    "matches": 563,
+    "inliers": 420,
+    "label_similarity": 0.47
+  },
+  "visual_read": "Read: Glycolic Acid / 08% / EXFOLIATING LIQUID / with 8% glycolic acid in free acid form + bamboo water / exfoliates & smoothens skin / for all skin types / 150ml / 5 fl oz / Minimalist. All identical; orange-red line, grey-brown bottle shape and foam line identical.",
+  "shape": "bottle",
+  "status": "approved",
+  "fix_prompt": ""
+}

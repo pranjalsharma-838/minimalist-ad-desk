@@ -1,0 +1,91 @@
+{
+  "transcribed": "2026-10-05",
+  "how": "Read by eye from the saved images in this folder (index.json). Only the text the ad layout adds is listed: titles, lines, tags, offer lines, step labels and explainer copy. Text printed on the packs and boxes (labels, wordmark) and the 102mm/33mm size marks are left out, the same way scripts/style_check.js leaves out the pack and wordmark. Roles: title, line (supporting line), tag (small label), offer, condition, step, body (carousel explainer copy).",
+  "statics": [
+    {
+      "id": "988080157427683", "days_running": 98, "format": "image", "template_id": 36, "template_note": "Offer creative (hand-tagged)",
+      "person": false, "hands": true,
+      "lines": [
+        { "role": "title", "text": "Three products, At the cost of two" },
+        { "role": "condition", "text": "*Add 3 & get the lowest price product for free" },
+        { "role": "tag", "text": "FREE" }
+      ]
+    },
+    {
+      "id": "1365545252142669", "days_running": 93, "format": "image", "template_id": 1, "template_note": "Clean product hero (hand-tagged)",
+      "person": false, "hands": false,
+      "lines": []
+    },
+    {
+      "id": "1673367467228372", "days_running": 91, "format": "carousel", "template_id": 18, "template_note": "Old way / new way: old pack -> updated pack (hand-tagged, card 1)",
+      "person": false, "hands": true,
+      "cards": [
+        [
+          { "role": "title", "text": "OAT EXTRACT 06%" },
+          { "role": "line", "text": "The Oat Cleanser you loved." },
+          { "role": "tag", "text": "Updated" },
+          { "role": "line", "text": "Now strengthen with Vitamin B12." },
+          { "role": "title", "text": "B12 + OAT EXTRACT 6.5%" }
+        ],
+        [
+          { "role": "title", "text": "What is it?" },
+          { "role": "body", "text": "A gentle, low-foaming cream cleanser that cleanses without stripping skin." },
+          { "role": "body", "text": "Enhanced with Vitamin B12, Oat Extract, Vitamin B5 and Hyaluronic Acid to support skin comfort and hydration." },
+          { "role": "line", "text": "Designed to cleanse. Designed to calm." }
+        ],
+        [
+          { "role": "body", "text": "The formula was already built around calm, with Oat Extract to help soothe." },
+          { "role": "line", "text": "Vitamin B5 and Hyaluronic Acid to help maintain hydration." },
+          { "role": "body", "text": "A gentle, low-foaming cleanser designed for skin prone to dryness." }
+        ],
+        [
+          { "role": "title", "text": "Surfactants remove dirt, oil and buildup, skin can be left feeling tight, dry or uncomfortable." },
+          { "role": "body", "text": "This formula is designed to cleanse effectively while minimising the dryness." }
+        ]
+      ]
+    },
+    {
+      "id": "1694736281737007", "days_running": 88, "format": "image", "template_id": 25, "template_note": "Stat-led creative with an offer line (hand-tagged)",
+      "person": false, "hands": true,
+      "lines": [
+        { "role": "title", "text": "60% of skin is water." },
+        { "role": "line", "text": "Hydrate timely for healthy skin!" },
+        { "role": "offer", "text": "FREE Bottle on purchase of 2 products" }
+      ]
+    },
+    {
+      "id": "2422634991565984", "days_running": 85, "format": "image", "template_id": 22, "template_note": "How-to / steps routine (hand-tagged)",
+      "person": false, "hands": false,
+      "lines": [
+        { "role": "title", "text": "Glow Boosting Routine" },
+        { "role": "step", "text": "CLEANSE Alpha Lipoic + Glycolic 07% Brightening" },
+        { "role": "step", "text": "TREAT Vitamin C 10% Glow Boosting" },
+        { "role": "step", "text": "PROTECT Light Fluid SPF 50 PA++++" }
+      ]
+    },
+    {
+      "id": "1468840825270183", "days_running": 76, "format": "image", "template_id": 2, "template_note": "Product + benefit badge (hand-tagged)",
+      "person": false, "hands": false,
+      "lines": [
+        { "role": "tag", "text": "Clinically Tested" },
+        { "role": "title", "text": "Brightening Cleanser" },
+        { "role": "line", "text": "2X Benefit" },
+        { "role": "line", "text": "Exfoliates & Brightens" }
+      ]
+    },
+    {
+      "id": "1700335027907222", "days_running": 72, "format": "image", "template_id": 2, "template_note": "Product + benefit badge (hand-tagged)",
+      "person": false, "hands": false,
+      "lines": [
+        { "role": "tag", "text": "Clinically Tested" },
+        { "role": "title", "text": "100% Squalane Moisturizing Face Oil" },
+        { "role": "line", "text": "Non-comedogenic, improves skin's elasticity and firmness" }
+      ]
+    },
+    {
+      "id": "1023646183828867", "days_running": 52, "format": "image", "template_id": 1, "template_note": "Clean product hero (hand-tagged)",
+      "person": false, "hands": false,
+      "lines": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "20261005T085526652Z_before_after_salicylic-acid-2",
+  "handle": "salicylic-acid-2",
+  "product": "Salicylic Acid 2% Face Serum",
+  "prompt": "Create an image: one vertical 2:3 picture made of two equal panels stacked top and bottom, the same adult woman, same light, angle and plain background in both, neutral expression, labelled as an illustration for a \"Salicylic Acid 2% Face Serum\" routine post. No text, no letters, no logos, no product, no bottle, no packaging in the picture; leave an empty area in the lower right for the real pack to be placed later. No skin close-ups, no claims of results.",
+  "base_image": "",
+  "text_only": true,
+  "format": "before_after",
+  "requested_at": "2026-10-05T08:55:26.652Z",
+  "status": "done",
+  "working_since": "2026-10-05T09:18:21.310Z"
+}

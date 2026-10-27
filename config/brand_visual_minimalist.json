@@ -1,0 +1,9 @@
+{
+  "brand": "Minimalist",
+  "colors": { "primary_white": "#FFFFFF", "off_white": "#F4F2EE", "black": "#111111", "studio_grey": "#E5E9EA", "accent_note": "Pack labels carry a single thin colour line per product (e.g. green on Niacinamide, pink on Salicylic). Backgrounds stay white/off-white/black/studio grey; the accent may echo the product's own line colour at low saturation." },
+  "aesthetic_anchors": ["clinical editorial", "spec sheet", "laboratory still life", "bathroom shelf"],
+  "pack_shot_light": "Website pack shots: soft key light from upper left, shadow falling to the lower right on a light studio grey (#E5E9EA) sweep. Match this in generated scenes.",
+  "banned_words": ["luxury", "glow", "glowing", "radiant", "vibrant", "dreamy", "soft feminine", "flawless", "magic", "miracle", "natural beauty"],
+  "banned_imagery": ["the product or any packaging", "any text, numbers, logos", "doctors, lab coats, clinic settings", "badges, seals, certificates, award ribbons", "fruit or food used as an ingredient claim the product doesn't contain"],
+  "source": "Observed: beminimalist.co pack shots and site palette (2026-10-03). To be refined with the Instagram house-style capture (brand_packs/minimalist/raw/instagram.md) when it lands."
+}

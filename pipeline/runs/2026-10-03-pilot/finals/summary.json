@@ -1,0 +1,58 @@
+[
+  {
+    "id": "multi-vitamin-spf-50__t2",
+    "layout": "badges",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "multi-vitamin-spf-50__t36",
+    "layout": "offer",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "multi-vitamin-spf-50__t38",
+    "layout": "range",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "multi-vitamin-spf-50__t4",
+    "layout": "hero",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "niacinamide-10-with-matmarine__t1",
+    "layout": "hero",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "niacinamide-10-with-matmarine__t3",
+    "layout": "actives",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "niacinamide-10-with-matmarine__t36",
+    "layout": "offer",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "niacinamide-10-with-matmarine__t38",
+    "layout": "range",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  }
+]

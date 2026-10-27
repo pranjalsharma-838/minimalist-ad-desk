@@ -1,0 +1,5 @@
+node_modules/
+.env
+cache/
+image_requests/*.heartbeat
+image_requests/worker.log

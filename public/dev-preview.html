@@ -1,0 +1,38 @@
+<!doctype html>
+<meta charset="utf-8" />
+<title>Layout preview (dev)</title>
+<style>body{margin:0;overflow:hidden}</style>
+<body>
+<div id="out"></div>
+<script type="module">
+  // Dev-only page for eyeballing the layout: /dev-preview.html?v=nia | spf | long
+  import { renderAdSvg, measure } from "./render.js";
+  const cdn = (u) => "/api/image?src=" + encodeURIComponent(u);
+  const specs = {
+    nia: {
+      hero: { pct: "10%", name: "Niacinamide" },
+      headline: "For reducing sebum & pores, and even skin tone",
+      subhead: "A daily serum with pure Vitamin B3 (Niacinamide) and Matmarine.",
+      proofPoints: ["Niacinamide from Lonza, Switzerland", "Lightweight, no sticky residue", "Use AM & PM"],
+      footnote: "The product has been evaluated for safety through patch testing under the supervision of a Dermatologist.",
+      cta: "Shop now",
+      productName: "Niacinamide 10% Face Serum",
+      imageHref: cdn("https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Nia10New.png?v=1721398127"),
+    },
+    spf: {
+      hero: { pct: "50", name: "SPF" },
+      headline: "Broad Spectrum SPF 50, PA++++",
+      subhead: "A lightweight, water-resistant sunscreen that protects against UVA / UVB rays.",
+      proofPoints: ["SPF 56 measured in vivo (ISO 24444:2019)", "No white cast"],
+      footnote: "*In-vivo test, ISO 24444:2019, independent third-party lab (Advanced Science Laboratories). SPF value obtained: 56.",
+      cta: "Shop now",
+      productName: "Light Fluid SPF 50 Sunscreen",
+      imageHref: "",
+    },
+  };
+  specs.long = { ...specs.nia, headline: specs.nia.headline + " — with Matmarine and Zinc for oily, acne-prone skin types", proofPoints: [...specs.nia.proofPoints, "Extra"] };
+  const v = new URLSearchParams(location.search).get("v") || "nia";
+  document.getElementById("out").innerHTML = renderAdSvg(specs[v]);
+  window.__measure = measure(specs[v]);
+</script>
+</body>

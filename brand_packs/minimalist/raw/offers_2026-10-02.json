@@ -1,0 +1,388 @@
+{
+  "captured_at": "2026-10-02T21:36:03.699Z",
+  "method": "script (fetch; Shopify product JSON + homepage HTML; Amazon search HTML)",
+  "sitewide": [
+    {
+      "source_url": "https://beminimalist.co/",
+      "terms_page": "https://beminimalist.co/apps/gbb/easybundle/1",
+      "text": "Build Your Own Bundle — Save an additional up to 15% off",
+      "type": "sale_banner",
+      "code": null,
+      "expiry": null
+    },
+    {
+      "source_url": "https://beminimalist.co/",
+      "terms_page": "https://beminimalist.co/pages/minimalist-b2g3rdfree-one-product-free",
+      "text": "Upto 33% OFF + Freebies",
+      "type": "sale_banner",
+      "code": null,
+      "expiry": null
+    },
+    {
+      "source_url": "https://beminimalist.co/",
+      "terms_page": "https://beminimalist.co/pages/minimalist-b2g3rdfree-one-product-free",
+      "text": "Buy 2, Get 3rd Free",
+      "type": "bogo",
+      "code": null,
+      "expiry": null
+    },
+    {
+      "source_url": "https://beminimalist.co/",
+      "terms_page": "https://beminimalist.co/apps/gbb/easybundle/1",
+      "text": "Get Additional Free Gifts on orders above ₹1199",
+      "type": "free_gift",
+      "code": null,
+      "expiry": null
+    }
+  ],
+  "products": {
+    "salicylic-lha-2-cleanser": {
+      "website": {
+        "url": "https://beminimalist.co/products/salicylic-lha-2-cleanser",
+        "title": "Salicylic Acid + LHA 2% Cleanser",
+        "variants": [
+          {
+            "name": "100ml",
+            "price": 269,
+            "mrp": 299,
+            "available": true,
+            "pct_off_computed": 10
+          },
+          {
+            "name": "250ml",
+            "price": 539,
+            "mrp": 599,
+            "available": true,
+            "pct_off_computed": 10
+          }
+        ],
+        "tags_offer": [],
+        "offer_texts": [
+          "Get Additional 10% Off on orders above ₹599/- B2G3RDFREE",
+          "Get Additional 5% Off on orders above ₹299/- Salicylic Acid + LHA 2% Cleanser Reduces Sebum & Prevents Breakout",
+          "ect Size 100ml 250ml Variants 100ml - ₹ 269 250ml - ₹ 539 Price ₹ 269 MRP ₹ 299 10% Off Base ₹ 228 18% GST 41 Total ₹ 269 (incl",
+          "Get Additional 5% Off on orders above ₹299/- Quantity Add to cart Delivery Details Check Delivery between Cash"
+        ]
+      },
+      "amazon_in": {
+        "asin": "B096PJMGPL",
+        "price": 275,
+        "mrp": 275,
+        "pct_off_shown": 8,
+        "coupon": null,
+        "deal_badge": null,
+        "note": "first search result containing 'Minimalist' — verify it is the brand's own listing"
+      }
+    },
+    "multi-vitamin-spf-50": {
+      "website": {
+        "url": "https://beminimalist.co/products/multi-vitamin-spf-50",
+        "title": "SPF 50 Sunscreen",
+        "variants": [
+          {
+            "name": "50g",
+            "price": 359,
+            "mrp": 399,
+            "available": true,
+            "pct_off_computed": 10
+          },
+          {
+            "name": "100g",
+            "price": 629,
+            "mrp": 699,
+            "available": true,
+            "pct_off_computed": 10
+          },
+          {
+            "name": "30g",
+            "price": 224,
+            "mrp": 249.1,
+            "available": true,
+            "pct_off_computed": 10
+          }
+        ],
+        "tags_offer": [],
+        "offer_texts": [
+          "Get Additional 10% Off on orders above ₹599/- B2G3RDFREE",
+          "Get Additional 5% Off on orders above ₹299/- SPF 50 Sunscreen Broad Spectrum SPF 50, PA++++ A light weight, moi",
+          "0g 100g 30g Variants 50g - ₹ 359 100g - ₹ 629 30g - ₹ 224 Price ₹ 359 MRP ₹ 399 10% Off Base ₹ 304 18% GST 55 Total ₹ 359 (incl",
+          "Get Additional 5% Off on orders above ₹299/- Quantity Add to cart Delivery Details Check Delivery between Cash"
+        ]
+      },
+      "amazon_in": {
+        "asin": "B0GPHPWZ5K",
+        "price": 628,
+        "mrp": 748,
+        "pct_off_shown": 16,
+        "coupon": "Save 10% with coupon",
+        "deal_badge": null,
+        "note": "first search result containing 'Minimalist' — verify it is the brand's own listing"
+      }
+    },
+    "vitamin-b5-10-moisturizer": {
+      "website": {
+        "url": "https://beminimalist.co/products/vitamin-b5-10-moisturizer",
+        "title": "Vitamin B5 10% Moisturizer",
+        "variants": [
+          {
+            "name": "50g",
+            "price": 314,
+            "mrp": 349,
+            "available": true,
+            "pct_off_computed": 10
+          },
+          {
+            "name": "100g",
+            "price": 539,
+            "mrp": 599,
+            "available": true,
+            "pct_off_computed": 10
+          }
+        ],
+        "tags_offer": [],
+        "offer_texts": [
+          "Get Additional 10% Off on orders above ₹599/- B2G3RDFREE",
+          "Get Additional 5% Off on orders above ₹299/- Vitamin B5 10% Moisturizer Provides Lightweight Moisturization & R",
+          "Get Additional 5% Off on orders above ₹299/- Quantity Add to cart Delivery Details Check Delivery between Cash"
+        ]
+      },
+      "amazon_in": {
+        "asin": "B0GWMLHSKV",
+        "price": 425,
+        "mrp": 498,
+        "pct_off_shown": 15,
+        "coupon": "Save 10% with coupon",
+        "deal_badge": null,
+        "note": "first search result containing 'Minimalist' — verify it is the brand's own listing"
+      }
+    },
+    "niacinamide-10-with-matmarine": {
+      "website": {
+        "url": "https://beminimalist.co/products/niacinamide-10-with-matmarine",
+        "title": "Niacinamide 10% Face Serum",
+        "variants": [
+          {
+            "name": "30ml",
+            "price": 539,
+            "mrp": 599,
+            "available": true,
+            "pct_off_computed": 10
+          },
+          {
+            "name": "60ml",
+            "price": 899,
+            "mrp": 999,
+            "available": true,
+            "pct_off_computed": 10
+          },
+          {
+            "name": "10ml",
+            "price": 237,
+            "mrp": 249,
+            "available": true,
+            "pct_off_computed": 5
+          },
+          {
+            "name": "20ml",
+            "price": 499,
+            "mrp": null,
+            "available": true,
+            "pct_off_computed": 0
+          }
+        ],
+        "tags_offer": [],
+        "offer_texts": [
+          "Get Additional 10% Off on orders above ₹599/- B2G3RDFREE",
+          "Get Additional 5% Off on orders above ₹299/- Niacinamide 10% Face Serum For reducing sebum & pores, and even sk",
+          "iants 30ml - ₹ 539 60ml - ₹ 899 10ml - ₹ 237 20ml - ₹ 499 Price ₹ 539 MRP ₹ 599 10% Off Base ₹ 457 18% GST 82 Total ₹ 539 (incl",
+          "Get Additional 5% Off on orders above ₹299/- Quantity Add to cart Delivery Details Check Delivery between Cash"
+        ]
+      },
+      "amazon_in": {
+        "asin": "B0DH88LZ11",
+        "price": 999,
+        "mrp": 16,
+        "pct_off_shown": null,
+        "coupon": null,
+        "deal_badge": null,
+        "note": "first search result containing 'Minimalist' — verify it is the brand's own listing"
+      }
+    },
+    "vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1": {
+      "website": {
+        "url": "https://beminimalist.co/products/vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1",
+        "title": "Vitamin C 10% Face Serum",
+        "variants": [
+          {
+            "name": "10ml",
+            "price": 285,
+            "mrp": 299,
+            "available": true,
+            "pct_off_computed": 5
+          },
+          {
+            "name": "30ml",
+            "price": 629,
+            "mrp": 699,
+            "available": true,
+            "pct_off_computed": 10
+          },
+          {
+            "name": "20ml",
+            "price": 575,
+            "mrp": null,
+            "available": true,
+            "pct_off_computed": 0
+          }
+        ],
+        "tags_offer": [],
+        "offer_texts": [
+          "Get Additional 10% Off on orders above ₹599/- B2G3RDFREE",
+          "Get Additional 5% Off on orders above ₹299/- Vitamin C 10% Face Serum For Brighter, Glowing & Healthy Looking S",
+          "30ml 20ml Variants 10ml - ₹ 285 30ml - ₹ 629 20ml - ₹ 575 Price ₹ 285 MRP ₹ 299 4% Off Base ₹ 242 18% GST 43 Total ₹ 285 (incl",
+          "Get Additional 5% Off on orders above ₹299/- Quantity Add to cart Delivery Details Check Delivery between Cash",
+          "0 x 11 Country of origin : India SKU code : 8906128100139 Manufactured & marketed by: Uprising Science Pvt Ltd (F-2109, RIICO Ind"
+        ]
+      },
+      "amazon_in": {
+        "asin": "B08MVBF4P8",
+        "price": 664,
+        "mrp": 22,
+        "pct_off_shown": 5,
+        "coupon": null,
+        "deal_badge": null,
+        "note": "first search result containing 'Minimalist' — verify it is the brand's own listing"
+      }
+    },
+    "salicylic-acid-2": {
+      "website": {
+        "url": "https://beminimalist.co/products/salicylic-acid-2",
+        "title": "Salicylic Acid 2% Face Serum",
+        "variants": [
+          {
+            "name": "30ml",
+            "price": 494,
+            "mrp": 549,
+            "available": true,
+            "pct_off_computed": 10
+          },
+          {
+            "name": "60ml",
+            "price": 854,
+            "mrp": 949,
+            "available": true,
+            "pct_off_computed": 10
+          },
+          {
+            "name": "10ml",
+            "price": 237,
+            "mrp": 249,
+            "available": true,
+            "pct_off_computed": 5
+          },
+          {
+            "name": "20ml",
+            "price": 499,
+            "mrp": null,
+            "available": true,
+            "pct_off_computed": 0
+          }
+        ],
+        "tags_offer": [],
+        "offer_texts": [
+          "Get Additional 10% Off on orders above ₹599/- B2G3RDFREE",
+          "Get Additional 5% Off on orders above ₹299/- Salicylic Acid 2% Face Serum Reduces Acne, Blackheads & Excessive",
+          "iants 30ml - ₹ 494 60ml - ₹ 854 10ml - ₹ 237 20ml - ₹ 499 Price ₹ 494 MRP ₹ 549 10% Off Base ₹ 419 18% GST 75 Total ₹ 494 (incl",
+          "Get Additional 5% Off on orders above ₹299/- Quantity Add to cart Delivery Details Check Delivery between Cash"
+        ]
+      },
+      "amazon_in": {
+        "asin": "B0GWN2JFFM",
+        "price": 481,
+        "mrp": 548,
+        "pct_off_shown": 12,
+        "coupon": "Save 10% with coupon",
+        "deal_badge": null,
+        "note": "first search result containing 'Minimalist' — verify it is the brand's own listing"
+      }
+    },
+    "alpha-arbutin-2": {
+      "website": {
+        "url": "https://beminimalist.co/products/alpha-arbutin-2",
+        "title": "Alpha Arbutin 2% Face Serum",
+        "variants": [
+          {
+            "name": "30ml",
+            "price": 494,
+            "mrp": 549,
+            "available": true,
+            "pct_off_computed": 10
+          },
+          {
+            "name": "10ml",
+            "price": 237,
+            "mrp": 249,
+            "available": true,
+            "pct_off_computed": 5
+          }
+        ],
+        "tags_offer": [],
+        "offer_texts": [
+          "Get Additional 10% Off on orders above ₹599/- B2G3RDFREE",
+          "Get Additional 5% Off on orders above ₹299/- Alpha Arbutin 2% Face Serum Reduces Dark Spots, Marks & Evens Skin",
+          "Get Additional 5% Off on orders above ₹299/- Quantity Add to cart Delivery Details Check Delivery between Cash",
+          "0 x 11 Country of origin : India SKU code : 8906128100054 Manufactured & marketed by: Uprising Science Pvt Ltd (F-2109, RIICO Ind"
+        ]
+      },
+      "amazon_in": {
+        "asin": "B0HGFKD9XF",
+        "price": 616,
+        "mrp": 748,
+        "pct_off_shown": 18,
+        "coupon": "Save 10% with coupon",
+        "deal_badge": null,
+        "note": "first search result containing 'Minimalist' — verify it is the brand's own listing"
+      }
+    },
+    "marula-05-moisturizer": {
+      "website": {
+        "url": "https://beminimalist.co/products/marula-05-moisturizer",
+        "title": "Marula Oil 5% Face Moisturizer",
+        "variants": [
+          {
+            "name": "50g",
+            "price": 269,
+            "mrp": 299,
+            "available": true,
+            "pct_off_computed": 10
+          },
+          {
+            "name": "30g",
+            "price": 179,
+            "mrp": 199,
+            "available": true,
+            "pct_off_computed": 10
+          }
+        ],
+        "tags_offer": [],
+        "offer_texts": [
+          "Get Additional 10% Off on orders above ₹599/- B2G3RDFREE",
+          "Get Additional 5% Off on orders above ₹299/- Marula Oil 5% Face Moisturizer Deep & Intense Moisturization",
+          "Get Additional 5% Off on orders above ₹299/- Quantity Add to cart Delivery Details Check Delivery between Cash"
+        ]
+      },
+      "amazon_in": {
+        "asin": "B09P3FR9DD",
+        "price": 599,
+        "mrp": 1198,
+        "pct_off_shown": null,
+        "coupon": null,
+        "deal_badge": null,
+        "note": "first search result containing 'Minimalist' — verify it is the brand's own listing"
+      }
+    }
+  },
+  "notes": [
+    "sitewide re-parsed from saved homepage announcement bar (exact items)"
+  ]
+}

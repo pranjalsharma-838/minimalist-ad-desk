@@ -1,0 +1,2363 @@
+{
+  "built": "2026-10-03",
+  "sources": {
+    "yotpo": "2026-10-02T21:34:29.954Z",
+    "marketplace": "2026-10-03T06:18:34.764Z"
+  },
+  "by_type": {
+    "sunscreen": {
+      "competitor": {
+        "n": 59,
+        "neg": 8,
+        "concerns": {
+          "sticky_greasy": {
+            "mentions": 24,
+            "in_negative": 1,
+            "phrases": [
+              "\"I'd say it's a good everyday sunscreen, especially if you have oily skin and hate thick or greasy formulas.\" (Amazon.in · Deconstruct, 5★)",
+              "\"It spreads easily and absorbs quickly without leaving the heavy, greasy feeling that some sunscreens can have.\" (Amazon.in · Deconstruct, 5★)",
+              "\"Its ultra-lightweight texture absorbs quickly without a greasy finish or white cast.\" (Amazon.in · Deconstruct, 4★)",
+              "\"It absorbs quickly, doesn’t feel greasy, and doesn’t clog pores at all.\" (Amazon.in · Deconstruct, 5★)",
+              "\"I used this sunscreen it is so lightweight and non-greasy and it absorbs quicky it is perfect for daily use give good protection from sun great experience.\" (Amazon.in · Deconstruct, 5★)",
+              "\"Really love the sunscreen , very lightweight and non greasy, also there is no white cast and it seems very lightweight on my skin and its been 2 weeks since i m using this and there is no reaction or \" (Amazon.in · Deconstruct, 4★)"
+            ]
+          },
+          "breakouts": {
+            "mentions": 5,
+            "in_negative": 0,
+            "phrases": [
+              "\"It also doesn't clog pores or cause breakouts, which is a major advantage for acne-prone skin.\" (Amazon.in · Deconstruct, 5★)",
+              "\"The oil-free formula does not clog pores, significantly reducing the risk of breakouts.\" (Amazon.in · Deconstruct, 4★)",
+              "\"its Protects your skin efficiently without clogging pores.\" (Amazon.in · Deconstruct, 5★)",
+              "\"No clogged pores, no random breakouts, and zero extra shine.\" (Amazon.in · RE' EQUIL, 5★)",
+              "\"If you struggle with heavy, greasy sunscreens that cause tiny bumps or breakouts, this fluid formula is highly recommended.\" (Amazon.in · WishCare, 5★)"
+            ]
+          },
+          "texture": {
+            "mentions": 17,
+            "in_negative": 3,
+            "phrases": [
+              "\"I'd say it's a good everyday sunscreen, especially if you have oily skin and hate thick or greasy formulas.\" (Amazon.in · Deconstruct, 5★)",
+              "\"I’ve been using this sunscreen as part of my daily routine and particularly like its lightweight gel texture.\" (Amazon.in · Deconstruct, 5★)",
+              "\"Its ultra-lightweight texture absorbs quickly without a greasy finish or white cast.\" (Amazon.in · Deconstruct, 4★)",
+              "\"Also, if u need a very light texture then u can't go for this.\" (Amazon.in · Deconstruct, 3★)",
+              "\"The fast-absorbing texture feels weightless and comfortable like a skin serum, making it highly suitable for warm or humid.\" (Amazon.in · Deconstruct, 5★)",
+              "\"The gel-based formula spreads easily and absorbs quickly without leaving a heavy or greasy feeling.\" (Amazon.in · The Derma Co, 5★)"
+            ]
+          },
+          "white_cast": {
+            "mentions": 22,
+            "in_negative": 1,
+            "phrases": [
+              "\"Its ultra-lightweight texture absorbs quickly without a greasy finish or white cast.\" (Amazon.in · Deconstruct, 4★)",
+              "\"It blends quickly and completely transparently into all skin tones, leaving a clean, fresh finish with no chalky resid.\" (Amazon.in · Deconstruct, 5★)",
+              "\"Really love the sunscreen , very lightweight and non greasy, also there is no white cast and it seems very lightweight on my skin and its been 2 weeks since i m using this and there is no reaction or \" (Amazon.in · Deconstruct, 4★)",
+              "\"My combination skin loves it dosent leave a white cast and its good for humid weather\" (Amazon.in · Deconstruct, 5★)",
+              "\"Lightweight Sunscreen with No White Cast.\" (Amazon.in · The Derma Co, 5★)",
+              "\"this is like a moisturizer, slightly runny creme like texture, easily gets absorbed in the skin, without leaving any oily residue and the best part no white cast what so ever.\" (Amazon.in · The Derma Co, 4★)"
+            ]
+          },
+          "irritation": {
+            "mentions": 7,
+            "in_negative": 1,
+            "phrases": [
+              "\"it uses modern filters like Tinosorb S, Tinosorb M, Uvinul A Plus, and Uvinul T 150 which ensures the sunscreen filters do not break down rapidly when exposed to the sun, delivering robust protection \" (Amazon.in · Deconstruct, 4★)",
+              "\"itsprovide durable, long-lasting broad-spectrum coverage without breaking down under sunlight.\" (Amazon.in · Deconstruct, 5★)",
+              "\"along with that it contains antioxidants like Niacinamide, Capsicum Annuum Fruit Extract, Tocopheryl Acetate to safeguard the skin from external pollutants, humectants like Glycerin and Sodium Hyaluro\" (Amazon.in · The Derma Co, 4★)",
+              "\"Very very nice and affordable suncream I like it so far no irritation my skin love it\" (Amazon.in · The Derma Co, 5★)",
+              "\"Presence of White cast and kind of feeling burning sensation around eyes after few days of use.\" (Amazon.in · RE' EQUIL, 3★)",
+              "\"It's so perfect that doesn't cause any visible or atleast feel any cast left on my face and the texture is so good and it blends well with skin and it's color so that it gives me a huge protection wit\" (Amazon.in · RE' EQUIL, 5★)"
+            ]
+          },
+          "fragrance": {
+            "mentions": 4,
+            "in_negative": 1,
+            "phrases": [
+              "\"it does not contain any fragrance, so less likely to irritate sensitive skin.\" (Amazon.in · The Derma Co, 4★)",
+              "\"It has mild smell.\" (Amazon.in · RE' EQUIL, 3★)",
+              "\"not only affordable but SUCH an elegant formula!! light and fluid, no harsh scent, no pilling or flaking, not heavy or greasy and it doesn't sting my skin at all.\" (Amazon.in · WishCare, 5★)",
+              "\"Fragrance-Free & Gentle.\" (Amazon.in · WishCare, 5★)"
+            ]
+          },
+          "slow_results": {
+            "mentions": 3,
+            "in_negative": 2,
+            "phrases": [
+              "\"It has become extremely watery and ineffective, making it feel like a waste of money.\" (Amazon.in · The Derma Co, 1★)",
+              "\"My bronzer which i have been using for three years ended up near my jaw line: i was bitterly disappointed a total waste of money\" (Amazon.in · RE' EQUIL, 1★)",
+              "\"Though i didn't see any \"vitsmin c\" effect means no change in hyperpigmentation, overall any skin person can try it in warm weather\" (Amazon.in · DOT & KEY, 4★)"
+            ]
+          },
+          "pilling": {
+            "mentions": 2,
+            "in_negative": 0,
+            "phrases": [
+              "\"One of the things I like most is how well it works under makeup—there’s no pilling, and it layers smoothly with my other products.\" (Amazon.in · The Derma Co, 5★)",
+              "\"not only affordable but SUCH an elegant formula!! light and fluid, no harsh scent, no pilling or flaking, not heavy or greasy and it doesn't sting my skin at all.\" (Amazon.in · WishCare, 5★)"
+            ]
+          },
+          "dryness": {
+            "mentions": 7,
+            "in_negative": 2,
+            "phrases": [
+              "\"Must-have for dry skin.\" (Amazon.in · RE' EQUIL, 5★)",
+              "\"Good product, whitening sunscreen, creamy, but works only for few hours for my oily skin, not sure about dry and normal skin\" (Amazon.in · RE' EQUIL, 4★)",
+              "\"Not matte and not dry touch.\" (Amazon.in · RE' EQUIL, 1★)",
+              "\"Gives a nice matte finish without making the skin feel dry or heavy.\" (Amazon.in · WishCare, 5★)",
+              "\"Jis ke bhi sensitive ye dry skin hai usko ye usse krne chahiye.\" (Amazon.in · WishCare, 3★)",
+              "\"Good for dry skin.\" (Amazon.in · DOT & KEY, 4★)"
+            ]
+          },
+          "eye_sting_sweat": {
+            "mentions": 2,
+            "in_negative": 0,
+            "phrases": [
+              "\"Sweat & water proof.\" (Amazon.in · RE' EQUIL, 5★)",
+              "\"it literally just melts effortlessly.\" (Amazon.in · WishCare, 5★)"
+            ]
+          },
+          "price_value": {
+            "mentions": 1,
+            "in_negative": 1,
+            "phrases": [
+              "\"Not worth the money\" (Amazon.in · RE' EQUIL, 3★)"
+            ]
+          }
+        }
+      },
+      "own": {
+        "n": 51,
+        "neg": 24,
+        "concerns": {
+          "white_cast": {
+            "mentions": 11,
+            "in_negative": 7,
+            "phrases": [
+              "\"It leaves such a horrible white cast.\" (beminimalist.co, 1★)",
+              "\"It was an amazing product especially for oily skin no white casting and protecting the skin very good and also my skin has started reducing dark spots as well as pigmentation\" (beminimalist.co, 5★)",
+              "\"White cast and dry.\" (beminimalist.co, 3★)",
+              "\"This is a very thick sunscreen that leaves a white cast and causes sweating immediately.\" (beminimalist.co, 1★)",
+              "\"MINIMALIST SUNSCREEN SPF50 IS WORST'S WORST LEAVE HEAVY WHITE CAST.\" (beminimalist.co, 1★)",
+              "\"definitely a good product and also leaves no white cast but maybe it's not lightweight for me.\" (beminimalist.co, 5★)"
+            ]
+          },
+          "sticky_greasy": {
+            "mentions": 8,
+            "in_negative": 4,
+            "phrases": [
+              "\"The second you step outside, it forms this thick greasy layer that makes you sweat like crazy, as if your pores have been sealed shut.\" (beminimalist.co, 1★)",
+              "\"Also you’ll feel heavy on skin after this sunscreen I don’t recommend at all…….\" (beminimalist.co, 1★)",
+              "\"and leaves skin looking oily after applying.\" (beminimalist.co, 2★)",
+              "\"Non-greasy, easily absorbing and comfortable on skin.\" (beminimalist.co, 3★)",
+              "\"The SPF 50 Sunscreen is really good—it's non-sticky, doesn't cause excessive sweating, and leaves no white cast at all.\" (beminimalist.co, 5★)",
+              "\"It doesn’t feel sticky or heavy, and it works well under makeup too.\" (beminimalist.co, 5★)"
+            ]
+          },
+          "eye_sting_sweat": {
+            "mentions": 8,
+            "in_negative": 5,
+            "phrases": [
+              "\"The second you step outside, it forms this thick greasy layer that makes you sweat like crazy, as if your pores have been sealed shut.\" (beminimalist.co, 1★)",
+              "\"Also, sweat resistance so last longer.\" (beminimalist.co, 5★)",
+              "\"This is a very thick sunscreen that leaves a white cast and causes sweating immediately.\" (beminimalist.co, 1★)",
+              "\"it does provide me sun protection but I don't know why i always sweat more after applying this sunscreen.\" (beminimalist.co, 5★)",
+              "\"The SPF 50 Sunscreen is really good—it's non-sticky, doesn't cause excessive sweating, and leaves no white cast at all.\" (beminimalist.co, 5★)",
+              "\"then gave to a friend for free Leaves white cast, soo much that one can't see his own face, with just a little sweat out in the sun, entire sunscreen gets out as white cream on face Has retinol and 10\" (beminimalist.co, 1★)"
+            ]
+          },
+          "packaging": {
+            "mentions": 1,
+            "in_negative": 1,
+            "phrases": [
+              "\"The second you step outside, it forms this thick greasy layer that makes you sweat like crazy, as if your pores have been sealed shut.\" (beminimalist.co, 1★)"
+            ]
+          },
+          "texture": {
+            "mentions": 4,
+            "in_negative": 2,
+            "phrases": [
+              "\"The second you step outside, it forms this thick greasy layer that makes you sweat like crazy, as if your pores have been sealed shut.\" (beminimalist.co, 1★)",
+              "\"Worst consistency.\" (beminimalist.co, 1★)",
+              "\"I use it every day before going out because I notice my skin was improving in tone and texture, and it is invisible on the skin.\" (beminimalist.co, 5★)",
+              "\"The texture and sun protection.\" (beminimalist.co, 4★)"
+            ]
+          },
+          "dryness": {
+            "mentions": 6,
+            "in_negative": 5,
+            "phrases": [
+              "\"Only for very dry and dry skin type.\" (beminimalist.co, 1★)",
+              "\"White cast and dry.\" (beminimalist.co, 3★)",
+              "\"Once dry it starts piling up and is not compatible with make up either.\" (beminimalist.co, 1★)",
+              "\"then gave to a friend for free Leaves white cast, soo much that one can't see his own face, with just a little sweat out in the sun, entire sunscreen gets out as white cream on face Has retinol and 10\" (beminimalist.co, 1★)",
+              "\"I have tried multiple sunscreens but this one doesn’t make me feel greasy or dry.\" (beminimalist.co, 5★)",
+              "\"White cast is coming after applying never purchasing it again worst experience ever and cleanser is worst making my skin even more dry\" (beminimalist.co, 1★)"
+            ]
+          },
+          "irritation": {
+            "mentions": 3,
+            "in_negative": 1,
+            "phrases": [
+              "\"It was an amazing product especially for oily skin no white casting and protecting the skin very good and also my skin has started reducing dark spots as well as pigmentation\" (beminimalist.co, 5★)",
+              "\"As someone with sensitive skin, I am always on the lookout for products that offer high protection without causing irritation, and this sunscreen has exceeded all my expectations.\" (beminimalist.co, 5★)",
+              "\"It's quite melt during summer with your sweat and irritate your eyes 👀 Idk why but It decreased my colour tone I'm mean my get darker 1 to 2 shade by my real skin shade.\" (beminimalist.co, 3★)"
+            ]
+          },
+          "slow_results": {
+            "mentions": 2,
+            "in_negative": 1,
+            "phrases": [
+              "\"It's great when I used it for the first time the result is great I'd say amazing my skin start glowing but in my second purchase I don't know wheather the product is expired or something else is Missi\" (beminimalist.co, 5★)",
+              "\"I order whole from cleanser to spf nothing working only cleanser of salicylic acid is good, rest money got wasted\" (beminimalist.co, 1★)"
+            ]
+          },
+          "pilling": {
+            "mentions": 1,
+            "in_negative": 1,
+            "phrases": [
+              "\"while applying this sunscreen it leaves white small flakes.\" (beminimalist.co, 2★)"
+            ]
+          },
+          "price_value": {
+            "mentions": 1,
+            "in_negative": 0,
+            "phrases": [
+              "\"Value for money.\" (beminimalist.co, 5★)"
+            ]
+          },
+          "fragrance": {
+            "mentions": 2,
+            "in_negative": 1,
+            "phrases": [
+              "\"What's the purpose of retinol in a sunscreen, I thought it was minimal and clean, not take everything on earth in one tube Has awful smell, some powdery or something similar Overall, extremely disappo\" (beminimalist.co, 1★)",
+              "\"Fragrance-Free & Gentle: As someone with a sensitive nose and skin, I appreciate that this sunscreen is fragrance-free and formulated with gentle ingredients and doesn't cause any breakouts or irritat\" (beminimalist.co, 5★)"
+            ]
+          },
+          "breakouts": {
+            "mentions": 2,
+            "in_negative": 1,
+            "phrases": [
+              "\"Giving comedogenic acne.\" (beminimalist.co, 1★)",
+              "\"Fragrance-Free & Gentle: As someone with a sensitive nose and skin, I appreciate that this sunscreen is fragrance-free and formulated with gentle ingredients and doesn't cause any breakouts or irritat\" (beminimalist.co, 5★)"
+            ]
+          }
+        }
+      }
+    },
+    "niacinamide serum": {
+      "competitor": {
+        "n": 51,
+        "neg": 9,
+        "concerns": {
+          "sticky_greasy": {
+            "mentions": 10,
+            "in_negative": 0,
+            "phrases": [
+              "\"Bahut hi lightweight aur non-sticky serum hai jo skin me turant absorb ho jata hai.\" (Amazon.in · Pilgrim, 5★)",
+              "\"Overall, it’s good for improving glow and skin texture, but the oily finish may not suit everyone for daytime use.\" (Amazon.in · Pilgrim, 4★)",
+              "\"The serum is lightweight and absorbs well, although it leaves a very slight oily feel on my skin, which is not too noticeable.\" (Amazon.in · Pilgrim, 4★)",
+              "\"Skin feels soft and moisturized without any greasy feeling and also Absorbs very quickly\" (Amazon.in · Pilgrim, 5★)",
+              "\"It doesn’t feel sticky or heavy, and my skin feels smoother after using it regularly.\" (Amazon.in · The Derma Co, 5★)",
+              "\"The lightweight, water-based formula absorbs quickly without feeling sticky and layers well under moisturizer and sunscreen.\" (Amazon.in · B01MDTVZTZ, 5★)"
+            ]
+          },
+          "breakouts": {
+            "mentions": 2,
+            "in_negative": 0,
+            "phrases": [
+              "\"Isse skin par koi irritation ya breakout nahi hua.\" (Amazon.in · Pilgrim, 5★)",
+              "\"After consistent use, I’ve noticed a visible improvement in overall skin texture and a reduction in breakouts.\" (Amazon.in · B01MDTVZTZ, 5★)"
+            ]
+          },
+          "irritation": {
+            "mentions": 7,
+            "in_negative": 0,
+            "phrases": [
+              "\"Isse skin par koi irritation ya breakout nahi hua.\" (Amazon.in · Pilgrim, 5★)",
+              "\"The product felt gentle on my skin, and I did not face any major skin sensitivity or irritation issues while using it.\" (Amazon.in · Pilgrim, 4★)",
+              "\"I especially liked its smooth texture and glow-boosting effect.\" (Amazon.in · Pilgrim, 5★)",
+              "\"This is the best lighting serum, I have black spots on my face due to pimples and my skin was bumpy, itchy and dry like anything.\" (Amazon.in · Hyphen, 5★)",
+              "\"It does control oil , does hydrate , easy to apply 2-3 drop enough , no irritation , it do reduce pigmentation but it requires a long consistency , fragrance - idk ( it don't bother me ) , packaging w\" (Amazon.in · The Derma Co, 5★)",
+              "\"- May cause mild irritation if used with too many active ingredients at once.\" (Amazon.in · B01MDTVZTZ, 5★)"
+            ]
+          },
+          "texture": {
+            "mentions": 11,
+            "in_negative": 0,
+            "phrases": [
+              "\"Good Glow & Skin Texture Improvement, But Feels Oily on Face.\" (Amazon.in · Pilgrim, 4★)",
+              "\"I especially liked its smooth texture and glow-boosting effect.\" (Amazon.in · Pilgrim, 5★)",
+              "\"I apply 2–3 drops on a clean, dry face, gently spread it over the skin, and then follow it with a moisturizer.\" (Amazon.in · Pilgrim, 4★)",
+              "\"A little amount is enough, and it spreads easily.\" (Amazon.in · Pilgrim, 5★)",
+              "\"Texture bhi lightweight hai aur daily use karna easy hai.\" (Amazon.in · Pilgrim, 4★)",
+              "\"I had tried ever creme but nothing changed the texture of my skin.\" (Amazon.in · Hyphen, 5★)"
+            ]
+          },
+          "slow_results": {
+            "mentions": 2,
+            "in_negative": 1,
+            "phrases": [
+              "\"Didn't work out for me\" (Amazon.in · Pilgrim, 3★)",
+              "\"No result still using\" (Amazon.in · The Derma Co, 5★)"
+            ]
+          },
+          "dryness": {
+            "mentions": 3,
+            "in_negative": 0,
+            "phrases": [
+              "\"I apply 2–3 drops on a clean, dry face, gently spread it over the skin, and then follow it with a moisturizer.\" (Amazon.in · Pilgrim, 4★)",
+              "\"This is the best lighting serum, I have black spots on my face due to pimples and my skin was bumpy, itchy and dry like anything.\" (Amazon.in · Hyphen, 5★)",
+              "\"I have used this product for years and helps with skin dryness\" (Amazon.in · B01MDTVZTZ, 5★)"
+            ]
+          },
+          "price_value": {
+            "mentions": 5,
+            "in_negative": 1,
+            "phrases": [
+              "\"The packaging quality is excellent alongside the product quality is worth it.\" (Amazon.in · Hyphen, 5★)",
+              "\"Definitely not worth the money for me.\" (Amazon.in · Hyphen, 1★)",
+              "\"Value for money nice product\" (Amazon.in · Hyphen, 5★)",
+              "\"Great value for money.\" (Amazon.in · B01MDTVZTZ, 5★)",
+              "\"Definitely worth the price.\" (Amazon.in · Pilgrim, 5★)"
+            ]
+          },
+          "fragrance": {
+            "mentions": 3,
+            "in_negative": 0,
+            "phrases": [
+              "\"It does control oil , does hydrate , easy to apply 2-3 drop enough , no irritation , it do reduce pigmentation but it requires a long consistency , fragrance - idk ( it don't bother me ) , packaging w\" (Amazon.in · The Derma Co, 5★)",
+              "\"Pros: - Lightweight, non-greasy formula - Helps control excess oil and shine - Gradually reduces the appearance of acne marks and uneven skin tone - Improves skin texture with regular use - Fragrance-\" (Amazon.in · B01MDTVZTZ, 5★)",
+              "\"And is non sticky and also there are not a single irritation after applying this and have a very ligh and good smell.\" (Amazon.in · B01MDTVZTZ, 5★)"
+            ]
+          },
+          "packaging": {
+            "mentions": 1,
+            "in_negative": 1,
+            "phrases": [
+              "\"I received a damaged product box, and the bottle was upside down with no seal.\" (Amazon.in · The Derma Co, 1★)"
+            ]
+          }
+        }
+      },
+      "own": {
+        "n": 63,
+        "neg": 14,
+        "concerns": {
+          "texture": {
+            "mentions": 5,
+            "in_negative": 0,
+            "phrases": [
+              "\"It has visibly reduced the appearance of my pores and gradually improved my skin texture.\" (Amazon.in · Minimalist, 5★)",
+              "\"Turns out I like this product better! It all but disappears into the skin- the texture is more akin to water which feels way nicer compared to the tackiness of the Ordinary.\" (Amazon.in · Minimalist, 5★)",
+              "\"2 % and then increases the concentration You will definitely get the good result Minimised pores, smooth texture and lesson pigmentation Definitely go for it\" (beminimalist.co, 5★)",
+              "\"The texture is light and it suits my skin well.\" (beminimalist.co, 5★)",
+              "\"I don't know what's the problem this serum or the moisture that iam using the 5 percent vitamin B3 one but since I started using this I am getting more acne the skin texture has improved a little not \" (beminimalist.co, 4★)"
+            ]
+          },
+          "irritation": {
+            "mentions": 4,
+            "in_negative": 1,
+            "phrases": [
+              "\"I had ordered 10ml, which I recently started using after purchasing it over a month ago since I had active acne and didn't want to irritate my skin.\" (Amazon.in · Minimalist, 4★)",
+              "\"I Ordered For Scar and black Spots i used 10 days+ and it makes my scar very some prevent so it works if you regularly use , it dos not totally fade scars but it reduces irritation and Balck spots\" (Amazon.in · Minimalist, 3★)",
+              "\"Burning sensation.\" (beminimalist.co, 5★)",
+              "\"Over time, it has significantly reduced redness and minimized the appearance of pores, leaving my skin looking smoother and healthier.\" (beminimalist.co, 5★)"
+            ]
+          },
+          "fragrance": {
+            "mentions": 1,
+            "in_negative": 0,
+            "phrases": [
+              "\"It's easy to use and has negligible fragrance.\" (Amazon.in · Minimalist, 4★)"
+            ]
+          },
+          "breakouts": {
+            "mentions": 3,
+            "in_negative": 0,
+            "phrases": [
+              "\"I’m using minimalist serum for 5 years , it’s so good , works for oily and acne skin , reduce breakouts, I got it for reasonable price\" (Amazon.in · Minimalist, 5★)",
+              "\"Happy with the product, I've been using it for months and my period breakouts have significantly reduced\" (Amazon.in · Minimalist, 5★)",
+              "\"Been using Minimalist Niacinamide serum during my acne phase — it actually helped control oil and calm breakouts without feeling heavy.\" (beminimalist.co, 4★)"
+            ]
+          },
+          "sticky_greasy": {
+            "mentions": 3,
+            "in_negative": 1,
+            "phrases": [
+              "\"bottle open akumbol sticky pole .\" (Amazon.in · Minimalist, 3★)",
+              "\"(I'm lazy to be consistent) but when i was consistent with this serum, it gave me even skin tone, reduced that greasy-oiliness on my face and just lit up my face gradually.\" (beminimalist.co, 5★)",
+              "\"before using this product my face was dull and very oily after using this serum really I don't believe face was different nd natural glowing skin\" (beminimalist.co, 5★)"
+            ]
+          },
+          "slow_results": {
+            "mentions": 4,
+            "in_negative": 2,
+            "phrases": [
+              "\"Didn't see much changes.\" (Amazon.in · Minimalist, 4★)",
+              "\"Not working for me.\" (Amazon.in · Minimalist, 1★)",
+              "\"It get worst I have tiny bumps and pimples there becoming more I trust you guys because of this I order cleanser gentle cleanser serums if they're not working my trust was break\" (beminimalist.co, 5★)",
+              "\"No change in my acne using it since bought religiously at am and pm .\" (beminimalist.co, 2★)"
+            ]
+          },
+          "packaging": {
+            "mentions": 2,
+            "in_negative": 2,
+            "phrases": [
+              "\"The serum left white powder residue and sunscreen gives me spillage and some rubbing left suncream as it was some scrub.\" (beminimalist.co, 1★)",
+              "\"Last time I ordered i got a broken bottle.\" (beminimalist.co, 1★)"
+            ]
+          },
+          "dryness": {
+            "mentions": 3,
+            "in_negative": 1,
+            "phrases": [
+              "\"I ordered nicinamide, but it can’t solve anything and increases acne and unwanted bumps, even I tried in oily and dry skin type people this remains same , it increases problem don’t buy it, very bad p\" (beminimalist.co, 1★)",
+              "\"Yeah skin problem tu nhai hai? Mere skin dry hai\" (beminimalist.co, 4★)",
+              "\"this works wonder on controlling oil and has a mattifying effect on skin and reduces pores not for dry skin peeps\" (beminimalist.co, 4★)"
+            ]
+          },
+          "price_value": {
+            "mentions": 3,
+            "in_negative": 0,
+            "phrases": [
+              "\"superb worth it serum.\" (beminimalist.co, 5★)",
+              "\"Worth it!.\" (beminimalist.co, 4★)",
+              "\"It is quite expensive to buy as a 19 year old college student but because the results are so great i don’t actually mind spending it on something that helps me with my confidence :)\" (beminimalist.co, 5★)"
+            ]
+          }
+        }
+      }
+    },
+    "salicylic acid serum": {
+      "competitor": {
+        "n": 50,
+        "neg": 12,
+        "concerns": {
+          "sticky_greasy": {
+            "mentions": 10,
+            "in_negative": 0,
+            "phrases": [
+              "\"Lightweight Texture: The serum is lightweight and non-greasy, so it absorbs quickly without leaving any sticky feeling.\" (Amazon.in · The Derma Co, 5★)",
+              "\"* The texture is nice and lightweight, and it doesn’t make my face feel heavy or sticky.\" (Amazon.in · The True Therapy, 5★)",
+              "\"Again no cosmetic smells and product has a slightly sticky texture.\" (Amazon.in · The True Therapy, 4★)",
+              "\"And I did buy it after a lot of research, watching reviews on YouTube, nykaa, Amazon, reading articles, and rethinking about a 100 times but it's all worth it bestie buy it now !! Note: it gets just a\" (Amazon.in · The Derma Co, 4★)",
+              "\"The texture is lightweight and absorbs quickly without leaving a tacky feeling on the skin.\" (Amazon.in · The Derma Co, 5★)",
+              "\"The item is really nice, it’s non sticky and gives instant glow on your skin! And I used it for a week and the results started showing! My skin became much brighter and I mainly ordered it for removin\" (Amazon.in · L'Oreal Paris, 4★)"
+            ]
+          },
+          "irritation": {
+            "mentions": 7,
+            "in_negative": 2,
+            "phrases": [
+              "\"Gentle Formula: Even with my sensitive skin, I haven’t experienced any irritation or redness.\" (Amazon.in · The Derma Co, 5★)",
+              "\"Feedback and Refund Request for 2% Kojic Acid Serum – New Formula Issue Dear The Derma Co Team, I am writing to express my deep disappointment with the recent purchase of your 2% Kojic Acid Serum, whi\" (Amazon.in · The Derma Co, 1★)",
+              "\"It's lightweight, absorbs well, and hasn't caused any irritation on my skin.\" (Amazon.in · The True Therapy, 5★)",
+              "\"Its very mild and non irritating.\" (Amazon.in · The True Therapy, 5★)",
+              "\"No irritation found litrelly no irritation but u have to start using it by small proportion to let your skin ready for it then start it daily wise I will advise those already having dry skin should no\" (Amazon.in · The Derma Co, 5★)",
+              "\"Honestly, I was applying this at night, I felt quite burning sensation immediately after applying.\" (Amazon.in · L'Oreal Paris, 3★)"
+            ]
+          },
+          "fragrance": {
+            "mentions": 9,
+            "in_negative": 1,
+            "phrases": [
+              "\"Mild Scent: The serum has a mild scent.\" (Amazon.in · The Derma Co, 5★)",
+              "\"However, the latest serum I purchased (from Amazon, with updated packaging) is completely different in both smell and texture.\" (Amazon.in · The Derma Co, 1★)",
+              "\"The product is non smelly and comfortable .\" (Amazon.in · The Derma Co, 4★)",
+              "\"Again no cosmetic smells and product has a slightly sticky texture.\" (Amazon.in · The True Therapy, 4★)",
+              "\"It is fragrance-free and I consider it value for money especially on discount.\" (Amazon.in · The True Therapy, 5★)",
+              "\"( I used pore stips and now my nose has become oilier :/ ) Once again, I now applied it everyday (except a few skip days because I'm lazy) and I see IMMENSE jump in my skin health, it was so bumpy, te\" (Amazon.in · The Derma Co, 4★)"
+            ]
+          },
+          "dryness": {
+            "mentions": 7,
+            "in_negative": 1,
+            "phrases": [
+              "\"Great for All Skin Types: I have combination skin, but this serum works well without making my skin too oily or dry.\" (Amazon.in · The Derma Co, 5★)",
+              "\"There is another tight cap if u need so, but the cap is tight so we cant remove easily if u use the product daily .\" (Amazon.in · The Derma Co, 4★)",
+              "\"Its not working for me my skin is dry and its not gives me glow nothing difference on my face😑😑😑\" (Amazon.in · The True Therapy, 3★)",
+              "\"there was definitely purging for a few days, but with daily use, my stubborn whiteheads have started to clear up! Note before using this (or any) salicylic acid serum - what works for one skin might n\" (Amazon.in · The Derma Co, 5★)",
+              "\"smooth texture, works well for oily skin, no dryness.\" (Amazon.in · The Derma Co, 5★)",
+              "\"It's a very useful product I am using it since so longa but be careful while using it it may dry your skin if u apply a lot.\" (Amazon.in · The Derma Co, 5★)"
+            ]
+          },
+          "texture": {
+            "mentions": 9,
+            "in_negative": 1,
+            "phrases": [
+              "\"Lightweight Texture: The serum is lightweight and non-greasy, so it absorbs quickly without leaving any sticky feeling.\" (Amazon.in · The Derma Co, 5★)",
+              "\"However, the latest serum I purchased (from Amazon, with updated packaging) is completely different in both smell and texture.\" (Amazon.in · The Derma Co, 1★)",
+              "\"* The texture is nice and lightweight, and it doesn’t make my face feel heavy or sticky.\" (Amazon.in · The True Therapy, 5★)",
+              "\"Again no cosmetic smells and product has a slightly sticky texture.\" (Amazon.in · The True Therapy, 4★)",
+              "\"Like most skincare products, it takes time to show results, so consistency is important.\" (Amazon.in · The True Therapy, 5★)",
+              "\") So now, i did not instantly have the CLEAREST skin instead I had more texture and bumpy skin, my skin was filled with tiny little bumps (it's common for me, I breakout like this on my skin from time\" (Amazon.in · The Derma Co, 4★)"
+            ]
+          },
+          "price_value": {
+            "mentions": 9,
+            "in_negative": 0,
+            "phrases": [
+              "\"Definitely worth it!\" (Amazon.in · The Derma Co, 5★)",
+              "\"ITS LITTLE COSTLY\" (Amazon.in · The Derma Co, 4★)",
+              "\"Its value for money\" (Amazon.in · The True Therapy, 5★)",
+              "\"It is fragrance-free and I consider it value for money especially on discount.\" (Amazon.in · The True Therapy, 5★)",
+              "\"I have been using this serum from may of 2023 and all I can say about it is it's absolutely worth the money !! At first I used to apply it once a week in my pm routine as I was scared how it would rea\" (Amazon.in · The Derma Co, 4★)",
+              "\"Instead of reaching for ridiculously expensive serums, give this a try, works wonderfully.\" (Amazon.in · The Derma Co, 5★)"
+            ]
+          },
+          "packaging": {
+            "mentions": 5,
+            "in_negative": 1,
+            "phrases": [
+              "\"The bottle came unsealed and contents was half filled in it.\" (Amazon.in · The Derma Co, 2★)",
+              "\"The usage is sooo easy there is small dropper like thing in the pack itself for taking the serum and the best part is the filler cones with a caping system so that we can close the bottle of serum wit\" (Amazon.in · The Derma Co, 4★)",
+              "\"Packaging is great and the dropper works fine.\" (Amazon.in · The True Therapy, 4★)",
+              "\"The dropper lets you dispense only what you need without wastage.\" (Amazon.in · The Derma Co, 5★)",
+              "\"Product is ok but not seal\" (Amazon.in · The Derma Co, 4★)"
+            ]
+          },
+          "pilling": {
+            "mentions": 1,
+            "in_negative": 0,
+            "phrases": [
+              "\"The usage is sooo easy there is small dropper like thing in the pack itself for taking the serum and the best part is the filler cones with a caping system so that we can close the bottle of serum wit\" (Amazon.in · The Derma Co, 4★)"
+            ]
+          },
+          "slow_results": {
+            "mentions": 3,
+            "in_negative": 2,
+            "phrases": [
+              "\"No result.\" (Amazon.in · The True Therapy, 3★)",
+              "\"The minimalist salicylic acid serum didn't work for me so i went for this derma co salicylic acid serum.\" (Amazon.in · The Derma Co, 5★)",
+              "\"I didn't see much improvement.\" (Amazon.in · L'Oreal Paris, 3★)"
+            ]
+          },
+          "breakouts": {
+            "mentions": 3,
+            "in_negative": 0,
+            "phrases": [
+              "\"Clogged pores.\" (Amazon.in · The True Therapy, 5★)",
+              "\") So now, i did not instantly have the CLEAREST skin instead I had more texture and bumpy skin, my skin was filled with tiny little bumps (it's common for me, I breakout like this on my skin from time\" (Amazon.in · The Derma Co, 4★)",
+              "\"After consistent use, the texture of my skin felt smoother and breakouts seemed less frequent.\" (Amazon.in · The Derma Co, 5★)"
+            ]
+          }
+        }
+      },
+      "own": {
+        "n": 50,
+        "neg": 11,
+        "concerns": {
+          "slow_results": {
+            "mentions": 2,
+            "in_negative": 1,
+            "phrases": [
+              "\"No results, Haven been using since 2 months.\" (beminimalist.co, 2★)",
+              "\"Till today me experience is very bad My acne is more rigours and no effect of products is scene\" (beminimalist.co, 5★)"
+            ]
+          },
+          "price_value": {
+            "mentions": 2,
+            "in_negative": 1,
+            "phrases": [
+              "\"The products are also super expensive.\" (beminimalist.co, 2★)",
+              "\"Value for money.\" (beminimalist.co, 4★)"
+            ]
+          },
+          "eye_sting_sweat": {
+            "mentions": 1,
+            "in_negative": 0,
+            "phrases": [
+              "\"I started off with this serum twice a week for two weeks to let my skin acclimatize and in just these first few uses I already saw my stubbornest blackheads, which I'd had for months melting off.\" (beminimalist.co, 5★)"
+            ]
+          },
+          "irritation": {
+            "mentions": 1,
+            "in_negative": 0,
+            "phrases": [
+              "\"It is a nice product which absorbs quickly and soothes your irritation.\" (beminimalist.co, 4★)"
+            ]
+          },
+          "texture": {
+            "mentions": 1,
+            "in_negative": 0,
+            "phrases": [
+              "\"I have definitely seen change in my skin texture\" (beminimalist.co, 4★)"
+            ]
+          }
+        }
+      }
+    },
+    "vitamin c serum": {
+      "competitor": {
+        "n": 50,
+        "neg": 9,
+        "concerns": {
+          "sticky_greasy": {
+            "mentions": 16,
+            "in_negative": 0,
+            "phrases": [
+              "\"Bahut hi lightweight aur non-sticky serum hai jo skin me turant absorb ho jata hai.\" (Amazon.in · Pilgrim, 5★)",
+              "\"Overall, it’s good for improving glow and skin texture, but the oily finish may not suit everyone for daytime use.\" (Amazon.in · Pilgrim, 4★)",
+              "\"The serum is lightweight and absorbs well, although it leaves a very slight oily feel on my skin, which is not too noticeable.\" (Amazon.in · Pilgrim, 4★)",
+              "\"Skin feels soft and moisturized without any greasy feeling and also Absorbs very quickly\" (Amazon.in · Pilgrim, 5★)",
+              "\"Lightweight brightening serum non sticky formula.\" (Amazon.in · Chemist at Play, 5★)",
+              "\"The texture is lightweight, absorbs in seconds, and layers seamlessly under moisturizer and sunscreen without pilling or leaving any sticky residue.\" (Amazon.in · Chemist at Play, 5★)"
+            ]
+          },
+          "breakouts": {
+            "mentions": 3,
+            "in_negative": 0,
+            "phrases": [
+              "\"Isse skin par koi irritation ya breakout nahi hua.\" (Amazon.in · Pilgrim, 5★)",
+              "\"Really good initial experience with this serum it absorbs into the skin quickly doesn't feel heavy and layer well under moisturizer and sunscreen without pilling ,give the nice natural glow and hasn't\" (Amazon.in · Chemist at Play, 5★)",
+              "\"After consistent use, I’ve noticed a visible improvement in overall skin texture and a reduction in breakouts.\" (Amazon.in · B01MDTVZTZ, 5★)"
+            ]
+          },
+          "irritation": {
+            "mentions": 7,
+            "in_negative": 0,
+            "phrases": [
+              "\"Isse skin par koi irritation ya breakout nahi hua.\" (Amazon.in · Pilgrim, 5★)",
+              "\"The product felt gentle on my skin, and I did not face any major skin sensitivity or irritation issues while using it.\" (Amazon.in · Pilgrim, 4★)",
+              "\"I especially liked its smooth texture and glow-boosting effect.\" (Amazon.in · Pilgrim, 5★)",
+              "\"This is the best lighting serum, I have black spots on my face due to pimples and my skin was bumpy, itchy and dry like anything.\" (Amazon.in · Hyphen, 5★)",
+              "\"Many Vitamin C serums tend to sting or irritate my skin, but because this one has ceramides, it feels super calming and hydrating.\" (Amazon.in · Chemist at Play, 5★)",
+              "\"- May cause mild irritation if used with too many active ingredients at once.\" (Amazon.in · B01MDTVZTZ, 5★)"
+            ]
+          },
+          "texture": {
+            "mentions": 16,
+            "in_negative": 0,
+            "phrases": [
+              "\"Good Glow & Skin Texture Improvement, But Feels Oily on Face.\" (Amazon.in · Pilgrim, 4★)",
+              "\"I especially liked its smooth texture and glow-boosting effect.\" (Amazon.in · Pilgrim, 5★)",
+              "\"I apply 2–3 drops on a clean, dry face, gently spread it over the skin, and then follow it with a moisturizer.\" (Amazon.in · Pilgrim, 4★)",
+              "\"A little amount is enough, and it spreads easily.\" (Amazon.in · Pilgrim, 5★)",
+              "\"Texture bhi lightweight hai aur daily use karna easy hai.\" (Amazon.in · Pilgrim, 4★)",
+              "\"I had tried ever creme but nothing changed the texture of my skin.\" (Amazon.in · Hyphen, 5★)"
+            ]
+          },
+          "slow_results": {
+            "mentions": 2,
+            "in_negative": 2,
+            "phrases": [
+              "\"Didn't work out for me\" (Amazon.in · Pilgrim, 3★)",
+              "\"It's not working\" (Amazon.in · Chemist at Play, 3★)"
+            ]
+          },
+          "dryness": {
+            "mentions": 3,
+            "in_negative": 0,
+            "phrases": [
+              "\"I apply 2–3 drops on a clean, dry face, gently spread it over the skin, and then follow it with a moisturizer.\" (Amazon.in · Pilgrim, 4★)",
+              "\"This is the best lighting serum, I have black spots on my face due to pimples and my skin was bumpy, itchy and dry like anything.\" (Amazon.in · Hyphen, 5★)",
+              "\"I have used this product for years and helps with skin dryness\" (Amazon.in · B01MDTVZTZ, 5★)"
+            ]
+          },
+          "price_value": {
+            "mentions": 4,
+            "in_negative": 1,
+            "phrases": [
+              "\"The packaging quality is excellent alongside the product quality is worth it.\" (Amazon.in · Hyphen, 5★)",
+              "\"Definitely not worth the money for me.\" (Amazon.in · Hyphen, 1★)",
+              "\"Value for money nice product\" (Amazon.in · Hyphen, 5★)",
+              "\"Great value for money.\" (Amazon.in · B01MDTVZTZ, 5★)"
+            ]
+          },
+          "pilling": {
+            "mentions": 2,
+            "in_negative": 0,
+            "phrases": [
+              "\"Really good initial experience with this serum it absorbs into the skin quickly doesn't feel heavy and layer well under moisturizer and sunscreen without pilling ,give the nice natural glow and hasn't\" (Amazon.in · Chemist at Play, 5★)",
+              "\"The texture is lightweight, absorbs in seconds, and layers seamlessly under moisturizer and sunscreen without pilling or leaving any sticky residue.\" (Amazon.in · Chemist at Play, 5★)"
+            ]
+          },
+          "fragrance": {
+            "mentions": 5,
+            "in_negative": 0,
+            "phrases": [
+              "\"It doesn't have any smell at all, and the formula is smooth and lightweight, so it sinks right into the skin without feeling sticky.\" (Amazon.in · Chemist at Play, 5★)",
+              "\"Pros: - Lightweight, non-greasy formula - Helps control excess oil and shine - Gradually reduces the appearance of acne marks and uneven skin tone - Improves skin texture with regular use - Fragrance-\" (Amazon.in · B01MDTVZTZ, 5★)",
+              "\"And is non sticky and also there are not a single irritation after applying this and have a very ligh and good smell.\" (Amazon.in · B01MDTVZTZ, 5★)",
+              "\"It also reduces dark spots slowly and its very light in weight and i love all Foxtale products fragrances.\" (Amazon.in · FoxTale, 5★)",
+              "\"Recommended for all kinds of skin, non greasy, smooth, no smell, and little amount is required to cover your face\" (Amazon.in · FoxTale, 4★)"
+            ]
+          }
+        }
+      },
+      "own": {
+        "n": 61,
+        "neg": 13,
+        "concerns": {
+          "sticky_greasy": {
+            "mentions": 6,
+            "in_negative": 1,
+            "phrases": [
+              "\"The texture is lightweight, absorbs quickly and does not feel sticky on the skin.\" (Amazon.in · Minimalist, 5★)",
+              "\"This serum is very lightweight, non sticky and easy to use.\" (Amazon.in · Minimalist, 5★)",
+              "\"It absorbs into my skin fast and doesn’t leave my face feeling greasy or heavy.\" (Amazon.in · Minimalist, 5★)",
+              "\"It had a sticky texture, took too long to absorb, and made my skin feel greasy.\" (beminimalist.co, 1★)",
+              "\"Loved the absorption, the serum feels lightweight and sinks into skin quickly without sticky feeling.\" (beminimalist.co, 5★)",
+              "\"This a very good serum it good for oily skin my little concern is that its get little sticky after the use altough i have no.\" (beminimalist.co, 5★)"
+            ]
+          },
+          "irritation": {
+            "mentions": 5,
+            "in_negative": 1,
+            "phrases": [
+              "\"It suited my skin well and did not cause irritation.\" (Amazon.in · Minimalist, 5★)",
+              "\"Came quickly and does what it says, the serum takes time to see any effects as its very gentle, the serum works as a non irritating serum with calming ingredients for sensitive skin.\" (Amazon.in · Minimalist, 4★)",
+              "\"Also not refunded my money I was just irritate to send mails and proofs of it but no any action taken on it\" (beminimalist.co, 5★)",
+              "\"Good for my skin types it not irritate and make by skin glowing.\" (beminimalist.co, 5★)",
+              "\"It burned my skin.\" (beminimalist.co, 1★)"
+            ]
+          },
+          "texture": {
+            "mentions": 7,
+            "in_negative": 2,
+            "phrases": [
+              "\"The texture is lightweight, absorbs quickly and does not feel sticky on the skin.\" (Amazon.in · Minimalist, 5★)",
+              "\"It has a watery texture, absorbs quickly and brightens my face too.\" (Amazon.in · Minimalist, 5★)",
+              "\"Use it constantly If I miss a night I can tell difference in my texture\" (Amazon.in · Minimalist, 5★)",
+              "\"The texture is lightweight and easy to apply, making it a great addition to both my morning and evening skincare routines.\" (Amazon.in · Minimalist, 5★)",
+              "\"My skin didn’t show noticeable improvement in brightness or texture.\" (beminimalist.co, 1★)",
+              "\"It had a sticky texture, took too long to absorb, and made my skin feel greasy.\" (beminimalist.co, 1★)"
+            ]
+          },
+          "price_value": {
+            "mentions": 5,
+            "in_negative": 1,
+            "phrases": [
+              "\"Easy to use and value for money.\" (Amazon.in · Minimalist, 5★)",
+              "\"Good formulation and worth the price.\" (Amazon.in · Minimalist, 5★)",
+              "\"Definitely not worth the money.\" (beminimalist.co, 1★)",
+              "\"i am fully satisfied with the product but it is little bit expensive.\" (beminimalist.co, 5★)",
+              "\"Definitely worth the money!\" (beminimalist.co, 5★)"
+            ]
+          },
+          "packaging": {
+            "mentions": 1,
+            "in_negative": 1,
+            "phrases": [
+              "\"Hi, I ordered a Vitamin C serum from your website, but upon opening the package, I found that the product had leaked inside the box and the serum appears oxidized and unusable.\" (beminimalist.co, 1★)"
+            ]
+          },
+          "breakouts": {
+            "mentions": 1,
+            "in_negative": 0,
+            "phrases": [
+              "\"They're not major breakouts, but the consistency is a bit frustrating.\" (beminimalist.co, 5★)"
+            ]
+          },
+          "slow_results": {
+            "mentions": 2,
+            "in_negative": 1,
+            "phrases": [
+              "\"It didn't worked for me.\" (beminimalist.co, 2★)",
+              "\"First time using their is no results but after 2 days this is effective I am using this produce since fore week and now my skin glow brighter, this change the perspective of thinking what I had.\" (beminimalist.co, 5★)"
+            ]
+          },
+          "dryness": {
+            "mentions": 1,
+            "in_negative": 1,
+            "phrases": [
+              "\"After applying my skin became flaky and in morning my skin was looking reddish it literally removed my upper skin layer.\" (beminimalist.co, 1★)"
+            ]
+          }
+        }
+      }
+    },
+    "moisturizer": {
+      "competitor": {
+        "n": 53,
+        "neg": 4,
+        "concerns": {
+          "fragrance": {
+            "mentions": 13,
+            "in_negative": 1,
+            "phrases": [
+              "\"I don't apply it on my face as I have sensitive combination skin so I try to be careful around products containing fragrances, etc.\" (Amazon.in · NIVEA, 4★)",
+              "\"The scent and the results are lovely.\" (Amazon.in · NIVEA, 4★)",
+              "\"The fragrance is also really fresh and pleasant.\" (Amazon.in · Vaseline, 5★)",
+              "\"The mild fragrance is pleasant without being overpowering.\" (Amazon.in · Vaseline, 5★)",
+              "\"If you like floral strong scent this is a good buy.\" (Amazon.in · Vaseline, 5★)",
+              "\"The scent is pleasant and not overpowering.\" (Amazon.in · Vaseline, 5★)"
+            ]
+          },
+          "dryness": {
+            "mentions": 16,
+            "in_negative": 2,
+            "phrases": [
+              "\"If you have dry body skin, I think it's a really good option for summers but you might require a thicker cream, probably the blue tin version of nivea, for winters.\" (Amazon.in · NIVEA, 4★)",
+              "\"Best for dry to normal skin, it reduces acnes, and makes skin soft\" (Amazon.in · RE' EQUIL, 5★)",
+              "\"Suitable for dry skin.\" (Amazon.in · RE' EQUIL, 5★)",
+              "\"For dry skin.\" (Amazon.in · RE' EQUIL, 3★)",
+              "\"Amazing product, worth rebuying, moisturizers the face well and for a long period,best for dry faces,might be too oily for some,lightweight easy to apply\" (Amazon.in · RE' EQUIL, 4★)",
+              "\"It is good for dry AC skin we get in UAE.\" (Amazon.in · RE' EQUIL, 5★)"
+            ]
+          },
+          "texture": {
+            "mentions": 13,
+            "in_negative": 0,
+            "phrases": [
+              "\"If you have dry body skin, I think it's a really good option for summers but you might require a thicker cream, probably the blue tin version of nivea, for winters.\" (Amazon.in · NIVEA, 4★)",
+              "\"It is not oily to texture that much.\" (Amazon.in · RE' EQUIL, 5★)",
+              "\"The consistency is thick and super moisturising.\" (Amazon.in · RE' EQUIL, 5★)",
+              "\"Thick cream but non greasy.\" (Amazon.in · RE' EQUIL, 5★)",
+              "\"Absolutely loved the Vaseline Gluta-Hya Dewy Radiance Lotion! ✨ The texture is light, non-sticky, and absorbs quickly into the skin.\" (Amazon.in · Vaseline, 5★)",
+              "\"Finally, I switched back to this product and to my great surprise, those comedones started clearing and my skin texture improved in mere 2 uses! I don't understand the science behind this, but this ha\" (Amazon.in · Vaseline, 5★)"
+            ]
+          },
+          "sticky_greasy": {
+            "mentions": 14,
+            "in_negative": 1,
+            "phrases": [
+              "\"The product is good if you want a moisturized skin, without any oily feeling left on your skin.\" (Amazon.in · RE' EQUIL, 4★)",
+              "\"Thick cream but non greasy.\" (Amazon.in · RE' EQUIL, 5★)",
+              "\"It's very hydrating and not greasy.\" (Amazon.in · RE' EQUIL, 5★)",
+              "\"Light and non-sticky.\" (Amazon.in · Vaseline, 5★)",
+              "\"Very good product non sticky it's smooth and look like bright\" (Amazon.in · Vaseline, 5★)",
+              "\"The texture is light and absorbs quickly so it does not leave a greasy layer or make my skin feel heavy.\" (Amazon.in · Vaseline, 5★)"
+            ]
+          },
+          "packaging": {
+            "mentions": 2,
+            "in_negative": 0,
+            "phrases": [
+              "\"100% original sealed package.\" (Amazon.in · RE' EQUIL, 5★)",
+              "\"Great to apply before consealer or foundation\" (Amazon.in · RE' EQUIL, 5★)"
+            ]
+          },
+          "irritation": {
+            "mentions": 9,
+            "in_negative": 1,
+            "phrases": [
+              "\"When I finished it up, I decide to switch back to Nivea and this time, it gave me bad comedones all over my face.\" (Amazon.in · Vaseline, 5★)",
+              "\"I just add some oil and that gives me the dewy lasting effect.\" (Amazon.in · Vaseline, 5★)",
+              "\"I cancelled the order thinking it was just a glitch but see it’s stilll a lengthy wait for it.\" (Amazon.in · Vaseline, 5★)",
+              "\"Highly recommended for oily and acne-prone skin to calm redness and control excess sebum without greasiness.\" (Amazon.in · DOT & KEY, 5★)",
+              "\"best moisturizer for dry and chapped skin PERFECT FOR WINTERS and even if u have sensitive or combination skin this works and i have been using this since 2 years makes skin soft and plumper no fragra\" (Amazon.in · DOT & KEY, 5★)",
+              "\"The cream has a rich texture and provides deep, long-lasting hydration without making the skin feel excessively dry again after a few hours.\" (Amazon.in · Cetaphil, 5★)"
+            ]
+          },
+          "pilling": {
+            "mentions": 1,
+            "in_negative": 0,
+            "phrases": [
+              "\"Few other pros: Awesome translucent texture, absorbs quickly into skin, gives a nice dewy look instantly, non irritating, doesn't clog pores and gives you comedones or pimples, doesn't feel like there\" (Amazon.in · Vaseline, 5★)"
+            ]
+          },
+          "eye_sting_sweat": {
+            "mentions": 1,
+            "in_negative": 0,
+            "phrases": [
+              "\"It just melts in and leaves my skin feeling fresh and hydrated.\" (Amazon.in · Vaseline, 5★)"
+            ]
+          },
+          "breakouts": {
+            "mentions": 3,
+            "in_negative": 0,
+            "phrases": [
+              "\"Saves me from using perfume And I'm sensitive on my face I tried it and didn't break out.\" (Amazon.in · Vaseline, 5★)",
+              "\"Gives a plump finish, but can feel heavy or cause clogged pores for very oily or acne-prone skin types.\" (Amazon.in · DOT & KEY, 5★)",
+              "\"No excess oiliness, no clogged feeling, no breakouts.\" (Amazon.in · Cetaphil, 5★)"
+            ]
+          },
+          "white_cast": {
+            "mentions": 1,
+            "in_negative": 0,
+            "phrases": [
+              "\"Final Thoughts Cetaphil Moisturizing Cream isn’t flashy or trendy—but it’s reliable, comforting, and effective.\" (Amazon.in · Cetaphil, 5★)"
+            ]
+          },
+          "price_value": {
+            "mentions": 1,
+            "in_negative": 0,
+            "phrases": [
+              "\"I remember hesitating because it felt a little expensive for a moisturizer.\" (Amazon.in · Cetaphil, 5★)"
+            ]
+          }
+        }
+      },
+      "own": {
+        "n": 50,
+        "neg": 14,
+        "concerns": {
+          "sticky_greasy": {
+            "mentions": 10,
+            "in_negative": 2,
+            "phrases": [
+              "\"It has a very smooth texture and spreads easily on the skin without feeling heavy or sticky.\" (beminimalist.co, 5★)",
+              "\"It’s very lightweight and doesn’t feel sticky or oily on the face, which I like a lot.\" (beminimalist.co, 5★)",
+              "\"Not for oily after 1 hour you feel super oily and greasey\" (beminimalist.co, 3★)",
+              "\"Non greasy and great base and keeps skin hydrated for long time.\" (beminimalist.co, 4★)",
+              "\"I really loveeee the moisturizer not only it is hella moisturising but also non sticky.\" (beminimalist.co, 5★)",
+              "\"I’ve been using this moisturizer daily and it’s been great for keeping my skin hydrated without feeling greasy.\" (beminimalist.co, 5★)"
+            ]
+          },
+          "texture": {
+            "mentions": 6,
+            "in_negative": 1,
+            "phrases": [
+              "\"It has a very smooth texture and spreads easily on the skin without feeling heavy or sticky.\" (beminimalist.co, 5★)",
+              "\"It has a balm-like, lightweight consistency that absorbs quickly into the skin and keeps it hydrated.\" (beminimalist.co, 5★)",
+              "\"Bad experience with minimalists First time order it's product, also from official website still doesn't like the texture and quality of the product.\" (beminimalist.co, 2★)",
+              "\"I really like the texture of the moisturizer.\" (beminimalist.co, 5★)",
+              "\"The texture is lightweight, absorbs quickly, and layers well under sunscreen and makeup.\" (beminimalist.co, 5★)",
+              "\"The texture is like a very thick gel.\" (beminimalist.co, 5★)"
+            ]
+          },
+          "fragrance": {
+            "mentions": 4,
+            "in_negative": 2,
+            "phrases": [
+              "\"It smells so much like chemicals.\" (beminimalist.co, 1★)",
+              "\"There’s no strong fragrance, which is a plus.\" (beminimalist.co, 5★)",
+              "\"I love that it is almost odorless.\" (beminimalist.co, 5★)",
+              "\"smell is too bad .\" (beminimalist.co, 1★)"
+            ]
+          },
+          "breakouts": {
+            "mentions": 4,
+            "in_negative": 3,
+            "phrases": [
+              "\"My skin feels hydrated throughout the day, and I didn’t notice any breakouts after using it.\" (beminimalist.co, 5★)",
+              "\"Worst experience after applying your products its irritated my skin and my skin appears Breakout and small pimples\" (beminimalist.co, 2★)",
+              "\"I have ordered this moisturiser as it is a gel based moisturiser so it will be light weight for my skin in summers but it is not at all light weight like other gel based moisturiser …i have been using\" (beminimalist.co, 2★)",
+              "\"Giving comedogenic acne.\" (beminimalist.co, 1★)"
+            ]
+          },
+          "irritation": {
+            "mentions": 2,
+            "in_negative": 1,
+            "phrases": [
+              "\"Worst experience after applying your products its irritated my skin and my skin appears Breakout and small pimples\" (beminimalist.co, 2★)",
+              "\"good for daily use , very gentle , very fast absorbing and long lasting , light weight ,\" (beminimalist.co, 5★)"
+            ]
+          },
+          "dryness": {
+            "mentions": 2,
+            "in_negative": 0,
+            "phrases": [
+              "\"I expect it to be light and dry quickly but it actually takes quite long to dry.\" (beminimalist.co, 5★)",
+              "\"Great for dry skin.\" (beminimalist.co, 5★)"
+            ]
+          },
+          "slow_results": {
+            "mentions": 1,
+            "in_negative": 1,
+            "phrases": [
+              "\"Wasted money.\" (beminimalist.co, 1★)"
+            ]
+          }
+        }
+      }
+    },
+    "face wash / cleanser": {
+      "competitor": {
+        "n": 49,
+        "neg": 8,
+        "concerns": {
+          "dryness": {
+            "mentions": 7,
+            "in_negative": 0,
+            "phrases": [
+              "\"Awesome quality and and effective at removing dirt, with good compatibility for sensitive and dry skin types.\" (Amazon.in · Cetaphil, 5★)",
+              "\"The combination of Salicylic Acid and Niacinamide does a great job at deep cleansing pores, controlling excess oil, and reducing active pimples without overly drying out the face.\" (Amazon.in · The Derma Co, 4★)",
+              "\"Cleans the skin well without making it feel too dry.\" (Amazon.in · The Derma Co, 5★)",
+              "\"The updated formula with five parts of neem provides a deep yet gentle cleanse, effectively removing excess oil, dirt, and impurities without leaving my skin feeling dry or tight.\" (Amazon.in · Himalaya, 5★)",
+              "\"Perfect for sensitive skin! 🧴 Gentle, non-drying, and leaves my face feeling clean.\" (Amazon.in · DERMATOUCH, 4★)",
+              "\"However, if you have very dry or sensitive skin, you may want to follow it with a moisturiser because everyone's skin can react differently.\" (Amazon.in · POND'S, 4★)"
+            ]
+          },
+          "price_value": {
+            "mentions": 2,
+            "in_negative": 0,
+            "phrases": [
+              "\"Also value for money.\" (Amazon.in · Cetaphil, 5★)",
+              "\"The large 400 ml bottle offers excellent value for money, lasting a long time even with twice-daily use.\" (Amazon.in · Himalaya, 5★)"
+            ]
+          },
+          "irritation": {
+            "mentions": 2,
+            "in_negative": 0,
+            "phrases": [
+              "\"No fragrance so no irritation.\" (Amazon.in · Cetaphil, 5★)",
+              "\"The large 400 ml bottle offers excellent value for money, lasting a long time even with twice-daily use.\" (Amazon.in · Himalaya, 5★)"
+            ]
+          },
+          "fragrance": {
+            "mentions": 4,
+            "in_negative": 1,
+            "phrases": [
+              "\"No fragrance so no irritation.\" (Amazon.in · Cetaphil, 5★)",
+              "\"This item is made in india but I didn't see any difference in results from the original one, so it's good, just a little bit different in scent but this one is better because it's scent free.\" (Amazon.in · Cetaphil, 4★)",
+              "\"Has a smell.\" (Amazon.in · Cetaphil, 1★)",
+              "\"Smell was not so good but the product is 10 on 10.\" (Amazon.in · The Derma Co, 5★)"
+            ]
+          },
+          "texture": {
+            "mentions": 4,
+            "in_negative": 0,
+            "phrases": [
+              "\"Achcha face wash hai skin ko smooth rakhta Hai Harsh nahin hone deta Hai lightweight Hai, sensitive skin ke liye bahut achcha hai iske bad agar moisturizer nahin bhi lagaye to bhi kam Karega, texture \" (Amazon.in · Cetaphil, 4★)",
+              "\"The texture is smooth, foams up nicely, and leaves the skin feeling clean and refreshed.\" (Amazon.in · The Derma Co, 4★)",
+              "\"This work at oli skin non greasy texture bhi smooth hai\" (Amazon.in · DERMATOUCH, 5★)",
+              "\"The face wash has a creamy texture and produces a good amount of lather.\" (Amazon.in · POND'S, 4★)"
+            ]
+          },
+          "slow_results": {
+            "mentions": 2,
+            "in_negative": 1,
+            "phrases": [
+              "\"My recomendation is not to waste money\" (Amazon.in · Cetaphil, 2★)",
+              "\"This item is made in india but I didn't see any difference in results from the original one, so it's good, just a little bit different in scent but this one is better because it's scent free.\" (Amazon.in · Cetaphil, 4★)"
+            ]
+          },
+          "breakouts": {
+            "mentions": 2,
+            "in_negative": 0,
+            "phrases": [
+              "\"Very effective for oil control and active breakouts – solid face wash!.\" (Amazon.in · The Derma Co, 4★)",
+              "\"With regular use, I noticed fewer pimples and breakouts, and my skin feels much cleaner and refreshed throughout the day.\" (Amazon.in · Himalaya, 5★)"
+            ]
+          },
+          "sticky_greasy": {
+            "mentions": 1,
+            "in_negative": 0,
+            "phrases": [
+              "\"This work at oli skin non greasy texture bhi smooth hai\" (Amazon.in · DERMATOUCH, 5★)"
+            ]
+          },
+          "eye_sting_sweat": {
+            "mentions": 1,
+            "in_negative": 0,
+            "phrases": [
+              "\"It cleans the face properly and removes dirt, sweat and excess oil, leaving the skin feeling fresh and clean after washing.\" (Amazon.in · POND'S, 4★)"
+            ]
+          }
+        }
+      },
+      "own": {
+        "n": 63,
+        "neg": 22,
+        "concerns": {
+          "dryness": {
+            "mentions": 10,
+            "in_negative": 2,
+            "phrases": [
+              "\"I also like that my skin continues to feel fresh for a good amount of time instead of feeling dry immediately.\" (Amazon.in · Minimalist, 4★)",
+              "\"It’s gentle on the skin and doesn’t leave it feeling dry.\" (Amazon.in · Minimalist, 5★)",
+              "\"Around 2 weeks of usage daily a lot less redness less acne also much less oil on skin I use it before applying moisturizer so it doesnt dry out my skin also very cheap\" (Amazon.in · Minimalist, 5★)",
+              "\"Using it everyday would completely dry out my skin.\" (Amazon.in · Minimalist, 5★)",
+              "\"Salicylic acid 2% is generally drying but this is just extreme.\" (Amazon.in · Minimalist, 1★)",
+              "\"It gives a deep clean and helps with oil control without making the skin feel dry or tight after washing.\" (beminimalist.co, 5★)"
+            ]
+          },
+          "fragrance": {
+            "mentions": 3,
+            "in_negative": 3,
+            "phrases": [
+              "\"It’s good but after a week using this cleanser again the pimples are growing up and I feel good about myself and this cleanser is really Fragrance free and Gentle.\" (Amazon.in · Minimalist, 3★)",
+              "\"It smells and increased my sebum production\" (beminimalist.co, 1★)",
+              "\"I kinda doesnt like the smell at all and also didnt change anything after using\" (beminimalist.co, 3★)"
+            ]
+          },
+          "irritation": {
+            "mentions": 2,
+            "in_negative": 0,
+            "phrases": [
+              "\"Around 2 weeks of usage daily a lot less redness less acne also much less oil on skin I use it before applying moisturizer so it doesnt dry out my skin also very cheap\" (Amazon.in · Minimalist, 5★)",
+              "\"Please do keep in mind that selection of this facewash for you should be based on your skin type , if its oily or combination If you skin is already very dry and the facewash will cause it to dry even\" (beminimalist.co, 5★)"
+            ]
+          },
+          "pilling": {
+            "mentions": 1,
+            "in_negative": 1,
+            "phrases": [
+              "\"My skin started flaking right after one use and my hand palms got extremely dry from just washing my face.\" (Amazon.in · Minimalist, 1★)"
+            ]
+          },
+          "packaging": {
+            "mentions": 2,
+            "in_negative": 2,
+            "phrases": [
+              "\"It spilled inside the sealed box.\" (Amazon.in · Minimalist, 1★)",
+              "\"damaged still today it is leaking\" (beminimalist.co, 1★)"
+            ]
+          },
+          "texture": {
+            "mentions": 4,
+            "in_negative": 1,
+            "phrases": [
+              "\"It is really a heaven for people with acnes and it also somehow promote the skin texture I just love this product But after listening all this please don't raise price\" (beminimalist.co, 5★)",
+              "\"And I would really love if you create a product which deals with more than one type of skin problems, such as acne and uneven skin tone or uneven skin texture and dull skin.\" (beminimalist.co, 5★)",
+              "\"After certain days, it has changed it's texture turning into very thin liquid.\" (beminimalist.co, 5★)",
+              "\"It's great at its job, but I think I need something else to clean the pores and maintain the texture.\" (beminimalist.co, 3★)"
+            ]
+          },
+          "slow_results": {
+            "mentions": 1,
+            "in_negative": 1,
+            "phrases": [
+              "\"It has not work as i expected I have stop using the face wash because I had i get no results from it pleasure some quality and results because it has not justified it's price\" (beminimalist.co, 1★)"
+            ]
+          },
+          "price_value": {
+            "mentions": 1,
+            "in_negative": 0,
+            "phrases": [
+              "\"Worth it !!!!.\" (beminimalist.co, 5★)"
+            ]
+          }
+        }
+      }
+    },
+    "pigmentation serum": {
+      "competitor": {
+        "n": 54,
+        "neg": 10,
+        "concerns": {
+          "sticky_greasy": {
+            "mentions": 13,
+            "in_negative": 0,
+            "phrases": [
+              "\"Bahut hi lightweight aur non-sticky serum hai jo skin me turant absorb ho jata hai.\" (Amazon.in · Pilgrim, 5★)",
+              "\"Overall, it’s good for improving glow and skin texture, but the oily finish may not suit everyone for daytime use.\" (Amazon.in · Pilgrim, 4★)",
+              "\"The serum is lightweight and absorbs well, although it leaves a very slight oily feel on my skin, which is not too noticeable.\" (Amazon.in · Pilgrim, 4★)",
+              "\"Skin feels soft and moisturized without any greasy feeling and also Absorbs very quickly\" (Amazon.in · Pilgrim, 5★)",
+              "\"Many users praise its lightweight, non-sticky formula that absorbs quickly and leaves the skin feeling soft and hydrated.\" (Amazon.in · vilvah STORE, 5★)",
+              "\"Lightweight brightening serum non sticky formula.\" (Amazon.in · Chemist at Play, 5★)"
+            ]
+          },
+          "breakouts": {
+            "mentions": 3,
+            "in_negative": 0,
+            "phrases": [
+              "\"Isse skin par koi irritation ya breakout nahi hua.\" (Amazon.in · Pilgrim, 5★)",
+              "\"Really good initial experience with this serum it absorbs into the skin quickly doesn't feel heavy and layer well under moisturizer and sunscreen without pilling ,give the nice natural glow and hasn't\" (Amazon.in · Chemist at Play, 5★)",
+              "\"After consistent use, I’ve noticed a visible improvement in overall skin texture and a reduction in breakouts.\" (Amazon.in · B01MDTVZTZ, 5★)"
+            ]
+          },
+          "irritation": {
+            "mentions": 8,
+            "in_negative": 0,
+            "phrases": [
+              "\"Isse skin par koi irritation ya breakout nahi hua.\" (Amazon.in · Pilgrim, 5★)",
+              "\"The product felt gentle on my skin, and I did not face any major skin sensitivity or irritation issues while using it.\" (Amazon.in · Pilgrim, 4★)",
+              "\"I especially liked its smooth texture and glow-boosting effect.\" (Amazon.in · Pilgrim, 5★)",
+              "\"This is the best lighting serum, I have black spots on my face due to pimples and my skin was bumpy, itchy and dry like anything.\" (Amazon.in · Hyphen, 5★)",
+              "\"there is two small burn mark on my face from last 1 year.\" (Amazon.in · vilvah STORE, 5★)",
+              "\"Many Vitamin C serums tend to sting or irritate my skin, but because this one has ceramides, it feels super calming and hydrating.\" (Amazon.in · Chemist at Play, 5★)"
+            ]
+          },
+          "texture": {
+            "mentions": 13,
+            "in_negative": 0,
+            "phrases": [
+              "\"Good Glow & Skin Texture Improvement, But Feels Oily on Face.\" (Amazon.in · Pilgrim, 4★)",
+              "\"I especially liked its smooth texture and glow-boosting effect.\" (Amazon.in · Pilgrim, 5★)",
+              "\"I apply 2–3 drops on a clean, dry face, gently spread it over the skin, and then follow it with a moisturizer.\" (Amazon.in · Pilgrim, 4★)",
+              "\"A little amount is enough, and it spreads easily.\" (Amazon.in · Pilgrim, 5★)",
+              "\"Texture bhi lightweight hai aur daily use karna easy hai.\" (Amazon.in · Pilgrim, 4★)",
+              "\"I had tried ever creme but nothing changed the texture of my skin.\" (Amazon.in · Hyphen, 5★)"
+            ]
+          },
+          "slow_results": {
+            "mentions": 4,
+            "in_negative": 3,
+            "phrases": [
+              "\"Didn't work out for me\" (Amazon.in · Pilgrim, 3★)",
+              "\"However, effectiveness and value for money receive mixed reviews, with some finding it highly effective and worth the price, while others report minimal or no effect\" (Amazon.in · vilvah STORE, 5★)",
+              "\"Not suitable for me no visible changes I bought three bottle but no effect even iam using all the four basic skin care cleansing moistu ' serum.\" (Amazon.in · vilvah STORE, 3★)",
+              "\"It's not working\" (Amazon.in · Chemist at Play, 3★)"
+            ]
+          },
+          "dryness": {
+            "mentions": 3,
+            "in_negative": 0,
+            "phrases": [
+              "\"I apply 2–3 drops on a clean, dry face, gently spread it over the skin, and then follow it with a moisturizer.\" (Amazon.in · Pilgrim, 4★)",
+              "\"This is the best lighting serum, I have black spots on my face due to pimples and my skin was bumpy, itchy and dry like anything.\" (Amazon.in · Hyphen, 5★)",
+              "\"I have used this product for years and helps with skin dryness\" (Amazon.in · B01MDTVZTZ, 5★)"
+            ]
+          },
+          "price_value": {
+            "mentions": 5,
+            "in_negative": 1,
+            "phrases": [
+              "\"The packaging quality is excellent alongside the product quality is worth it.\" (Amazon.in · Hyphen, 5★)",
+              "\"Definitely not worth the money for me.\" (Amazon.in · Hyphen, 1★)",
+              "\"Value for money nice product\" (Amazon.in · Hyphen, 5★)",
+              "\"However, effectiveness and value for money receive mixed reviews, with some finding it highly effective and worth the price, while others report minimal or no effect\" (Amazon.in · vilvah STORE, 5★)",
+              "\"Great value for money.\" (Amazon.in · B01MDTVZTZ, 5★)"
+            ]
+          },
+          "packaging": {
+            "mentions": 1,
+            "in_negative": 1,
+            "phrases": [
+              "\"Unsealed.\" (Amazon.in · vilvah STORE, 1★)"
+            ]
+          },
+          "pilling": {
+            "mentions": 2,
+            "in_negative": 0,
+            "phrases": [
+              "\"Really good initial experience with this serum it absorbs into the skin quickly doesn't feel heavy and layer well under moisturizer and sunscreen without pilling ,give the nice natural glow and hasn't\" (Amazon.in · Chemist at Play, 5★)",
+              "\"The texture is lightweight, absorbs in seconds, and layers seamlessly under moisturizer and sunscreen without pilling or leaving any sticky residue.\" (Amazon.in · Chemist at Play, 5★)"
+            ]
+          },
+          "fragrance": {
+            "mentions": 3,
+            "in_negative": 0,
+            "phrases": [
+              "\"It doesn't have any smell at all, and the formula is smooth and lightweight, so it sinks right into the skin without feeling sticky.\" (Amazon.in · Chemist at Play, 5★)",
+              "\"Pros: - Lightweight, non-greasy formula - Helps control excess oil and shine - Gradually reduces the appearance of acne marks and uneven skin tone - Improves skin texture with regular use - Fragrance-\" (Amazon.in · B01MDTVZTZ, 5★)",
+              "\"And is non sticky and also there are not a single irritation after applying this and have a very ligh and good smell.\" (Amazon.in · B01MDTVZTZ, 5★)"
+            ]
+          }
+        }
+      },
+      "own": {
+        "n": 50,
+        "neg": 22,
+        "concerns": {
+          "slow_results": {
+            "mentions": 4,
+            "in_negative": 4,
+            "phrases": [
+              "\"The product is also very costly and it didn't work well.\" (beminimalist.co, 1★)",
+              "\"Completely waste of money.\" (beminimalist.co, 1★)",
+              "\"No change 👎.\" (beminimalist.co, 2★)",
+              "\"No effect on pigmentation No glow.\" (beminimalist.co, 1★)"
+            ]
+          },
+          "price_value": {
+            "mentions": 2,
+            "in_negative": 1,
+            "phrases": [
+              "\"The product is also very costly and it didn't work well.\" (beminimalist.co, 1★)",
+              "\"This product is actually very good, can feel like a slow process but result are worth it So gentle on skin\" (beminimalist.co, 5★)"
+            ]
+          },
+          "packaging": {
+            "mentions": 4,
+            "in_negative": 2,
+            "phrases": [
+              "\"i got a broken package of hair serum in my last purchase .\" (beminimalist.co, 5★)",
+              "\"Improperly sealed empty bottle received.\" (beminimalist.co, 1★)",
+              "\"when I received the product entire serum was leaked.\" (beminimalist.co, 1★)",
+              "\"Small broken.\" (beminimalist.co, 4★)"
+            ]
+          },
+          "texture": {
+            "mentions": 3,
+            "in_negative": 0,
+            "phrases": [
+              "\"Like the texture.\" (beminimalist.co, 4★)",
+              "\"Consistency is key.\" (beminimalist.co, 4★)",
+              "\"I have been using since 2 years coz iam having acne [consistently] and alpha arbutin is the only product i use and that will be helpful for fading dark spots and uneven skin texture , go for it .\" (beminimalist.co, 5★)"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "concern_map": {
+    "multi-vitamin-spf-50": [
+      {
+        "concern": "texture",
+        "competitor_mentions": 17,
+        "competitor_in_negative": 3,
+        "own_mentions": 4,
+        "own_in_negative": 2,
+        "answered_by": {
+          "id": "F3",
+          "text": "A light weight, moisturiser-meets-sunscreen. This broad spectrum SPF 50 with PA++++ rating, has a very light texture that spreads easily & disappears leaving behind a natural, moisturised, non-shiny l"
+        },
+        "customer_phrases": [
+          "\"I'd say it's a good everyday sunscreen, especially if you have oily skin and hate thick or greasy formulas.\" (Amazon.in · Deconstruct, 5★)",
+          "\"I’ve been using this sunscreen as part of my daily routine and particularly like its lightweight gel texture.\" (Amazon.in · Deconstruct, 5★)",
+          "\"Its ultra-lightweight texture absorbs quickly without a greasy finish or white cast.\" (Amazon.in · Deconstruct, 4★)",
+          "\"The second you step outside, it forms this thick greasy layer that makes you sweat like crazy, as if your pores have been sealed shut.\" (beminimalist.co, 1★)",
+          "\"Worst consistency.\" (beminimalist.co, 1★)"
+        ]
+      },
+      {
+        "concern": "dryness",
+        "competitor_mentions": 7,
+        "competitor_in_negative": 2,
+        "own_mentions": 6,
+        "own_in_negative": 5,
+        "answered_by": {
+          "id": "F3",
+          "text": "A light weight, moisturiser-meets-sunscreen. This broad spectrum SPF 50 with PA++++ rating, has a very light texture that spreads easily & disappears leaving behind a natural, moisturised, non-shiny l"
+        },
+        "customer_phrases": [
+          "\"Must-have for dry skin.\" (Amazon.in · RE' EQUIL, 5★)",
+          "\"Good product, whitening sunscreen, creamy, but works only for few hours for my oily skin, not sure about dry and normal skin\" (Amazon.in · RE' EQUIL, 4★)",
+          "\"Not matte and not dry touch.\" (Amazon.in · RE' EQUIL, 1★)",
+          "\"Only for very dry and dry skin type.\" (beminimalist.co, 1★)",
+          "\"White cast and dry.\" (beminimalist.co, 3★)"
+        ]
+      },
+      {
+        "concern": "sticky_greasy",
+        "competitor_mentions": 24,
+        "competitor_in_negative": 1,
+        "own_mentions": 8,
+        "own_in_negative": 4,
+        "answered_by": {
+          "id": "F3",
+          "text": "A light weight, moisturiser-meets-sunscreen. This broad spectrum SPF 50 with PA++++ rating, has a very light texture that spreads easily & disappears leaving behind a natural, moisturised, non-shiny l"
+        },
+        "customer_phrases": [
+          "\"I'd say it's a good everyday sunscreen, especially if you have oily skin and hate thick or greasy formulas.\" (Amazon.in · Deconstruct, 5★)",
+          "\"It spreads easily and absorbs quickly without leaving the heavy, greasy feeling that some sunscreens can have.\" (Amazon.in · Deconstruct, 5★)",
+          "\"Its ultra-lightweight texture absorbs quickly without a greasy finish or white cast.\" (Amazon.in · Deconstruct, 4★)",
+          "\"The second you step outside, it forms this thick greasy layer that makes you sweat like crazy, as if your pores have been sealed shut.\" (beminimalist.co, 1★)",
+          "\"Also you’ll feel heavy on skin after this sunscreen I don’t recommend at all…….\" (beminimalist.co, 1★)"
+        ]
+      },
+      {
+        "concern": "slow_results",
+        "competitor_mentions": 3,
+        "competitor_in_negative": 2,
+        "own_mentions": 2,
+        "own_in_negative": 1,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"It has become extremely watery and ineffective, making it feel like a waste of money.\" (Amazon.in · The Derma Co, 1★)",
+          "\"My bronzer which i have been using for three years ended up near my jaw line: i was bitterly disappointed a total waste of money\" (Amazon.in · RE' EQUIL, 1★)",
+          "\"Though i didn't see any \"vitsmin c\" effect means no change in hyperpigmentation, overall any skin person can try it in warm weather\" (Amazon.in · DOT & KEY, 4★)",
+          "\"It's great when I used it for the first time the result is great I'd say amazing my skin start glowing but in my second purchase I don't know wheather the product is expired or something else is Missi\" (beminimalist.co, 5★)",
+          "\"I order whole from cleanser to spf nothing working only cleanser of salicylic acid is good, rest money got wasted\" (beminimalist.co, 1★)"
+        ]
+      },
+      {
+        "concern": "white_cast",
+        "competitor_mentions": 22,
+        "competitor_in_negative": 1,
+        "own_mentions": 11,
+        "own_in_negative": 7,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Its ultra-lightweight texture absorbs quickly without a greasy finish or white cast.\" (Amazon.in · Deconstruct, 4★)",
+          "\"It blends quickly and completely transparently into all skin tones, leaving a clean, fresh finish with no chalky resid.\" (Amazon.in · Deconstruct, 5★)",
+          "\"Really love the sunscreen , very lightweight and non greasy, also there is no white cast and it seems very lightweight on my skin and its been 2 weeks since i m using this and there is no reaction or \" (Amazon.in · Deconstruct, 4★)",
+          "\"It leaves such a horrible white cast.\" (beminimalist.co, 1★)",
+          "\"It was an amazing product especially for oily skin no white casting and protecting the skin very good and also my skin has started reducing dark spots as well as pigmentation\" (beminimalist.co, 5★)"
+        ]
+      },
+      {
+        "concern": "irritation",
+        "competitor_mentions": 7,
+        "competitor_in_negative": 1,
+        "own_mentions": 3,
+        "own_in_negative": 1,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"it uses modern filters like Tinosorb S, Tinosorb M, Uvinul A Plus, and Uvinul T 150 which ensures the sunscreen filters do not break down rapidly when exposed to the sun, delivering robust protection \" (Amazon.in · Deconstruct, 4★)",
+          "\"itsprovide durable, long-lasting broad-spectrum coverage without breaking down under sunlight.\" (Amazon.in · Deconstruct, 5★)",
+          "\"along with that it contains antioxidants like Niacinamide, Capsicum Annuum Fruit Extract, Tocopheryl Acetate to safeguard the skin from external pollutants, humectants like Glycerin and Sodium Hyaluro\" (Amazon.in · The Derma Co, 4★)",
+          "\"It was an amazing product especially for oily skin no white casting and protecting the skin very good and also my skin has started reducing dark spots as well as pigmentation\" (beminimalist.co, 5★)",
+          "\"As someone with sensitive skin, I am always on the lookout for products that offer high protection without causing irritation, and this sunscreen has exceeded all my expectations.\" (beminimalist.co, 5★)"
+        ]
+      },
+      {
+        "concern": "fragrance",
+        "competitor_mentions": 4,
+        "competitor_in_negative": 1,
+        "own_mentions": 2,
+        "own_in_negative": 1,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"it does not contain any fragrance, so less likely to irritate sensitive skin.\" (Amazon.in · The Derma Co, 4★)",
+          "\"It has mild smell.\" (Amazon.in · RE' EQUIL, 3★)",
+          "\"not only affordable but SUCH an elegant formula!! light and fluid, no harsh scent, no pilling or flaking, not heavy or greasy and it doesn't sting my skin at all.\" (Amazon.in · WishCare, 5★)",
+          "\"What's the purpose of retinol in a sunscreen, I thought it was minimal and clean, not take everything on earth in one tube Has awful smell, some powdery or something similar Overall, extremely disappo\" (beminimalist.co, 1★)",
+          "\"Fragrance-Free & Gentle: As someone with a sensitive nose and skin, I appreciate that this sunscreen is fragrance-free and formulated with gentle ingredients and doesn't cause any breakouts or irritat\" (beminimalist.co, 5★)"
+        ]
+      },
+      {
+        "concern": "price_value",
+        "competitor_mentions": 1,
+        "competitor_in_negative": 1,
+        "own_mentions": 1,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Not worth the money\" (Amazon.in · RE' EQUIL, 3★)",
+          "\"Value for money.\" (beminimalist.co, 5★)"
+        ]
+      },
+      {
+        "concern": "breakouts",
+        "competitor_mentions": 5,
+        "competitor_in_negative": 0,
+        "own_mentions": 2,
+        "own_in_negative": 1,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"It also doesn't clog pores or cause breakouts, which is a major advantage for acne-prone skin.\" (Amazon.in · Deconstruct, 5★)",
+          "\"The oil-free formula does not clog pores, significantly reducing the risk of breakouts.\" (Amazon.in · Deconstruct, 4★)",
+          "\"its Protects your skin efficiently without clogging pores.\" (Amazon.in · Deconstruct, 5★)",
+          "\"Giving comedogenic acne.\" (beminimalist.co, 1★)",
+          "\"Fragrance-Free & Gentle: As someone with a sensitive nose and skin, I appreciate that this sunscreen is fragrance-free and formulated with gentle ingredients and doesn't cause any breakouts or irritat\" (beminimalist.co, 5★)"
+        ]
+      },
+      {
+        "concern": "pilling",
+        "competitor_mentions": 2,
+        "competitor_in_negative": 0,
+        "own_mentions": 1,
+        "own_in_negative": 1,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"One of the things I like most is how well it works under makeup—there’s no pilling, and it layers smoothly with my other products.\" (Amazon.in · The Derma Co, 5★)",
+          "\"not only affordable but SUCH an elegant formula!! light and fluid, no harsh scent, no pilling or flaking, not heavy or greasy and it doesn't sting my skin at all.\" (Amazon.in · WishCare, 5★)",
+          "\"while applying this sunscreen it leaves white small flakes.\" (beminimalist.co, 2★)"
+        ]
+      },
+      {
+        "concern": "eye_sting_sweat",
+        "competitor_mentions": 2,
+        "competitor_in_negative": 0,
+        "own_mentions": 8,
+        "own_in_negative": 5,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Sweat & water proof.\" (Amazon.in · RE' EQUIL, 5★)",
+          "\"it literally just melts effortlessly.\" (Amazon.in · WishCare, 5★)",
+          "\"The second you step outside, it forms this thick greasy layer that makes you sweat like crazy, as if your pores have been sealed shut.\" (beminimalist.co, 1★)",
+          "\"Also, sweat resistance so last longer.\" (beminimalist.co, 5★)"
+        ]
+      },
+      {
+        "concern": "packaging",
+        "competitor_mentions": 0,
+        "competitor_in_negative": 0,
+        "own_mentions": 1,
+        "own_in_negative": 1,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"The second you step outside, it forms this thick greasy layer that makes you sweat like crazy, as if your pores have been sealed shut.\" (beminimalist.co, 1★)"
+        ]
+      }
+    ],
+    "niacinamide-10-with-matmarine": [
+      {
+        "concern": "sticky_greasy",
+        "competitor_mentions": 10,
+        "competitor_in_negative": 0,
+        "own_mentions": 3,
+        "own_in_negative": 1,
+        "answered_by": {
+          "id": "F8",
+          "text": "Lightweight serum coupled with Zinc that balances sebum activity and reduces inflammation, leaving smooth textured skin with no sticky residue"
+        },
+        "customer_phrases": [
+          "\"Bahut hi lightweight aur non-sticky serum hai jo skin me turant absorb ho jata hai.\" (Amazon.in · Pilgrim, 5★)",
+          "\"Overall, it’s good for improving glow and skin texture, but the oily finish may not suit everyone for daytime use.\" (Amazon.in · Pilgrim, 4★)",
+          "\"The serum is lightweight and absorbs well, although it leaves a very slight oily feel on my skin, which is not too noticeable.\" (Amazon.in · Pilgrim, 4★)",
+          "\"bottle open akumbol sticky pole .\" (Amazon.in · Minimalist, 3★)",
+          "\"(I'm lazy to be consistent) but when i was consistent with this serum, it gave me even skin tone, reduced that greasy-oiliness on my face and just lit up my face gradually.\" (beminimalist.co, 5★)"
+        ]
+      },
+      {
+        "concern": "dryness",
+        "competitor_mentions": 3,
+        "competitor_in_negative": 0,
+        "own_mentions": 3,
+        "own_in_negative": 1,
+        "answered_by": {
+          "id": "F3",
+          "text": "A daily serum formulated with pure Vitamin B3 (Niacinamide) and Matmarine. Niacinamide reduces the sebum level of the skin, improves the barrier & evens our skin tone. Matmarine is a perfect biotechno"
+        },
+        "customer_phrases": [
+          "\"I apply 2–3 drops on a clean, dry face, gently spread it over the skin, and then follow it with a moisturizer.\" (Amazon.in · Pilgrim, 4★)",
+          "\"This is the best lighting serum, I have black spots on my face due to pimples and my skin was bumpy, itchy and dry like anything.\" (Amazon.in · Hyphen, 5★)",
+          "\"I have used this product for years and helps with skin dryness\" (Amazon.in · B01MDTVZTZ, 5★)",
+          "\"I ordered nicinamide, but it can’t solve anything and increases acne and unwanted bumps, even I tried in oily and dry skin type people this remains same , it increases problem don’t buy it, very bad p\" (beminimalist.co, 1★)",
+          "\"Yeah skin problem tu nhai hai? Mere skin dry hai\" (beminimalist.co, 4★)"
+        ]
+      },
+      {
+        "concern": "texture",
+        "competitor_mentions": 11,
+        "competitor_in_negative": 0,
+        "own_mentions": 5,
+        "own_in_negative": 0,
+        "answered_by": {
+          "id": "F8",
+          "text": "Lightweight serum coupled with Zinc that balances sebum activity and reduces inflammation, leaving smooth textured skin with no sticky residue"
+        },
+        "customer_phrases": [
+          "\"Good Glow & Skin Texture Improvement, But Feels Oily on Face.\" (Amazon.in · Pilgrim, 4★)",
+          "\"I especially liked its smooth texture and glow-boosting effect.\" (Amazon.in · Pilgrim, 5★)",
+          "\"I apply 2–3 drops on a clean, dry face, gently spread it over the skin, and then follow it with a moisturizer.\" (Amazon.in · Pilgrim, 4★)",
+          "\"It has visibly reduced the appearance of my pores and gradually improved my skin texture.\" (Amazon.in · Minimalist, 5★)",
+          "\"Turns out I like this product better! It all but disappears into the skin- the texture is more akin to water which feels way nicer compared to the tackiness of the Ordinary.\" (Amazon.in · Minimalist, 5★)"
+        ]
+      },
+      {
+        "concern": "slow_results",
+        "competitor_mentions": 2,
+        "competitor_in_negative": 1,
+        "own_mentions": 4,
+        "own_in_negative": 2,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Didn't work out for me\" (Amazon.in · Pilgrim, 3★)",
+          "\"No result still using\" (Amazon.in · The Derma Co, 5★)",
+          "\"Didn't see much changes.\" (Amazon.in · Minimalist, 4★)",
+          "\"Not working for me.\" (Amazon.in · Minimalist, 1★)"
+        ]
+      },
+      {
+        "concern": "price_value",
+        "competitor_mentions": 5,
+        "competitor_in_negative": 1,
+        "own_mentions": 3,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"The packaging quality is excellent alongside the product quality is worth it.\" (Amazon.in · Hyphen, 5★)",
+          "\"Definitely not worth the money for me.\" (Amazon.in · Hyphen, 1★)",
+          "\"Value for money nice product\" (Amazon.in · Hyphen, 5★)",
+          "\"superb worth it serum.\" (beminimalist.co, 5★)",
+          "\"Worth it!.\" (beminimalist.co, 4★)"
+        ]
+      },
+      {
+        "concern": "packaging",
+        "competitor_mentions": 1,
+        "competitor_in_negative": 1,
+        "own_mentions": 2,
+        "own_in_negative": 2,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"I received a damaged product box, and the bottle was upside down with no seal.\" (Amazon.in · The Derma Co, 1★)",
+          "\"The serum left white powder residue and sunscreen gives me spillage and some rubbing left suncream as it was some scrub.\" (beminimalist.co, 1★)",
+          "\"Last time I ordered i got a broken bottle.\" (beminimalist.co, 1★)"
+        ]
+      },
+      {
+        "concern": "breakouts",
+        "competitor_mentions": 2,
+        "competitor_in_negative": 0,
+        "own_mentions": 3,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Isse skin par koi irritation ya breakout nahi hua.\" (Amazon.in · Pilgrim, 5★)",
+          "\"After consistent use, I’ve noticed a visible improvement in overall skin texture and a reduction in breakouts.\" (Amazon.in · B01MDTVZTZ, 5★)",
+          "\"I’m using minimalist serum for 5 years , it’s so good , works for oily and acne skin , reduce breakouts, I got it for reasonable price\" (Amazon.in · Minimalist, 5★)",
+          "\"Happy with the product, I've been using it for months and my period breakouts have significantly reduced\" (Amazon.in · Minimalist, 5★)"
+        ]
+      },
+      {
+        "concern": "irritation",
+        "competitor_mentions": 7,
+        "competitor_in_negative": 0,
+        "own_mentions": 4,
+        "own_in_negative": 1,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Isse skin par koi irritation ya breakout nahi hua.\" (Amazon.in · Pilgrim, 5★)",
+          "\"The product felt gentle on my skin, and I did not face any major skin sensitivity or irritation issues while using it.\" (Amazon.in · Pilgrim, 4★)",
+          "\"I especially liked its smooth texture and glow-boosting effect.\" (Amazon.in · Pilgrim, 5★)",
+          "\"I had ordered 10ml, which I recently started using after purchasing it over a month ago since I had active acne and didn't want to irritate my skin.\" (Amazon.in · Minimalist, 4★)",
+          "\"I Ordered For Scar and black Spots i used 10 days+ and it makes my scar very some prevent so it works if you regularly use , it dos not totally fade scars but it reduces irritation and Balck spots\" (Amazon.in · Minimalist, 3★)"
+        ]
+      },
+      {
+        "concern": "fragrance",
+        "competitor_mentions": 3,
+        "competitor_in_negative": 0,
+        "own_mentions": 1,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"It does control oil , does hydrate , easy to apply 2-3 drop enough , no irritation , it do reduce pigmentation but it requires a long consistency , fragrance - idk ( it don't bother me ) , packaging w\" (Amazon.in · The Derma Co, 5★)",
+          "\"Pros: - Lightweight, non-greasy formula - Helps control excess oil and shine - Gradually reduces the appearance of acne marks and uneven skin tone - Improves skin texture with regular use - Fragrance-\" (Amazon.in · B01MDTVZTZ, 5★)",
+          "\"And is non sticky and also there are not a single irritation after applying this and have a very ligh and good smell.\" (Amazon.in · B01MDTVZTZ, 5★)",
+          "\"It's easy to use and has negligible fragrance.\" (Amazon.in · Minimalist, 4★)"
+        ]
+      }
+    ],
+    "salicylic-acid-2": [
+      {
+        "concern": "irritation",
+        "competitor_mentions": 7,
+        "competitor_in_negative": 2,
+        "own_mentions": 1,
+        "own_in_negative": 0,
+        "answered_by": {
+          "id": "F3",
+          "text": "A daily gentle exfoliant with 2% salicylic acid that wards off acne, blackheads and keeps your oils in check for that flawless matt looking skin."
+        },
+        "customer_phrases": [
+          "\"Gentle Formula: Even with my sensitive skin, I haven’t experienced any irritation or redness.\" (Amazon.in · The Derma Co, 5★)",
+          "\"Feedback and Refund Request for 2% Kojic Acid Serum – New Formula Issue Dear The Derma Co Team, I am writing to express my deep disappointment with the recent purchase of your 2% Kojic Acid Serum, whi\" (Amazon.in · The Derma Co, 1★)",
+          "\"It's lightweight, absorbs well, and hasn't caused any irritation on my skin.\" (Amazon.in · The True Therapy, 5★)",
+          "\"It is a nice product which absorbs quickly and soothes your irritation.\" (beminimalist.co, 4★)"
+        ]
+      },
+      {
+        "concern": "slow_results",
+        "competitor_mentions": 3,
+        "competitor_in_negative": 2,
+        "own_mentions": 2,
+        "own_in_negative": 1,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"No result.\" (Amazon.in · The True Therapy, 3★)",
+          "\"The minimalist salicylic acid serum didn't work for me so i went for this derma co salicylic acid serum.\" (Amazon.in · The Derma Co, 5★)",
+          "\"I didn't see much improvement.\" (Amazon.in · L'Oreal Paris, 3★)",
+          "\"No results, Haven been using since 2 months.\" (beminimalist.co, 2★)",
+          "\"Till today me experience is very bad My acne is more rigours and no effect of products is scene\" (beminimalist.co, 5★)"
+        ]
+      },
+      {
+        "concern": "fragrance",
+        "competitor_mentions": 9,
+        "competitor_in_negative": 1,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Mild Scent: The serum has a mild scent.\" (Amazon.in · The Derma Co, 5★)",
+          "\"However, the latest serum I purchased (from Amazon, with updated packaging) is completely different in both smell and texture.\" (Amazon.in · The Derma Co, 1★)",
+          "\"The product is non smelly and comfortable .\" (Amazon.in · The Derma Co, 4★)"
+        ]
+      },
+      {
+        "concern": "dryness",
+        "competitor_mentions": 7,
+        "competitor_in_negative": 1,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Great for All Skin Types: I have combination skin, but this serum works well without making my skin too oily or dry.\" (Amazon.in · The Derma Co, 5★)",
+          "\"There is another tight cap if u need so, but the cap is tight so we cant remove easily if u use the product daily .\" (Amazon.in · The Derma Co, 4★)",
+          "\"Its not working for me my skin is dry and its not gives me glow nothing difference on my face😑😑😑\" (Amazon.in · The True Therapy, 3★)"
+        ]
+      },
+      {
+        "concern": "packaging",
+        "competitor_mentions": 5,
+        "competitor_in_negative": 1,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"The bottle came unsealed and contents was half filled in it.\" (Amazon.in · The Derma Co, 2★)",
+          "\"The usage is sooo easy there is small dropper like thing in the pack itself for taking the serum and the best part is the filler cones with a caping system so that we can close the bottle of serum wit\" (Amazon.in · The Derma Co, 4★)",
+          "\"Packaging is great and the dropper works fine.\" (Amazon.in · The True Therapy, 4★)"
+        ]
+      },
+      {
+        "concern": "texture",
+        "competitor_mentions": 9,
+        "competitor_in_negative": 1,
+        "own_mentions": 1,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Lightweight Texture: The serum is lightweight and non-greasy, so it absorbs quickly without leaving any sticky feeling.\" (Amazon.in · The Derma Co, 5★)",
+          "\"However, the latest serum I purchased (from Amazon, with updated packaging) is completely different in both smell and texture.\" (Amazon.in · The Derma Co, 1★)",
+          "\"* The texture is nice and lightweight, and it doesn’t make my face feel heavy or sticky.\" (Amazon.in · The True Therapy, 5★)",
+          "\"I have definitely seen change in my skin texture\" (beminimalist.co, 4★)"
+        ]
+      },
+      {
+        "concern": "sticky_greasy",
+        "competitor_mentions": 10,
+        "competitor_in_negative": 0,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Lightweight Texture: The serum is lightweight and non-greasy, so it absorbs quickly without leaving any sticky feeling.\" (Amazon.in · The Derma Co, 5★)",
+          "\"* The texture is nice and lightweight, and it doesn’t make my face feel heavy or sticky.\" (Amazon.in · The True Therapy, 5★)",
+          "\"Again no cosmetic smells and product has a slightly sticky texture.\" (Amazon.in · The True Therapy, 4★)"
+        ]
+      },
+      {
+        "concern": "breakouts",
+        "competitor_mentions": 3,
+        "competitor_in_negative": 0,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Clogged pores.\" (Amazon.in · The True Therapy, 5★)",
+          "\") So now, i did not instantly have the CLEAREST skin instead I had more texture and bumpy skin, my skin was filled with tiny little bumps (it's common for me, I breakout like this on my skin from time\" (Amazon.in · The Derma Co, 4★)",
+          "\"After consistent use, the texture of my skin felt smoother and breakouts seemed less frequent.\" (Amazon.in · The Derma Co, 5★)"
+        ]
+      },
+      {
+        "concern": "pilling",
+        "competitor_mentions": 1,
+        "competitor_in_negative": 0,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"The usage is sooo easy there is small dropper like thing in the pack itself for taking the serum and the best part is the filler cones with a caping system so that we can close the bottle of serum wit\" (Amazon.in · The Derma Co, 4★)"
+        ]
+      },
+      {
+        "concern": "eye_sting_sweat",
+        "competitor_mentions": 0,
+        "competitor_in_negative": 0,
+        "own_mentions": 1,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"I started off with this serum twice a week for two weeks to let my skin acclimatize and in just these first few uses I already saw my stubbornest blackheads, which I'd had for months melting off.\" (beminimalist.co, 5★)"
+        ]
+      },
+      {
+        "concern": "price_value",
+        "competitor_mentions": 9,
+        "competitor_in_negative": 0,
+        "own_mentions": 2,
+        "own_in_negative": 1,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Definitely worth it!\" (Amazon.in · The Derma Co, 5★)",
+          "\"ITS LITTLE COSTLY\" (Amazon.in · The Derma Co, 4★)",
+          "\"Its value for money\" (Amazon.in · The True Therapy, 5★)",
+          "\"The products are also super expensive.\" (beminimalist.co, 2★)",
+          "\"Value for money.\" (beminimalist.co, 4★)"
+        ]
+      }
+    ],
+    "vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1": [
+      {
+        "concern": "irritation",
+        "competitor_mentions": 7,
+        "competitor_in_negative": 0,
+        "own_mentions": 5,
+        "own_in_negative": 1,
+        "answered_by": {
+          "id": "F7",
+          "text": "Boosted with Polyhydroxy Acid (PHA) which are new age hydroxy acids, suitable even for sensitive skin. PHAs gently remove dead skin cells to give skin a glow. Also have antioxidant/chelation, barrier "
+        },
+        "customer_phrases": [
+          "\"Isse skin par koi irritation ya breakout nahi hua.\" (Amazon.in · Pilgrim, 5★)",
+          "\"The product felt gentle on my skin, and I did not face any major skin sensitivity or irritation issues while using it.\" (Amazon.in · Pilgrim, 4★)",
+          "\"I especially liked its smooth texture and glow-boosting effect.\" (Amazon.in · Pilgrim, 5★)",
+          "\"It suited my skin well and did not cause irritation.\" (Amazon.in · Minimalist, 5★)",
+          "\"Came quickly and does what it says, the serum takes time to see any effects as its very gentle, the serum works as a non irritating serum with calming ingredients for sensitive skin.\" (Amazon.in · Minimalist, 4★)"
+        ]
+      },
+      {
+        "concern": "dryness",
+        "competitor_mentions": 3,
+        "competitor_in_negative": 0,
+        "own_mentions": 1,
+        "own_in_negative": 1,
+        "answered_by": {
+          "id": "F6",
+          "text": "Contains 1% Acetyl Glucosamine (AG), an amino-monosaccharide (simple sugar) and a precursor of hyaluronic acid, that provides skin moisturization, boosts natural Hyaluronic Acid synthesis, and regulat"
+        },
+        "customer_phrases": [
+          "\"I apply 2–3 drops on a clean, dry face, gently spread it over the skin, and then follow it with a moisturizer.\" (Amazon.in · Pilgrim, 4★)",
+          "\"This is the best lighting serum, I have black spots on my face due to pimples and my skin was bumpy, itchy and dry like anything.\" (Amazon.in · Hyphen, 5★)",
+          "\"I have used this product for years and helps with skin dryness\" (Amazon.in · B01MDTVZTZ, 5★)",
+          "\"After applying my skin became flaky and in morning my skin was looking reddish it literally removed my upper skin layer.\" (beminimalist.co, 1★)"
+        ]
+      },
+      {
+        "concern": "packaging",
+        "competitor_mentions": 0,
+        "competitor_in_negative": 0,
+        "own_mentions": 1,
+        "own_in_negative": 1,
+        "answered_by": {
+          "id": "F14",
+          "text": "After cleansing and toning your face, take 2-3 drops of Vitamin C serum on your fingertips with the dropper. Apply it on the face by gently tapping it on the skin. With a circular motion, evenly sprea"
+        },
+        "customer_phrases": [
+          "\"Hi, I ordered a Vitamin C serum from your website, but upon opening the package, I found that the product had leaked inside the box and the serum appears oxidized and unusable.\" (beminimalist.co, 1★)"
+        ]
+      },
+      {
+        "concern": "texture",
+        "competitor_mentions": 16,
+        "competitor_in_negative": 0,
+        "own_mentions": 7,
+        "own_in_negative": 2,
+        "answered_by": {
+          "id": "F22",
+          "text": "Not only lightens skin tone, it also promotes synthesis of Hyaluronic Acid to improve skin hydration"
+        },
+        "customer_phrases": [
+          "\"Good Glow & Skin Texture Improvement, But Feels Oily on Face.\" (Amazon.in · Pilgrim, 4★)",
+          "\"I especially liked its smooth texture and glow-boosting effect.\" (Amazon.in · Pilgrim, 5★)",
+          "\"I apply 2–3 drops on a clean, dry face, gently spread it over the skin, and then follow it with a moisturizer.\" (Amazon.in · Pilgrim, 4★)",
+          "\"The texture is lightweight, absorbs quickly and does not feel sticky on the skin.\" (Amazon.in · Minimalist, 5★)",
+          "\"It has a watery texture, absorbs quickly and brightens my face too.\" (Amazon.in · Minimalist, 5★)"
+        ]
+      },
+      {
+        "concern": "slow_results",
+        "competitor_mentions": 2,
+        "competitor_in_negative": 2,
+        "own_mentions": 2,
+        "own_in_negative": 1,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Didn't work out for me\" (Amazon.in · Pilgrim, 3★)",
+          "\"It's not working\" (Amazon.in · Chemist at Play, 3★)",
+          "\"It didn't worked for me.\" (beminimalist.co, 2★)",
+          "\"First time using their is no results but after 2 days this is effective I am using this produce since fore week and now my skin glow brighter, this change the perspective of thinking what I had.\" (beminimalist.co, 5★)"
+        ]
+      },
+      {
+        "concern": "price_value",
+        "competitor_mentions": 4,
+        "competitor_in_negative": 1,
+        "own_mentions": 5,
+        "own_in_negative": 1,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"The packaging quality is excellent alongside the product quality is worth it.\" (Amazon.in · Hyphen, 5★)",
+          "\"Definitely not worth the money for me.\" (Amazon.in · Hyphen, 1★)",
+          "\"Value for money nice product\" (Amazon.in · Hyphen, 5★)",
+          "\"Easy to use and value for money.\" (Amazon.in · Minimalist, 5★)",
+          "\"Good formulation and worth the price.\" (Amazon.in · Minimalist, 5★)"
+        ]
+      },
+      {
+        "concern": "sticky_greasy",
+        "competitor_mentions": 16,
+        "competitor_in_negative": 0,
+        "own_mentions": 6,
+        "own_in_negative": 1,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Bahut hi lightweight aur non-sticky serum hai jo skin me turant absorb ho jata hai.\" (Amazon.in · Pilgrim, 5★)",
+          "\"Overall, it’s good for improving glow and skin texture, but the oily finish may not suit everyone for daytime use.\" (Amazon.in · Pilgrim, 4★)",
+          "\"The serum is lightweight and absorbs well, although it leaves a very slight oily feel on my skin, which is not too noticeable.\" (Amazon.in · Pilgrim, 4★)",
+          "\"The texture is lightweight, absorbs quickly and does not feel sticky on the skin.\" (Amazon.in · Minimalist, 5★)",
+          "\"This serum is very lightweight, non sticky and easy to use.\" (Amazon.in · Minimalist, 5★)"
+        ]
+      },
+      {
+        "concern": "breakouts",
+        "competitor_mentions": 3,
+        "competitor_in_negative": 0,
+        "own_mentions": 1,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Isse skin par koi irritation ya breakout nahi hua.\" (Amazon.in · Pilgrim, 5★)",
+          "\"Really good initial experience with this serum it absorbs into the skin quickly doesn't feel heavy and layer well under moisturizer and sunscreen without pilling ,give the nice natural glow and hasn't\" (Amazon.in · Chemist at Play, 5★)",
+          "\"After consistent use, I’ve noticed a visible improvement in overall skin texture and a reduction in breakouts.\" (Amazon.in · B01MDTVZTZ, 5★)",
+          "\"They're not major breakouts, but the consistency is a bit frustrating.\" (beminimalist.co, 5★)"
+        ]
+      },
+      {
+        "concern": "fragrance",
+        "competitor_mentions": 5,
+        "competitor_in_negative": 0,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"It doesn't have any smell at all, and the formula is smooth and lightweight, so it sinks right into the skin without feeling sticky.\" (Amazon.in · Chemist at Play, 5★)",
+          "\"Pros: - Lightweight, non-greasy formula - Helps control excess oil and shine - Gradually reduces the appearance of acne marks and uneven skin tone - Improves skin texture with regular use - Fragrance-\" (Amazon.in · B01MDTVZTZ, 5★)",
+          "\"And is non sticky and also there are not a single irritation after applying this and have a very ligh and good smell.\" (Amazon.in · B01MDTVZTZ, 5★)"
+        ]
+      },
+      {
+        "concern": "pilling",
+        "competitor_mentions": 2,
+        "competitor_in_negative": 0,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Really good initial experience with this serum it absorbs into the skin quickly doesn't feel heavy and layer well under moisturizer and sunscreen without pilling ,give the nice natural glow and hasn't\" (Amazon.in · Chemist at Play, 5★)",
+          "\"The texture is lightweight, absorbs in seconds, and layers seamlessly under moisturizer and sunscreen without pilling or leaving any sticky residue.\" (Amazon.in · Chemist at Play, 5★)"
+        ]
+      }
+    ],
+    "vitamin-b5-10-moisturizer": [
+      {
+        "concern": "dryness",
+        "competitor_mentions": 16,
+        "competitor_in_negative": 2,
+        "own_mentions": 2,
+        "own_in_negative": 0,
+        "answered_by": {
+          "id": "F1",
+          "text": "Vitamin B5 10% Moisturizer"
+        },
+        "customer_phrases": [
+          "\"If you have dry body skin, I think it's a really good option for summers but you might require a thicker cream, probably the blue tin version of nivea, for winters.\" (Amazon.in · NIVEA, 4★)",
+          "\"Best for dry to normal skin, it reduces acnes, and makes skin soft\" (Amazon.in · RE' EQUIL, 5★)",
+          "\"Suitable for dry skin.\" (Amazon.in · RE' EQUIL, 5★)",
+          "\"I expect it to be light and dry quickly but it actually takes quite long to dry.\" (beminimalist.co, 5★)",
+          "\"Great for dry skin.\" (beminimalist.co, 5★)"
+        ]
+      },
+      {
+        "concern": "sticky_greasy",
+        "competitor_mentions": 14,
+        "competitor_in_negative": 1,
+        "own_mentions": 10,
+        "own_in_negative": 2,
+        "answered_by": {
+          "id": "F2",
+          "text": "Provides Lightweight Moisturization & Repairs Skin"
+        },
+        "customer_phrases": [
+          "\"The product is good if you want a moisturized skin, without any oily feeling left on your skin.\" (Amazon.in · RE' EQUIL, 4★)",
+          "\"Thick cream but non greasy.\" (Amazon.in · RE' EQUIL, 5★)",
+          "\"It's very hydrating and not greasy.\" (Amazon.in · RE' EQUIL, 5★)",
+          "\"It has a very smooth texture and spreads easily on the skin without feeling heavy or sticky.\" (beminimalist.co, 5★)",
+          "\"It’s very lightweight and doesn’t feel sticky or oily on the face, which I like a lot.\" (beminimalist.co, 5★)"
+        ]
+      },
+      {
+        "concern": "irritation",
+        "competitor_mentions": 9,
+        "competitor_in_negative": 1,
+        "own_mentions": 2,
+        "own_in_negative": 1,
+        "answered_by": {
+          "id": "F25",
+          "text": "Yes. Vitamin B5 has skin-repairing and soothing properties and it does not have any conflict with Vitamin A, so it can easily be layered on tretinoin creams."
+        },
+        "customer_phrases": [
+          "\"When I finished it up, I decide to switch back to Nivea and this time, it gave me bad comedones all over my face.\" (Amazon.in · Vaseline, 5★)",
+          "\"I just add some oil and that gives me the dewy lasting effect.\" (Amazon.in · Vaseline, 5★)",
+          "\"I cancelled the order thinking it was just a glitch but see it’s stilll a lengthy wait for it.\" (Amazon.in · Vaseline, 5★)",
+          "\"Worst experience after applying your products its irritated my skin and my skin appears Breakout and small pimples\" (beminimalist.co, 2★)",
+          "\"good for daily use , very gentle , very fast absorbing and long lasting , light weight ,\" (beminimalist.co, 5★)"
+        ]
+      },
+      {
+        "concern": "texture",
+        "competitor_mentions": 13,
+        "competitor_in_negative": 0,
+        "own_mentions": 6,
+        "own_in_negative": 1,
+        "answered_by": {
+          "id": "F2",
+          "text": "Provides Lightweight Moisturization & Repairs Skin"
+        },
+        "customer_phrases": [
+          "\"If you have dry body skin, I think it's a really good option for summers but you might require a thicker cream, probably the blue tin version of nivea, for winters.\" (Amazon.in · NIVEA, 4★)",
+          "\"It is not oily to texture that much.\" (Amazon.in · RE' EQUIL, 5★)",
+          "\"The consistency is thick and super moisturising.\" (Amazon.in · RE' EQUIL, 5★)",
+          "\"It has a very smooth texture and spreads easily on the skin without feeling heavy or sticky.\" (beminimalist.co, 5★)",
+          "\"It has a balm-like, lightweight consistency that absorbs quickly into the skin and keeps it hydrated.\" (beminimalist.co, 5★)"
+        ]
+      },
+      {
+        "concern": "fragrance",
+        "competitor_mentions": 13,
+        "competitor_in_negative": 1,
+        "own_mentions": 4,
+        "own_in_negative": 2,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"I don't apply it on my face as I have sensitive combination skin so I try to be careful around products containing fragrances, etc.\" (Amazon.in · NIVEA, 4★)",
+          "\"The scent and the results are lovely.\" (Amazon.in · NIVEA, 4★)",
+          "\"The fragrance is also really fresh and pleasant.\" (Amazon.in · Vaseline, 5★)",
+          "\"It smells so much like chemicals.\" (beminimalist.co, 1★)",
+          "\"There’s no strong fragrance, which is a plus.\" (beminimalist.co, 5★)"
+        ]
+      },
+      {
+        "concern": "white_cast",
+        "competitor_mentions": 1,
+        "competitor_in_negative": 0,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Final Thoughts Cetaphil Moisturizing Cream isn’t flashy or trendy—but it’s reliable, comforting, and effective.\" (Amazon.in · Cetaphil, 5★)"
+        ]
+      },
+      {
+        "concern": "breakouts",
+        "competitor_mentions": 3,
+        "competitor_in_negative": 0,
+        "own_mentions": 4,
+        "own_in_negative": 3,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Saves me from using perfume And I'm sensitive on my face I tried it and didn't break out.\" (Amazon.in · Vaseline, 5★)",
+          "\"Gives a plump finish, but can feel heavy or cause clogged pores for very oily or acne-prone skin types.\" (Amazon.in · DOT & KEY, 5★)",
+          "\"No excess oiliness, no clogged feeling, no breakouts.\" (Amazon.in · Cetaphil, 5★)",
+          "\"My skin feels hydrated throughout the day, and I didn’t notice any breakouts after using it.\" (beminimalist.co, 5★)",
+          "\"Worst experience after applying your products its irritated my skin and my skin appears Breakout and small pimples\" (beminimalist.co, 2★)"
+        ]
+      },
+      {
+        "concern": "pilling",
+        "competitor_mentions": 1,
+        "competitor_in_negative": 0,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Few other pros: Awesome translucent texture, absorbs quickly into skin, gives a nice dewy look instantly, non irritating, doesn't clog pores and gives you comedones or pimples, doesn't feel like there\" (Amazon.in · Vaseline, 5★)"
+        ]
+      },
+      {
+        "concern": "eye_sting_sweat",
+        "competitor_mentions": 1,
+        "competitor_in_negative": 0,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"It just melts in and leaves my skin feeling fresh and hydrated.\" (Amazon.in · Vaseline, 5★)"
+        ]
+      },
+      {
+        "concern": "slow_results",
+        "competitor_mentions": 0,
+        "competitor_in_negative": 0,
+        "own_mentions": 1,
+        "own_in_negative": 1,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Wasted money.\" (beminimalist.co, 1★)"
+        ]
+      },
+      {
+        "concern": "price_value",
+        "competitor_mentions": 1,
+        "competitor_in_negative": 0,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"I remember hesitating because it felt a little expensive for a moisturizer.\" (Amazon.in · Cetaphil, 5★)"
+        ]
+      },
+      {
+        "concern": "packaging",
+        "competitor_mentions": 2,
+        "competitor_in_negative": 0,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"100% original sealed package.\" (Amazon.in · RE' EQUIL, 5★)",
+          "\"Great to apply before consealer or foundation\" (Amazon.in · RE' EQUIL, 5★)"
+        ]
+      }
+    ],
+    "salicylic-lha-2-cleanser": [
+      {
+        "concern": "irritation",
+        "competitor_mentions": 2,
+        "competitor_in_negative": 0,
+        "own_mentions": 2,
+        "own_in_negative": 0,
+        "answered_by": {
+          "id": "F3",
+          "text": "A daily, gentle exfoliating, acne fighting face cleanser. It combines BHA + LHA (Salicylic Acid + Capryloyl Salicylic Acid) in 2% concentration, which provides deep cleansing, pore decongestion & sebu"
+        },
+        "customer_phrases": [
+          "\"No fragrance so no irritation.\" (Amazon.in · Cetaphil, 5★)",
+          "\"The large 400 ml bottle offers excellent value for money, lasting a long time even with twice-daily use.\" (Amazon.in · Himalaya, 5★)",
+          "\"Around 2 weeks of usage daily a lot less redness less acne also much less oil on skin I use it before applying moisturizer so it doesnt dry out my skin also very cheap\" (Amazon.in · Minimalist, 5★)",
+          "\"Please do keep in mind that selection of this facewash for you should be based on your skin type , if its oily or combination If you skin is already very dry and the facewash will cause it to dry even\" (beminimalist.co, 5★)"
+        ]
+      },
+      {
+        "concern": "dryness",
+        "competitor_mentions": 7,
+        "competitor_in_negative": 0,
+        "own_mentions": 10,
+        "own_in_negative": 2,
+        "answered_by": {
+          "id": "F7",
+          "text": "Boosted with anti-bacterial Zinc and several hydrating & soothing ingredients like Xylitylglucoside, Panthenol (Vitamin B5), Allantoin, Pentyle Glycol for hydrating overall after-feel"
+        },
+        "customer_phrases": [
+          "\"Awesome quality and and effective at removing dirt, with good compatibility for sensitive and dry skin types.\" (Amazon.in · Cetaphil, 5★)",
+          "\"The combination of Salicylic Acid and Niacinamide does a great job at deep cleansing pores, controlling excess oil, and reducing active pimples without overly drying out the face.\" (Amazon.in · The Derma Co, 4★)",
+          "\"Cleans the skin well without making it feel too dry.\" (Amazon.in · The Derma Co, 5★)",
+          "\"I also like that my skin continues to feel fresh for a good amount of time instead of feeling dry immediately.\" (Amazon.in · Minimalist, 4★)",
+          "\"It’s gentle on the skin and doesn’t leave it feeling dry.\" (Amazon.in · Minimalist, 5★)"
+        ]
+      },
+      {
+        "concern": "texture",
+        "competitor_mentions": 4,
+        "competitor_in_negative": 0,
+        "own_mentions": 4,
+        "own_in_negative": 1,
+        "answered_by": {
+          "id": "F13",
+          "text": "Apply on wet face. Pour an appropriate quantity into wet hands, rub together into a light lather, and massage into face. Rinse thoroughly."
+        },
+        "customer_phrases": [
+          "\"Achcha face wash hai skin ko smooth rakhta Hai Harsh nahin hone deta Hai lightweight Hai, sensitive skin ke liye bahut achcha hai iske bad agar moisturizer nahin bhi lagaye to bhi kam Karega, texture \" (Amazon.in · Cetaphil, 4★)",
+          "\"The texture is smooth, foams up nicely, and leaves the skin feeling clean and refreshed.\" (Amazon.in · The Derma Co, 4★)",
+          "\"This work at oli skin non greasy texture bhi smooth hai\" (Amazon.in · DERMATOUCH, 5★)",
+          "\"It is really a heaven for people with acnes and it also somehow promote the skin texture I just love this product But after listening all this please don't raise price\" (beminimalist.co, 5★)",
+          "\"And I would really love if you create a product which deals with more than one type of skin problems, such as acne and uneven skin tone or uneven skin texture and dull skin.\" (beminimalist.co, 5★)"
+        ]
+      },
+      {
+        "concern": "fragrance",
+        "competitor_mentions": 4,
+        "competitor_in_negative": 1,
+        "own_mentions": 3,
+        "own_in_negative": 3,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"No fragrance so no irritation.\" (Amazon.in · Cetaphil, 5★)",
+          "\"This item is made in india but I didn't see any difference in results from the original one, so it's good, just a little bit different in scent but this one is better because it's scent free.\" (Amazon.in · Cetaphil, 4★)",
+          "\"Has a smell.\" (Amazon.in · Cetaphil, 1★)",
+          "\"It’s good but after a week using this cleanser again the pimples are growing up and I feel good about myself and this cleanser is really Fragrance free and Gentle.\" (Amazon.in · Minimalist, 3★)",
+          "\"It smells and increased my sebum production\" (beminimalist.co, 1★)"
+        ]
+      },
+      {
+        "concern": "slow_results",
+        "competitor_mentions": 2,
+        "competitor_in_negative": 1,
+        "own_mentions": 1,
+        "own_in_negative": 1,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"My recomendation is not to waste money\" (Amazon.in · Cetaphil, 2★)",
+          "\"This item is made in india but I didn't see any difference in results from the original one, so it's good, just a little bit different in scent but this one is better because it's scent free.\" (Amazon.in · Cetaphil, 4★)",
+          "\"It has not work as i expected I have stop using the face wash because I had i get no results from it pleasure some quality and results because it has not justified it's price\" (beminimalist.co, 1★)"
+        ]
+      },
+      {
+        "concern": "sticky_greasy",
+        "competitor_mentions": 1,
+        "competitor_in_negative": 0,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"This work at oli skin non greasy texture bhi smooth hai\" (Amazon.in · DERMATOUCH, 5★)"
+        ]
+      },
+      {
+        "concern": "breakouts",
+        "competitor_mentions": 2,
+        "competitor_in_negative": 0,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Very effective for oil control and active breakouts – solid face wash!.\" (Amazon.in · The Derma Co, 4★)",
+          "\"With regular use, I noticed fewer pimples and breakouts, and my skin feels much cleaner and refreshed throughout the day.\" (Amazon.in · Himalaya, 5★)"
+        ]
+      },
+      {
+        "concern": "pilling",
+        "competitor_mentions": 0,
+        "competitor_in_negative": 0,
+        "own_mentions": 1,
+        "own_in_negative": 1,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"My skin started flaking right after one use and my hand palms got extremely dry from just washing my face.\" (Amazon.in · Minimalist, 1★)"
+        ]
+      },
+      {
+        "concern": "eye_sting_sweat",
+        "competitor_mentions": 1,
+        "competitor_in_negative": 0,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"It cleans the face properly and removes dirt, sweat and excess oil, leaving the skin feeling fresh and clean after washing.\" (Amazon.in · POND'S, 4★)"
+        ]
+      },
+      {
+        "concern": "price_value",
+        "competitor_mentions": 2,
+        "competitor_in_negative": 0,
+        "own_mentions": 1,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Also value for money.\" (Amazon.in · Cetaphil, 5★)",
+          "\"The large 400 ml bottle offers excellent value for money, lasting a long time even with twice-daily use.\" (Amazon.in · Himalaya, 5★)",
+          "\"Worth it !!!!.\" (beminimalist.co, 5★)"
+        ]
+      },
+      {
+        "concern": "packaging",
+        "competitor_mentions": 0,
+        "competitor_in_negative": 0,
+        "own_mentions": 2,
+        "own_in_negative": 2,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"It spilled inside the sealed box.\" (Amazon.in · Minimalist, 1★)",
+          "\"damaged still today it is leaking\" (beminimalist.co, 1★)"
+        ]
+      }
+    ],
+    "alpha-arbutin-2": [
+      {
+        "concern": "irritation",
+        "competitor_mentions": 8,
+        "competitor_in_negative": 0,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": {
+          "id": "F19",
+          "text": "Apply after cleansing & toning. Apply 2-3 drops. With gentle circular motion, spread it all over your face. Use sunscreen during the day for best results."
+        },
+        "customer_phrases": [
+          "\"Isse skin par koi irritation ya breakout nahi hua.\" (Amazon.in · Pilgrim, 5★)",
+          "\"The product felt gentle on my skin, and I did not face any major skin sensitivity or irritation issues while using it.\" (Amazon.in · Pilgrim, 4★)",
+          "\"I especially liked its smooth texture and glow-boosting effect.\" (Amazon.in · Pilgrim, 5★)"
+        ]
+      },
+      {
+        "concern": "dryness",
+        "competitor_mentions": 3,
+        "competitor_in_negative": 0,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": {
+          "id": "F29",
+          "text": "Water/Aqua, Dimethyl Isosorbide, Alpha Arbutin, Ethoxydiglycol, Pentylene Glycol, PEG-40 Hydrogenated Castor Oil, Ferulic Acid, Sodium Hyaluronate, 4-Butylresorcinol, Hydroxyethylcellulose, Hydrolyzed"
+        },
+        "customer_phrases": [
+          "\"I apply 2–3 drops on a clean, dry face, gently spread it over the skin, and then follow it with a moisturizer.\" (Amazon.in · Pilgrim, 4★)",
+          "\"This is the best lighting serum, I have black spots on my face due to pimples and my skin was bumpy, itchy and dry like anything.\" (Amazon.in · Hyphen, 5★)",
+          "\"I have used this product for years and helps with skin dryness\" (Amazon.in · B01MDTVZTZ, 5★)"
+        ]
+      },
+      {
+        "concern": "texture",
+        "competitor_mentions": 13,
+        "competitor_in_negative": 0,
+        "own_mentions": 3,
+        "own_in_negative": 0,
+        "answered_by": {
+          "id": "F5",
+          "text": "A skin tone enhancing serum with a potent & safe skin lightening active Alpha Arbutin (9 times more effective than Beta Arbutin) that ensures even tone in 5 weeks"
+        },
+        "customer_phrases": [
+          "\"Good Glow & Skin Texture Improvement, But Feels Oily on Face.\" (Amazon.in · Pilgrim, 4★)",
+          "\"I especially liked its smooth texture and glow-boosting effect.\" (Amazon.in · Pilgrim, 5★)",
+          "\"I apply 2–3 drops on a clean, dry face, gently spread it over the skin, and then follow it with a moisturizer.\" (Amazon.in · Pilgrim, 4★)",
+          "\"Like the texture.\" (beminimalist.co, 4★)",
+          "\"Consistency is key.\" (beminimalist.co, 4★)"
+        ]
+      },
+      {
+        "concern": "slow_results",
+        "competitor_mentions": 4,
+        "competitor_in_negative": 3,
+        "own_mentions": 4,
+        "own_in_negative": 4,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Didn't work out for me\" (Amazon.in · Pilgrim, 3★)",
+          "\"However, effectiveness and value for money receive mixed reviews, with some finding it highly effective and worth the price, while others report minimal or no effect\" (Amazon.in · vilvah STORE, 5★)",
+          "\"Not suitable for me no visible changes I bought three bottle but no effect even iam using all the four basic skin care cleansing moistu ' serum.\" (Amazon.in · vilvah STORE, 3★)",
+          "\"The product is also very costly and it didn't work well.\" (beminimalist.co, 1★)",
+          "\"Completely waste of money.\" (beminimalist.co, 1★)"
+        ]
+      },
+      {
+        "concern": "price_value",
+        "competitor_mentions": 5,
+        "competitor_in_negative": 1,
+        "own_mentions": 2,
+        "own_in_negative": 1,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"The packaging quality is excellent alongside the product quality is worth it.\" (Amazon.in · Hyphen, 5★)",
+          "\"Definitely not worth the money for me.\" (Amazon.in · Hyphen, 1★)",
+          "\"Value for money nice product\" (Amazon.in · Hyphen, 5★)",
+          "\"The product is also very costly and it didn't work well.\" (beminimalist.co, 1★)",
+          "\"This product is actually very good, can feel like a slow process but result are worth it So gentle on skin\" (beminimalist.co, 5★)"
+        ]
+      },
+      {
+        "concern": "packaging",
+        "competitor_mentions": 1,
+        "competitor_in_negative": 1,
+        "own_mentions": 4,
+        "own_in_negative": 2,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Unsealed.\" (Amazon.in · vilvah STORE, 1★)",
+          "\"i got a broken package of hair serum in my last purchase .\" (beminimalist.co, 5★)",
+          "\"Improperly sealed empty bottle received.\" (beminimalist.co, 1★)"
+        ]
+      },
+      {
+        "concern": "sticky_greasy",
+        "competitor_mentions": 13,
+        "competitor_in_negative": 0,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Bahut hi lightweight aur non-sticky serum hai jo skin me turant absorb ho jata hai.\" (Amazon.in · Pilgrim, 5★)",
+          "\"Overall, it’s good for improving glow and skin texture, but the oily finish may not suit everyone for daytime use.\" (Amazon.in · Pilgrim, 4★)",
+          "\"The serum is lightweight and absorbs well, although it leaves a very slight oily feel on my skin, which is not too noticeable.\" (Amazon.in · Pilgrim, 4★)"
+        ]
+      },
+      {
+        "concern": "breakouts",
+        "competitor_mentions": 3,
+        "competitor_in_negative": 0,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Isse skin par koi irritation ya breakout nahi hua.\" (Amazon.in · Pilgrim, 5★)",
+          "\"Really good initial experience with this serum it absorbs into the skin quickly doesn't feel heavy and layer well under moisturizer and sunscreen without pilling ,give the nice natural glow and hasn't\" (Amazon.in · Chemist at Play, 5★)",
+          "\"After consistent use, I’ve noticed a visible improvement in overall skin texture and a reduction in breakouts.\" (Amazon.in · B01MDTVZTZ, 5★)"
+        ]
+      },
+      {
+        "concern": "fragrance",
+        "competitor_mentions": 3,
+        "competitor_in_negative": 0,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"It doesn't have any smell at all, and the formula is smooth and lightweight, so it sinks right into the skin without feeling sticky.\" (Amazon.in · Chemist at Play, 5★)",
+          "\"Pros: - Lightweight, non-greasy formula - Helps control excess oil and shine - Gradually reduces the appearance of acne marks and uneven skin tone - Improves skin texture with regular use - Fragrance-\" (Amazon.in · B01MDTVZTZ, 5★)",
+          "\"And is non sticky and also there are not a single irritation after applying this and have a very ligh and good smell.\" (Amazon.in · B01MDTVZTZ, 5★)"
+        ]
+      },
+      {
+        "concern": "pilling",
+        "competitor_mentions": 2,
+        "competitor_in_negative": 0,
+        "own_mentions": 0,
+        "own_in_negative": 0,
+        "answered_by": null,
+        "customer_phrases": [
+          "\"Really good initial experience with this serum it absorbs into the skin quickly doesn't feel heavy and layer well under moisturizer and sunscreen without pilling ,give the nice natural glow and hasn't\" (Amazon.in · Chemist at Play, 5★)",
+          "\"The texture is lightweight, absorbs in seconds, and layers seamlessly under moisturizer and sunscreen without pilling or leaving any sticky residue.\" (Amazon.in · Chemist at Play, 5★)"
+        ]
+      }
+    ]
+  }
+}

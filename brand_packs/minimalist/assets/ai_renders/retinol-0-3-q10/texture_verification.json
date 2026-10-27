@@ -1,0 +1,13 @@
+{
+  "product": "retinol-0-3-q10",
+  "accepted": "texture1.png",
+  "auto_check": {
+    "matches": 281,
+    "inliers": 206,
+    "label_similarity": 0.66
+  },
+  "visual_read": "Read both labels word by word: Retinol / 0.3% / FACE SERUM / with coenzyme q10 + bakuchiol oil + squalane / reduces fine lines & wrinkles / for all skin types / 30ml / 1 fl oz / Minimalist. All identical; purple line, black glass, black dropper identical. Only backdrop and lighting differ; body colour of pack measured equal or only brightened by white backdrop.",
+  "swatch": "plausible: pale yellow oily serum suits the product type; no text or objects added",
+  "status": "approved",
+  "fix_prompt": ""
+}

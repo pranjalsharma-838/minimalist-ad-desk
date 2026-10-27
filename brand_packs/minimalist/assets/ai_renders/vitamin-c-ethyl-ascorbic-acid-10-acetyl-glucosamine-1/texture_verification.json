@@ -1,0 +1,13 @@
+{
+  "product": "vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1",
+  "accepted": "texture1.png",
+  "auto_check": {
+    "matches": 331,
+    "inliers": 239,
+    "label_similarity": 0.387
+  },
+  "visual_read": "Read both labels word by word: Vitamin C / 10% / FACE SERUM / with acetyl glucosamine + polyhydroxy acid + centella / brightens & illuminates skin / for all skin types / 30ml / 1 fl oz / Minimalist (real photo is a tilted crop; AI shows the full bottle, same pack). All identical; orange line, black glass, black dropper identical. Only backdrop and lighting differ; body colour of pack measured equal or only brightened by white backdrop.",
+  "swatch": "plausible: pale yellow clear gel suits the product type; no text or objects added",
+  "status": "approved",
+  "fix_prompt": ""
+}

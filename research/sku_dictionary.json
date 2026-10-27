@@ -1,0 +1,1363 @@
+{
+  "built": "2026-10-01",
+  "source": "beminimalist.co product pages + Best Sellers collection",
+  "caveat": "best_seller_rank = position in the brand's Best Sellers collection. 55 of 56 singles are in it, so membership is not a signal; the ORDER is assumed sales-ranked but this is unverified (it may be curated by hand). Use with review_count.",
+  "top_sellers": [
+    "salicylic-lha-2-cleanser",
+    "multi-vitamin-spf-50",
+    "vitamin-b5-10-moisturizer",
+    "niacinamide-10-with-matmarine",
+    "vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1",
+    "salicylic-acid-2",
+    "alpha-arbutin-2",
+    "marula-05-moisturizer",
+    "niacinamide-5-hyaluronic-acid-1",
+    "vitamin-c-e-ferulic-16",
+    "hair-growth-actives-18",
+    "oat-extract-06-gentle-cleanser",
+    "retinol-0-3-q10",
+    "pha-3-biotic-toner",
+    "light-fluid-spf-50-sunscreen",
+    "2-hyaluronic-acid",
+    "vitamin-k-retinal-01-eye-cream",
+    "spf-60-silymarin",
+    "glycolic-acid-08-exfoliating-liquid-toner",
+    "aha-25-pha-5-bha-2"
+  ],
+  "count": 56,
+  "skus": [
+    {
+      "handle": "salicylic-lha-2-cleanser",
+      "url": "https://beminimalist.co/products/salicylic-lha-2-cleanser",
+      "title": "Salicylic Acid + LHA 2% Cleanser",
+      "actives": [
+        {
+          "name": "Salicylic Acid + LHA",
+          "pct": "2%"
+        }
+      ],
+      "format": "cleanser",
+      "product_type": "Skin Care",
+      "concerns": [
+        "acne",
+        "breakouts",
+        "oiliness"
+      ],
+      "skin_type": "Oily/Combination, Acne-Prone",
+      "tagline": "Reduces Sebum & Prevents Breakout Without Drying Skin",
+      "price_inr": 269,
+      "review_count": 2722,
+      "rating": 4.1,
+      "best_seller_rank": 1,
+      "pediatric": false
+    },
+    {
+      "handle": "multi-vitamin-spf-50",
+      "url": "https://beminimalist.co/products/multi-vitamin-spf-50",
+      "title": "SPF 50 Sunscreen",
+      "actives": [
+        {
+          "name": "SPF",
+          "pct": "50"
+        }
+      ],
+      "format": "sunscreen",
+      "product_type": "Skin Care",
+      "concerns": [
+        "sun protection",
+        "uv exposure",
+        "damage"
+      ],
+      "skin_type": "Dry/Normal, Sensitive, Oily/Combination, Acne-Prone",
+      "tagline": "Broad Spectrum SPF 50, PA++++",
+      "price_inr": 359,
+      "review_count": 2081,
+      "rating": 3.9,
+      "best_seller_rank": 2,
+      "pediatric": false
+    },
+    {
+      "handle": "vitamin-b5-10-moisturizer",
+      "url": "https://beminimalist.co/products/vitamin-b5-10-moisturizer",
+      "title": "Vitamin B5 10% Moisturizer",
+      "actives": [
+        {
+          "name": "Vitamin B5",
+          "pct": "10%"
+        }
+      ],
+      "format": "moisturizer",
+      "product_type": "Skin Care",
+      "concerns": [
+        "damaged barrier",
+        "oily",
+        "dehydrated skin"
+      ],
+      "skin_type": "Oily/Combination, Acne Prone",
+      "tagline": "Provides Lightweight Moisturization & Repairs Skin",
+      "price_inr": 314,
+      "review_count": 1128,
+      "rating": 4.1,
+      "best_seller_rank": 3,
+      "pediatric": false
+    },
+    {
+      "handle": "niacinamide-10-with-matmarine",
+      "url": "https://beminimalist.co/products/niacinamide-10-with-matmarine",
+      "title": "Niacinamide 10% Face Serum",
+      "actives": [
+        {
+          "name": "Niacinamide",
+          "pct": "10%"
+        }
+      ],
+      "format": "serum",
+      "product_type": "Skin Care",
+      "concerns": [
+        "acne marks",
+        "acne prone",
+        "oily skin"
+      ],
+      "skin_type": "",
+      "tagline": "For reducing sebum & pores, and even skin tone",
+      "price_inr": 539,
+      "review_count": 1486,
+      "rating": 3.9,
+      "best_seller_rank": 4,
+      "pediatric": false
+    },
+    {
+      "handle": "vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1",
+      "url": "https://beminimalist.co/products/vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1",
+      "title": "Vitamin C 10% Face Serum",
+      "actives": [
+        {
+          "name": "Vitamin C",
+          "pct": "10%"
+        }
+      ],
+      "format": "serum",
+      "product_type": "Skin Care",
+      "concerns": [],
+      "skin_type": "All skin types",
+      "tagline": "For Brighter, Glowing & Healthy Looking Skin",
+      "price_inr": 285,
+      "review_count": 2202,
+      "rating": 4.85,
+      "best_seller_rank": 5,
+      "pediatric": false
+    },
+    {
+      "handle": "salicylic-acid-2",
+      "url": "https://beminimalist.co/products/salicylic-acid-2",
+      "title": "Salicylic Acid 2% Face Serum",
+      "actives": [
+        {
+          "name": "Salicylic Acid",
+          "pct": "2%"
+        }
+      ],
+      "format": "serum",
+      "product_type": "Skin Care",
+      "concerns": [
+        "acne",
+        "oily",
+        "blackheads"
+      ],
+      "skin_type": "Recommended for Combination/Oily Skin",
+      "tagline": "Reduces Acne, Blackheads & Excessive Oil",
+      "price_inr": 494,
+      "review_count": 2347,
+      "rating": 4.79,
+      "best_seller_rank": 6,
+      "pediatric": false
+    },
+    {
+      "handle": "alpha-arbutin-2",
+      "url": "https://beminimalist.co/products/alpha-arbutin-2",
+      "title": "Alpha Arbutin 2% Face Serum",
+      "actives": [
+        {
+          "name": "Alpha Arbutin",
+          "pct": "2%"
+        }
+      ],
+      "format": "serum",
+      "product_type": "Skin Care",
+      "concerns": [
+        "hyperpigmentation",
+        "acne marks",
+        "tanning",
+        "sunspot"
+      ],
+      "skin_type": "Dry/Normal, Sensitive, Oily/Combination, Acne-Prone",
+      "tagline": "Reduces Dark Spots, Marks & Evens Skin Tone",
+      "price_inr": 494,
+      "review_count": 1795,
+      "rating": 3.9,
+      "best_seller_rank": 7,
+      "pediatric": false
+    },
+    {
+      "handle": "marula-05-moisturizer",
+      "url": "https://beminimalist.co/products/marula-05-moisturizer",
+      "title": "Marula Oil 5% Face Moisturizer",
+      "actives": [
+        {
+          "name": "Marula Oil",
+          "pct": "5%"
+        }
+      ],
+      "format": "moisturizer",
+      "product_type": "Skin Care",
+      "concerns": [
+        "dry skin",
+        "flakiness",
+        "skin tightness"
+      ],
+      "skin_type": "Dry, Normal, Sensitive",
+      "tagline": "Deep & Intense Moisturization. Treats Dryness, Roughness and Flakiness",
+      "price_inr": 269,
+      "review_count": 388,
+      "rating": 4.83,
+      "best_seller_rank": 8,
+      "pediatric": false
+    },
+    {
+      "handle": "niacinamide-5-hyaluronic-acid-1",
+      "url": "https://beminimalist.co/products/niacinamide-5-hyaluronic-acid-1",
+      "title": "Niacinamide 5% Face Serum",
+      "actives": [
+        {
+          "name": "Niacinamide",
+          "pct": "5%"
+        }
+      ],
+      "format": "serum",
+      "product_type": "Skin Care",
+      "concerns": [
+        "acne marks",
+        "irritated",
+        "damaged skin"
+      ],
+      "skin_type": "Dry/Normal, Sensitive & Acne Prone",
+      "tagline": "Hydrates, Repairs & Soothes Skin",
+      "price_inr": 539,
+      "review_count": 897,
+      "rating": 4.8,
+      "best_seller_rank": 9,
+      "pediatric": false
+    },
+    {
+      "handle": "vitamin-c-e-ferulic-16",
+      "url": "https://beminimalist.co/products/vitamin-c-e-ferulic-16",
+      "title": "Vitamin C + E + Ferulic 16% Face Serum",
+      "actives": [
+        {
+          "name": "Vitamin C + E + Ferulic",
+          "pct": "16%"
+        }
+      ],
+      "format": "serum",
+      "product_type": "Skin Care",
+      "concerns": [],
+      "skin_type": "All skin types",
+      "tagline": "Brightens & protects skin",
+      "price_inr": 539,
+      "review_count": 468,
+      "rating": 4.74,
+      "best_seller_rank": 10,
+      "pediatric": false
+    },
+    {
+      "handle": "hair-growth-actives-18",
+      "url": "https://beminimalist.co/products/hair-growth-actives-18",
+      "title": "Hair Growth Actives 18% Hair Serum",
+      "actives": [
+        {
+          "name": "Hair Growth Actives",
+          "pct": "18%"
+        }
+      ],
+      "format": "hair",
+      "product_type": "Hair Care",
+      "concerns": [],
+      "skin_type": "",
+      "tagline": "Reduces Hairfall & Promotes Healthy Hair Growth",
+      "price_inr": 719,
+      "review_count": 726,
+      "rating": 4.71,
+      "best_seller_rank": 11,
+      "pediatric": false
+    },
+    {
+      "handle": "oat-extract-06-gentle-cleanser",
+      "url": "https://beminimalist.co/products/oat-extract-06-gentle-cleanser",
+      "title": "B12 + Oat Extract 6.5% Gentle Cleanser",
+      "actives": [
+        {
+          "name": "B12 + Oat Extract",
+          "pct": "6.5%"
+        }
+      ],
+      "format": "cleanser",
+      "product_type": "Skin Care",
+      "concerns": [
+        "dry",
+        "dehydrated",
+        "sensitive skin"
+      ],
+      "skin_type": "Dry/Normal, Sensitive, Oily/Combination, Acne-Prone",
+      "tagline": "Gentle, low-foaming cleanser for damaged, sensitive skin",
+      "price_inr": 269,
+      "review_count": 489,
+      "rating": 4.79,
+      "best_seller_rank": 12,
+      "pediatric": false
+    },
+    {
+      "handle": "retinol-0-3-q10",
+      "url": "https://beminimalist.co/products/retinol-0-3-q10",
+      "title": "Retinol 0.3% Face Serum",
+      "actives": [
+        {
+          "name": "Retinol",
+          "pct": "0.3%"
+        }
+      ],
+      "format": "serum",
+      "product_type": "Skin Care",
+      "concerns": [
+        "fine lines",
+        "wrinkles",
+        "loss of elasticity"
+      ],
+      "skin_type": "Dry/Normal, Sensitive, Oily, Combination, Acne-Prone",
+      "tagline": "Powerful Anti-aging Serum for Fine Lines & Wrinkles",
+      "price_inr": 539,
+      "review_count": 426,
+      "rating": 4.87,
+      "best_seller_rank": 13,
+      "pediatric": false
+    },
+    {
+      "handle": "pha-3-biotic-toner",
+      "url": "https://beminimalist.co/products/pha-3-biotic-toner",
+      "title": "Polyhydroxy Acid (PHA) 3% Face Toner",
+      "actives": [],
+      "format": "toner",
+      "product_type": "Skin Care",
+      "concerns": [
+        "enlarged pores",
+        "dehydrated skin or uneven texture"
+      ],
+      "skin_type": "Dry/Normal, Sensitive, Oily, Combination, Acne-Prone",
+      "tagline": "Tightens Pores, Exfoliates, Hydrates & Rebalances Skin Microbiome",
+      "price_inr": 359,
+      "review_count": 479,
+      "rating": 4.69,
+      "best_seller_rank": 14,
+      "pediatric": false
+    },
+    {
+      "handle": "light-fluid-spf-50-sunscreen",
+      "url": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen",
+      "title": "Light Fluid SPF 50 Sunscreen",
+      "actives": [
+        {
+          "name": "SPF",
+          "pct": "50"
+        }
+      ],
+      "format": "sunscreen",
+      "product_type": "Skin Care",
+      "concerns": [
+        "sun protection",
+        "uv exposure",
+        "damage"
+      ],
+      "skin_type": "All skin types",
+      "tagline": "Broad Spectrum SPF 50, PA++++",
+      "price_inr": 314,
+      "review_count": 338,
+      "rating": 4.76,
+      "best_seller_rank": 15,
+      "pediatric": false
+    },
+    {
+      "handle": "2-hyaluronic-acid",
+      "url": "https://beminimalist.co/products/2-hyaluronic-acid",
+      "title": "Hyaluronic + PGA 2% Face Serum",
+      "actives": [
+        {
+          "name": "Hyaluronic + PGA",
+          "pct": "2%"
+        }
+      ],
+      "format": "serum",
+      "product_type": "Skin Care",
+      "concerns": [
+        "dry",
+        "dehydrated",
+        "skin tightness"
+      ],
+      "skin_type": "Dry/Normal, Sensitive, Oily/Combination, Acne-Prone",
+      "tagline": "Intense, Multi-Level Hydration without the Oily Feel",
+      "price_inr": 539,
+      "review_count": 643,
+      "rating": 4.78,
+      "best_seller_rank": 16,
+      "pediatric": false
+    },
+    {
+      "handle": "vitamin-k-retinal-01-eye-cream",
+      "url": "https://beminimalist.co/products/vitamin-k-retinal-01-eye-cream",
+      "title": "Vitamin K + Retinal 1% Eye Cream",
+      "actives": [
+        {
+          "name": "Vitamin K + Retinal",
+          "pct": "1%"
+        }
+      ],
+      "format": "eye",
+      "product_type": "Skin Care",
+      "concerns": [
+        "dark circles",
+        "fine lines",
+        "eye puffiness"
+      ],
+      "skin_type": "All skin types",
+      "tagline": "Reduces dark circles, puffiness & fine lines",
+      "price_inr": 449,
+      "review_count": 198,
+      "rating": 3.5,
+      "best_seller_rank": 17,
+      "pediatric": false
+    },
+    {
+      "handle": "spf-60-silymarin",
+      "url": "https://beminimalist.co/products/spf-60-silymarin",
+      "title": "SPF 60 Sunscreen",
+      "actives": [
+        {
+          "name": "SPF",
+          "pct": "60"
+        }
+      ],
+      "format": "sunscreen",
+      "product_type": "Skin Care",
+      "concerns": [
+        "sun protection",
+        "uv exposure",
+        "damage"
+      ],
+      "skin_type": "All skin types",
+      "tagline": "Broad spectrum SPF 60, PA++++",
+      "price_inr": 539,
+      "review_count": 429,
+      "rating": 4.64,
+      "best_seller_rank": 18,
+      "pediatric": false
+    },
+    {
+      "handle": "glycolic-acid-08-exfoliating-liquid-toner",
+      "url": "https://beminimalist.co/products/glycolic-acid-08-exfoliating-liquid-toner",
+      "title": "Glycolic Acid 8% Exfoliating Liquid",
+      "actives": [
+        {
+          "name": "Glycolic Acid",
+          "pct": "8%"
+        }
+      ],
+      "format": "toner",
+      "product_type": "Skin Care",
+      "concerns": [
+        "dull skin",
+        "uneven tone",
+        "texture"
+      ],
+      "skin_type": "",
+      "tagline": "Deep Exfoliation For Even Skin Tone, Texture & Glow",
+      "price_inr": 449,
+      "review_count": 219,
+      "rating": 4.76,
+      "best_seller_rank": 19,
+      "pediatric": false
+    },
+    {
+      "handle": "aha-25-pha-5-bha-2",
+      "url": "https://beminimalist.co/products/aha-25-pha-5-bha-2",
+      "title": "AHA PHA BHA 32% Face Peel",
+      "actives": [
+        {
+          "name": "AHA PHA BHA",
+          "pct": "32%"
+        }
+      ],
+      "format": "exfoliant",
+      "product_type": "Skin Care",
+      "concerns": [
+        "hyperpigmentation",
+        "dullness",
+        "wrinkles"
+      ],
+      "skin_type": "Dry/Normal, Oily/Combination, Acne-Prone",
+      "tagline": "Weekend Exfoliating Facial",
+      "price_inr": 629,
+      "review_count": 693,
+      "rating": 4.75,
+      "best_seller_rank": 20,
+      "pediatric": false
+    },
+    {
+      "handle": "anti-dandruff-shampoo",
+      "url": "https://beminimalist.co/products/anti-dandruff-shampoo",
+      "title": "Anti Dandruff Shampoo 3.5%",
+      "actives": [
+        {
+          "name": "Anti Dandruff Shampoo",
+          "pct": "3.5%"
+        }
+      ],
+      "format": "hair",
+      "product_type": "Hair Care",
+      "concerns": [
+        "dandruff",
+        "flakiness",
+        "itching"
+      ],
+      "skin_type": "",
+      "tagline": "Reduces Dandruff, Itchiness & Removes Scalp Impurities",
+      "price_inr": 396,
+      "review_count": 320,
+      "rating": 4.75,
+      "best_seller_rank": 21,
+      "pediatric": false
+    },
+    {
+      "handle": "vitamin-b12-repair-complex-5-5-face-moisturizer",
+      "url": "https://beminimalist.co/products/vitamin-b12-repair-complex-5-5-face-moisturizer",
+      "title": "B12 + Repair Complex 5.5% Face Moisturizer",
+      "actives": [
+        {
+          "name": "B12 + Repair Complex",
+          "pct": "5.5%"
+        }
+      ],
+      "format": "moisturizer",
+      "product_type": "Skin Care",
+      "concerns": [
+        "sensitive skin",
+        "damaged barrier repair",
+        "skin irritation",
+        "redness"
+      ],
+      "skin_type": "All skin types",
+      "tagline": "Soothes sensitive, irritate skin and repairs damaged barrier",
+      "price_inr": 269,
+      "review_count": 194,
+      "rating": 4.78,
+      "best_seller_rank": 22,
+      "pediatric": false
+    },
+    {
+      "handle": "alpha-lipoic-glycolic-07-cleanser",
+      "url": "https://beminimalist.co/products/alpha-lipoic-glycolic-07-cleanser",
+      "title": "Alpha Lipoic + Glycolic 7% Cleanser",
+      "actives": [
+        {
+          "name": "Alpha Lipoic + Glycolic",
+          "pct": "7%"
+        }
+      ],
+      "format": "lip",
+      "product_type": "Skin Care",
+      "concerns": [
+        "dullness",
+        "uneven tone",
+        "rough skin",
+        "uneven texture"
+      ],
+      "skin_type": "Dry/Normal, Sensitive, Oily/Combination, Acne-Prone",
+      "tagline": "For brightening skin tone & evening skin texture",
+      "price_inr": 359,
+      "review_count": 151,
+      "rating": 3.9,
+      "best_seller_rank": 23,
+      "pediatric": false
+    },
+    {
+      "handle": "l-ascorbic-acid-08-lip-treatment-balm",
+      "url": "https://beminimalist.co/products/l-ascorbic-acid-08-lip-treatment-balm",
+      "title": "L-Ascorbic Acid 8% Lip Treatment Balm",
+      "actives": [
+        {
+          "name": "L-Ascorbic Acid",
+          "pct": "8%"
+        }
+      ],
+      "format": "lip",
+      "product_type": "Skin Care",
+      "concerns": [
+        "lip hyperpigmentation",
+        "dehydrated lips"
+      ],
+      "skin_type": "",
+      "tagline": "Prevents & treats hyperpigmentation, hydrates and softens lips",
+      "price_inr": 359,
+      "review_count": 202,
+      "rating": 3.4,
+      "best_seller_rank": 24,
+      "pediatric": false
+    },
+    {
+      "handle": "aquaporin-booster-05-cleanser",
+      "url": "https://beminimalist.co/products/aquaporin-booster-05-cleanser",
+      "title": "Aquaporin Booster 5% Cleanser",
+      "actives": [
+        {
+          "name": "Aquaporin Booster",
+          "pct": "5%"
+        }
+      ],
+      "format": "cleanser",
+      "product_type": "Skin Care",
+      "concerns": [
+        "skin tightness",
+        "dry",
+        "dehydrated skin"
+      ],
+      "skin_type": "Dry/Normal, Sensitive, Oily/Combination, Acne-Prone",
+      "tagline": "Stimulates hydration & cleans without drying",
+      "price_inr": 269,
+      "review_count": 196,
+      "rating": 4.2,
+      "best_seller_rank": 25,
+      "pediatric": false
+    },
+    {
+      "handle": "tranexamic-3-hpa",
+      "url": "https://beminimalist.co/products/tranexamic-3-hpa",
+      "title": "Tranexamic 3% Face Serum",
+      "actives": [
+        {
+          "name": "Tranexamic",
+          "pct": "3%"
+        }
+      ],
+      "format": "serum",
+      "product_type": "Skin Care",
+      "concerns": [
+        "diminish acne scars",
+        "melasma",
+        "pie"
+      ],
+      "skin_type": "Dry/Normal, Sensitive, Oily/Combination, Acne-Prone",
+      "tagline": "Reduces Melasma, PIE, PIH & Scars",
+      "price_inr": 584,
+      "review_count": 575,
+      "rating": 4.75,
+      "best_seller_rank": 26,
+      "pediatric": false
+    },
+    {
+      "handle": "nonapeptide-aha-06-underarm-roll-on",
+      "url": "https://beminimalist.co/products/nonapeptide-aha-06-underarm-roll-on",
+      "title": "Nonapeptide + AHA 6% Underarm Roll-On",
+      "actives": [
+        {
+          "name": "Nonapeptide + AHA",
+          "pct": "6%"
+        }
+      ],
+      "format": "body",
+      "product_type": "Bath & Body",
+      "concerns": [
+        "dark underarms",
+        "sweating",
+        "underarm odour"
+      ],
+      "skin_type": "",
+      "tagline": "Controls Odour and Fades Underarm Darkness",
+      "price_inr": 359,
+      "review_count": 248,
+      "rating": 3.9,
+      "best_seller_rank": 27,
+      "pediatric": false
+    },
+    {
+      "handle": "maleic-bond-repair-complex-3-5-shampoo",
+      "url": "https://beminimalist.co/products/maleic-bond-repair-complex-3-5-shampoo",
+      "title": "Maleic Bond Repair Complex 3.5% Hair Shampoo",
+      "actives": [
+        {
+          "name": "Maleic Bond Repair Complex",
+          "pct": "3.5%"
+        }
+      ],
+      "format": "hair",
+      "product_type": "Hair Care",
+      "concerns": [
+        "dull",
+        "weak",
+        "damaged hair"
+      ],
+      "skin_type": "",
+      "tagline": "Repairs and prevents hair damage",
+      "price_inr": 198,
+      "review_count": 202,
+      "rating": 4.73,
+      "best_seller_rank": 29,
+      "pediatric": false
+    },
+    {
+      "handle": "lip-balm-spf-30",
+      "url": "https://beminimalist.co/products/lip-balm-spf-30",
+      "title": "Lip Balm SPF 30",
+      "actives": [
+        {
+          "name": "SPF",
+          "pct": "30"
+        }
+      ],
+      "format": "lip",
+      "product_type": "Skin Care",
+      "concerns": [
+        "chapped lips",
+        "uv protection"
+      ],
+      "skin_type": "",
+      "tagline": "A nourishing SPF balm that protects, heals and nourishes dry, chapped, and irritated lips",
+      "price_inr": 269,
+      "review_count": 221,
+      "rating": 4.8,
+      "best_seller_rank": 30,
+      "pediatric": false
+    },
+    {
+      "handle": "niacinamide-05-body-lotion",
+      "url": "https://beminimalist.co/products/niacinamide-05-body-lotion",
+      "title": "Niacinamide 5% Body Lotion",
+      "actives": [
+        {
+          "name": "Niacinamide",
+          "pct": "5%"
+        }
+      ],
+      "format": "body",
+      "product_type": "Bath & Body",
+      "concerns": [
+        "damaged barrier",
+        "dry",
+        "flaky skin"
+      ],
+      "skin_type": "Dry/Normal, Sensitive, Oily/Combination, Acne-Prone",
+      "tagline": "Keeps skin healthy & hydrated",
+      "price_inr": 269,
+      "review_count": 205,
+      "rating": 4.78,
+      "best_seller_rank": 31,
+      "pediatric": false
+    },
+    {
+      "handle": "aha-bha-10",
+      "url": "https://beminimalist.co/products/aha-bha-10",
+      "title": "AHA BHA 10% Face Exfoliator",
+      "actives": [
+        {
+          "name": "AHA BHA",
+          "pct": "10%"
+        }
+      ],
+      "format": "exfoliant",
+      "product_type": "Skin Care",
+      "concerns": [
+        "dullness",
+        "roughness",
+        "uneven texture"
+      ],
+      "skin_type": "Dry/Normal, Oily/Combination, Acne-Prone",
+      "tagline": "Exfoliator for Younger and Glowing Skin",
+      "price_inr": 539,
+      "review_count": 265,
+      "rating": 4.7,
+      "best_seller_rank": 32,
+      "pediatric": false
+    },
+    {
+      "handle": "salicylic-acid-lha-02-body-wash",
+      "url": "https://beminimalist.co/products/salicylic-acid-lha-02-body-wash",
+      "title": "Salicylic Acid + LHA 2% Body Wash",
+      "actives": [
+        {
+          "name": "Salicylic Acid + LHA",
+          "pct": "2%"
+        }
+      ],
+      "format": "body",
+      "product_type": "Bath & Body",
+      "concerns": [
+        "excess sweat",
+        "body acne",
+        "rough skin"
+      ],
+      "skin_type": "",
+      "tagline": "Gently exfoliates, smoothens skin & reduces body acne",
+      "price_inr": 314,
+      "review_count": 143,
+      "rating": 4.72,
+      "best_seller_rank": 33,
+      "pediatric": false
+    },
+    {
+      "handle": "retinoid-2",
+      "url": "https://beminimalist.co/products/retinoid-2",
+      "title": "Granactive Retinoid 2% Face Cream",
+      "actives": [
+        {
+          "name": "Granactive Retinoid",
+          "pct": "2%"
+        }
+      ],
+      "format": "moisturizer",
+      "product_type": "Skin Care",
+      "concerns": [
+        "uneven tone",
+        "wrinkles",
+        "loss of elasticity"
+      ],
+      "skin_type": "",
+      "tagline": "Help Reduce Fine Lines & Wrinkles",
+      "price_inr": 629,
+      "review_count": 374,
+      "rating": 4.76,
+      "best_seller_rank": 34,
+      "pediatric": false
+    },
+    {
+      "handle": "maleic-bond-repair-complex-05",
+      "url": "https://beminimalist.co/products/maleic-bond-repair-complex-05",
+      "title": "Maleic Bond Repair Complex 5% Hair Serum",
+      "actives": [
+        {
+          "name": "Maleic Bond Repair Complex",
+          "pct": "5%"
+        }
+      ],
+      "format": "hair",
+      "product_type": "Hair Care",
+      "concerns": [
+        "dull",
+        "brittle",
+        "frizzy",
+        "weak or damaged hair"
+      ],
+      "skin_type": "",
+      "tagline": "Repairs and protect hair bonds",
+      "price_inr": 449,
+      "review_count": 166,
+      "rating": 4.81,
+      "best_seller_rank": 35,
+      "pediatric": false
+    },
+    {
+      "handle": "multi-peptide-serum-7-matrixyl-3000-3-bio-placenta",
+      "url": "https://beminimalist.co/products/multi-peptide-serum-7-matrixyl-3000-3-bio-placenta",
+      "title": "Multi-Peptides 10% Face Serum",
+      "actives": [
+        {
+          "name": "Multi-Peptides",
+          "pct": "10%"
+        }
+      ],
+      "format": "serum",
+      "product_type": "Skin Care",
+      "concerns": [
+        "skin sagging",
+        "fine line",
+        "wrinkles"
+      ],
+      "skin_type": "Dry/Normal, Sensitive, Oily/Combination, Acne-Prone",
+      "tagline": "For Firmer, Younger Looking Skin",
+      "price_inr": 629,
+      "review_count": 268,
+      "rating": 4.88,
+      "best_seller_rank": 36,
+      "pediatric": false
+    },
+    {
+      "handle": "ceramides-0-3-madecassoside",
+      "url": "https://beminimalist.co/products/ceramides-0-3-madecassoside",
+      "title": "Ceramides 0.3% + Madecassoside Moisturizer",
+      "actives": [
+        {
+          "name": "Ceramides",
+          "pct": "0.3%"
+        }
+      ],
+      "format": "moisturizer",
+      "product_type": "Skin Care",
+      "concerns": [
+        "oily",
+        "irritated skin",
+        "damaged barrier"
+      ],
+      "skin_type": "Oily/Combination, Acne-Prone; For Dry Skin, check our Ceramides 0.3% with Bisabolol",
+      "tagline": "Strengthens Skin Barrier, Hydrates & Soothes",
+      "price_inr": 539,
+      "review_count": 171,
+      "rating": 4.75,
+      "best_seller_rank": 37,
+      "pediatric": false
+    },
+    {
+      "handle": "frizz-control-complex-spf-30-hair-serum",
+      "url": "https://beminimalist.co/products/frizz-control-complex-spf-30-hair-serum",
+      "title": "Frizz Control Complex SPF 30 Hair Serum",
+      "actives": [
+        {
+          "name": "SPF",
+          "pct": "30"
+        }
+      ],
+      "format": "hair",
+      "product_type": "Hair Care",
+      "concerns": [
+        "frizz · uv exposure",
+        "damage"
+      ],
+      "skin_type": "",
+      "tagline": "reduces frizz, smoothens & protects from UV",
+      "price_inr": 539,
+      "review_count": 159,
+      "rating": 4.85,
+      "best_seller_rank": 38,
+      "pediatric": false
+    },
+    {
+      "handle": "maleic-bond-repair-complex-5-hair-mask",
+      "url": "https://beminimalist.co/products/maleic-bond-repair-complex-5-hair-mask",
+      "title": "Maleic Bond Repair Complex 5% Hair Mask",
+      "actives": [
+        {
+          "name": "Maleic Bond Repair Complex",
+          "pct": "5%"
+        }
+      ],
+      "format": "hair",
+      "product_type": "Hair Care",
+      "concerns": [
+        "dull",
+        "weak",
+        "frizzy",
+        "damaged hair"
+      ],
+      "skin_type": "",
+      "tagline": "Repairs and nourishes hair",
+      "price_inr": 629,
+      "review_count": 134,
+      "rating": 4.78,
+      "best_seller_rank": 41,
+      "pediatric": false
+    },
+    {
+      "handle": "hocl-skin-relief-spray-150-ppm-toner",
+      "url": "https://beminimalist.co/products/hocl-skin-relief-spray-150-ppm-toner",
+      "title": "HOCL Skin Relief Spray 150 ppm",
+      "actives": [],
+      "format": "toner",
+      "product_type": "Bath & Body",
+      "concerns": [
+        "eczema",
+        "acne",
+        "redness",
+        "damaged skin barrier"
+      ],
+      "skin_type": "All Skin Type. Best Suited for Eczema, Acne prone, compromised skin barrier",
+      "tagline": "Supports skin barrier and helps fight acne, eczema, redness",
+      "price_inr": 359,
+      "review_count": 95,
+      "rating": 4.78,
+      "best_seller_rank": 42,
+      "pediatric": false
+    },
+    {
+      "handle": "retinol-0-6",
+      "url": "https://beminimalist.co/products/retinol-0-6",
+      "title": "Retinol 0.6% Face Serum",
+      "actives": [
+        {
+          "name": "Retinol",
+          "pct": "0.6%"
+        }
+      ],
+      "format": "serum",
+      "product_type": "Skin Care",
+      "concerns": [
+        "fine lines",
+        "wrinkles",
+        "loss of elasticity"
+      ],
+      "skin_type": "Dry/Normal, Sensitive, Oily/Combination, Acne-Prone",
+      "tagline": "Medium strength Retinol formula for fading fine lines & wrinkles",
+      "price_inr": 584,
+      "review_count": 105,
+      "rating": 4.78,
+      "best_seller_rank": 44,
+      "pediatric": false
+    },
+    {
+      "handle": "cph-complex-oligopeptide-0-8-anti-dandruff-serum",
+      "url": "https://beminimalist.co/products/cph-complex-oligopeptide-0-8-anti-dandruff-serum",
+      "title": "CPH Complex + Oligopeptide 0.8% Anti-Dandruff Serum",
+      "actives": [
+        {
+          "name": "CPH Complex + Oligopeptide",
+          "pct": "0.8%"
+        }
+      ],
+      "format": "hair",
+      "product_type": "Hair Care",
+      "concerns": [
+        "dandruff",
+        "scalp irritation",
+        "sebum"
+      ],
+      "skin_type": "",
+      "tagline": "treats dandruff & itching",
+      "price_inr": 449,
+      "review_count": 84,
+      "rating": 4.76,
+      "best_seller_rank": 45,
+      "pediatric": false
+    },
+    {
+      "handle": "vitamin-b12-nmf-03-face-toner",
+      "url": "https://beminimalist.co/products/vitamin-b12-nmf-03-face-toner",
+      "title": "Vitamin B12 + NMF 03% Face Toner",
+      "actives": [
+        {
+          "name": "Vitamin B12 + NMF",
+          "pct": "03%"
+        }
+      ],
+      "format": "toner",
+      "product_type": "Skin Care",
+      "concerns": [],
+      "skin_type": "All skin types",
+      "tagline": "Soothes & nourishes skin",
+      "price_inr": 359,
+      "review_count": 50,
+      "rating": 4.97,
+      "best_seller_rank": 46,
+      "pediatric": false
+    },
+    {
+      "handle": "spf-30-body-lotion",
+      "url": "https://beminimalist.co/products/spf-30-body-lotion",
+      "title": "SPF 30 Body Lotion",
+      "actives": [
+        {
+          "name": "SPF",
+          "pct": "30"
+        }
+      ],
+      "format": "body",
+      "product_type": "Bath & Body",
+      "concerns": [
+        "sun protection",
+        "uv exposure",
+        "damage"
+      ],
+      "skin_type": "Dry/Normal, Sensitive, Oily/Combination, Acne-Prone",
+      "tagline": "Broad Spectrum SPF 30, PA++++",
+      "price_inr": 449,
+      "review_count": 48,
+      "rating": 4.77,
+      "best_seller_rank": 49,
+      "pediatric": false
+    },
+    {
+      "handle": "squalane-100",
+      "url": "https://beminimalist.co/products/squalane-100",
+      "title": "Squalane 100% Face Oil",
+      "actives": [
+        {
+          "name": "Squalane",
+          "pct": "100%"
+        }
+      ],
+      "format": "serum",
+      "product_type": "Skin Care",
+      "concerns": [
+        "dryness",
+        "skin tightness"
+      ],
+      "skin_type": "Dry/Normal, Sensitive, Oily/Combination, Acne-Prone",
+      "tagline": "Superior, lightweight Moisturisation",
+      "price_inr": 629,
+      "review_count": 299,
+      "rating": 4.74,
+      "best_seller_rank": 51,
+      "pediatric": false
+    },
+    {
+      "handle": "retinal-0-1-face-serum",
+      "url": "https://beminimalist.co/products/retinal-0-1-face-serum",
+      "title": "Retinal 0.1% Face Serum",
+      "actives": [
+        {
+          "name": "Retinal",
+          "pct": "0.1%"
+        }
+      ],
+      "format": "serum",
+      "product_type": "Skin Care",
+      "concerns": [
+        "fine lines",
+        "wrinkles",
+        "inflammation"
+      ],
+      "skin_type": "All skin types",
+      "tagline": "Mid-Strength Retinal to visibly reduce signs of aging",
+      "price_inr": 719,
+      "review_count": 109,
+      "rating": 4.8,
+      "best_seller_rank": 52,
+      "pediatric": false
+    },
+    {
+      "handle": "pediatrics-ceramide-vitamin-b5-delicate-cleanser",
+      "url": "https://beminimalist.co/products/pediatrics-ceramide-vitamin-b5-delicate-cleanser",
+      "title": "Ceramide & Vitamin B5 Delicate Cleanser",
+      "actives": [],
+      "format": "cleanser",
+      "product_type": "Baby Care",
+      "concerns": [],
+      "skin_type": "All Skin Types (Normal, Eczema-Prone, Sensitive Skin)",
+      "tagline": "Minimalist Pediatrics",
+      "price_inr": 539,
+      "review_count": 23,
+      "rating": 4.93,
+      "best_seller_rank": 54,
+      "pediatric": true
+    },
+    {
+      "handle": "copper_peptide_pdrn_1-25_face_serum",
+      "url": "https://beminimalist.co/products/copper_peptide_pdrn_1-25_face_serum",
+      "title": "Copper Peptide + PDRN 1.25% Face Serum",
+      "actives": [
+        {
+          "name": "Copper Peptide + PDRN",
+          "pct": "1.25%"
+        }
+      ],
+      "format": "serum",
+      "product_type": "Skin Care",
+      "concerns": [
+        "wrinkles",
+        "fine lines",
+        "dehydrated skin",
+        "damaged barrier"
+      ],
+      "skin_type": "All skin types",
+      "tagline": "Key to preventive aging in your 20’s",
+      "price_inr": 629,
+      "review_count": 29,
+      "rating": 4.82,
+      "best_seller_rank": 55,
+      "pediatric": false
+    },
+    {
+      "handle": "hydrating-factors-7-3-hair-shampoo",
+      "url": "https://beminimalist.co/products/hydrating-factors-7-3-hair-shampoo",
+      "title": "Hydrating Factors 7.3% Hair Shampoo",
+      "actives": [
+        {
+          "name": "Hydrating Factors",
+          "pct": "7.3%"
+        }
+      ],
+      "format": "hair",
+      "product_type": "Hair Care",
+      "concerns": [
+        "dry hair",
+        "frizz",
+        "lack of shine"
+      ],
+      "skin_type": "",
+      "tagline": "Helps to manage dry, dull & frizzy hair",
+      "price_inr": 449,
+      "review_count": 12,
+      "rating": 4.5,
+      "best_seller_rank": 57,
+      "pediatric": false
+    },
+    {
+      "handle": "hair-growth-anti-grey-actives-15-6-hair-serum",
+      "url": "https://beminimalist.co/products/hair-growth-anti-grey-actives-15-6-hair-serum",
+      "title": "Hair Growth + Anti-Grey 15.6% Hair Serum",
+      "actives": [
+        {
+          "name": "Hair Growth + Anti-Grey",
+          "pct": "15.6%"
+        }
+      ],
+      "format": "hair",
+      "product_type": "Hair Care",
+      "concerns": [],
+      "skin_type": "",
+      "tagline": "Reduces Hair Fall & grey hair, Promotes Hair Growth",
+      "price_inr": 809,
+      "review_count": 9,
+      "rating": 4.77,
+      "best_seller_rank": 58,
+      "pediatric": false
+    },
+    {
+      "handle": "multi-repair-actives-15-face-serum",
+      "url": "https://beminimalist.co/products/multi-repair-actives-15-face-serum",
+      "title": "Multi Repair Actives 15% Face Serum",
+      "actives": [
+        {
+          "name": "Multi Repair Actives",
+          "pct": "15%"
+        }
+      ],
+      "format": "serum",
+      "product_type": "Skin Care",
+      "concerns": [
+        "dullness",
+        "fine-lines",
+        "loss of firmness",
+        "uneven tone",
+        "barrier sensitivity"
+      ],
+      "skin_type": "All Skin Types",
+      "tagline": "Brightens & firms skin, repairs barrier",
+      "price_inr": 629,
+      "review_count": 15,
+      "rating": 5,
+      "best_seller_rank": 60,
+      "pediatric": false
+    },
+    {
+      "handle": "pediatrics-ceramide-squalane-nourishing-lotion",
+      "url": "https://beminimalist.co/products/pediatrics-ceramide-squalane-nourishing-lotion",
+      "title": "Ceramide & Squalane Nourishing Lotion",
+      "actives": [],
+      "format": "serum",
+      "product_type": "Baby Care",
+      "concerns": [],
+      "skin_type": "All Skin Types (Normal, Eczema-Prone, Sensitive Skin)",
+      "tagline": "Minimalist Pediatrics",
+      "price_inr": 809,
+      "review_count": 13,
+      "rating": 4.9,
+      "best_seller_rank": 61,
+      "pediatric": true
+    },
+    {
+      "handle": "marula-oil-05-cleansing-oil",
+      "url": "https://beminimalist.co/products/marula-oil-05-cleansing-oil",
+      "title": "Marula Oil 05% Cleansing Oil",
+      "actives": [
+        {
+          "name": "Marula Oil",
+          "pct": "05%"
+        }
+      ],
+      "format": "cleanser",
+      "product_type": "Skin Care",
+      "concerns": [],
+      "skin_type": "",
+      "tagline": "Gently removes oils & impurities, leaves skin clean.",
+      "price_inr": 539,
+      "review_count": 15,
+      "rating": 4.81,
+      "best_seller_rank": 62,
+      "pediatric": false
+    },
+    {
+      "handle": "pediatrics-zinc-oxide-b5-healing-ointment",
+      "url": "https://beminimalist.co/products/pediatrics-zinc-oxide-b5-healing-ointment",
+      "title": "Zinc Oxide + B5 Healing Ointment",
+      "actives": [],
+      "format": "other",
+      "product_type": "Baby Care",
+      "concerns": [
+        "diaper rash",
+        "irritation"
+      ],
+      "skin_type": "All Skin Types (Normal, Eczema-Prone, Sensitive Skin)",
+      "tagline": "Minimalist Pediatrics",
+      "price_inr": 359,
+      "review_count": 20,
+      "rating": 4.44,
+      "best_seller_rank": 65,
+      "pediatric": true
+    },
+    {
+      "handle": "pediatrics-provitamin-d3-massage-oil",
+      "url": "https://beminimalist.co/products/pediatrics-provitamin-d3-massage-oil",
+      "title": "Provitamin D3 Massage Oil",
+      "actives": [],
+      "format": "other",
+      "product_type": "Baby Care",
+      "concerns": [],
+      "skin_type": "All Skin Types (Normal, Eczema-Prone, Sensitive Skin)",
+      "tagline": "Minimalist Pediatrics",
+      "price_inr": 539,
+      "review_count": 2,
+      "rating": 5,
+      "best_seller_rank": 67,
+      "pediatric": true
+    },
+    {
+      "handle": "kojic-mandelic-body-lotion",
+      "url": "https://beminimalist.co/products/kojic-mandelic-body-lotion",
+      "title": "Kojic + Mandelic 2.5% Body Lotion",
+      "actives": [
+        {
+          "name": "Kojic + Mandelic",
+          "pct": "2.5%"
+        }
+      ],
+      "format": "body",
+      "product_type": "Bath & Body",
+      "concerns": [],
+      "skin_type": "",
+      "tagline": "Helps Reduce Pigmentation, Dark Spots & Evens Skin Tone",
+      "price_inr": 360,
+      "review_count": 1,
+      "rating": 5,
+      "best_seller_rank": 69,
+      "pediatric": false
+    },
+    {
+      "handle": "vitamin-b5-10-moisturizer-30g",
+      "url": "https://beminimalist.co/products/vitamin-b5-10-moisturizer-30g",
+      "title": "Vitamin B5 10% Moisturizer (30g)",
+      "actives": [
+        {
+          "name": "Vitamin B5",
+          "pct": "10%"
+        }
+      ],
+      "format": "moisturizer",
+      "product_type": "Gift",
+      "concerns": [
+        "damaged barrier",
+        "oily",
+        "dehydrated skin"
+      ],
+      "skin_type": "Oily/Combination, Acne Prone",
+      "tagline": "Provides Lightweight Moisturization & Repairs Skin",
+      "price_inr": 199,
+      "review_count": 90,
+      "rating": 4.69,
+      "best_seller_rank": null,
+      "pediatric": false
+    }
+  ]
+}

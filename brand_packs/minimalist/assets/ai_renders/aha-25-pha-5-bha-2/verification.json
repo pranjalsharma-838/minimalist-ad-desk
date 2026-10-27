@@ -1,0 +1,16 @@
+{
+  "product": "aha-25-pha-5-bha-2",
+  "source": "brand_packs/minimalist/assets/hires/aha-25-pha-5-bha-2.png",
+  "tool": "ChatGPT web (user account), 2026-10-05",
+  "rounds": 1,
+  "accepted": "round1.png",
+  "auto_check": {
+    "matches": 489,
+    "inliers": 332,
+    "label_similarity": 0.512
+  },
+  "visual_read": "Read: AHA PHA BHA / 32% / FACE PEEL / with 25% alpha + 5% poly + 2% beta-hydroxy acids / for instant glow & soft skin / for all skin types / 30ml / 1 fl oz / Minimalist. All identical; red line, yellow oil, clear neck, black dropper cap identical.",
+  "shape": "bottle",
+  "status": "approved",
+  "fix_prompt": ""
+}

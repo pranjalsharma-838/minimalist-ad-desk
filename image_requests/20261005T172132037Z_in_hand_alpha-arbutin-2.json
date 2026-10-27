@@ -1,0 +1,11 @@
+{
+  "id": "20261005T172132037Z_in_hand_alpha-arbutin-2",
+  "handle": "alpha-arbutin-2",
+  "product": "Alpha Arbutin 2% Face Serum",
+  "prompt": "Create an image: a natural lifestyle photo of an adult with oily skin in a sunlit doorway at home, holding the attached product pack in one hand at chest height, label facing the camera and fully readable, relaxed and candid, vertical 2:3. Style: plain and minimal, neutral whites and soft greys, natural daylight, uncluttered background, real-looking skin with no retouching or filters, no props or decoration. No other products, no extra text. Use the attached photo as the exact product.",
+  "base_image": "brand_packs/minimalist/assets/ai_renders/alpha-arbutin-2/round1.png",
+  "format": "in_hand",
+  "requested_at": "2026-10-05T17:21:32.040Z",
+  "status": "done",
+  "working_since": "2026-10-05T17:21:39.605Z"
+}

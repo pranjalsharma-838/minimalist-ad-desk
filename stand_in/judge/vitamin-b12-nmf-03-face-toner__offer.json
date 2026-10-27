@@ -1,0 +1,27 @@
+{
+    "findings":  [
+                     {
+                         "rule_id":  "UNLISTED",
+                         "dimension":  "language",
+                         "field":  "primary_text",
+                         "span":  "Offer as on beminimalist.co, captured 2026-10-02; no end date shown.",
+                         "severity":  "advisory",
+                         "why":  "This reads like an internal capture note rather than customer-facing copy; it is odd to publish and tells the reader nothing useful.",
+                         "fix":  "Remove the capture note from the primary text and keep the offer line on the image with its T\u0026C."
+                     }
+                 ],
+    "rule_hit_review":  [
+                            {
+                                "index":  0,
+                                "assessment":  "agree",
+                                "why":  "Headline names Vitamin B12 with no concentration in that field; advisory only, since the product name carries 03%."
+                            },
+                            {
+                                "index":  1,
+                                "assessment":  "agree",
+                                "why":  "Primary text names Vitamin B12 with no concentration in that field; advisory only."
+                            }
+                        ],
+    "tone_read":  "Offer is stated plainly with a T\u0026C line and no urgency or pressure; the brand voice holds.",
+    "language_read":  "The 03% strength is in brand format; the offer is written as Buy 2, Get 3rd Free with its condition visible. The leaked capture note in the primary text is the only language issue."
+}

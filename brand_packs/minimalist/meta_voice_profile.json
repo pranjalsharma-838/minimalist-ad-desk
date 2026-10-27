@@ -1,0 +1,467 @@
+{
+ "built": "2026-10-05",
+ "brand": "Minimalist",
+ "how_to_read": "Measured, not written: every number comes from Minimalist's own Meta ads that were still running after 30+ days. 'targets' are what lib/tiers.js compares a new ad with (alignment score). Rates are per 100 words. Hype and fear words use the rulebook's own TON-02 / TON-01 patterns. The brand's live copy is not perfect: where it uses fear hooks or hype ('Tired of…', 'Say goodbye to…', 'unlock'), the profile records it honestly; the tone rules still flag those lines, because the rules side with the brand's stated philosophy (no fear, no fluff).",
+ "rebuild": "node scripts/build_meta_voice.js",
+ "on_image": {
+  "source": "research/minimalist_top_ads/on_image_text.json (read by eye from the saved statics; pack labels and size marks not counted)",
+  "ads": 8,
+  "images": 11,
+  "days_running": [
+   98,
+   93,
+   91,
+   88,
+   85,
+   76,
+   72,
+   52
+  ],
+  "words_per_image": {
+   "single_images": {
+    "values": [
+     17,
+     0,
+     17,
+     21,
+     8,
+     13,
+     0
+    ],
+    "min": 0,
+    "median": 13,
+    "max": 21
+   },
+   "carousel_cards": {
+    "values": [
+     18,
+     36,
+     32,
+     26
+    ],
+    "min": 18,
+    "median": 29,
+    "max": 36
+   },
+   "with_no_text": [
+    "1365545252142669",
+    "1023646183828867"
+   ]
+  },
+  "title_words": {
+   "median": 4,
+   "max": 15,
+   "examples": [
+    "Three products, At the cost of two",
+    "OAT EXTRACT 06%",
+    "B12 + OAT EXTRACT 6.5%",
+    "What is it?",
+    "Surfactants remove dirt, oil and buildup, skin can be left feeling tight, dry or uncomfortable.",
+    "60% of skin is water.",
+    "Glow Boosting Routine",
+    "Brightening Cleanser",
+    "100% Squalane Moisturizing Face Oil"
+   ]
+  },
+  "title_words_single_images": {
+   "median": 5,
+   "max": 7,
+   "examples": [
+    "Three products, At the cost of two",
+    "60% of skin is water.",
+    "Glow Boosting Routine",
+    "Brightening Cleanser",
+    "100% Squalane Moisturizing Face Oil"
+   ]
+  },
+  "tags_per_image": {
+   "max": 1,
+   "images_with_a_tag": 4,
+   "examples": [
+    "FREE",
+    "Updated",
+    "Clinically Tested",
+    "Clinically Tested"
+   ]
+  },
+  "titles_naming_an_active_or_pct": {
+   "share": 0.44,
+   "n": 9,
+   "examples": [
+    "OAT EXTRACT 06%",
+    "B12 + OAT EXTRACT 6.5%",
+    "60% of skin is water.",
+    "100% Squalane Moisturizing Face Oil"
+   ]
+  },
+  "emoji_per_100w": 0,
+  "exclamation_per_100w": 0.53,
+  "exclamation_examples": [
+   "Hydrate timely for healthy skin!"
+  ],
+  "hype_words": [],
+  "fear_words": [],
+  "cta_on_image": 0,
+  "people": {
+   "faces": 0,
+   "hands": 3,
+   "of": 8
+  },
+  "supporting_lines": [
+   "*Add 3 & get the lowest price product for free",
+   "The Oat Cleanser you loved.",
+   "Now strengthen with Vitamin B12.",
+   "Designed to cleanse. Designed to calm.",
+   "Vitamin B5 and Hyaluronic Acid to help maintain hydration.",
+   "Hydrate timely for healthy skin!",
+   "FREE Bottle on purchase of 2 products",
+   "2X Benefit",
+   "Exfoliates & Brightens",
+   "Non-comedogenic, improves skin's elasticity and firmness"
+  ]
+ },
+ "ad_copy": {
+  "source": "research/minimalist_top_ads/ad_copy_2026-10-05.json (Meta Ad Library, page Minimalistinc, India, active ads, captured 2026-10-05 with Playwright, text only)",
+  "cards_on_page": 27,
+  "used": {
+   "ads": 15,
+   "distinct_copies": 10,
+   "video_ads_used_for_wording_only": 8,
+   "static_ads": 7,
+   "days_running": {
+    "min": 53,
+    "max": 123
+   }
+  },
+  "excluded": {
+   "creator_partnership": 10,
+   "under_30_days": 1,
+   "no_copy": 1,
+   "duplicate_versions": 5
+  },
+  "sentence_words": {
+   "n": 66,
+   "mean": 7.59,
+   "median": 7,
+   "p25": 4,
+   "p75": 9
+  },
+  "primary_text_words": {
+   "median": 43.5,
+   "min": 29,
+   "max": 96
+  },
+  "hook_types": {
+   "fear_problem": {
+    "count": 1,
+    "share": 0.1,
+    "examples": [
+     "Say goodbye to oiliness, acne breakouts, and uneven skin tone!"
+    ]
+   },
+   "product_intro": {
+    "count": 2,
+    "share": 0.2,
+    "examples": [
+     "Meet the new B12 + Oat Extract 6.5% Gentle Cleanser, an evolution of our beloved Oat Extract 6% Gentle Cleanser, now enriched with Vitamin B12.",
+     "Meet your summer skincare essential."
+    ]
+   },
+   "ingredient_led": {
+    "count": 2,
+    "share": 0.2,
+    "examples": [
+     "This gel-based daily cleanser combines 7% Glycolic Acid and Alpha Lipoic Acid to gently exfoliate, clear buildup, and reveal visibly brighter, smoother skin.",
+     "Vitamin C 10% Face Serum"
+    ]
+   },
+   "brand_trust": {
+    "count": 2,
+    "share": 0.2,
+    "examples": [
+     "Skincare with absolutely nothing to hide.",
+     "Science-backed skincare that fits your budget."
+    ]
+   },
+   "you_statement": {
+    "count": 2,
+    "share": 0.2,
+    "examples": [
+     "Your skin doesn’t just need actives — it needs H₂O too.",
+     "Your skin isn’t generic; your skincare shouldn’t be either."
+    ]
+   },
+   "statement": {
+    "count": 1,
+    "share": 0.1,
+    "examples": [
+     "Reveal Your Natural Glow with Minimalist"
+    ]
+   }
+  },
+  "ingredient_first": {
+   "share": 0.3,
+   "examples": [
+    "Meet the new B12 + Oat Extract 6.5% Gentle Cleanser, an evolution of our beloved Oat Extract 6% Gentle Cleanser, now enriched with Vitamin B12.",
+    "This gel-based daily cleanser combines 7% Glycolic Acid and Alpha Lipoic Acid to gently exfoliate, clear buildup, and reveal visibly brighter, smoother skin.",
+    "Vitamin C 10% Face Serum"
+   ]
+  },
+  "names_an_active_or_pct": 0.6,
+  "hedged_efficacy": {
+   "efficacy_sentences": 17,
+   "hedged": 2,
+   "share": 0.12,
+   "hedged_examples": [
+    "Now, with the added benefits of Vitamin B12 to give sensitive skin a little extra support during cleansing.",
+    "Designed to brighten, treat, and protect—backed by science, made for real results.",
+    "Shop now and unlock visibly healthier, glowing skin.",
+    "This gel-based daily cleanser combines 7% Glycolic Acid and Alpha Lipoic Acid to gently exfoliate, clear buildup, and reveal visibly brighter, smoother skin.",
+    "Helps prevent free radical damage for healthy, glowing skin"
+   ]
+  },
+  "second_person_per_100w": 3.39,
+  "emoji": {
+   "per_100w": 0.6,
+   "ads_with_any": 1,
+   "of": 10,
+   "examples": [
+    "🛡️ Proper cleansing is the very first step to clear skin."
+   ]
+  },
+  "exclamation": {
+   "per_100w": 0.6,
+   "ads_with_any": 2,
+   "of": 10,
+   "examples": [
+    "Say goodbye to oiliness, acne breakouts, and uneven skin tone!",
+    "Buy any 2 Minimalist products, get a FREEBIE of your choice!"
+   ]
+  },
+  "hype": {
+   "per_100w": 0.2,
+   "words": [
+    "unlock"
+   ],
+   "examples": [
+    "Shop now and unlock visibly healthier, glowing skin."
+   ]
+  },
+  "fear": {
+   "per_100w": 0.4,
+   "words": [
+    "Tired of",
+    "Say goodbye to"
+   ],
+   "examples": [
+    "Say goodbye to oiliness, acne breakouts, and uneven skin tone!",
+    "Tired of dull, uneven skin?"
+   ]
+  },
+  "cta": {
+   "buttons": {
+    "see details": 1,
+    "learn more": 4,
+    "shop now": 8,
+    "order now": 2
+   },
+   "in_text": {
+    "shop the sale now on zepto": 1,
+    "discover": 1,
+    "shop now": 1
+   }
+  },
+  "headline_lines": {
+   "median_words": 4,
+   "max_words": 17,
+   "examples": [
+    "Moisturizers backed by science",
+    "Transparent. Hide Nothing.",
+    "Serums backed by science",
+    "Actives for Skin. H₂O for Within",
+    "Support your actives with hydration. Buy any 2 products and get a water bottle worth ₹599, free.",
+    "Earn Cashback! Limited Time offer on kits!",
+    "Reduce Dullness and Boost Your Natural Radiance",
+    "Buy any 2 products and get a freebie of your choice",
+    "Limited Time Offer!",
+    "Bestselling Sunscreen For Summer",
+    "Lightweight, multi-vitamin formula.",
+    "Brighten, Exfoliate, Glow",
+    "Earn Cashback on every purchase",
+    "Brighten your Skin"
+   ]
+  },
+  "copies": [
+   {
+    "ids": [
+     "1673367467228372"
+    ],
+    "started": "Jul 5, 2026",
+    "days": 92,
+    "video": false,
+    "hook": "product_intro",
+    "opener": "Meet the new B12 + Oat Extract 6.5% Gentle Cleanser, an evolution of our beloved Oat Extract 6% Gentle Cleanser, now enriched with Vitamin B12.",
+    "headline_lines": []
+   },
+   {
+    "ids": [
+     "1546118047021775",
+     "1518682993229945",
+     "2222970825115827"
+    ],
+    "started": "Jun 4, 2026",
+    "days": 123,
+    "video": true,
+    "hook": "brand_trust",
+    "opener": "Skincare with absolutely nothing to hide.",
+    "headline_lines": [
+     "Moisturizers backed by science",
+     "Transparent. Hide Nothing.",
+     "Serums backed by science"
+    ]
+   },
+   {
+    "ids": [
+     "1694736281737007"
+    ],
+    "started": "Jul 8, 2026",
+    "days": 89,
+    "video": false,
+    "hook": "you_statement",
+    "opener": "Your skin doesn’t just need actives — it needs H₂O too.",
+    "headline_lines": [
+     "Actives for Skin. H₂O for Within",
+     "Support your actives with hydration. Buy any 2 products and get a water bottle worth ₹599, free."
+    ]
+   },
+   {
+    "ids": [
+     "1468840825270183",
+     "1023646183828867"
+    ],
+    "started": "Jul 20, 2026",
+    "days": 77,
+    "video": false,
+    "hook": "fear_problem",
+    "opener": "Say goodbye to oiliness, acne breakouts, and uneven skin tone!",
+    "headline_lines": []
+   },
+   {
+    "ids": [
+     "1700335027907222"
+    ],
+    "started": "Jul 24, 2026",
+    "days": 73,
+    "video": false,
+    "hook": "you_statement",
+    "opener": "Your skin isn’t generic; your skincare shouldn’t be either.",
+    "headline_lines": []
+   },
+   {
+    "ids": [
+     "2422634991565984"
+    ],
+    "started": "Jul 11, 2026",
+    "days": 86,
+    "video": false,
+    "hook": "statement",
+    "opener": "Reveal Your Natural Glow with Minimalist",
+    "headline_lines": [
+     "Earn Cashback! Limited Time offer on kits!",
+     "Reduce Dullness and Boost Your Natural Radiance"
+    ]
+   },
+   {
+    "ids": [
+     "1029780766465681",
+     "988080157427683",
+     "1520009322997886"
+    ],
+    "started": "Jul 8, 2026",
+    "days": 89,
+    "video": true,
+    "hook": "brand_trust",
+    "opener": "Science-backed skincare that fits your budget.",
+    "headline_lines": [
+     "Buy any 2 products and get a freebie of your choice",
+     "Limited Time Offer!"
+    ]
+   },
+   {
+    "ids": [
+     "1521890822672768"
+    ],
+    "started": "Jun 22, 2026",
+    "days": 105,
+    "video": true,
+    "hook": "product_intro",
+    "opener": "Meet your summer skincare essential.",
+    "headline_lines": [
+     "Bestselling Sunscreen For Summer",
+     "Lightweight, multi-vitamin formula."
+    ]
+   },
+   {
+    "ids": [
+     "3043932412484720"
+    ],
+    "started": "Jun 27, 2026",
+    "days": 100,
+    "video": true,
+    "hook": "ingredient_led",
+    "opener": "This gel-based daily cleanser combines 7% Glycolic Acid and Alpha Lipoic Acid to gently exfoliate, clear buildup, and reveal visibly brighter, smoother skin.",
+    "headline_lines": [
+     "Brighten, Exfoliate, Glow"
+    ]
+   },
+   {
+    "ids": [
+     "2010383689596000"
+    ],
+    "started": "Jul 28, 2026",
+    "days": 69,
+    "video": true,
+    "hook": "ingredient_led",
+    "opener": "Vitamin C 10% Face Serum",
+    "headline_lines": [
+     "Earn Cashback on every purchase",
+     "Brighten your Skin"
+    ]
+   }
+  ]
+ },
+ "targets": {
+  "image_words_single_max": 21,
+  "image_words_single_median": 13,
+  "image_words_card_max": 36,
+  "title_words_max": 7,
+  "title_words_median": 5,
+  "tags_max": 1,
+  "sentence_words": {
+   "median": 7,
+   "p25": 4,
+   "p75": 9
+  },
+  "exclamation_per_100w": 0.6,
+  "emoji_per_100w": 0.6,
+  "hype_per_100w": 0.2,
+  "fear_per_100w": 0.4,
+  "opener_names_active_share": 0.37,
+  "hedged_share": 0.12,
+  "hook_shares": {
+   "fear_problem": 0.1,
+   "product_intro": 0.2,
+   "ingredient_led": 0.2,
+   "brand_trust": 0.2,
+   "you_statement": 0.2,
+   "statement": 0.1
+  }
+ },
+ "caveats": [
+  "Small sample: 8 static ads (11 images) and 10 distinct brand-authored copies. Treat the numbers as a direction, not a law.",
+  "'Still running after 30+ days' is a proxy for 'worked': Meta keeps spending on ads that perform, but an ad can also run because nobody switched it off.",
+  "On-image text was read by eye from 600 px images; small print may be slightly off.",
+  "Meta shows one version of a multi-version ad; the copy captured is the version shown (e.g. two statics of the Alpha Lipoic cleanser carry the Zepto Salicylic copy of their sibling version).",
+  "Video ads contribute wording only. Their visuals are never used (user rule 2026-10-04)."
+ ]
+}

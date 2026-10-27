@@ -1,0 +1,27 @@
+{
+    "findings":  [
+                     {
+                         "rule_id":  "CLM-17",
+                         "dimension":  "policy",
+                         "field":  "on_image_text",
+                         "span":  "Pregnancy/Lactation: Safe",
+                         "severity":  "fix",
+                         "why":  "A pregnancy/lactation safety claim is high-stakes. It matches the product page, but needs product-specific evidence on file before it goes on an ad.",
+                         "fix":  "Remove it, or keep only if safety evidence for pregnancy and lactation is confirmed on file for this product."
+                     }
+                 ],
+    "rule_hit_review":  [
+                            {
+                                "index":  0,
+                                "assessment":  "agree",
+                                "why":  "Headline names Vitamin B12 with no concentration in that field; advisory only, since the product name carries 03%."
+                            },
+                            {
+                                "index":  1,
+                                "assessment":  "agree",
+                                "why":  "Primary text names Vitamin B12 with no concentration in that field; advisory only."
+                            }
+                        ],
+    "tone_read":  "Factual spec-sheet tone with the active, skin type and usage; calm and education-first.",
+    "language_read":  "The spec line states the 03% active correctly and matches page facts. The headline and primary text name Vitamin B12 without its percentage."
+}

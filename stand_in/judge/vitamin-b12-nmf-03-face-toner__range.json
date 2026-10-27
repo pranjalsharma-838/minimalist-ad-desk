@@ -1,0 +1,14 @@
+{
+    "findings":  [
+
+                 ],
+    "rule_hit_review":  [
+                            {
+                                "index":  0,
+                                "assessment":  "agree",
+                                "why":  "Primary text names Vitamin B12 without its concentration; advisory only."
+                            }
+                        ],
+    "tone_read":  "Educational range-selector tone; concern labels name the concern neutrally rather than agitating it. No fear, hype or urgency.",
+    "language_read":  "Concentrations are in brand format. The Glycolic Acid 8% Exfoliating Liquid has no product facts attached, so its strength could not be checked."
+}

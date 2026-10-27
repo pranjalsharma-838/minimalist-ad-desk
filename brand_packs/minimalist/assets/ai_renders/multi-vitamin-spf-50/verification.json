@@ -1,0 +1,16 @@
+{
+  "product": "multi-vitamin-spf-50",
+  "source": "brand_packs/minimalist/assets/hires/multi-vitamin-spf-50.jpg",
+  "tool": "ChatGPT web (user account), 2026-10-05",
+  "rounds": 1,
+  "accepted": "round1.png",
+  "auto_check": {
+    "matches": 323,
+    "inliers": 233,
+    "label_similarity": 0.585
+  },
+  "visual_read": "Read: SPF 50 / SUNSCREEN / with niacinamide + vitamin b5 + vitamin f / broad spectrum, PA++++ / for all skin types / 50g / 1.7 oz / Minimalist. All identical; orange line, ribbed cap, black base cap and tube seam identical.",
+  "shape": "tube",
+  "status": "approved",
+  "fix_prompt": ""
+}

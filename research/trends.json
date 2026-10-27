@@ -1,0 +1,316 @@
+{
+  "built": "2026-10-03",
+  "scope": "India · Meta Ad Library · 10 competitor brands · 74 ads. Global sources not yet included.",
+  "formats": {
+    "1": 0.75,
+    "2": 0.6,
+    "3": 0.65,
+    "4": 0.65,
+    "5": 0.65,
+    "7": 0.65,
+    "8": 0.65,
+    "9": 0.05,
+    "10": 0.1,
+    "11": 0.65,
+    "12": 0.56,
+    "13": 0.65,
+    "15": 0.7,
+    "19": 0.65,
+    "22": 0.75,
+    "23": 0.7,
+    "24": 0.65,
+    "25": 0.65,
+    "26": 0.7,
+    "28": 0.55,
+    "31": 0.65,
+    "34": 0.05,
+    "35": 0.05,
+    "36": 0.89,
+    "38": 0.7,
+    "39": 0.05,
+    "41": 0.65,
+    "48": 0.65
+  },
+  "table": [
+    {
+      "id": 36,
+      "name": "Offer creative",
+      "ads": 16,
+      "brands": 8,
+      "winner_share": 0.81,
+      "momentum": 0.44,
+      "longevity": 0.5,
+      "saturated": true
+    },
+    {
+      "id": 1,
+      "name": "Clean product hero",
+      "ads": 4,
+      "brands": 3,
+      "winner_share": 1,
+      "momentum": 0.25,
+      "longevity": 0.75,
+      "saturated": false
+    },
+    {
+      "id": 22,
+      "name": "How-to / steps",
+      "ads": 3,
+      "brands": 3,
+      "winner_share": 1,
+      "momentum": 0.67,
+      "longevity": 0.33,
+      "saturated": false
+    },
+    {
+      "id": 15,
+      "name": "Problem → product",
+      "ads": 2,
+      "brands": 2,
+      "winner_share": 1,
+      "momentum": 0.5,
+      "longevity": 0,
+      "saturated": false
+    },
+    {
+      "id": 23,
+      "name": "Infographic",
+      "ads": 2,
+      "brands": 2,
+      "winner_share": 1,
+      "momentum": 0.5,
+      "longevity": 0.5,
+      "saturated": false
+    },
+    {
+      "id": 26,
+      "name": "Review creative",
+      "ads": 2,
+      "brands": 2,
+      "winner_share": 1,
+      "momentum": 0.5,
+      "longevity": 0.5,
+      "saturated": false
+    },
+    {
+      "id": 38,
+      "name": "Bundle / kit image",
+      "ads": 2,
+      "brands": 2,
+      "winner_share": 1,
+      "momentum": 0.5,
+      "longevity": 0,
+      "saturated": false
+    },
+    {
+      "id": 3,
+      "name": "Product + ingredients",
+      "ads": 1,
+      "brands": 1,
+      "winner_share": 1,
+      "momentum": 0,
+      "longevity": 1,
+      "saturated": false
+    },
+    {
+      "id": 4,
+      "name": "Ingredient flat lay",
+      "ads": 1,
+      "brands": 1,
+      "winner_share": 1,
+      "momentum": 0,
+      "longevity": 1,
+      "saturated": false
+    },
+    {
+      "id": 5,
+      "name": "Premium editorial product shot",
+      "ads": 1,
+      "brands": 1,
+      "winner_share": 1,
+      "momentum": 0,
+      "longevity": 1,
+      "saturated": false
+    },
+    {
+      "id": 7,
+      "name": "Product-in-hand",
+      "ads": 1,
+      "brands": 1,
+      "winner_share": 1,
+      "momentum": 0,
+      "longevity": 1,
+      "saturated": false
+    },
+    {
+      "id": 8,
+      "name": "Product-in-use",
+      "ads": 1,
+      "brands": 1,
+      "winner_share": 1,
+      "momentum": 0,
+      "longevity": 1,
+      "saturated": false
+    },
+    {
+      "id": 11,
+      "name": "Result / beauty shot",
+      "ads": 1,
+      "brands": 1,
+      "winner_share": 1,
+      "momentum": 1,
+      "longevity": 0,
+      "saturated": false
+    },
+    {
+      "id": 13,
+      "name": "Split-screen transformation",
+      "ads": 4,
+      "brands": 4,
+      "winner_share": 0.75,
+      "momentum": 0.75,
+      "longevity": 0,
+      "saturated": false
+    },
+    {
+      "id": 19,
+      "name": "This vs that",
+      "ads": 1,
+      "brands": 1,
+      "winner_share": 1,
+      "momentum": 0,
+      "longevity": 1,
+      "saturated": false
+    },
+    {
+      "id": 24,
+      "name": "Clinical / science visual",
+      "ads": 1,
+      "brands": 1,
+      "winner_share": 1,
+      "momentum": 0,
+      "longevity": 0,
+      "saturated": false
+    },
+    {
+      "id": 25,
+      "name": "Stat-led creative",
+      "ads": 1,
+      "brands": 1,
+      "winner_share": 1,
+      "momentum": 0,
+      "longevity": 0,
+      "saturated": false
+    },
+    {
+      "id": 31,
+      "name": "Creator selfie",
+      "ads": 1,
+      "brands": 1,
+      "winner_share": 1,
+      "momentum": 0,
+      "longevity": 0,
+      "saturated": false
+    },
+    {
+      "id": 41,
+      "name": "Aspirational lifestyle",
+      "ads": 1,
+      "brands": 1,
+      "winner_share": 1,
+      "momentum": 0,
+      "longevity": 1,
+      "saturated": false
+    },
+    {
+      "id": 48,
+      "name": "Seasonal creative",
+      "ads": 1,
+      "brands": 1,
+      "winner_share": 1,
+      "momentum": 1,
+      "longevity": 0,
+      "saturated": false
+    },
+    {
+      "id": 2,
+      "name": "Product + benefit badges",
+      "ads": 4,
+      "brands": 3,
+      "winner_share": 0.75,
+      "momentum": 0.5,
+      "longevity": 0.5,
+      "saturated": false
+    },
+    {
+      "id": 12,
+      "name": "Before / after",
+      "ads": 5,
+      "brands": 4,
+      "winner_share": 0.6,
+      "momentum": 0.8,
+      "longevity": 0,
+      "saturated": false
+    },
+    {
+      "id": 28,
+      "name": "Social-proof creative",
+      "ads": 3,
+      "brands": 3,
+      "winner_share": 0.67,
+      "momentum": 0.67,
+      "longevity": 0.33,
+      "saturated": false
+    },
+    {
+      "id": 10,
+      "name": "Problem macro",
+      "ads": 3,
+      "brands": 2,
+      "winner_share": 0,
+      "momentum": 1,
+      "longevity": 0,
+      "saturated": false
+    },
+    {
+      "id": 9,
+      "name": "Application macro",
+      "ads": 1,
+      "brands": 1,
+      "winner_share": 0,
+      "momentum": 1,
+      "longevity": 0,
+      "saturated": false
+    },
+    {
+      "id": 34,
+      "name": "Text-led creative",
+      "ads": 1,
+      "brands": 1,
+      "winner_share": 0,
+      "momentum": 1,
+      "longevity": 0,
+      "saturated": false
+    },
+    {
+      "id": 35,
+      "name": "Question-led creative",
+      "ads": 1,
+      "brands": 1,
+      "winner_share": 0,
+      "momentum": 1,
+      "longevity": 0,
+      "saturated": false
+    },
+    {
+      "id": 39,
+      "name": "SKU / shade creative",
+      "ads": 1,
+      "brands": 1,
+      "winner_share": 0,
+      "momentum": 1,
+      "longevity": 0,
+      "saturated": false
+    }
+  ]
+}

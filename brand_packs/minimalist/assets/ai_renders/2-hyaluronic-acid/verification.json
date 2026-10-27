@@ -1,0 +1,16 @@
+{
+  "product": "2-hyaluronic-acid",
+  "source": "brand_packs/minimalist/assets/hires/2-hyaluronic-acid.png",
+  "tool": "ChatGPT web (user account), 2026-10-05",
+  "rounds": 1,
+  "accepted": "round1.png",
+  "auto_check": {
+    "matches": 405,
+    "inliers": 326,
+    "label_similarity": 0.456
+  },
+  "visual_read": "Read every word on both labels: Hyaluronic + PGA / 02% / FACE SERUM / with aquaporin booster + copper + biosaccharide / hydrates & prevents TEWL / for all skin types / 30ml / 1 fl oz / Minimalist. All identical; blue line, black ribbed dropper cap, amber bottle and label shape identical. Only backdrop/lighting differ.",
+  "shape": "bottle",
+  "status": "approved",
+  "fix_prompt": ""
+}

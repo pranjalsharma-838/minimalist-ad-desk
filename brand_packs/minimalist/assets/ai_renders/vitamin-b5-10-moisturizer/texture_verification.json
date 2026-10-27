@@ -1,0 +1,13 @@
+{
+  "product": "vitamin-b5-10-moisturizer",
+  "accepted": "texture1.png",
+  "auto_check": {
+    "matches": 289,
+    "inliers": 208,
+    "label_similarity": 0.807
+  },
+  "visual_read": "Read both labels word by word: Vitamin B5 / 10% / with copper, zinc & magnesium + hyaluronic acid + betaine / lightweight & oil free / moisturizer (oily skin) - 50g / 1.7 oz / Minimalist.. All identical; blue line, white tube, black cap identical. Only backdrop and lighting differ; body colour of pack measured equal or only brightened by white backdrop.",
+  "swatch": "plausible: white cream suits the product type; no text or objects added",
+  "status": "approved",
+  "fix_prompt": ""
+}

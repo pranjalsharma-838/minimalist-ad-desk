@@ -1,0 +1,11 @@
+{
+  "id": "20261005T161535108Z_texture_kojic-mandelic-body-lotion",
+  "handle": "kojic-mandelic-body-lotion",
+  "product": "Kojic + Mandelic 2.5% Body Lotion",
+  "prompt": "Create an image: a close-up studio shot of the attached product pack standing on a clean white surface, with a small swatch of its texture beside it, soft light, vertical 2:3 (Kojic + Mandelic 2.5% Body Lotion). Plain and minimal: pure white background, no props, no extra text.",
+  "base_image": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Copyof1100x1600_01.jpg?v=1790330061",
+  "format": "texture",
+  "requested_at": "2026-10-05T16:15:35.109Z",
+  "status": "done",
+  "working_since": "2026-10-05T16:23:16.214Z"
+}

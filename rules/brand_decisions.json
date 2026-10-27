@@ -1,0 +1,104 @@
+{
+    "version":  "2026-10-05",
+    "about":  "Answers from the brand and legal team to the rulebook\u0027s open questions. lib/decisions.js applies each one in code and names it on the finding. A decided finding stays on the report as advisory; nothing is deleted. The rules themselves (brand_rules.json) are unchanged, so a decision can be reversed by deleting its entry.",
+    "decisions":  [
+                      {
+                          "id":  "DEC-01",
+                          "date":  "2026-10-04",
+                          "question":  "Is \u0027acne\u0027 wording acceptable on a cosmetic in India? (open legal question Q1 in research/regulatory_sources.md)",
+                          "answer":  "Yes.",
+                          "scope":  "Acne wording: \u0027anti-acne\u0027, \u0027acne control\u0027, \u0027reduces acne\u0027, \u0027fights breakouts\u0027, \u0027clears breakouts\u0027, \u0027for acne-prone skin\u0027. Still flagged: treat / cure / heal (drug claim, CLM-01, block), prevent / stop (the statute\u0027s own \u0027prevention\u0027 wording), elimination promises (\u0027acne-free\u0027, \u0027no more acne\u0027, \u0027say goodbye to breakouts\u0027), anti-bacterial claims, and every hair-fall claim, which the answer did not cover.",
+                          "match":  {
+                                        "rules":  [
+                                                      "CLM-02"
+                                                  ],
+                                        "span":  "\\b(acne|breakouts?|pimples?|zits)\\b",
+                                        "unless":  "\\b(prevent\\w*|stop\\w*|get rid|rid of|banish\\w*|eliminat\\w*|eradicat\\w*|remov\\w*|free|goodbye|bye|no more|anymore|for good|gone|never|forever|permanent\\w*|treat\\w*|cur(e|es|ed|ing)|heal\\w*|relie\\w*|bacteri\\w*|germs?|microb\\w*|hair)\\b"
+                                    },
+                          "effect":  "advisory",
+                          "note":  "Acne wording accepted by brand/legal (DEC-01, 2026-10-04). Treat/cure, prevent/stop and \u0027acne-free\u0027 style promises are still flagged.",
+                          "eval_relabels":  [
+                                                {
+                                                    "id":  "meta_1339515484419819",
+                                                    "phrase":  "clearing active breakouts",
+                                                    "from":  "fix",
+                                                    "to":  "advisory",
+                                                    "why":  "The reviewer\u0027s only reason was open question Q1 (\u0027arguably acne mitigation\u0027), which DEC-01 answers."
+                                                }
+                                            ]
+                      },
+                      {
+                          "id":  "DEC-02",
+                          "date":  "2026-10-04",
+                          "question":  "Does Minimalist run comparison (\u0027Us vs Them\u0027) ads?",
+                          "answer":  "Yes.",
+                          "scope":  "Keeps the Us vs Them format (template 17). It changes no rule: each comparison still needs like-for-like proof on file and its basis on the creative (CLM-12, ASCI Chapter IV), so comparison ads stay High risk and stay non-exportable until a reviewer attaches that proof.",
+                          "effect":  "none"
+                      },
+                      {
+                          "id":  "DEC-03",
+                          "date":  "2026-10-04",
+                          "question":  "Can the brand\u0027s taglines (\u0027Hide Nothing.\u0027, \u0027Skin Science\u0027) appear on the creative?",
+                          "answer":  "Yes (\u0027hide nothing is no issue\u0027).",
+                          "scope":  "A judge finding whose whole quote is one of the taglines is kept for the record but not acted on. The taglines also need no citation as a tag (lib/brief_check.js).",
+                          "match":  {
+                                        "layer":  "model",
+                                        "exact_span":  [
+                                                           "hide nothing.",
+                                                           "hide nothing",
+                                                           "skin science"
+                                                       ]
+                                    },
+                          "effect":  "advisory",
+                          "note":  "Brand tagline: accepted by the brand team (DEC-03, 2026-10-04)."
+                      },
+                      {
+                          "id":  "DEC-04",
+                          "date":  "2026-10-05",
+                          "question":  "What risk level does an AI-made product texture (swatch beside the verified pack) carry?",
+                          "answer":  "Low (user decision).",
+                          "scope":  "Texture shots made by ChatGPT from the label-verified pack: the pack is unchanged and checked word by word; only the swatch is AI. Risk Low; the small AI-generated - illustrative mark stays for transparency. AI people, hands, skin or result images stay Severe.",
+                          "effect":  "none"
+                      },
+                      {
+                          "id":  "DEC-06",
+                          "date":  "2026-10-05",
+                          "question":  "Can a pregnancy / lactation safety line that the product page itself states (e.g. \"Pregnancy/Lactation: Safe\") appear on an ad?",
+                          "answer":  "Yes.",
+                          "scope":  "Pregnancy and lactation safety wording as stated on the product listing. Baby / infant safety and age claims are not covered.",
+                          "match":  {
+                                        "rules":  [
+                                                      "CLM-17"
+                                                  ],
+                                        "span":  "\\b(pregnan\\w*|lactat\\w*|breast-?feeding)\\b",
+                                        "unless":  "\\b(bab(y|ies)|infant|newborn|child\\w*|kids?)\\b"
+                                    },
+                          "effect":  "advisory",
+                          "note":  "Pregnancy/lactation safety as stated on the listing accepted by the brand (DEC-06, 2026-10-05)."
+                      },
+                      {
+                          "id":  "DEC-07",
+                          "date":  "2026-10-05",
+                          "question":  "Should AI-made images (people, result frames, before/after, progress) block an ad?",
+                          "answer":  "No. Make them, show a clear warning and keep the Severe risk rating.",
+                          "scope":  "Every AI-01 finding: AI result images and AI people. The AI label is still drawn on every such image, and Severe-risk ads still need real, consented photos before export.",
+                          "match":  {
+                                        "rules":  [
+                                                      "AI-01"
+                                                  ],
+                                        "layer":  "model"
+                                    },
+                          "effect":  "advisory",
+                          "note":  "AI-made image: shown with a warning and rated Severe (DEC-07, 2026-10-05). India\u0027s ASCI rule on AI content (in force from about late December 2026) prohibits AI result images even with a label, so replace with real, consented photos before use."
+                      }
+                  ],
+    "policy_notes":  [
+                         {
+                             "id":  "DEC-05",
+                             "date":  "2026-10-05",
+                             "question":  "Should claims that appear on the brand\u0027s own product listing be treated more leniently?",
+                             "answer":  "Yes, for every claim type.",
+                             "applied_in":  "lib/rules.js: listing-backed findings are lowered one step (PAGE_DENY is empty). A reviewer still confirms substantiation; the finding names the listing line."
+                         }
+                     ]
+}

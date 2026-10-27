@@ -1,0 +1,13 @@
+{
+  "product": "aha-25-pha-5-bha-2",
+  "accepted": "texture1.png",
+  "auto_check": {
+    "matches": 401,
+    "inliers": 295,
+    "label_similarity": 0.585
+  },
+  "visual_read": "Read both labels word by word: AHA PHA BHA / 32% / FACE PEEL / with 25% alpha + 5% poly + 2% beta-hydroxy acids / for instant glow & soft skin / for all skin types / 30ml / 1 fl oz / Minimalist. All identical; red line, black dropper, clear glass with yellow liquid identical. Only backdrop and lighting differ; body colour of pack measured equal or only brightened by white backdrop.",
+  "swatch": "plausible: yellow transparent oil-like drops, matches the yellow formula suits the product type; no text or objects added",
+  "status": "approved",
+  "fix_prompt": ""
+}

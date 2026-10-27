@@ -1,0 +1,686 @@
+{
+  "note": "Machine-readable version of research/template_library.md (user's 48-type taxonomy). source: PACK+BG | PACK | LAYOUT | MARKETER | REAL PHOTO:<people|result|product-detail|endorser>. asset_type: what the asset library must hold to make it with real material. layout: renderer layout (new = not yet built). needs: fact kinds required from the brand pack. competitor_types: matching ad_type tags in the competitor corpus.",
+  "templates": [
+    {
+      "id": 1,
+      "name": "Clean product hero",
+      "family": "Product",
+      "source": "PACK+BG",
+      "asset_type": "pack_shot",
+      "layout": "hero",
+      "needs": [
+        "claim"
+      ],
+      "competitor_types": [
+        "product_hero"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Product + benefit badges",
+      "family": "Product",
+      "source": "PACK+BG",
+      "asset_type": "pack_shot",
+      "layout": "badges",
+      "needs": [
+        "claim",
+        "suitability"
+      ],
+      "competitor_types": [
+        "product_hero"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Product + ingredients",
+      "family": "Product",
+      "source": "PACK+BG",
+      "asset_type": "pack_shot",
+      "layout": "actives",
+      "needs": [
+        "ingredient_note"
+      ],
+      "competitor_types": [
+        "ingredient_explainer"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Ingredient flat lay",
+      "family": "Product",
+      "source": "PACK+BG",
+      "asset_type": "pack_shot",
+      "layout": "hero",
+      "needs": [
+        "ingredient_note"
+      ],
+      "competitor_types": [
+        "ingredient_explainer"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Premium editorial product shot",
+      "family": "Product",
+      "source": "PACK+BG",
+      "asset_type": "pack_shot",
+      "layout": "hero",
+      "needs": [
+        "claim"
+      ],
+      "competitor_types": [
+        "product_hero"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Lifestyle product shot",
+      "family": "Product",
+      "source": "PACK+BG",
+      "asset_type": "pack_shot",
+      "layout": "hero",
+      "needs": [
+        "claim"
+      ],
+      "competitor_types": [
+        "product_hero"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Product-in-hand",
+      "family": "Human + Product",
+      "source": "REAL PHOTO:people",
+      "asset_type": "in_hand",
+      "layout": "hero",
+      "needs": [
+        "claim"
+      ],
+      "competitor_types": [
+        "product_hero",
+        "testimonial_ugc"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Product-in-use",
+      "family": "Human + Product",
+      "source": "REAL PHOTO:people",
+      "asset_type": "application",
+      "layout": "hero",
+      "needs": [
+        "usage"
+      ],
+      "competitor_types": [
+        "routine_regimen"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Application macro",
+      "family": "Human + Product",
+      "source": "REAL PHOTO:people",
+      "asset_type": "application",
+      "layout": "hero",
+      "needs": [
+        "usage"
+      ],
+      "competitor_types": [
+        "routine_regimen"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Problem macro",
+      "family": "Problem",
+      "source": "REAL PHOTO:result",
+      "asset_type": "skin_problem",
+      "layout": "callouts",
+      "needs": [
+        "suitability"
+      ],
+      "competitor_types": [
+        "problem_solution"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Result / beauty shot",
+      "family": "Result",
+      "source": "REAL PHOTO:result",
+      "asset_type": "result",
+      "layout": "hero",
+      "needs": [
+        "study"
+      ],
+      "competitor_types": [
+        "before_after"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Before / after",
+      "family": "Transformation",
+      "source": "REAL PHOTO:result",
+      "asset_type": "before_after",
+      "layout": "before_after",
+      "needs": [
+        "study"
+      ],
+      "competitor_types": [
+        "before_after"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Split-screen transformation",
+      "family": "Transformation",
+      "source": "REAL PHOTO:result",
+      "asset_type": "before_after",
+      "layout": "splitscreen",
+      "needs": [
+        "study"
+      ],
+      "competitor_types": [
+        "before_after"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Progress / timeline",
+      "family": "Transformation",
+      "source": "REAL PHOTO:result",
+      "asset_type": "timeline",
+      "layout": "timeline",
+      "needs": [
+        "study"
+      ],
+      "competitor_types": [
+        "before_after"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Problem → product",
+      "family": "Problem",
+      "source": "LAYOUT",
+      "asset_type": "pack_shot",
+      "layout": "callouts",
+      "needs": [
+        "suitability"
+      ],
+      "competitor_types": [
+        "problem_solution"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Problem → solution → result",
+      "family": "Transformation",
+      "source": "REAL PHOTO:result",
+      "asset_type": "result",
+      "layout": "journey",
+      "needs": [
+        "study",
+        "usage"
+      ],
+      "competitor_types": [
+        "problem_solution",
+        "before_after"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Comparison image (Us vs Them)",
+      "family": "Comparison",
+      "source": "LAYOUT",
+      "asset_type": "pack_shot",
+      "layout": "usvsthem",
+      "needs": [
+        "claim"
+      ],
+      "claim_risk": "high",
+      "claim_risk_note": "Comparative claim (ASCI Chapter IV): 'them' must be an unnamed benchmark, ingredient or product type the brand's page itself names, compared like-for-like with the basis on the creative; a reviewer confirms the proof is on file before use. Brand team confirmed comparison ads are in scope (DEC-02, 2026-10-04); the risk stays High because each comparison still needs its proof on file.",
+      "competitor_types": [
+        "comparison"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Old way / new way",
+      "family": "Comparison",
+      "source": "LAYOUT",
+      "asset_type": "pack_shot",
+      "layout": "oldnew",
+      "needs": [
+        "usage",
+        "claim"
+      ],
+      "competitor_types": [
+        "comparison"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "This vs that",
+      "family": "Comparison",
+      "source": "LAYOUT",
+      "asset_type": "pack_shot",
+      "layout": "thisvsthat",
+      "needs": [
+        "claim"
+      ],
+      "competitor_types": [
+        "comparison"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Product feature close-up",
+      "family": "Product",
+      "source": "REAL PHOTO:product-detail",
+      "asset_type": "macro",
+      "layout": "hero",
+      "needs": [
+        "claim"
+      ],
+      "competitor_types": [
+        "product_hero"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Texture shot",
+      "family": "Product",
+      "source": "REAL PHOTO:product-detail",
+      "asset_type": "texture",
+      "layout": "hero",
+      "needs": [
+        "claim"
+      ],
+      "competitor_types": [
+        "product_hero",
+        "ingredient_explainer"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "How-to / steps",
+      "family": "Education",
+      "source": "LAYOUT",
+      "asset_type": "pack_shot",
+      "layout": "journey",
+      "needs": [
+        "usage"
+      ],
+      "competitor_types": [
+        "routine_regimen"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Infographic",
+      "family": "Education",
+      "source": "LAYOUT",
+      "asset_type": "pack_shot",
+      "layout": "actives",
+      "needs": [
+        "ingredient_note"
+      ],
+      "competitor_types": [
+        "ingredient_explainer"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Clinical / science visual",
+      "family": "Education",
+      "source": "LAYOUT",
+      "asset_type": "pack_shot",
+      "layout": "spec",
+      "needs": [
+        "study"
+      ],
+      "competitor_types": [
+        "expert_authority",
+        "ingredient_explainer"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Stat-led creative",
+      "family": "Proof",
+      "source": "LAYOUT",
+      "asset_type": "pack_shot",
+      "layout": "stat",
+      "needs": [
+        "study"
+      ],
+      "competitor_types": [
+        "expert_authority",
+        "testimonial_ugc"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Review creative",
+      "family": "Proof",
+      "source": "LAYOUT",
+      "asset_type": "review",
+      "layout": "review",
+      "needs": [
+        "testimonial"
+      ],
+      "competitor_types": [
+        "testimonial_ugc"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Testimonial creative",
+      "family": "Proof",
+      "source": "REAL PHOTO:endorser",
+      "asset_type": "customer_photo",
+      "layout": "new",
+      "needs": [
+        "testimonial"
+      ],
+      "competitor_types": [
+        "testimonial_ugc"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Social-proof creative",
+      "family": "Proof",
+      "source": "MARKETER",
+      "asset_type": "pack_shot",
+      "layout": "socialproof",
+      "needs": [
+        "rating"
+      ],
+      "competitor_types": [
+        "testimonial_ugc"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Press / authority creative",
+      "family": "Proof",
+      "source": "MARKETER",
+      "asset_type": "pack_shot",
+      "layout": "new",
+      "needs": [
+        "study"
+      ],
+      "competitor_types": [
+        "expert_authority"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "UGC screenshot style",
+      "family": "Native social",
+      "source": "REAL PHOTO:endorser",
+      "asset_type": "creator_content",
+      "layout": "new",
+      "needs": [
+        "claim"
+      ],
+      "competitor_types": [
+        "testimonial_ugc"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Creator selfie",
+      "family": "Native social",
+      "source": "REAL PHOTO:endorser",
+      "asset_type": "creator_content",
+      "layout": "new",
+      "needs": [
+        "claim"
+      ],
+      "competitor_types": [
+        "testimonial_ugc"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Comment / FAQ creative",
+      "family": "Native social",
+      "source": "LAYOUT",
+      "asset_type": "pack_shot",
+      "layout": "faq",
+      "needs": [
+        "faq"
+      ],
+      "competitor_types": [
+        "problem_solution"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Meme / native social",
+      "family": "Native social",
+      "source": "LAYOUT",
+      "asset_type": "pack_shot",
+      "layout": "native",
+      "needs": [
+        "claim"
+      ],
+      "competitor_types": [
+        "other"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Text-led creative",
+      "family": "Native social",
+      "source": "LAYOUT",
+      "asset_type": "pack_shot",
+      "layout": "hero",
+      "needs": [
+        "claim"
+      ],
+      "competitor_types": [
+        "problem_solution",
+        "product_hero"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Question-led creative",
+      "family": "Problem",
+      "source": "LAYOUT",
+      "asset_type": "pack_shot",
+      "layout": "question",
+      "needs": [
+        "faq",
+        "ingredient_note"
+      ],
+      "competitor_types": [
+        "problem_solution"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Offer creative",
+      "family": "Commercial",
+      "source": "MARKETER",
+      "asset_type": "pack_shot",
+      "layout": "offer",
+      "needs": [],
+      "competitor_types": [
+        "offer_promo"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Price comparison",
+      "family": "Commercial",
+      "source": "MARKETER",
+      "asset_type": "pack_shot",
+      "layout": "pricecompare",
+      "needs": [],
+      "competitor_types": [
+        "offer_promo",
+        "comparison"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Bundle / kit image",
+      "family": "Commercial",
+      "source": "PACK",
+      "asset_type": "pack_shot",
+      "layout": "range",
+      "needs": [
+        "claim"
+      ],
+      "competitor_types": [
+        "routine_regimen",
+        "offer_promo"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "SKU / shade creative",
+      "family": "Commercial",
+      "source": "PACK",
+      "asset_type": "pack_shot",
+      "layout": "range",
+      "needs": [
+        "suitability"
+      ],
+      "competitor_types": [
+        "other"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Occasion / context image",
+      "family": "Native social",
+      "source": "PACK+BG",
+      "asset_type": "pack_shot",
+      "layout": "hero",
+      "needs": [
+        "claim"
+      ],
+      "competitor_types": [
+        "offer_promo"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Aspirational lifestyle",
+      "family": "Result",
+      "source": "REAL PHOTO:result",
+      "asset_type": "lifestyle_person",
+      "layout": "hero",
+      "needs": [
+        "claim"
+      ],
+      "competitor_types": [
+        "product_hero"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Bathroom / vanity scene",
+      "family": "Product",
+      "source": "PACK+BG",
+      "asset_type": "pack_shot",
+      "layout": "hero",
+      "needs": [
+        "claim"
+      ],
+      "competitor_types": [
+        "product_hero",
+        "routine_regimen"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Shelfie / aesthetic shot",
+      "family": "Product",
+      "source": "PACK+BG",
+      "asset_type": "pack_shot",
+      "layout": "hero",
+      "needs": [
+        "claim"
+      ],
+      "competitor_types": [
+        "product_hero"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Founder / expert portrait",
+      "family": "Proof",
+      "source": "REAL PHOTO:endorser",
+      "asset_type": "expert_photo",
+      "layout": "new",
+      "needs": [
+        "study"
+      ],
+      "competitor_types": [
+        "expert_authority"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Packaging / what's inside",
+      "family": "Product",
+      "source": "REAL PHOTO:product-detail",
+      "asset_type": "unboxing",
+      "layout": "hero",
+      "needs": [
+        "claim"
+      ],
+      "competitor_types": [
+        "product_hero"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Scale / quantity image",
+      "family": "Commercial",
+      "source": "PACK",
+      "asset_type": "pack_shot",
+      "layout": "range",
+      "needs": [],
+      "competitor_types": [
+        "offer_promo"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Conceptual creative",
+      "family": "Education",
+      "source": "REAL PHOTO:result",
+      "asset_type": "concept_art",
+      "layout": "new",
+      "needs": [
+        "ingredient_note"
+      ],
+      "competitor_types": [
+        "ingredient_explainer"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Seasonal creative",
+      "family": "Commercial",
+      "source": "PACK+BG",
+      "asset_type": "pack_shot",
+      "layout": "hero",
+      "needs": [
+        "claim"
+      ],
+      "competitor_types": [
+        "offer_promo"
+      ]
+    }
+  ]
+}

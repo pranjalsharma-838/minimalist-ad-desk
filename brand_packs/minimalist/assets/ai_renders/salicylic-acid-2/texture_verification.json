@@ -1,0 +1,13 @@
+{
+  "product": "salicylic-acid-2",
+  "accepted": "texture2.png",
+  "auto_check": {
+    "matches": 403,
+    "inliers": 301,
+    "label_similarity": 0.384
+  },
+  "visual_read": "Round 2 texture: all label words identical (Salicylic Acid / 02% / FACE SERUM / with oligopeptide-10 + egcg + horehound extract / reduces oil, acne, blackheads / for acne prone skin / 30ml / 1 fl oz / Minimalist); pink line, collar, bulb, shape match. Glass near-black: shoulder RGB about 26,24,22 vs real 22,20,18, no amber. Swatch: plausible clear gel, no text or objects.",
+  "swatch": "plausible: clear gel suits the product type; no text or objects added",
+  "status": "approved",
+  "fix_prompt": null
+}

@@ -1,0 +1,12 @@
+{
+  "id": "20261005T162544497Z_creator_vitamin-b12-nmf-03-face-toner",
+  "handle": "vitamin-b12-nmf-03-face-toner",
+  "product": "Vitamin B12 + NMF 03% Face Toner",
+  "prompt": "Create an image: a selfie-style portrait of an adult with sensitive skin as a content creator in a bright bathroom sink in soft morning daylight, phone-camera look, friendly, mid-way through her skincare routine with \"Vitamin B12 + NMF 03% Face Toner\" on her face, vertical 2:3. Style: plain and minimal, neutral whites and soft greys, natural daylight, uncluttered background, real-looking skin with no retouching or filters, no props or decoration. No text, no letters, no logos, no product, no bottle, no packaging in the picture; leave an empty area in the lower right for the real pack to be placed later. No skin close-ups, no claims of results.",
+  "base_image": "",
+  "text_only": true,
+  "format": "creator",
+  "after": "20261005T162544481Z_render_vitamin-b12-nmf-03-face-toner",
+  "requested_at": "2026-10-05T16:25:44.497Z",
+  "status": "queued"
+}

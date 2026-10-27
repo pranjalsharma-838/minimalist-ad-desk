@@ -1,0 +1,11 @@
+{
+    "id":  "20261005T123936846Z_texture_pediatrics-ceramide-vitamin-b5-delicate-cleanser",
+    "handle":  "pediatrics-ceramide-vitamin-b5-delicate-cleanser",
+    "product":  "Ceramide \u0026 Vitamin B5 Delicate Cleanser",
+    "prompt":  "Create an image: a close-up studio shot of the attached product pack standing on a clean white surface, with a small swatch of its texture beside it, soft light, vertical 2:3 (Ceramide \u0026 Vitamin B5 Delicate Cleanser). Plain and minimal: pure white background, no props, no extra text.",
+    "base_image":  "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/BabyDelicateCleanserNew.png?v=1721632055",
+    "format":  "texture",
+    "requested_at":  "2026-10-05T12:39:36.847Z",
+    "status":  "queued",
+    "after":  "20261005T122823473Z_render_pediatrics-ceramide-vitamin-b5-delicate-cleanser"
+}

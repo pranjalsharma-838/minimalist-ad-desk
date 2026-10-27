@@ -1,0 +1,13 @@
+{
+  "product": "pha-3-biotic-toner",
+  "accepted": "texture1.png",
+  "auto_check": {
+    "matches": 416,
+    "inliers": 349,
+    "label_similarity": 0.786
+  },
+  "visual_read": "Read both labels word by word: Polyhydroxy Acid (PHA) / 03% / FACE TONER / with multi-biotics + amino acids + polyglutamic / tightens pores & hydrates / for all skin types / 150ml / 5 fl oz / Minimalist. All identical; orange-red line, smoked brown bottle, black cap identical. Only backdrop and lighting differ; body colour of pack measured equal or only brightened by white backdrop.",
+  "swatch": "plausible: clear watery drops suits the product type; no text or objects added",
+  "status": "approved",
+  "fix_prompt": ""
+}

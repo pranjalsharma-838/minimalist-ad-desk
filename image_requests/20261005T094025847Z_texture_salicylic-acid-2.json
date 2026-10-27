@@ -1,0 +1,11 @@
+{
+  "id": "20261005T094025847Z_texture_salicylic-acid-2",
+  "handle": "salicylic-acid-2",
+  "product": "Salicylic Acid 2% Face Serum",
+  "prompt": "Create an image: a close-up studio shot of the attached product pack standing on a clean white surface, with a small swatch of its texture beside it, soft light, vertical 2:3 (Salicylic Acid 2% Face Serum).",
+  "base_image": "brand_packs/minimalist/assets/ai_renders/salicylic-acid-2/round2.png",
+  "format": "texture",
+  "requested_at": "2026-10-05T09:40:25.848Z",
+  "status": "done",
+  "working_since": "2026-10-05T09:40:51.502Z"
+}

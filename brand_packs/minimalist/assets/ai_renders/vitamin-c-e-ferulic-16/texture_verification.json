@@ -1,0 +1,13 @@
+{
+  "product": "vitamin-c-e-ferulic-16",
+  "accepted": "texture1.png",
+  "auto_check": {
+    "matches": 387,
+    "inliers": 298,
+    "label_similarity": 0.298
+  },
+  "visual_read": "Read both labels word by word: Vitamin C + E + Ferulic / 16% / FACE SERUM / with fullerenes + vitamin e + ferulic / brightens & protects skin / for all skin types / 20ml / 0.68 fl oz / Minimalist. All identical; yellow line, black glass, black dropper identical. Only backdrop and lighting differ; body colour of pack measured equal or only brightened by white backdrop.",
+  "swatch": "plausible: pale yellow clear gel suits the product type; no text or objects added",
+  "status": "approved",
+  "fix_prompt": ""
+}

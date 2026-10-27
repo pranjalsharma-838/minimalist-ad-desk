@@ -1,0 +1,9 @@
+{
+  "status": "done",
+  "image": "image_requests/20261005T085526652Z_before_after_salicylic-acid-2.png",
+  "rounds": 1,
+  "similarity": null,
+  "verdict": "PASS (scene only: no pack in the image, nothing to label-check)",
+  "notes": "Scene only: no pack in this image, so there was no label to check; the real pack is placed by the app. Any person in it is an AI model: Severe, AI mark.Label check passed (similarity ?, 1 round(s)). Automatic check only: still read the label by eye. Any person in the image is an AI model: Severe, AI mark.",
+  "finished_at": "2026-10-05T09:19:22.491Z"
+}

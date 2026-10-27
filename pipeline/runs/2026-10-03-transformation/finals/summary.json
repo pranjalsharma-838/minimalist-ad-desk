@@ -1,0 +1,12 @@
+[
+  {
+    "id": "salicylic-acid-2__t14",
+    "layout": "timeline",
+    "exportable": false,
+    "layoutIssues": [
+      "Kept with warnings: open findings must be resolved by a reviewer",
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "NEEDS_CHANGES"
+  }
+]

@@ -1,0 +1,22 @@
+{
+    "findings":  [
+                     {
+                         "rule_id":  "CLM-21",
+                         "dimension":  "policy",
+                         "field":  "on_image_text",
+                         "span":  "The toner has a soothing effect and helps maintain an even tone.",
+                         "severity":  "fix",
+                         "why":  "A single customer quote is used as a product result; the footnote helps but a testimonial is not substantiation and must be genuine, current and representative.",
+                         "fix":  "Keep only if the quote is verified as genuine and current, with the customer attribution kept; otherwise remove it and use the page claim \"Soothes \u0026 nourishes skin\"."
+                     }
+                 ],
+    "rule_hit_review":  [
+                            {
+                                "index":  0,
+                                "assessment":  "agree",
+                                "why":  "Primary text names Vitamin B12 without its concentration; the headline carries 03%, so advisory only."
+                            }
+                        ],
+    "tone_read":  "Calm and credible; the quote is gentle and the footnote is honest that results vary. No fear, hype or urgency.",
+    "language_read":  "The quote text matches the page testimonial. Concentration is carried in the headline product name; the primary text names the active without it."
+}

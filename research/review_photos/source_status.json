@@ -1,0 +1,15 @@
+{
+  "checked": "2026-10-05",
+  "myntra": {
+    "status": "blocked",
+    "detail": "Connection refused for the headless browser on the very first page (myntra.com home and a brand page): ERR_HTTP2_PROTOCOL_ERROR. No retries or workarounds."
+  },
+  "amazon_in": {
+    "status": "blocked",
+    "detail": "product-reviews/<ASIN>?filterByMediaType=media returned Page Not Found (anonymous visitors are not shown review pages); the product page /dp/B09FPS9D5T showed Amazon's Continue shopping bot-check interstitial. Not clicked through; no other ASINs tried."
+  },
+  "flipkart": {
+    "status": "ok",
+    "detail": "No bot check or login wall. Listings are Minimalist-sold (Seller: Minimalist). Photos come from the review cards on /product-reviews pages, 4-5 star only, max 2 photos per review."
+  }
+}

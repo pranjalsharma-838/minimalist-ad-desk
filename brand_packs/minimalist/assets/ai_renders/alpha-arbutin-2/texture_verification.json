@@ -1,0 +1,13 @@
+{
+  "product": "alpha-arbutin-2",
+  "accepted": "texture1.png",
+  "auto_check": {
+    "matches": 393,
+    "inliers": 294,
+    "label_similarity": 0.353
+  },
+  "visual_read": "Read both labels word by word: Alpha Arbutin / 02% / FACE SERUM / with butylresorcinol + ferulic acid + hyaluronic acid / reduces pigmentation & spots / for all skin types / 30ml / 1 fl oz / Minimalist. All identical; yellow line, black dropper, near-black amber bottle identical. Only backdrop and lighting differ; body colour of pack measured equal or only brightened by white backdrop.",
+  "swatch": "plausible: clear gel suits the product type; no text or objects added",
+  "status": "approved",
+  "fix_prompt": ""
+}

@@ -1,0 +1,14 @@
+{
+    "findings":  [
+
+                 ],
+    "rule_hit_review":  [
+                            {
+                                "index":  0,
+                                "assessment":  "agree",
+                                "why":  "Primary text names Vitamin B12 without its concentration; advisory only."
+                            }
+                        ],
+    "tone_read":  "Calm, routine-led and educational; no fear or hype. The primary text repeats the headline line and the usage line awkwardly, which is a copy-polish point rather than a rule issue.",
+    "language_read":  "Product names and the 03% strength are written in brand format. The SPF 50 sunscreen and the 2% Salicylic Acid + LHA cleanser are named without product facts attached here, so SPF and strength could not be checked against a page."
+}

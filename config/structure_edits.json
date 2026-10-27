@@ -1,0 +1,790 @@
+{
+ "alpha-arbutin-2__t2__trending": {
+  "badges": [
+   {
+    "text": "Sourced from Alfa Aesar, USA",
+    "cites": [
+     "F8"
+    ]
+   },
+   {
+    "text": "For all skin types",
+    "cites": [
+     "F9"
+    ]
+   },
+   {
+    "text": "With Butylresorcinol + Ferulic Acid",
+    "cites": [
+     "F3",
+     "F7"
+    ]
+   }
+  ],
+  "why": "3 badges, none an age line (structural rule: one badge reads as empty)"
+ },
+ "niacinamide-10-with-matmarine__t2__formats": {
+  "badges": [
+   {
+    "text": "Niacinamide from Lonza, Switzerland",
+    "cites": [
+     "F9"
+    ]
+   },
+   {
+    "text": "With Matmarine and Zinc",
+    "cites": [
+     "F5"
+    ]
+   },
+   {
+    "text": "Lightweight, no sticky residue",
+    "cites": [
+     "F8"
+    ]
+   }
+  ],
+  "why": "3 badges, none an age line (structural rule: one badge reads as empty)"
+ },
+ "salicylic-acid-2__t2__formats": {
+  "badges": [
+   {
+    "text": "From Merck, Germany",
+    "cites": [
+     "F8"
+    ]
+   },
+   {
+    "text": "For combination / oily skin",
+    "cites": [
+     "F9"
+    ]
+   },
+   {
+    "text": "A daily gentle exfoliant",
+    "cites": [
+     "F3"
+    ]
+   }
+  ],
+  "why": "3 badges, none an age line (structural rule: one badge reads as empty)"
+ },
+ "vitamin-b5-10-moisturizer__t2__formats": {
+  "badges": [
+   {
+    "text": "For oily / combination skin",
+    "cites": [
+     "F9"
+    ]
+   },
+   {
+    "text": "Sourced from BASF, Germany",
+    "cites": [
+     "F8"
+    ]
+   },
+   {
+    "text": "Lightweight, oil-free",
+    "cites": [
+     "F3"
+    ]
+   }
+  ],
+  "why": "3 badges, none an age line (structural rule: one badge reads as empty)"
+ },
+ "vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1__t2__formats": {
+  "badges": [
+   {
+    "text": "Ethyl Ascorbic Acid form",
+    "cites": [
+     "F5"
+    ]
+   },
+   {
+    "text": "For all skin types",
+    "cites": [
+     "F10"
+    ]
+   },
+   {
+    "text": "With 1% Acetyl Glucosamine",
+    "cites": [
+     "F6"
+    ]
+   }
+  ],
+  "why": "3 badges, none an age line (structural rule: one badge reads as empty)"
+ },
+ "hair-growth-actives-18__t2__g1": {
+  "badges": [
+   {
+    "text": "Leading-supplier sourcing",
+    "cites": [
+     "F8"
+    ]
+   },
+   {
+    "text": "For both men & women",
+    "cites": [
+     "F6"
+    ]
+   },
+   {
+    "text": "Capixyl 5% + Redensyl 3%",
+    "cites": [
+     "F5"
+    ]
+   }
+  ],
+  "why": "3 badges, none an age line (structural rule: one badge reads as empty)"
+ },
+ "niacinamide-5-hyaluronic-acid-1__t2__g1": {
+  "badges": [
+   {
+    "text": "Niacinamide from Lonza",
+    "cites": [
+     "F8"
+    ]
+   },
+   {
+    "text": "For dry & sensitive skin",
+    "cites": [
+     "F4"
+    ]
+   },
+   {
+    "text": "With Oat Extract + Hyaluronic Acid",
+    "cites": [
+     "F6",
+     "F7"
+    ]
+   }
+  ],
+  "why": "3 badges, none an age line (structural rule: one badge reads as empty)"
+ },
+ "oat-extract-06-gentle-cleanser__t2__g1": {
+  "badges": [
+   {
+    "text": "Gentle, low-foaming",
+    "cites": [
+     "F2"
+    ]
+   },
+   {
+    "text": "Oat-based mild cleansing agent",
+    "cites": [
+     "F6"
+    ]
+   },
+   {
+    "text": "With Hyaluronic Acid + Vitamin B5",
+    "cites": [
+     "F7"
+    ]
+   }
+  ],
+  "why": "3 badges, none an age line (structural rule: one badge reads as empty)"
+ },
+ "pha-3-biotic-toner__t2__g1": {
+  "badges": [
+   {
+    "text": "Prebiotics + probiotics",
+    "cites": [
+     "F7"
+    ]
+   },
+   {
+    "text": "Gentle exfoliating, pH balancing",
+    "cites": [
+     "F3"
+    ]
+   },
+   {
+    "text": "Formulated for all skin types",
+    "cites": [
+     "F5"
+    ]
+   }
+  ],
+  "why": "3 badges, none an age line (structural rule: one badge reads as empty)"
+ },
+ "retinol-0-3-q10__t2__g1": {
+  "badges": [
+   {
+    "text": "Retinol from BASF, Germany",
+    "cites": [
+     "F8"
+    ]
+   },
+   {
+    "text": "Water-free formula",
+    "cites": [
+     "F7"
+    ]
+   },
+   {
+    "text": "UV protective bottle",
+    "cites": [
+     "F7"
+    ]
+   }
+  ],
+  "why": "3 badges, none an age line (structural rule: one badge reads as empty)"
+ },
+ "vitamin-c-e-ferulic-16__t2__g1": {
+  "badges": [
+   {
+    "text": "ET-VC from Corum, Taiwan",
+    "cites": [
+     "F9"
+    ]
+   },
+   {
+    "text": "Suitable for all skin types",
+    "cites": [
+     "F10"
+    ]
+   },
+   {
+    "text": "With Vitamin E + Ferulic Acid",
+    "cites": [
+     "F6"
+    ]
+   }
+  ],
+  "why": "3 badges, none an age line (structural rule: one badge reads as empty)"
+ },
+ "2-hyaluronic-acid__t2__g2": {
+  "badges": [
+   {
+    "text": "4 types of Hyaluronic Acid",
+    "cites": [
+     "F3"
+    ]
+   },
+   {
+    "text": "With Polyglutamic Acid (PGA)",
+    "cites": [
+     "F3"
+    ]
+   },
+   {
+    "text": "Fast absorbing formula",
+    "cites": [
+     "F4"
+    ]
+   }
+  ],
+  "why": "3 badges, none an age line (structural rule: one badge reads as empty)"
+ },
+ "aha-25-pha-5-bha-2__t2__g2": {
+  "badges": [
+   {
+    "text": "pH 3.4 - 3.8",
+    "cites": [
+     "F4"
+    ]
+   },
+   {
+    "text": "Weekend exfoliating facial",
+    "cites": [
+     "F2"
+    ]
+   },
+   {
+    "text": "With Turmeric Extract",
+    "cites": [
+     "F6"
+    ]
+   }
+  ],
+  "why": "3 badges, none an age line (structural rule: one badge reads as empty)"
+ },
+ "glycolic-acid-08-exfoliating-liquid-toner__t2__g2": {
+  "badges": [
+   {
+    "text": "Bamboo Water",
+    "cites": [
+     "F3"
+    ]
+   },
+   {
+    "text": "For face, body, underarms & scalp",
+    "cites": [
+     "F5"
+    ]
+   },
+   {
+    "text": "Glycolic Acid from Chemours, USA",
+    "cites": [
+     "F8"
+    ]
+   }
+  ],
+  "why": "3 badges, none an age line (structural rule: one badge reads as empty)"
+ },
+ "light-fluid-spf-50-sunscreen__t2__g2": {
+  "badges": [
+   {
+    "text": "Broad Spectrum",
+    "cites": [
+     "F2"
+    ]
+   },
+   {
+    "text": "Water-resistant",
+    "cites": [
+     "F3"
+    ]
+   },
+   {
+    "text": "No white cast",
+    "cites": [
+     "F6"
+    ]
+   }
+  ],
+  "why": "3 badges, none an age line (structural rule: one badge reads as empty)"
+ },
+ "nonapeptide-aha-06-underarm-roll-on__t2__g2": {
+  "badges": [
+   {
+    "text": "Aluminium-free formula",
+    "cites": [
+     "F3"
+    ]
+   },
+   {
+    "text": "With Mandelic + Glycolic Acid",
+    "cites": [
+     "F5"
+    ]
+   },
+   {
+    "text": "Controls odour",
+    "cites": [
+     "F2"
+    ]
+   }
+  ],
+  "why": "3 badges, none an age line (structural rule: one badge reads as empty)"
+ },
+ "spf-60-silymarin__t2__g2": {
+  "badges": [
+   {
+    "text": "Broad spectrum",
+    "cites": [
+     "F2"
+    ]
+   },
+   {
+    "text": "Photostable",
+    "cites": [
+     "F7"
+    ]
+   },
+   {
+    "text": "Light-as-air, applies invisibly",
+    "cites": [
+     "F3"
+    ]
+   }
+  ],
+  "why": "3 badges, none an age line (structural rule: one badge reads as empty)"
+ },
+ "vitamin-k-retinal-01-eye-cream__t2__g2": {
+  "badges": [
+   {
+    "text": "For all skin types",
+    "cites": [
+     "F9"
+    ]
+   },
+   {
+    "text": "Quick-absorbing, non-tacky",
+    "cites": [
+     "F3"
+    ]
+   },
+   {
+    "text": "Vitamin K from Mckinely, USA",
+    "cites": [
+     "F8"
+    ]
+   }
+  ],
+  "why": "3 badges, none an age line (structural rule: one badge reads as empty)"
+ },
+ "marula-05-moisturizer__t2__marula": {
+  "badges": [
+   {
+    "text": "4.2★ from 388 reviews",
+    "cites": [
+     "RATING"
+    ]
+   },
+   {
+    "text": "For dry to normal skin",
+    "cites": [
+     "F8"
+    ]
+   },
+   {
+    "text": "With Vitamin F + Vitamin E",
+    "cites": [
+     "F3"
+    ]
+   }
+  ],
+  "why": "3 badges, none an age line (structural rule: one badge reads as empty)"
+ },
+ "alpha-arbutin-2__t15__angles": {
+  "callouts": [
+   {
+    "text": "Patch tested for safety under a Dermatologist's supervision",
+    "cites": [
+     "F25"
+    ]
+   },
+   {
+    "text": "For brighter, even-looking skin",
+    "cites": [
+     "F3"
+    ]
+   },
+   {
+    "text": "2-3 drops after cleansing & toning",
+    "cites": [
+     "F19"
+    ]
+   },
+   {
+    "text": "Use sunscreen during the day for best results",
+    "cites": [
+     "F19"
+    ]
+   }
+  ],
+  "why": "callouts point at a page-stated benefit, not a bare ingredient or an age line"
+ },
+ "vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1__t15__scale": {
+  "callouts": [
+   {
+    "text": "PHA gently removes dead skin cells for a glow",
+    "cites": [
+     "F7"
+    ]
+   },
+   {
+    "text": "1% Acetyl Glucosamine for skin moisturization",
+    "cites": [
+     "F6"
+    ]
+   },
+   {
+    "text": "Ethyl Ascorbic Acid",
+    "cites": [
+     "F5"
+    ]
+   },
+   {
+    "text": "Formulated in Centella Water to soothe",
+    "cites": [
+     "F8"
+    ]
+   }
+  ],
+  "why": "callouts point at a page-stated benefit, not a bare ingredient or an age line"
+ },
+ "niacinamide-10-with-matmarine__t15__formats": {
+  "callouts": [
+   {
+    "text": "Matmarine helps regulate oiliness",
+    "cites": [
+     "F7"
+    ]
+   },
+   {
+    "text": "Zinc balances sebum activity",
+    "cites": [
+     "F8"
+    ]
+   }
+  ],
+  "why": "callouts point at a page-stated benefit, not a bare ingredient or an age line"
+ },
+ "hair-growth-actives-18__t15__g1": {
+  "headline": {
+   "text": "For hairfall & thinning",
+   "cites": [
+    "F9"
+   ]
+  },
+  "why": "one message per ad: this headline repeated another ad of the same product; callouts point at a page-stated benefit, not a bare ingredient or an age line",
+  "callouts": [
+   {
+    "text": "5 proven ingredients at 18%",
+    "cites": [
+     "F3"
+    ]
+   },
+   {
+    "text": "For both men & women",
+    "cites": [
+     "F6"
+    ]
+   }
+  ]
+ },
+ "niacinamide-5-hyaluronic-acid-1__t15__g1": {
+  "callouts": [
+   {
+    "text": "For dry, normal or sensitive skin",
+    "cites": [
+     "F9"
+    ]
+   },
+   {
+    "text": "Oat extract soothes skin",
+    "cites": [
+     "F6"
+    ]
+   }
+  ],
+  "why": "callouts point at a page-stated benefit, not a bare ingredient or an age line"
+ },
+ "oat-extract-06-gentle-cleanser__t15__g1": {
+  "headline": {
+   "text": "For dry, dehydrated & sensitive skin",
+   "cites": [
+    "F10"
+   ]
+  },
+  "why": "one message per ad: this headline repeated another ad of the same product; callouts point at a page-stated benefit, not a bare ingredient or an age line",
+  "callouts": [
+   {
+    "text": "Cleans without drying skin",
+    "cites": [
+     "F5"
+    ]
+   },
+   {
+    "text": "Gentle, low-foaming cleanser",
+    "cites": [
+     "F2"
+    ]
+   }
+  ]
+ },
+ "pha-3-biotic-toner__t15__g1": {
+  "headline": {
+   "text": "For enlarged pores or uneven texture",
+   "cites": [
+    "F11"
+   ]
+  },
+  "why": "one message per ad: this headline repeated another ad of the same product; callouts point at a page-stated benefit, not a bare ingredient or an age line",
+  "callouts": [
+   {
+    "text": "Prebiotics + Probiotics for the skin microbiome",
+    "cites": [
+     "F7"
+    ]
+   },
+   {
+    "text": "Gentle exfoliating, pH balancing toner",
+    "cites": [
+     "F3"
+    ]
+   }
+  ]
+ },
+ "retinol-0-3-q10__t15__g1": {
+  "callouts": [
+   {
+    "text": "With Coenzyme Q10 + 1% Bakuchiol Oil",
+    "cites": [
+     "F5",
+     "F6"
+    ]
+   },
+   {
+    "text": "Water-free formula, UV protective bottle",
+    "cites": [
+     "F7"
+    ]
+   }
+  ],
+  "why": "callouts point at a page-stated benefit, not a bare ingredient or an age line"
+ },
+ "vitamin-c-e-ferulic-16__t15__g1": {
+  "headline": {
+   "text": "Brightens & protects skin",
+   "cites": [
+    "F2"
+   ]
+  },
+  "why": "one message per ad: this headline repeated another ad of the same product; callouts point at a page-stated benefit, not a bare ingredient or an age line",
+  "callouts": [
+   {
+    "text": "Stable Vitamin C with Vitamin E & Ferulic Acid",
+    "cites": [
+     "F3"
+    ]
+   },
+   {
+    "text": "Antioxidants to scavenge free radicals",
+    "cites": [
+     "F8"
+    ]
+   }
+  ]
+ },
+ "2-hyaluronic-acid__t15__g2": {
+  "callouts": [
+   {
+    "text": "Multi-level hydration, no oily feel",
+    "cites": [
+     "F2"
+    ]
+   },
+   {
+    "text": "4 types of Hyaluronic Acid",
+    "cites": [
+     "F5"
+    ]
+   }
+  ],
+  "why": "callouts point at a page-stated benefit, not a bare ingredient or an age line"
+ },
+ "aha-25-pha-5-bha-2__t15__g2": {
+  "callouts": [
+   {
+    "text": "25% AHA, 5% PHA, 2% BHA",
+    "cites": [
+     "F3"
+    ]
+   },
+   {
+    "text": "Turmeric Extract to calm skin",
+    "cites": [
+     "F6"
+    ]
+   }
+  ],
+  "why": "callouts point at a page-stated benefit, not a bare ingredient or an age line"
+ },
+ "glycolic-acid-08-exfoliating-liquid-toner__t15__g2": {
+  "callouts": [
+   {
+    "text": "Exfoliates, promotes cell turnover",
+    "cites": [
+     "F6"
+    ]
+   },
+   {
+    "text": "Bamboo Water to calm skin",
+    "cites": [
+     "F7"
+    ]
+   }
+  ],
+  "why": "callouts point at a page-stated benefit, not a bare ingredient or an age line"
+ },
+ "spf-60-silymarin__t15__g2": {
+  "callouts": [
+   {
+    "text": "UVA and UVB filters",
+    "cites": [
+     "F21"
+    ]
+   },
+   {
+    "text": "Light-as-air, applies invisibly",
+    "cites": [
+     "F3"
+    ]
+   }
+  ],
+  "why": "callouts point at a page-stated benefit, not a bare ingredient or an age line"
+ },
+ "vitamin-k-retinal-01-eye-cream__t15__g2": {
+  "callouts": [
+   {
+    "text": "Quick-absorbing, non-tacky formula",
+    "cites": [
+     "F3"
+    ]
+   },
+   {
+    "text": "Lightweight under-eye cream",
+    "cites": [
+     "F3"
+    ]
+   }
+  ],
+  "why": "callouts point at a page-stated benefit, not a bare ingredient or an age line"
+ },
+ "marula-05-moisturizer__t15__marula": {
+  "callouts": [
+   {
+    "text": "Softens & nourishes skin",
+    "cites": [
+     "F5"
+    ]
+   },
+   {
+    "text": "5% Marula Oil, Vitamin F, Vitamin E",
+    "cites": [
+     "F3"
+    ]
+   }
+  ],
+  "why": "callouts point at a page-stated benefit, not a bare ingredient or an age line"
+ },
+ "niacinamide-5-hyaluronic-acid-1__t21__g1": {
+  "headline": {
+   "text": "Lightweight, for dry & sensitive skin",
+   "cites": [
+    "F4"
+   ]
+  },
+  "why": "one message per ad: this headline repeated another ad of the same product"
+ },
+ "oat-extract-06-gentle-cleanser__t21__g1": {
+  "headline": {
+   "text": "A mild, creamy gel cleanser",
+   "cites": [
+    "F5"
+   ]
+  },
+  "why": "one message per ad: this headline repeated another ad of the same product"
+ },
+ "retinol-0-3-q10__t21__g1": {
+  "headline": {
+   "text": "Water-free Retinol with Coenzyme Q10",
+   "cites": [
+    "F3"
+   ]
+  },
+  "why": "one message per ad: this headline repeated another ad of the same product"
+ },
+ "vitamin-c-e-ferulic-16__t21__g1": {
+  "headline": {
+   "text": "A skin-brightening daily serum",
+   "cites": [
+    "F3"
+   ]
+  },
+  "why": "one message per ad: this headline repeated another ad of the same product"
+ },
+ "nonapeptide-aha-06-underarm-roll-on__t12__g2": {
+  "headline": {
+   "text": "An aluminium-free underarm roll-on",
+   "cites": [
+    "F3"
+   ]
+  },
+  "why": "one message per ad: this headline repeated another ad of the same product"
+ }
+}

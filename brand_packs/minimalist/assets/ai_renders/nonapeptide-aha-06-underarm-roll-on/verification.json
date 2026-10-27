@@ -1,0 +1,14 @@
+{
+    "product":  "nonapeptide-aha-06-underarm-roll-on",
+    "source":  "brand_packs/minimalist/assets/hires/nonapeptide-aha-06-underarm-roll-on.png",
+    "tool":  "ChatGPT web (user account), 2026-10-05",
+    "rounds":  1,
+    "accepted":  "round1.png",
+    "auto_check":  {
+                       "label_similarity":  0.761,
+                       "inliers":  406
+                   },
+    "visual_read":  "All label text identical: Nonapeptide + AHA 06% / red line / UNDERARM ROLL-ON / with mandelic acid + salicylic acid + licorice extract / controls odour \u0026 fades underarm darkness / for all skin types / 40ml / 1.35 fl. oz. / Minimalist. Cap, roller and bottle match.",
+    "shape":  "bottle",
+    "status":  "approved"
+}

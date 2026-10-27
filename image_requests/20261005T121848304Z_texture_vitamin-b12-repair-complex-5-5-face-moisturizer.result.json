@@ -1,0 +1,9 @@
+{
+  "status": "done",
+  "image": "image_requests/20261005T121848304Z_texture_vitamin-b12-repair-complex-5-5-face-moisturizer.png",
+  "rounds": 3,
+  "similarity": 0.604,
+  "verdict": "PASS candidate (read every word on the sheet)",
+  "notes": "Label check passed (similarity 0.604, 3 round(s)). Automatic check only: still read the label by eye. Any person in the image is an AI model: Severe, AI mark.",
+  "finished_at": "2026-10-05T12:26:31.634Z"
+}

@@ -1,0 +1,574 @@
+{
+ "checked": "2026-10-05",
+ "sources": [
+  {
+   "id": "ASCI-1.1",
+   "url": "https://www.ascionline.in/the-asci-code/",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "ASCI Code web page (footer 2026); Codes & Guidelines Book 'Edition: AUGUST 2025' (same URL, no newer edition)",
+   "quote_found": "Advertisements must be truthful. All descriptions, claims and comparisons, which relate to matters of objectively ascertainable fact, should be capable of substantiation.",
+   "notes": "Same wording on the live Code page and in the Aug 2025 book, where it is numbered 1.1."
+  },
+  {
+   "id": "ASCI-1.2",
+   "url": "https://www.ascionline.in/the-asci-code/",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "ASCI Code web page (footer 2026); Codes & Guidelines Book 'Edition: AUGUST 2025' (same URL, no newer edition)",
+   "quote_found": "Where advertising claims are expressly stated to be based on, or supported by independent research or assessment, its source and date should be indicated in the advertisement.",
+   "notes": "Same wording on the page and in the book (1.2)."
+  },
+  {
+   "id": "ASCI-1.4",
+   "url": "https://www.ascionline.in/the-asci-code/",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "ASCI Code web page (footer 2026); Codes & Guidelines Book 'Edition: AUGUST 2025' (same URL, no newer edition)",
+   "quote_found": "Advertisements shall not contain statements or visual presentation, which directly, or by implication or by omission or by ambiguity or by exaggeration, are likely to mislead the consumer",
+   "notes": "Same wording on the page and in the book."
+  },
+  {
+   "id": "ASCI-1.5",
+   "url": "https://www.ascionline.in/the-asci-code/",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "ASCI Code web page (footer 2026); Codes & Guidelines Book 'Edition: AUGUST 2025' (same URL, no newer edition)",
+   "quote_found": "Advertisements shall not be so framed as to abuse the trust of consumers, or exploit their lack of experience or knowledge. No advertisement shall be permitted to contain any claim so exaggerated as to lead to grave or widespread disappointment",
+   "notes": "Same wording on the page and in the book (1.5)."
+  },
+  {
+   "id": "ASCI-1.5(a)-(c)",
+   "url": "https://www.ascionline.in/the-asci-code/",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "ASCI Code web page (footer 2026); Codes & Guidelines Book 'Edition: AUGUST 2025' (same URL, no newer edition)",
+   "quote_found": "Products shall not be described as 'free' where there is any direct cost to the consumer other than the actual cost of any delivery, freight, or postage",
+   "notes": "The 'free' example (a) and the 'up to five years guarantee' example (c) both still appear."
+  },
+  {
+   "id": "ASCI-3.1(b)",
+   "url": "https://www.ascionline.in/the-asci-code/",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "ASCI Code web page (footer 2026); Codes & Guidelines Book 'Edition: AUGUST 2025' (same URL, no newer edition)",
+   "quote_found": "Derides any individual or groups on the basis of race, caste, colour, religion, gender, body shape, age, sexual orientation, gender identity, physical or mental conditions, or nationality",
+   "notes": "Unchanged; listed as item (b) in the book."
+  },
+  {
+   "id": "ASCI-4.1",
+   "url": "https://www.ascionline.in/the-asci-code/",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "ASCI Code web page (footer 2026); Codes & Guidelines Book 'Edition: AUGUST 2025' (same URL, no newer edition)",
+   "quote_found": "It is clear what aspects of the advertiser's product are being compared with what aspects of the competitor's product. The comparisons are factual, accurate and capable of substantiation.",
+   "notes": "The 'does not unfairly denigrate, attack or discredit other products' limb also still appears."
+  },
+  {
+   "id": "ASCI-G-FAIR",
+   "url": "https://www.ascionline.in/the-asci-code-guidelines/",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "ASCI guidelines page as served 2026-10-05 (latest guideline on page signed Sept 17, 2026); this guideline is dated August 14th 2014",
+   "quote_found": "advertising should not directly or implicitly show people with darker skin, in a way which is widely seen as, unattractive, unhappy, depressed or concerned",
+   "notes": "Unchanged. The 'pre-usage depiction ... expression of the models' clause and the 'disadvantage ... inferior, or unsuccessful' clause both still appear."
+  },
+  {
+   "id": "ASCI-G-AWARD",
+   "url": "https://www.ascionline.in/the-asci-code-guidelines/",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "ASCI guidelines page as served 2026-10-05 (latest guideline on page signed Sept 17, 2026); this guideline is dated April 21st 2022",
+   "quote_found": "Awards/rankings should not be used as an alternative for consumer or scientific research or testing, which is required to substantiate a superiority claim",
+   "notes": "Unchanged. The 'name of the organisation ... month and year' requirement and the no-extrapolation clause ('surveys done in one area') still appear."
+  },
+  {
+   "id": "ASCI-G-NEW",
+   "url": "https://www.ascionline.in/the-asci-code-guidelines/",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "ASCI guidelines page as served 2026-10-05 (latest guideline on page signed Sept 17, 2026); this guideline is dated June 1st 2014",
+   "quote_found": "The word “new”, “improved” or an ‘improvement’ of a product may be used in advertisements only for a period of one (1) year from the time the new or improved product/service has been launched/introduced in the market.",
+   "notes": "Unchanged. The 'must specify what aspect ... is new or improved' wording also still appears."
+  },
+  {
+   "id": "ASCI-G-INF",
+   "url": "https://www.ascionline.in/the-asci-code-guidelines/",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "ASCI guidelines page as served 2026-10-05 (latest guideline on page signed Sept 17, 2026); Addendum 1 dated 15.07.2021, Addendum II dated 06.03.2025",
+   "quote_found": "Disclosure is required if there is any material connection between the advertiser and the influencer",
+   "notes": "Unchanged. The label list is still Advertisement, Ad, Sponsored, Collaboration, Partnership, Employee, Free gift, Affiliate, plus platform disclosure tools. The 3-second rule, the 1/3rd-of-video rule and 'buried in a group of hashtags' all still appear."
+  },
+  {
+   "id": "ASCI-G-INF-HEALTH",
+   "url": "https://www.ascionline.in/the-asci-code-guidelines/",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "Influencer guidelines Addendum II (Date 06.03.2025), signed March 06th 2025",
+   "quote_found": "Any prevention, treatment, cure, remedy for medical conditions etc. related claims for Health and Nutrition products or services",
+   "notes": "Not cited by any rule; checked because it is in scope. 'must have relevant qualifications such as a medical degree' and 'Superimposed on the visuals prominently and upfront' are unchanged. ASCI's April 2025 press release confirms it is the health/finance update."
+  },
+  {
+   "id": "ASCI-G-GENDER",
+   "url": "https://www.ascionline.in/the-asci-code-guidelines/",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "ASCI guidelines page as served 2026-10-05 (latest guideline on page signed Sept 17, 2026); this guideline is dated June 8th 2022",
+   "quote_found": "while advertisements may feature glamorous and attractive people, they must not suggest that an individual's happiness or emotional wellbeing depends on conforming to these idealised gender-stereotypical body shapes or physical features",
+   "notes": "Unchanged."
+  },
+  {
+   "id": "ASCI-G-DARK",
+   "url": "https://www.ascionline.in/the-asci-code-guidelines/",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "ASCI guidelines page as served 2026-10-05 (latest guideline on page signed Sept 17, 2026); dated May 11th 2023, 'applicable from 1st September 2023'",
+   "quote_found": "An advertisement that is of a similar format as editorial or organic content must clearly disclose that it is an ad.",
+   "notes": "Unchanged. The false-urgency wording ('more limited than they actually are') and drip pricing ('must include non-optional taxes, duties, fees and charges') both still appear. ASCI added a dark-pattern e-learning course (Jan 2026) and a consumer awareness campaign (Feb 2026), but no new clauses."
+  },
+  {
+   "id": "ASCI-G-DISC",
+   "url": "https://www.ascionline.in/the-asci-code-guidelines/",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "ASCI guidelines page as served 2026-10-05 (latest guideline on page signed Sept 17, 2026) (the disclaimer guideline carries no sign-off date on the page)",
+   "quote_found": "A disclaimer should not attempt to correct a misleading claim made in an Advertisement.",
+   "notes": "Unchanged. These limits all still appear: comparison basis 'at least 25% of the font size of the claim', 'two full length lines', 'AT LEAST 4 seconds for every line', and 'NOT LESS THAN 26 pixels'. No existing rule checks them mechanically (see new_rule_candidates)."
+  },
+  {
+   "id": "ASCI-G-SGC",
+   "url": "https://www.ascionline.in/wp-content/uploads/2026/09/Guidelines-for-Responsible-Labelling-of-Synthetically-Generated-Content-in-Advertising.pdf",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "FINAL and published. Signed 'September 17th 2026'; released by ASCI press release dated 'Mumbai, September 29, 2026'; effective 'on the expiration of 3 months from the date of their publication' (around 29 Dec 2026; ASCI gives no calendar date)",
+   "quote_found": "Exaggerating product results or features through claims or visual representations to create a misleading impression (e.g., a weightloss product showing a before-after image of weight reduction from 100 kgs to 70 kgs through an AI generated image",
+   "notes": "Resolves the conflict in the project file. The guideline IS published, so entry 26 is right and entry 65 ('expected Dec 2026, not yet published') is out of date. Dates: signed 17 Sept 2026 (on the guidelines page and the standalone PDF), publicly released 29 Sept 2026 (press release), draft released May 12, 2026. If publication means the 29 Sept release, it takes effect around 29 Dec 2026; if it means the 17 Sept signing, around 17 Dec 2026. ASCI states no exact date, so plan for 17 Dec to be safe. The quoted text is unchanged. It also adds mandatory labels ('created using AI' / 'enhanced using AI') for synthetic influencers and ambassadors, replicated likeness or voice, and fabricated settings, and requires 'Sponsored by [Brand]' on paid AI chatbot recommendations. The press release says 'minor blemish removal'; the guideline itself says 'standard blemish removal'."
+  },
+  {
+   "id": "ASCI-RPT-BPC",
+   "url": "https://www.ascionline.in/wp-content/uploads/2023/04/personal-care-report_compressed.pdf",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "ASCI report, February 2023",
+   "quote_found": "Ingredient based product efficacy claims where the product itself is not tested to deliver the benefits",
+   "notes": "All recorded quotes and figures (30X/Y%, leadership claims, expert recommendation, Skin Care 30.3%, D2C 84%) are still present. Newer evidence: the ASCI Annual Complaints Report 2025-26 (May 2026) has a Beauty & Personal Care chapter (see ASCI-RPT-ANNUAL-2526)."
+  },
+  {
+   "id": "ASCI-RPT-ANNUAL-2526",
+   "url": "https://www.ascionline.in/wp-content/uploads/2026/05/annual-complaints-report-25-26-final.pdf",
+   "opened": true,
+   "method": "node fetch",
+   "status": "changed",
+   "current_version": "ASCI Annual Complaints Report 2025-26 (released May 2026)",
+   "quote_found": "Claims like “India’s No.1”, “India’s First”, “World’s No.1”, or “Only product in India with…” are common and imply superiority without a clear basis.",
+   "notes": "NEW source, not in regulatory_sources.md (enforcement pattern, not a rule). It reports 639 BPC cases, 90% needing modification and 45% influencer-led, with personal care the No. 3 violating sector (576). Named patterns: rapid or guaranteed results ('5 years younger in 5 days', acne reversal in '6 hours'), hyper-specific numbers based on ingredient-level research, 'chemical-free/100% natural/safe' claims, and influencer first-person result claims. Most are already covered by CLM-03/05/07/08/11/21/23. Gaps: 'Only product in India with' and 'X years younger' (see candidates). The half-yearly report (Nov 2025) says 'skincare led the category's violations'."
+  },
+  {
+   "id": "ASCI-RPT-HEAT",
+   "url": "https://www.ascionline.in/wp-content/uploads/2026/08/Press-Release-The-Heat-Is-On.pdf",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "Press release 'Mumbai, 06 August 2026' (full report: ASCI-Insights-The-Heat-is-On.pdf)",
+   "quote_found": "Advertising for sun protection and tan removal products emerged as the largest violative category",
+   "notes": "Unchanged: 39 of 40 ads needed modification, 'De-tan and Glow in 30 Seconds' and 'Visible Difference in 5 Days' are quoted, and 14 child-focused brightening/tan ads 'reinforced harmful colour-based stereotypes'."
+  },
+  {
+   "id": "ASCI-AI-2026",
+   "url": "https://www.ascionline.in/press-announcements/",
+   "opened": true,
+   "method": "node fetch",
+   "status": "superseded",
+   "current_version": "Final SGC guideline released Sept 29, 2026 (draft was May 12, 2026)",
+   "quote_found": "ASCI Releases Guidelines for Responsible Labelling of Synthetically Generated Content in Advertising",
+   "notes": "Watch-list entry 65 ('NOT YET PUBLISHED as of 2026-10-03') is out of date. The final guideline is live (ASCI-G-SGC). Its action item is now due: update lib/image_prompt_check.js and the rules."
+  },
+  {
+   "id": "DCA-COS-DEF",
+   "url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/acts_and_rules/Drugs%20and%20Cosmetics%20Act,%201940.pdf",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "CDSCO consolidated D&C Act 1940 PDF (listed 2022-Nov-22); also restated verbatim in CDSCO Public Notice of 18.05.2026",
+   "quote_found": "intended to be rubbed, poured, sprinkled or sprayed on, or introduced into, or otherwise applied to, the human body or any part thereof for cleansing, beautifying, promoting attractiveness, or altering the appearance",
+   "notes": "Unchanged. CDSCO's own Act PDF is a better primary than the 2018 guidance document cited now. CDSCO S.O. 3286(E) of 22 June 2026 says the DCA entries in the Jan Vishwas (Amendment of Provisions) Act 2026 commence on 30 June 2027 (decriminalisation/penalty changes; content not checked; definitions not shown as affected)."
+  },
+  {
+   "id": "DCA-DRUG-DEF",
+   "url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/acts_and_rules/Drugs%20and%20Cosmetics%20Act,%201940.pdf",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "CDSCO consolidated D&C Act 1940 PDF (listed 2022-Nov-22)",
+   "quote_found": "all medicines for internal or external use of human beings or animals and all substances intended to be used for or in the diagnosis, treatment, mitigation or prevention of any disease or disorder in human beings or animals",
+   "notes": "Same wording as the PRS 2005 copy, also on CDSCO's own copy. Clause (ii) 'such substances (other than food) intended to affect the structure or any function of the human body' is unchanged. The 'check for later amendments' flag can be closed for the definition. Swap the URL to CDSCO's copy."
+  },
+  {
+   "id": "COS-R36",
+   "url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/cos_rules/Cosmetics%20Rules%202020.pdf",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "Cosmetics Rules 2020 (CDSCO compiled PDF, listed 2022-Nov-21) + Cosmetics (Amendment) Rules 2025, G.S.R. 513(E) dated 29 July 2025",
+   "quote_found": "36. Prohibition against false or misleading claims.—No cosmetic may purport or claim to purport or convey any idea which is false or misleading to the intending user.",
+   "notes": "Not cited by any rule (listed in scope). The only final amendment found is G.S.R. 513(E), 29 July 2025, in force on publication. It touches rules 3(w), 6, 7, 9, 11, 26, 31, new 31A, 34, 49, 53, 60-63, 69 and the First Schedule, but NOT rule 36 and NOT the Ninth Schedule. No 2026 Cosmetics Rules amendment appears on CDSCO's gazette list. CDSCO's compiled PDF does not yet include the 2025 changes."
+  },
+  {
+   "id": "CDSCO-PN-2026",
+   "url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadPublic_NoticesFiles/Public%20Notice%20dated%2018.05.2026.pdf",
+   "opened": true,
+   "method": "node fetch",
+   "status": "changed",
+   "current_version": "CDSCO Public Notice, File No. COS-12/1/2026-eoffice, dated 18.05.2026; listed on the CDSCO Public Notices page as 'Use of Cosmetics', 2026-May-19",
+   "quote_found": "Cosmetics are permitted to be supplied for its intended use as defined in the definition; no cosmetic is permitted to be used in treatment by professionals/ individuals.",
+   "notes": "The PRIMARY CDSCO copy was opened (scanned PDF; OCR text). This upgrades the entry from SECONDARY to VERIFIED. The paraphrase holds: para 6 says 'misleading claims on label, use of cosmetics for treatment and application of cosmetic through injection attracts violations of the said Act & Rules'. Para 4 restates the rule 36 wording 'As per the provisions of labelling', so the notice ties r.36 to labelling. That is relevant to Q10: it does not explicitly extend r.36 to ads. Para 2: BIS publishes the GNRAS/restricted ingredient list. Other 2025-26 cosmetics notices are enforcement only, not claims notices: a 14 Sep 2026 public health alert on unauthorised imported creams (heavy metals, incl. a 'Whitening Cream' and a beauty cream), and import RC cancellations (e.g., an AHA peel product, 11 May 2026)."
+  },
+  {
+   "id": "DMR-2",
+   "url": "https://cbfcindia.gov.in/cbfcAdmin/assets/pdf/Drugs.pdf",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "Govt-hosted copy (CBFC) of DMR Act 1954 as amended by Act 42 of 1963; canonical India Code copy not reachable",
+   "quote_found": "'advertisement' includes any notice, circular, label, wrapper, or other document, and any announcement made orally or by any means of producing or transmitting light, sound or smoke",
+   "notes": "Unchanged in the CBFC copy and the Tamil Nadu Drugs Control copy. The drug limb 'any article, other than food, intended to affect or influence in any way the structure or any organic function of the body' is unchanged. India Code (canonical) timed out / returned 504, by script and in the browser."
+  },
+  {
+   "id": "DMR-3",
+   "url": "https://cbfcindia.gov.in/cbfcAdmin/assets/pdf/Drugs.pdf",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "Govt-hosted copy (CBFC) of DMR Act 1954 as amended by Act 42 of 1963; canonical India Code copy not reachable",
+   "quote_found": "no person shall take any part in the publication of any advertisement referring to any drug in terms which suggest or are calculated to lead to the use of that drug for",
+   "notes": "Clause (d), 'the diagnosis, cure, mitigation, treatment or prevention of any disease, disorder or condition specified in the Schedule', is unchanged (substituted by Act 42 of 1963 per the TN copy). ASCI AdLaw Compendium (Mar 2026) describes the same scope."
+  },
+  {
+   "id": "DMR-SCHED",
+   "url": "https://cbfcindia.gov.in/cbfcAdmin/assets/pdf/Drugs.pdf",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "Govt-hosted copy (CBFC) of DMR Act 1954 as amended by Act 42 of 1963; canonical India Code copy not reachable",
+   "quote_found": "Leucoderma",
+   "notes": "The Schedule in both government copies still lists Leucoderma, Leprosy, Lupus, Obesity, 'Form and structure of the female bust' and 'Stature of persons'. It has no fairness, premature ageing or greying entry (see Q11). The canonical India Code PDF was not reachable."
+  },
+  {
+   "id": "CPA-2(28)",
+   "url": "https://consumeraffairs.gov.in/public/upload/files/CP%20Act%202019_1732700731.pdf",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "Consumer Protection Act 2019 (No. 35 of 2019) as hosted by DoCA",
+   "quote_found": "gives a false guarantee to, or is likely to mislead the consumers as to the nature, substance, quantity or quality of such product or service",
+   "notes": "All four limbs are unchanged. The DoCA-hosted PDF is the original 2019 Gazette text. The CCPA Act & Rules page lists no CPA amendment."
+  },
+  {
+   "id": "CCPA-4",
+   "url": "https://ccpa.doca.gov.in/files/CCPA_Notification.pdf",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "Gazette notification 9 June 2022 (F. No. J-25/4/2020-CCPA); CCPA guidelines list (site updated 29-09-2026) shows no amendment",
+   "quote_found": "it does not mislead consumers by exaggerating the accuracy, scientific validity or practical usefulness or capability or performance",
+   "notes": "Unchanged. Limbs (d) 'significant division of informed or scientific opinion', (f) 'based merely on the content of a publication' and (g) sector-specific law all still appear. No amendment is listed on CCPA's Guidelines & Advisories page."
+  },
+  {
+   "id": "CCPA-5",
+   "url": "https://ccpa.doca.gov.in/files/CCPA_Notification.pdf",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "Gazette notification 9 June 2022 (F. No. J-25/4/2020-CCPA); CCPA guidelines list (site updated 29-09-2026) shows no amendment",
+   "quote_found": "make clear that the stock of the goods or services is limited",
+   "notes": "Unchanged ('to meet foreseeable demand' also present)."
+  },
+  {
+   "id": "CCPA-7",
+   "url": "https://ccpa.doca.gov.in/files/CCPA_Notification.pdf",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "Gazette notification 9 June 2022 (F. No. J-25/4/2020-CCPA); CCPA guidelines list (site updated 29-09-2026) shows no amendment",
+   "quote_found": "if the consumer has to pay anything other than the unavoidable cost of responding",
+   "notes": "Unchanged. 'make clear the extent of commitment' and the 'free trial' / 'satisfaction or your money back' limb also still appear."
+  },
+  {
+   "id": "CCPA-8",
+   "url": "https://ccpa.doca.gov.in/files/CCPA_Notification.pdf",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "Gazette notification 9 June 2022 (F. No. J-25/4/2020-CCPA); CCPA guidelines list (site updated 29-09-2026) shows no amendment",
+   "quote_found": "be such as to develop negative body image in children",
+   "notes": "Unchanged. The cosmetics limb ('adverse to the physical and mental health of children') also still appears."
+  },
+  {
+   "id": "CCPA-11",
+   "url": "https://ccpa.doca.gov.in/files/CCPA_Notification.pdf",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "Gazette notification 9 June 2022 (F. No. J-25/4/2020-CCPA); CCPA guidelines list (site updated 29-09-2026) shows no amendment",
+   "quote_found": "shall not attempt to hide material information",
+   "notes": "Unchanged. Also present: 'shall not ... contradict the material claim made in the advertisement' (split across a page break in the Gazette PDF), 'shall not attempt to correct a misleading claim', 'same language as the claim', same font as the claim, and 'in sync with the voice over'."
+  },
+  {
+   "id": "CCPA-12",
+   "url": "https://ccpa.doca.gov.in/files/CCPA_Notification.pdf",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "Gazette notification 9 June 2022 (F. No. J-25/4/2020-CCPA); CCPA guidelines list (site updated 29-09-2026) shows no amendment",
+   "quote_found": "which relate to matters of objectively ascertainable facts shall be capable of substantiation",
+   "notes": "Unchanged ('source and date of independent research' and the mislead-by-implication limb also present)."
+  },
+  {
+   "id": "CCPA-13",
+   "url": "https://ccpa.doca.gov.in/files/CCPA_Notification.pdf",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "Gazette notification 9 June 2022 (F. No. J-25/4/2020-CCPA); CCPA guidelines list (site updated 29-09-2026) shows no amendment",
+   "quote_found": "must reflect the genuine, reasonably current opinion of the individual",
+   "notes": "Unchanged. The foreign-professionals bar ('foreigner professionals of such profession shall also be not permitted to make endorsement') still appears."
+  },
+  {
+   "id": "CCPA-14",
+   "url": "https://ccpa.doca.gov.in/files/CCPA_Notification.pdf",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "Gazette notification 9 June 2022 (F. No. J-25/4/2020-CCPA); CCPA guidelines list (site updated 29-09-2026) shows no amendment",
+   "quote_found": "Where there exists a connection between the endorser and the trader",
+   "notes": "Unchanged ('such connection shall be fully disclosed')."
+  },
+  {
+   "id": "CCPA-DP",
+   "url": "https://ccpa.doca.gov.in/files/The%20Guidelines%20for%20Prevention%20and%20Regulation%20of%20Dark%20Patterns,%202023_1732707717.pdf",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "Notification 30th November 2023, F. No. CCPA-1/1/2023-CCPA-(Reg); no amendment listed; plus CCPA Advisory dated 5 June 2025 (self-audit)",
+   "quote_found": "falsely stating or implying the sense of urgency or scarcity so as to mislead a user into making an immediate purchase",
+   "notes": "The guidelines text is unchanged ('showing false popularity of a product' and the disguised-ad definition are present). New: the CCPA Advisory of 5 June 2025 (https://ccpa.doca.gov.in/files/Advisory-7.pdf, scanned, read as image) advises e-commerce platforms to 'conduct self-audits to identify dark patterns, within 3 months' and to give self-declarations. It applies to platforms (including a brand's own D2C site), not to ad copy, so no new ad rule follows."
+  },
+  {
+   "id": "META-PA",
+   "url": "https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/",
+   "opened": true,
+   "method": "playwright",
+   "status": "unchanged",
+   "current_version": "Change log 'Today', 'Jun 26, 2024'",
+   "quote_found": "ads must not contain content that asserts or implies personal attributes. This includes direct or indirect assertions or implications about a person’s race, ethnicity, religion, beliefs, age",
+   "notes": "Wording and examples are unchanged: allowed 'Our new lotion and creams fight wrinkles like never before!'; not allowed 'Ready to upgrade your skin to look younger?' and 'Do you have diabetes?'. The change-log date shows as Jun 26, 2024 (file says Jun 27, probably timezone). Plain fetch returned HTTP 400, so the browser was used."
+  },
+  {
+   "id": "META-HW-INFERIOR",
+   "url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+   "opened": true,
+   "method": "playwright",
+   "status": "unchanged",
+   "current_version": "Meta Health and Wellness page, change log entries 'Today', 'Jul 22, 2026', 'Dec 26, 2024'",
+   "quote_found": "Contains statements of inferiority about physical appearance (i.e., terms, descriptions, or questions that are negative and attack an individual’s appearance, specific body parts, or hygiene).",
+   "notes": "Wording unchanged. The change log shows Jul 22, 2026 (file says Jul 23, probably timezone)."
+  },
+  {
+   "id": "META-HW-WHITEN",
+   "url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+   "opened": true,
+   "method": "playwright",
+   "status": "unchanged",
+   "current_version": "Meta Health and Wellness page, change log entries 'Today', 'Jul 22, 2026', 'Dec 26, 2024'",
+   "quote_found": "Promote skin whitening or bleaching products that cause permanent skin color change.",
+   "notes": "Unchanged."
+  },
+  {
+   "id": "META-HW-BA-AGE",
+   "url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+   "opened": true,
+   "method": "playwright",
+   "status": "unchanged",
+   "current_version": "Meta Health and Wellness page, change log entries 'Today', 'Jul 22, 2026', 'Dec 26, 2024'",
+   "quote_found": "Ads promoting or marketing cosmetic products, procedures or surgeries, must be targeted to people at least 18 years or older.",
+   "notes": "Unchanged. 'General cosmetic products, procedures, surgeries depicting before and after transformation' is still allowed at 18+. The age-gating exemption for 'Non-permanent cosmetic and beauty products such as creams, makeup, hair products, and digital editing apps' still stands, so the Q7 ambiguity remains."
+  },
+  {
+   "id": "META-HW-CLAIMS",
+   "url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+   "opened": true,
+   "method": "playwright",
+   "status": "unchanged",
+   "current_version": "Meta Health and Wellness page, change log entries 'Today', 'Jul 22, 2026', 'Dec 26, 2024'",
+   "quote_found": "Employ clickbait tactics in a health, weight loss, or weight gain context, such as sensational language with exaggerated or extreme claims, or promises of specific outcomes within a set timeframe without disclaimers or qualifiers.",
+   "notes": "Unchanged. The 'cure, heal, or eliminate' list (exhaustive) still includes Psoriasis and Cancer, and the exemption for 'treating or managing symptoms' remains."
+  },
+  {
+   "id": "GADS-UNREL",
+   "url": "https://support.google.com/adspolicy/answer/15936857?hl=en",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "Google Ads Advertising Policies Help, 'Unreliable claims' page as served 2026-10-05",
+   "quote_found": "Testimonials that claim specific results must include a visible disclaimer stating that there is no guarantee of specific results and that the results can vary.",
+   "notes": "All four recorded quotes are present. The page also says: 'Include links to third-party verification or include relevant and noticeable disclaimers when testimonials and endorsements imply that results are typical.' CLM-21 already covers this in substance."
+  },
+  {
+   "id": "FDA-DEF",
+   "url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/it-cosmetic-drug-or-both-or-it-soap",
+   "opened": true,
+   "method": "node fetch",
+   "status": "unchanged",
+   "current_version": "FDA page, 'Content current as of: 09/11/2024'",
+   "quote_found": "Some examples are claims that products will restore hair growth, reduce cellulite, treat varicose veins, increase or decrease the production of melanin (pigment) in the skin, or regenerate cells.",
+   "notes": "Unchanged, including 'moisturizers and makeup marketed with sun-protection claims' and the line that the Act 'does not recognize any such category as cosmeceuticals'."
+  },
+  {
+   "id": "FDA-OTC-ACNE-SPF",
+   "url": "https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-21?part=201&section=201.327",
+   "opened": true,
+   "method": "node fetch",
+   "status": "changed",
+   "current_version": "eCFR current: 21 CFR 201.327 (sunscreen labeling) and 21 CFR 333 Subpart D (topical acne); FDA sunscreen consumer page 'Content current as of: 09/10/2026'",
+   "quote_found": "There are claims that would be false and/or misleading on sunscreen products. These claims include but are not limited to the following: “Sunblock,” “sweatproof,” and “waterproof.”",
+   "notes": "Upgrade from UNVERIFIED to VERIFIED, with a correction. The sunscreen labeling rule is 21 CFR 201.327 (not the 21 CFR 352 cited from memory). Water-resistance must be labeled 'Water Resistant (40 minutes)' or '(80 minutes)' per test. The acne monograph is still in eCFR at 333 Subpart D: 'Salicylic acid, 0.5 to 2 percent', 'Benzoyl peroxide, 2.5 to 10 percent'. CLM-18's sunblock/sweatproof/waterproof patterns now have a primary basis (for US-targeted ads)."
+  },
+  {
+   "id": "EU-655-2/3",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0655",
+   "opened": true,
+   "method": "playwright",
+   "status": "unchanged",
+   "current_version": "Commission Regulation (EU) No 655/2013 of 10 July 2013 (OJ L 190/31, 11.7.2013)",
+   "quote_found": "Ingredient claims referring to the properties of a specific ingredient shall not imply that the finished product has the same properties when it does not.",
+   "notes": "Unchanged ('adequate and verifiable evidence', 'at an effective concentration' present). Plain fetch got a 202 bot challenge, so the browser was used."
+  },
+  {
+   "id": "EU-655-4/5/6",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0655",
+   "opened": true,
+   "method": "playwright",
+   "status": "unchanged",
+   "current_version": "Commission Regulation (EU) No 655/2013 of 10 July 2013",
+   "quote_found": "Claims shall not attribute to the product concerned specific (i.e. unique) characteristics if similar products possess the same characteristics.",
+   "notes": "Unchanged ('shall not go beyond the available supporting evidence', 'shall not denigrate the competitors, nor shall they denigrate ingredients legally used', 'clear and understandable to the average end user' present). Annex 1(1)/1(3) for EU-655-1 also confirmed."
+  },
+  {
+   "id": "BIS-SPF",
+   "url": "https://standardsbis.bsbedge.com/BIS_SearchStandard.aspx?Standard_Number=IS%2017494&id=0",
+   "opened": true,
+   "method": "playwright",
+   "status": "unchanged",
+   "current_version": "IS 17494 : 2025 (ISO 24444 : 2019, MOD), Technical Committee PCD 19, Status: Active, No. of Amendments: 0",
+   "quote_found": "IS 17494 : 2025 ( ISO 24444 : 2019, MOD) Cosmetics - Sun Protection Test Methods - In Vivo Determination of Sun Protection Factor (SPF) - (ISO 24444 : 2019, MOD) Technical Committee : PCD 19 Status : Active No. of Amendments : 0",
+   "notes": "Now confirmed on BIS's official e-sale store (previously SECONDARY). Edition 2025, active, no amendments. On whether it is mandatory, see Q4: it is not in the Cosmetics Rules Ninth Schedule."
+  },
+  {
+   "id": "CDSCO-NOTICES",
+   "url": "https://cdsco.gov.in/opencms/opencms/en/Notifications/Public-Notices/",
+   "opened": true,
+   "method": "node fetch",
+   "status": "changed",
+   "current_version": "Public Notices list as served 2026-10-05 (latest entry 2026-Sep-14)",
+   "quote_found": "Use of Cosmetics 2026-May-19",
+   "notes": "Watch item. The 'Use of Cosmetics' row is the primary COS-12/1/2026 notice (CDSCO-PN-2026). The other cosmetics rows since 2025 are enforcement only (an unauthorised-cosmetics health alert on 14 Sep 2026, and import RC cancellations/surrenders). There is no new claims or advertising notice."
+  }
+ ],
+ "open_questions": {
+  "Q4": "IS 17494:2025 (ISO 24444:2019, MOD) exists and is 'Active', with 0 amendments, under BIS committee PCD 19 (https://standardsbis.bsbedge.com/BIS_SearchStandard.aspx?Standard_Number=IS%2017494&id=0). It is NOT made mandatory by the Cosmetics Rules 2020. The Ninth Schedule ('cosmetics in finished form shall conform to the Indian Standards') lists 37 product standards (e.g. Skin Creams IS 6608, Shampoo IS 7884). It has no sunscreen or SPF test-method standard, and the 2025 amendment (G.S.R. 513(E), 29 Jul 2025) did not change that Schedule (https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/cos_rules/Cosmetics%20Rules%202020.pdf; https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadGazette_NotificationsFiles/2025.07.29_G.S.R.%20513(E)_Certain%20amendments%20in%20Cosmetics%20Rule%202020.pdf). No Quality Control Order covering it could be confirmed: BIS's compulsory-certification page (https://www.bis.gov.in/product-certification/products-under-compulsory-certification/) rendered without its product list, so a QCO cannot be ruled out from primary text, though cosmetics are licensed by CDSCO/States rather than BIS. Conclusion: best-practice substantiation standard, not shown to be mandatory. Ambiguity for legal: the Ninth Schedule note says 'new or amended standards published by the Bureau of Indian Standards ... shall be mandatory to the cosmetics after six months'; read in context it applies to the listed product standards. PA and water-resistance test methods are still open. US: 'Water Resistant (40/80 minutes)' per 21 CFR 201.327.",
+  "Q11": "No notified amendment adding fairness, premature ageing or greying to the DMR Schedule was found in any primary source opened. (1) The government-hosted DMR Act copies (CBFC https://cbfcindia.gov.in/cbfcAdmin/assets/pdf/Drugs.pdf and Tamil Nadu Drugs Control https://drugscontrol.tn.gov.in/pages/application_forms/dmr_drug_objectional_advertisement_act.pdf) show a Schedule with Leucoderma, Lupus, Obesity etc. and none of those terms. (2) CDSCO's Gazette Notifications list (494 entries to Sep 2026, https://cdsco.gov.in/opencms/opencms/en/Notifications/Gazette-Notifications/) has no DMR amendment. (3) ASCI's AdLaw Compendium (Mar 2026, https://www.ascionline.in/wp-content/uploads/2026/03/The-AdLaw-Compendium.pdf) describes the DMRA with no Schedule expansion. Caveat: the canonical India Code PDF (https://www.indiacode.nic.in/indiacode/bitstream/123456789/18563/1/the_drugs_and_magic_remedies_(objectionable_advertisements)_act,_1954.pdf) was unreachable (504/timeouts), and no page I opened mentions the 2020 draft at all. Status: treat as NOT notified; keep anti-ageing/brightening wording under the existing cosmetic-claim rules, and re-check India Code when it is reachable."
+ },
+ "new_rule_candidates": [
+  {
+   "source_id": "ASCI-G-SGC",
+   "url": "https://www.ascionline.in/wp-content/uploads/2026/09/Guidelines-for-Responsible-Labelling-of-Synthetically-Generated-Content-in-Advertising.pdf",
+   "quote": "Labelling is mandatory in advertisements which contain SGC in a manner that materially influences consumer decisions, and the lack of a disclosure label would mislead consumers. ... Examples include: Using synthetically generated influencers and ambassadors.",
+   "why_it_matters_for_a_skincare_ad": "The tool generates AI people, hands and settings. From around 17-29 Dec 2026, an India ad showing an AI-generated model, presenter or 'creator', or a fabricated setting that shapes how the product is understood, needs a visible label such as 'Created using AI'. No existing rule checks for this label. The house AI mark lives in lib/image_prompt_check.js, not in brand_rules.json.",
+   "suggested_pattern_or_check": "computed: if the creative metadata marks any person, face, voice or result-setting as AI-generated, require a label matching /\\b(created|generated|enhanced)\\s+(using|with|by)\\s+AI\\b|AI[- ]generated/i on the visual (not only in the caption); also require 'Sponsored by <brand>' wording for paid AI-assistant placements.",
+   "suggested_severity": "fix"
+  },
+  {
+   "source_id": "ASCI-G-SGC",
+   "url": "https://www.ascionline.in/wp-content/uploads/2026/09/Guidelines-for-Responsible-Labelling-of-Synthetically-Generated-Content-in-Advertising.pdf",
+   "quote": "Fabricating endorsements or testimonials i.e. using AI to create, alter or attribute an endorsement or testimonial in a manner that falsely represents that a real person has used, experienced, approved, recommended or endorsed a product or service when they have not.",
+   "why_it_matters_for_a_skincare_ad": "These are prohibited even with an AI label. That covers AI-voiced or AI-faced 'customer reviews', AI 'dermatologist' presenters, and AI-made result or after-skin imagery. CLM-21 (testimonial) and CLM-15 (before/after) are only 'fix' and don't know whether the asset is synthetic.",
+   "suggested_pattern_or_check": "computed: block when an AI-generated person or voice delivers first-person testimonial or endorsement copy (CLM-21 / CLM-09 judge hits), or when an AI-generated image depicts a product result (CLM-15 or CLM-07 hit on an AI-flagged visual).",
+   "suggested_severity": "block"
+  },
+  {
+   "source_id": "ASCI-G-DISC + CCPA-11",
+   "url": "https://www.ascionline.in/the-asci-code-guidelines/",
+   "quote": "The disclaimer should be restricted to two full length lines and remain on screen for AT LEAST 4 seconds for every line ... For comparative claims, the basis of comparison must be stated in a font size that is at least 25% of the font size of the claim (CCPA-11: disclaimer 'shall be in the same language as the claim')",
+   "why_it_matters_for_a_skincare_ad": "Minimalist ads lean on footnotes ('*consumer perception study, 4 weeks'). CLM-07, CLM-08 and OFR-04 require the qualifier but nothing checks that it is readable. regulatory_sources.md calls this mechanically checkable, but no rule implements it.",
+   "suggested_pattern_or_check": "computed on rendered creative: footnote <= 2 lines; for video, on-screen time >= 4 s x line count; lower-case x-height >= 26 px at 1080p; comparative-basis text height >= 25% of the claim text height; footnote language == claim/VO language.",
+   "suggested_severity": "fix"
+  },
+  {
+   "source_id": "META-PA",
+   "url": "https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/",
+   "quote": "❌ “Ready to upgrade your skin to look younger?”",
+   "why_it_matters_for_a_skincare_ad": "This is Meta's own not-allowed example for anti-ageing copy (age is a personal attribute). CLM-14 only catches 'your + named condition' (acne, wrinkles...), so 'your skin ... look younger' passes. ASCI's 2025-26 report also cites '5 years younger in 5 days' as a typical upheld violation.",
+   "suggested_pattern_or_check": "add to CLM-14: \\byour\\s+([\\w-]+\\s+){0,3}(look|looking|appear|feel)s?\\s+younger\\b ; add to CLM-07 or CLM-03: \\b\\d+\\s+years?\\s+younger\\b",
+   "suggested_severity": "fix"
+  },
+  {
+   "source_id": "EU-655-4/5/6 + ASCI-RPT-ANNUAL-2526",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0655",
+   "quote": "Claims shall not attribute to the product concerned specific (i.e. unique) characteristics if similar products possess the same characteristics.",
+   "why_it_matters_for_a_skincare_ad": "'Only serum with 10% X' or 'only product in India with Y' is a uniqueness claim. ASCI's 2025-26 report names 'Only product in India with…' as a common unsubstantiated BPC claim. CLM-11 only catches 'only' + effective/trusted/potent/advanced/loved.",
+   "suggested_pattern_or_check": "extend CLM-11: \\b(the\\s+)?only\\s+([\\w%.-]+\\s+){0,3}(product|serum|sunscreen|moisturi[sz]er|cleanser|toner|brand|formula)s?\\b|\\bonly\\b[^.]{0,40}\\bin india\\b",
+   "suggested_severity": "fix"
+  },
+  {
+   "source_id": "FDA-OTC-ACNE-SPF",
+   "url": "https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-21?part=201&section=201.327",
+   "quote": "For products that provide 40 minutes of water resistance ... The labeling states “Water Resistant (40 minutes)”. ... For products that provide 80 minutes of water resistance ... The labeling states “Water Resistant (80 minutes)”.",
+   "why_it_matters_for_a_skincare_ad": "Minimalist's SPF pages say 'Water & Sweat Resistant' with no duration. CLM-18 catches '-proof' but not an untimed 'resistant'. For US-targeted creatives a duration is required. For India the test basis is open (Q4), and ASCI is focused on SPF claims (ASCI-RPT-HEAT).",
+   "suggested_pattern_or_check": "\\b(water|sweat)(\\s*(&|and|/)\\s*(water|sweat))?[- ]resistant\\b(?![^.]{0,20}\\b(40|80)\\s*min)",
+   "suggested_severity": "advisory"
+  },
+  {
+   "source_id": "CDSCO-PN-2026",
+   "url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadPublic_NoticesFiles/Public%20Notice%20dated%2018.05.2026.pdf",
+   "quote": "Cosmetics are permitted to be supplied for its intended use as defined in the definition; no cosmetic is permitted to be used in treatment by professionals/ individuals.",
+   "why_it_matters_for_a_skincare_ad": "CLM-26 catches the word 'treat/treatment' but not professional or clinic positioning ('clinic-grade', 'derm-grade', 'in-clinic peel at home', 'professional treatment'). That positioning is exactly what the regulator says a cosmetic cannot be used for.",
+   "suggested_pattern_or_check": "\\b(clinic|clinical|derm(at)?|dermatologist|medical|professional|salon)[- ]grade\\b|\\bin[- ]clinic\\b|\\bprofessional\\s+(peel|procedure)s?\\b",
+   "suggested_severity": "advisory"
+  }
+ ],
+ "unreachable": [
+  {
+   "id": "DMR-SCHED (canonical India Code copy) / Q11",
+   "url": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/18563/1/the_drugs_and_magic_remedies_(objectionable_advertisements)_act,_1954.pdf",
+   "error": "node fetch: aborted at 60 s, then HTTP 504 at 150 s; Playwright: navigation timeout 60 s (also the India Code handle page). Government copies (CBFC, TN) used instead."
+  },
+  {
+   "id": "BIS compulsory certification (QCO) list / Q4",
+   "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/",
+   "error": "Page loads (HTTP 200, also in Playwright) but renders only navigation (~4.3k chars); the product/QCO list is not present, so QCO status could not be confirmed from primary text."
+  },
+  {
+   "id": "CDSCO-PN-2026 (law-firm copy)",
+   "url": "https://luthra.com/wp-content/uploads/2026/06/Public-Notice-on-Regulation-of-Cosmetics.pdf",
+   "error": "Returned a 7 KB HTML page instead of the PDF. Not needed: the primary CDSCO PDF was opened."
+  }
+ ]
+}

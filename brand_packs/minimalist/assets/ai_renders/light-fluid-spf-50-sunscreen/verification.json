@@ -1,0 +1,16 @@
+{
+  "product": "light-fluid-spf-50-sunscreen",
+  "source": "brand_packs/minimalist/assets/hires/light-fluid-spf-50-sunscreen.jpg",
+  "tool": "ChatGPT web (user account), 2026-10-05",
+  "rounds": 1,
+  "accepted": "round1.png",
+  "auto_check": {
+    "matches": 393,
+    "inliers": 334,
+    "label_similarity": 0.575
+  },
+  "visual_read": "Read: Light Fluid / SPF 50 / FACE SUNSCREEN / High Protection, Broad Spectrum, PA++++, Water & Sweat Resistant / Clinically Tested / In-vivo (on humans) tested in the US Lab. Most reliable testing method / 50 ml / 1.7 fl. oz. / Minimalist SKIN SCIENCE; embossed 09/26 on ribbed cap. All identical; orange line, flat tube shape and white cap identical.",
+  "shape": "tube",
+  "status": "approved",
+  "fix_prompt": ""
+}

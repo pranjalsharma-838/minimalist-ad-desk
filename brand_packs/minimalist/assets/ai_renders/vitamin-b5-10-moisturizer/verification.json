@@ -1,0 +1,16 @@
+{
+  "product": "vitamin-b5-10-moisturizer",
+  "source": "brand_packs/minimalist/assets/hires/vitamin-b5-10-moisturizer.png",
+  "tool": "ChatGPT web (user account), 2026-10-05",
+  "rounds": 1,
+  "accepted": "round1.png",
+  "auto_check": {
+    "matches": 275,
+    "inliers": 214,
+    "label_similarity": 0.663
+  },
+  "visual_read": "Read: Vitamin B5 / 10% / with copper, zinc & magnesium + hyaluronic acid + betaine / lightweight & oil free / moisturizer (oily skin) · 50g / 1.7 oz / Minimalist . (blue dot). All identical; blue line, cap and tube shape identical.",
+  "shape": "tube",
+  "status": "approved",
+  "fix_prompt": ""
+}

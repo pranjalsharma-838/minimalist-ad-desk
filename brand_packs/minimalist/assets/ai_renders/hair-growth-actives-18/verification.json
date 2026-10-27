@@ -1,0 +1,16 @@
+{
+  "product": "hair-growth-actives-18",
+  "source": "brand_packs/minimalist/assets/hires/hair-growth-actives-18.jpg",
+  "tool": "ChatGPT web (user account), 2026-10-05",
+  "rounds": 1,
+  "accepted": "round1.png",
+  "auto_check": {
+    "matches": 466,
+    "inliers": 350,
+    "label_similarity": 0.537
+  },
+  "visual_read": "Read: Hair Growth Actives / 18% / HAIR SERUM / with 5% capixyl + 3% redensyl + 3% procapil / reduces hairfall, boosts growth / for all hair types / 30ml / 1 fl oz / Minimalist. All identical; purple line and black dropper bottle identical. (Label claim 'reduces hairfall, boosts growth' is the brand's own printed text, reproduced faithfully.)",
+  "shape": "bottle",
+  "status": "approved",
+  "fix_prompt": ""
+}

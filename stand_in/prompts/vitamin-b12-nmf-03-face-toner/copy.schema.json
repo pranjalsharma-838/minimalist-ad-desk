@@ -1,0 +1,76 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "headline",
+    "subhead",
+    "proof_points",
+    "footnote",
+    "cta",
+    "citations"
+  ],
+  "properties": {
+    "headline": {
+      "type": "string"
+    },
+    "subhead": {
+      "type": "string"
+    },
+    "proof_points": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "footnote": {
+      "type": "string"
+    },
+    "cta": {
+      "type": "string",
+      "enum": [
+        "Shop now",
+        "Learn more",
+        "See ingredients"
+      ]
+    },
+    "citations": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "headline",
+        "subhead",
+        "proof_points",
+        "footnote"
+      ],
+      "properties": {
+        "headline": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "subhead": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "proof_points": {
+          "type": "array",
+          "items": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "footnote": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

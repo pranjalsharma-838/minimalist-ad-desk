@@ -1,0 +1,16 @@
+{
+  "product": "niacinamide-5-hyaluronic-acid-1",
+  "source": "brand_packs/minimalist/assets/hires/niacinamide-5-hyaluronic-acid-1.png",
+  "tool": "ChatGPT web (user account), 2026-10-05",
+  "rounds": 2,
+  "accepted": "round2.png",
+  "auto_check": {
+    "matches": 418,
+    "inliers": 304,
+    "label_similarity": 0.553
+  },
+  "visual_read": "Round 2: all label words identical (Niacinamide / 05% / FACE SERUM / with bifida ferment + oat extract + hyaluronic acid / clears, heals & soothes skin / for all skin types / 30ml / 1 fl oz / Minimalist); teal line, black ribbed collar and black bulb, bottle shape and label position match. Glass fixed: shoulder mean RGB about 47,42,39 vs real 47,44,40 (near-black dark brown, no amber).",
+  "shape": "bottle",
+  "status": "approved",
+  "fix_prompt": null
+}

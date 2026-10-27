@@ -1,0 +1,9 @@
+{
+  "status": "done",
+  "image": "image_requests/20261005T064153431Z_render_lip-balm-spf-30.png",
+  "rounds": 1,
+  "similarity": 0.807,
+  "verdict": "PASS candidate (read every word on the sheet)",
+  "notes": "Label check passed (similarity 0.807, 1 round(s)). Automatic check only: still read the label by eye. Any person in the image is an AI model: Severe, AI mark.",
+  "finished_at": "2026-10-05T06:55:01.038Z"
+}

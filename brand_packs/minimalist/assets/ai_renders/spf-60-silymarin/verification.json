@@ -1,0 +1,16 @@
+{
+  "product": "spf-60-silymarin",
+  "source": "brand_packs/minimalist/assets/hires/spf-60-silymarin.png",
+  "tool": "ChatGPT web (user account), 2026-10-05",
+  "rounds": 1,
+  "accepted": "round1.png",
+  "auto_check": {
+    "matches": 391,
+    "inliers": 300,
+    "label_similarity": 0.694
+  },
+  "visual_read": "Read: SPF / 60 / SUNSCREEN / with silymarin + hyaluronic acid + vitamin e / broad spectrum, PA++++ / for all skin types / 50g / 1.7 oz / Minimalist. All identical; orange line, ribbed white cap, black base cap and tube shape identical.",
+  "shape": "tube",
+  "status": "approved",
+  "fix_prompt": ""
+}

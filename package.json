@@ -1,0 +1,16 @@
+{
+  "name": "minimalist-ad-tool",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Prototype: generate a Minimalist ad from a product URL, and pre-screen any ad against derived brand + claims rules before human review.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "studio": "node scripts/image_studio_worker.mjs",
+    "eval": "node eval/run.js",
+    "test": "node --import ./tests/_setup.mjs --test \"tests/*.test.js\""
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

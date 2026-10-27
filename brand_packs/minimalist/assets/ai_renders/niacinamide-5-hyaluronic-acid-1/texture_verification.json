@@ -1,0 +1,14 @@
+{
+    "product":  "niacinamide-5-hyaluronic-acid-1",
+    "accepted":  "texture3.png",
+    "auto_check":  {
+                       "matches":  367,
+                       "inliers":  283,
+                       "label_similarity":  0.553
+                   },
+    "visual_read":  "Round 3: glass near-black dark brown like the real pack; all label text identical (Niacinamide 05%, teal line, FACE SERUM, with bifida ferment + oat extract + hyaluronic acid, clears, heals \u0026 soothes skin, for all skin types, 30ml / 1 fl oz, Minimalist). Swatch: clear gel drops, plausible.",
+    "swatch":  "plausible: clear gel suits the product type; no text or objects added",
+    "status":  "approved",
+    "fix_prompt":  "Re-render the Minimalist Niacinamide 05% serum bottle exactly as in the reference photo. The glass must be near-black neutral dark brown (about RGB 42,38,33 on the shoulders): NO amber, NO orange or red cast, no warm glow through the glass at the shoulders or neck. Make the glass look the same as the Salicylic Acid bottle - almost black. Keep every label word, the teal line, black ribbed collar and black bulb, label size/position, and bottle shape unchanged. Only the white background and the clear gel swatch beside it may change.",
+    "rounds":  3
+}

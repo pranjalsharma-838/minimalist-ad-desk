@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: minimalist-ad-desk
+    runtime: node
+    plan: free
+    region: singapore
+    buildCommand: echo "no build step"
+    startCommand: node server.js
+    envVars:
+      - key: ONLINE
+        value: "1"

@@ -1,0 +1,16 @@
+{
+  "product": "niacinamide-10-with-matmarine",
+  "source": "brand_packs/minimalist/assets/hires/niacinamide-10-with-matmarine.png",
+  "tool": "ChatGPT web (user account), 2026-10-05",
+  "rounds": 1,
+  "accepted": "round1.png",
+  "auto_check": {
+    "matches": 476,
+    "inliers": 372,
+    "label_similarity": 0.584
+  },
+  "visual_read": "Read: Niacinamide / 10% / FACE SERUM / with matmarine + zinc + acetyl glucosamine / regulates sebum & evens tone / for all skin types / 30ml / 1 fl oz / Minimalist. All identical; green line, black glass and dropper cap identical.",
+  "shape": "bottle",
+  "status": "approved",
+  "fix_prompt": ""
+}

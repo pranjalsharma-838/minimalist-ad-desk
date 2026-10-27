@@ -1,0 +1,10 @@
+{
+  "id": "20261005T062700461Z_texture_light-fluid-spf-50-sunscreen",
+  "handle": "light-fluid-spf-50-sunscreen",
+  "product": "Light Fluid SPF 50 Sunscreen",
+  "prompt": "Create an image: a close-up studio shot of the attached product pack standing on a clean white surface, with a small swatch of its texture beside it, soft light, vertical 2:3 (Light Fluid SPF 50 Sunscreen).",
+  "base_image": "brand_packs/minimalist/assets/ai_renders/light-fluid-spf-50-sunscreen/round1.png",
+  "format": "texture",
+  "requested_at": "2026-10-05T06:27:00.462Z",
+  "status": "queued"
+}

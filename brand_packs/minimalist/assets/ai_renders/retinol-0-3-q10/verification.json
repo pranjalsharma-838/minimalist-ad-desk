@@ -1,0 +1,16 @@
+{
+  "product": "retinol-0-3-q10",
+  "source": "brand_packs/minimalist/assets/hires/retinol-0-3-q10.png",
+  "tool": "ChatGPT web (user account), 2026-10-05",
+  "rounds": 1,
+  "accepted": "round1.png",
+  "auto_check": {
+    "matches": 301,
+    "inliers": 232,
+    "label_similarity": 0.436
+  },
+  "visual_read": "Read: Retinol / 0.3% / FACE SERUM / with coenzyme q10 + bakuchiol oil + squalane / reduces fine lines & wrinkles / for all skin types / 30ml / 1 fl oz / Minimalist. All identical; purple line, black dropper bottle identical.",
+  "shape": "bottle",
+  "status": "approved",
+  "fix_prompt": ""
+}

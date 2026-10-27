@@ -1,0 +1,13 @@
+{
+  "product": "salicylic-lha-2-cleanser",
+  "accepted": "texture1.png",
+  "auto_check": {
+    "matches": 360,
+    "inliers": 301,
+    "label_similarity": 0.685
+  },
+  "visual_read": "Read both labels word by word: Salicylic Acid + LHA / 02% / CLEANSER / with oat extract + zinc + allantoin / reduces sebum & acne / for oily / acne prone skin / 100ml / 3.4 fl oz / Minimalist. All identical; red line, white bottle, black cap with tab identical. Only backdrop and lighting differ; body colour of pack measured equal or only brightened by white backdrop.",
+  "swatch": "plausible: clear foaming gel suits the product type; no text or objects added",
+  "status": "approved",
+  "fix_prompt": ""
+}

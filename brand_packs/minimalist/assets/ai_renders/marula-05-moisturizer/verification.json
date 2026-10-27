@@ -1,0 +1,16 @@
+{
+  "product": "marula-05-moisturizer",
+  "source": "brand_packs/minimalist/assets/hires/marula-05-moisturizer.png",
+  "tool": "ChatGPT web (user account), 2026-10-05",
+  "rounds": 1,
+  "accepted": "round1.png",
+  "auto_check": {
+    "matches": 352,
+    "inliers": 250,
+    "label_similarity": 0.466
+  },
+  "visual_read": "Read: Marula Oil / 05% / with vitamin f + hyaluronic acid + vitamin e / deep nourishment & hydration / moisturizer (dry skin) · 50g / 1.7 oz / Minimalist . (purple dot). All identical; purple-blue line, black cap and tube shape identical.",
+  "shape": "tube",
+  "status": "approved",
+  "fix_prompt": ""
+}

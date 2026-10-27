@@ -1,0 +1,13 @@
+{
+  "product": "oat-extract-06-gentle-cleanser",
+  "accepted": "texture1.png",
+  "auto_check": {
+    "matches": 469,
+    "inliers": 357,
+    "label_similarity": 0.875
+  },
+  "visual_read": "Read both labels word by word: B12 + Oat Extract / 6.5% / GENTLE CLEANSER / with vitamin b12 + hyaluronic acid + vitamin b5 / gently cleanses, calms, & replenishes sensitive skin / for all skin types / 120 ml / 4.06 fl. oz. / Minimalist SKIN SCIENCE. All identical; lime line, pink liquid bottle, clear pump, side sticker edge identical. Only backdrop and lighting differ; body colour of pack measured equal or only brightened by white backdrop.",
+  "swatch": "plausible: translucent pink gel foam suits the product type; no text or objects added",
+  "status": "approved",
+  "fix_prompt": ""
+}

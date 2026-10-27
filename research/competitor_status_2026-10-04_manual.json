@@ -1,0 +1,175 @@
+{
+ "checked": "2026-10-04",
+ "method": "Meta Ad Library page per ad id (Playwright); Active / Inactive label next to the Library ID",
+ "ads": [
+  {
+   "id": "2167030027575229",
+   "status": "unknown"
+  },
+  {
+   "id": "1587965372880796",
+   "status": "active",
+   "started": "Sep 11, 2026"
+  },
+  {
+   "id": "1393840196150399",
+   "status": "active",
+   "started": "Sep 18, 2026"
+  },
+  {
+   "id": "1739037801557913",
+   "status": "active",
+   "started": "Aug 10, 2026"
+  },
+  {
+   "id": "1619243416440363",
+   "status": "active",
+   "started": "Aug 13, 2026"
+  },
+  {
+   "id": "1689296475500089",
+   "status": "active",
+   "started": "Sep 3, 2026"
+  },
+  {
+   "id": "2950827325263069",
+   "status": "active",
+   "started": "Sep 5, 2026"
+  },
+  {
+   "id": "1411336474460924",
+   "status": "active",
+   "started": "Sep 1, 2026"
+  },
+  {
+   "id": "1043812398239559",
+   "status": "active",
+   "started": "Aug 6, 2026"
+  },
+  {
+   "id": "2577485959347287",
+   "status": "active",
+   "started": "Sep 16, 2026"
+  },
+  {
+   "id": "1391126049254669",
+   "status": "active",
+   "started": "Sep 11, 2026"
+  },
+  {
+   "id": "2307135286779864",
+   "status": "active",
+   "started": "Aug 27, 2026"
+  },
+  {
+   "id": "1778713726796593",
+   "status": "active",
+   "started": "Sep 16, 2026"
+  },
+  {
+   "id": "848238494946602",
+   "status": "active",
+   "started": "Sep 3, 2026"
+  },
+  {
+   "id": "4305763079698667",
+   "status": "active",
+   "started": "Aug 28, 2026"
+  },
+  {
+   "id": "1414040904207915",
+   "status": "active",
+   "started": "Sep 16, 2026"
+  },
+  {
+   "id": "3159883944203364",
+   "status": "active",
+   "started": "Aug 27, 2026"
+  },
+  {
+   "id": "2593621517723635",
+   "status": "active",
+   "started": "Aug 12, 2026"
+  },
+  {
+   "id": "1550169393471299",
+   "status": "active",
+   "started": "Aug 26, 2026"
+  },
+  {
+   "id": "1290012680862234",
+   "status": "active",
+   "started": "Aug 31, 2026"
+  },
+  {
+   "id": "1594682718905718",
+   "status": "active",
+   "started": "Aug 17, 2026"
+  },
+  {
+   "id": "952136181261603",
+   "status": "active",
+   "started": "Aug 27, 2026"
+  },
+  {
+   "id": "1366133142166031",
+   "status": "active",
+   "started": "Aug 28, 2026"
+  },
+  {
+   "id": "1380221640890732",
+   "status": "active",
+   "started": "Aug 11, 2026"
+  },
+  {
+   "id": "1418542033483616",
+   "status": "active",
+   "started": "Sep 1, 2026"
+  },
+  {
+   "id": "1408884340671180",
+   "status": "active",
+   "started": "Sep 3, 2026"
+  },
+  {
+   "id": "1000219876379194",
+   "status": "active",
+   "started": "Aug 31, 2026"
+  },
+  {
+   "id": "1111018274708028",
+   "status": "active",
+   "started": "Sep 1, 2026"
+  },
+  {
+   "id": "1420890446893063",
+   "status": "active",
+   "started": "Aug 31, 2026"
+  },
+  {
+   "id": "1079958907863521",
+   "status": "active",
+   "started": "Sep 2, 2026"
+  },
+  {
+   "id": "1101473269058810",
+   "status": "active",
+   "started": "Sep 7, 2026"
+  },
+  {
+   "id": "2274657823309888",
+   "status": "active",
+   "started": "Sep 7, 2026"
+  },
+  {
+   "id": "1405373168193801",
+   "status": "active",
+   "started": "Sep 7, 2026"
+  },
+  {
+   "id": "2333707560370954",
+   "status": "active",
+   "started": "Sep 7, 2026"
+  }
+ ]
+}

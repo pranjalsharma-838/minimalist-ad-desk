@@ -1,0 +1,122 @@
+[
+    {
+        "id":  "alpha-arbutin-2__t14",
+        "kind":  "frames",
+        "prompt":  "Create a photorealistic wide image made of three equal side-by-side panels separated by thin white gaps, the SAME adult with identical framing, angle and soft daylight from the upper left in every panel. Three close-ups of the same Indian woman in her early 30s with medium-brown skin, cheek and jawline in frame, at three moments of her evening routine (first use, two weeks in, four weeks in): consistent healthy skin with natural texture, the same soft light; only a very subtle, non-dramatic change. Natural skin texture with visible pores, not airbrushed. Do not include: any product, bottle, tube, jar, dropper or packaging, any text, letters, labels, logos or brand names. No eyes or lips if the panels are skin close-ups. Wide 3:2 image.",
+        "out":  "C:/Users/pranjal.sharma_onegu/Desktop/minimalist-ad-tool/pipeline/runs/2026-10-03-angles/backgrounds/alpha-arbutin-2__t14.frames.png"
+    },
+    {
+        "id":  "alpha-arbutin-2__t9",
+        "kind":  "person",
+        "prompt":  "Create a photorealistic photo: a close-up of an Indian woman in her early 30s with deep-brown skin, her fingertips gently pressing a few clear drops onto her cheek in soft evening bathroom light from the upper left, calm expression, natural skin texture with visible pores. Natural, unretouched skin texture. Do not include: any product, bottle, tube, jar, dropper or packaging, any text, letters, labels, logos or brand names. Square 1:1.",
+        "out":  "C:/Users/pranjal.sharma_onegu/Desktop/minimalist-ad-tool/pipeline/runs/2026-10-03-angles/backgrounds/alpha-arbutin-2__t9.person.png"
+    },
+    {
+        "id":  "multi-vitamin-spf-50__t14",
+        "kind":  "frames",
+        "prompt":  "Create a photorealistic wide image made of three equal side-by-side panels separated by thin white gaps, the SAME adult with identical framing, angle and soft daylight from the upper left in every panel. Three portraits of the same Indian man in his early 30s with deep-brown skin, head and shoulders, outdoors in daylight on three different mornings of his routine: the same healthy skin with natural texture throughout; no dramatic change, no tanning or lightening. Natural skin texture with visible pores, not airbrushed. Do not include: any product, bottle, tube, jar, dropper or packaging, any text, letters, labels, logos or brand names. No eyes or lips if the panels are skin close-ups. Wide 3:2 image.",
+        "out":  "C:/Users/pranjal.sharma_onegu/Desktop/minimalist-ad-tool/pipeline/runs/2026-10-03-angles/backgrounds/multi-vitamin-spf-50__t14.frames.png"
+    },
+    {
+        "id":  "niacinamide-10-with-matmarine__t14",
+        "kind":  "frames",
+        "prompt":  "Create a photorealistic wide image made of three equal side-by-side panels separated by thin white gaps, the SAME adult with identical framing, angle and soft daylight from the upper left in every panel. Three close-ups of the same Indian woman in her late 20s with light-brown skin, cheek area in frame, at three moments of her routine (first use, two weeks in, four weeks in): consistent healthy skin with natural texture and visible pores, the same soft light; only a very subtle, non-dramatic change. Natural skin texture with visible pores, not airbrushed. Do not include: any product, bottle, tube, jar, dropper or packaging, any text, letters, labels, logos or brand names. No eyes or lips if the panels are skin close-ups. Wide 3:2 image.",
+        "out":  "C:/Users/pranjal.sharma_onegu/Desktop/minimalist-ad-tool/pipeline/runs/2026-10-03-angles/backgrounds/niacinamide-10-with-matmarine__t14.frames.png"
+    },
+    {
+        "id":  "niacinamide-10-with-matmarine__t9",
+        "kind":  "person",
+        "prompt":  "Create a photorealistic photo: a close-up of an Indian man in his late 20s with medium-brown skin and short hair, his fingertips pressing a few clear drops onto his cheek in soft morning light from the upper left, relaxed expression, natural skin texture. Natural, unretouched skin texture. Do not include: any product, bottle, tube, jar, dropper or packaging, any text, letters, labels, logos or brand names. Square 1:1.",
+        "out":  "C:/Users/pranjal.sharma_onegu/Desktop/minimalist-ad-tool/pipeline/runs/2026-10-03-angles/backgrounds/niacinamide-10-with-matmarine__t9.person.png"
+    },
+    {
+        "id":  "salicylic-acid-2__t8",
+        "kind":  "person",
+        "prompt":  "Create a photorealistic photo: an Indian woman in her early 20s with light-brown skin at a simple home bathroom basin at night, gently smoothing a few clear drops over her cheek with her fingertips, hair tied back, warm low evening light, natural skin texture. Natural, unretouched skin texture. Do not include: any product, bottle, tube, jar, dropper or packaging, any text, letters, labels, logos or brand names. Square 1:1.",
+        "out":  "C:/Users/pranjal.sharma_onegu/Desktop/minimalist-ad-tool/pipeline/runs/2026-10-03-angles/backgrounds/salicylic-acid-2__t8.person.png"
+    },
+    {
+        "id":  "salicylic-lha-2-cleanser__t14",
+        "kind":  "frames",
+        "prompt":  "Create a photorealistic wide image made of three equal side-by-side panels separated by thin white gaps, the SAME adult with identical framing, angle and soft daylight from the upper left in every panel. Three close-ups of the same Indian man in his mid 20s with medium-brown skin, cheek and jawline in frame, after washing up at three points in his routine: consistent healthy skin with natural texture, a few water droplets, the same soft light; no dramatic change. Natural skin texture with visible pores, not airbrushed. Do not include: any product, bottle, tube, jar, dropper or packaging, any text, letters, labels, logos or brand names. No eyes or lips if the panels are skin close-ups. Wide 3:2 image.",
+        "out":  "C:/Users/pranjal.sharma_onegu/Desktop/minimalist-ad-tool/pipeline/runs/2026-10-03-angles/backgrounds/salicylic-lha-2-cleanser__t14.frames.png"
+    },
+    {
+        "id":  "salicylic-lha-2-cleanser__t8",
+        "kind":  "person",
+        "prompt":  "Create a photorealistic photo: an Indian man in his early 30s with deep-brown skin, back from a morning run in a T-shirt, washing his face with a light white foam at a home basin, water droplets on his skin, soft daylight from the upper left. Natural, unretouched skin texture. Do not include: any product, bottle, tube, jar, dropper or packaging, any text, letters, labels, logos or brand names. Square 1:1.",
+        "out":  "C:/Users/pranjal.sharma_onegu/Desktop/minimalist-ad-tool/pipeline/runs/2026-10-03-angles/backgrounds/salicylic-lha-2-cleanser__t8.person.png"
+    },
+    {
+        "id":  "salicylic-lha-2-cleanser__t9",
+        "kind":  "person",
+        "prompt":  "Create a photorealistic photo: a close-up of an Indian woman in her late 20s with medium-brown skin, working a light white foam over her cheeks with her fingertips, eyes closed, soft daylight from the upper left, natural skin texture. Natural, unretouched skin texture. Do not include: any product, bottle, tube, jar, dropper or packaging, any text, letters, labels, logos or brand names. Square 1:1.",
+        "out":  "C:/Users/pranjal.sharma_onegu/Desktop/minimalist-ad-tool/pipeline/runs/2026-10-03-angles/backgrounds/salicylic-lha-2-cleanser__t9.person.png"
+    },
+    {
+        "id":  "vitamin-b5-10-moisturizer__t14",
+        "kind":  "frames",
+        "prompt":  "Create a photorealistic wide image made of three equal side-by-side panels separated by thin white gaps, the SAME adult with identical framing, angle and soft daylight from the upper left in every panel. Three close-ups of the same Indian woman in her early 40s with deep-brown skin, cheek area in frame, at three moments of her routine: consistent healthy, comfortable-looking skin with natural texture, the same soft window light; no dramatic change. Natural skin texture with visible pores, not airbrushed. Do not include: any product, bottle, tube, jar, dropper or packaging, any text, letters, labels, logos or brand names. No eyes or lips if the panels are skin close-ups. Wide 3:2 image.",
+        "out":  "C:/Users/pranjal.sharma_onegu/Desktop/minimalist-ad-tool/pipeline/runs/2026-10-03-angles/backgrounds/vitamin-b5-10-moisturizer__t14.frames.png"
+    },
+    {
+        "id":  "vitamin-b5-10-moisturizer__t8",
+        "kind":  "person",
+        "prompt":  "Create a photorealistic photo: an Indian woman in her early 40s with medium-brown skin, smoothing a light moisturiser onto her face and neck by a window in the morning, simple cotton kurta, relaxed expression, soft daylight from the upper left. Natural, unretouched skin texture. Do not include: any product, bottle, tube, jar, dropper or packaging, any text, letters, labels, logos or brand names. Square 1:1.",
+        "out":  "C:/Users/pranjal.sharma_onegu/Desktop/minimalist-ad-tool/pipeline/runs/2026-10-03-angles/backgrounds/vitamin-b5-10-moisturizer__t8.person.png"
+    },
+    {
+        "id":  "vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1__t14",
+        "kind":  "frames",
+        "prompt":  "Create a photorealistic wide image made of three equal side-by-side panels separated by thin white gaps, the SAME adult with identical framing, angle and soft daylight from the upper left in every panel. Three close-ups of the same Indian man in his early 30s with light-brown skin, cheek area in frame, on three mornings of his routine: consistent healthy skin with natural texture, the same soft morning light; no dramatic change, no lightening. Natural skin texture with visible pores, not airbrushed. Do not include: any product, bottle, tube, jar, dropper or packaging, any text, letters, labels, logos or brand names. No eyes or lips if the panels are skin close-ups. Wide 3:2 image.",
+        "out":  "C:/Users/pranjal.sharma_onegu/Desktop/minimalist-ad-tool/pipeline/runs/2026-10-03-angles/backgrounds/vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1__t14.frames.png"
+    },
+    {
+        "id":  "alpha-arbutin-2__t44",
+        "kind":  "person",
+        "prompt":  "Create a photorealistic photo: a portrait of a calm Indian woman in her early 40s with medium-brown skin, sitting by a window in a plain, softly lit room, simple light-coloured top, looking slightly off camera, natural unretouched skin, empty hands. No lab coat, stethoscope, badge or credentials. Natural, unretouched skin texture. Do not include: any product, bottle, tube, jar, dropper or packaging, any text, letters, labels, logos or brand names. Square 1:1.",
+        "out":  "C:/Users/pranjal.sharma_onegu/Desktop/minimalist-ad-tool/pipeline/runs/2026-10-03-scale/backgrounds/alpha-arbutin-2__t44.person.png"
+    },
+    {
+        "id":  "alpha-arbutin-2__t8",
+        "kind":  "person",
+        "prompt":  "Create a photorealistic photo: a close-up of an Indian woman in her early 30s with deep-brown skin, her fingertips gently pressing a few clear drops onto her cheek, a softly blurred bathroom behind, soft daylight from the upper left, natural skin texture with visible pores. Natural, unretouched skin texture. Do not include: any product, bottle, tube, jar, dropper or packaging, any text, letters, labels, logos or brand names. Square 1:1.",
+        "out":  "C:/Users/pranjal.sharma_onegu/Desktop/minimalist-ad-tool/pipeline/runs/2026-10-03-scale/backgrounds/alpha-arbutin-2__t8.person.png"
+    },
+    {
+        "id":  "niacinamide-10-with-matmarine__t12",
+        "kind":  "frames",
+        "prompt":  "Create a photorealistic wide image made of two equal side-by-side panels separated by thin white gaps, the SAME adult with identical framing, angle and soft daylight from the upper left in every panel. Two close-ups of the same Indian man in his mid 20s with medium-brown skin, cheek area in frame, identical framing and soft daylight from the upper left. Left panel: photographed at midday with a natural dewy shine. Right panel: photographed in the morning with a soft matte look. Natural skin texture with visible pores, not airbrushed. Do not include: any product, bottle, tube, jar, dropper or packaging, any text, letters, labels, logos or brand names. No eyes or lips if the panels are skin close-ups. Wide 3:2 image.",
+        "out":  "C:/Users/pranjal.sharma_onegu/Desktop/minimalist-ad-tool/pipeline/runs/2026-10-03-scale/backgrounds/niacinamide-10-with-matmarine__t12.frames.png"
+    },
+    {
+        "id":  "salicylic-acid-2__t13",
+        "kind":  "frames",
+        "prompt":  "Create a photorealistic wide image made of two equal side-by-side panels separated by thin white gaps, the SAME adult with identical framing, angle and soft daylight from the upper left in every panel. The same Indian woman in her early 20s with light-brown skin, in both panels. Left panel: splashing water onto her face at a bathroom basin, face partly visible. Right panel: a close-up of her fingertips gently pressing a few clear drops onto her cheek. Natural skin texture with visible pores, not airbrushed. Do not include: any product, bottle, tube, jar, dropper or packaging, any text, letters, labels, logos or brand names. No eyes or lips if the panels are skin close-ups. Wide 3:2 image.",
+        "out":  "C:/Users/pranjal.sharma_onegu/Desktop/minimalist-ad-tool/pipeline/runs/2026-10-03-scale/backgrounds/salicylic-acid-2__t13.frames.png"
+    },
+    {
+        "id":  "salicylic-acid-2__t30",
+        "kind":  "person",
+        "prompt":  "Create a photorealistic photo: a casual, natural smartphone-style photo of an Indian man in his early 20s with medium-brown skin in a softly lit bathroom at night, gently patting his face dry with a small towel, relaxed expression, warm low evening light, no on-screen interface elements. Natural, unretouched skin texture. Do not include: any product, bottle, tube, jar, dropper or packaging, any text, letters, labels, logos or brand names. Square 1:1.",
+        "out":  "C:/Users/pranjal.sharma_onegu/Desktop/minimalist-ad-tool/pipeline/runs/2026-10-03-scale/backgrounds/salicylic-acid-2__t30.person.png"
+    },
+    {
+        "id":  "salicylic-acid-2__t31",
+        "kind":  "person",
+        "prompt":  "Create a photorealistic photo: a natural front-camera selfie of a smiling Indian woman in her mid 20s with deep-brown skin in a softly lit room, casual top, natural unretouched skin with visible texture, light everyday makeup, holding nothing, no stickers or filters. Natural, unretouched skin texture. Do not include: any product, bottle, tube, jar, dropper or packaging, any text, letters, labels, logos or brand names. Square 1:1.",
+        "out":  "C:/Users/pranjal.sharma_onegu/Desktop/minimalist-ad-tool/pipeline/runs/2026-10-03-scale/backgrounds/salicylic-acid-2__t31.person.png"
+    },
+    {
+        "id":  "vitamin-b5-10-moisturizer__t7",
+        "kind":  "person",
+        "prompt":  "Create a photorealistic photo: a close-up of the open hand of an Indian man in his early 30s with medium-brown skin, palm up and empty, held out toward the camera against a soft neutral off-white background, soft daylight from the upper left. Natural, unretouched skin texture. Do not include: any product, bottle, tube, jar, dropper or packaging, any text, letters, labels, logos or brand names. Square 1:1.",
+        "out":  "C:/Users/pranjal.sharma_onegu/Desktop/minimalist-ad-tool/pipeline/runs/2026-10-03-scale/backgrounds/vitamin-b5-10-moisturizer__t7.person.png"
+    },
+    {
+        "id":  "salicylic-acid-2__t14",
+        "kind":  "frames",
+        "prompt":  "Create a photorealistic wide image made of three equal side-by-side panels separated by thin white gaps, the SAME adult with identical framing, angle and soft daylight from the upper left in every panel. Three close-ups of the same Indian woman in her early 20s with medium-brown skin, cheek area in frame, identical framing and soft daylight from the upper left. Left: visible oily shine and several small red blemishes. Middle: noticeably less shine and fewer, smaller blemishes. Right: clearer, more even-looking skin with a natural matte finish and normal texture still visible (pores present, not airbrushed). Natural skin texture with visible pores, not airbrushed. Do not include: any product, bottle, tube, jar, dropper or packaging, any text, letters, labels, logos or brand names. No eyes or lips if the panels are skin close-ups. Wide 3:2 image.",
+        "out":  "C:/Users/pranjal.sharma_onegu/Desktop/minimalist-ad-tool/pipeline/runs/2026-10-03-transformation/backgrounds/salicylic-acid-2__t14.frames.png"
+    }
+]

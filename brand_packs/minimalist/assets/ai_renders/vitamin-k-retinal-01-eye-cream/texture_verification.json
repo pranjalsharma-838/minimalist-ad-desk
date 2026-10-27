@@ -1,0 +1,13 @@
+{
+  "product": "vitamin-k-retinal-01-eye-cream",
+  "accepted": "texture2.png",
+  "auto_check": {
+    "matches": 392,
+    "inliers": 328,
+    "label_similarity": 0.578
+  },
+  "visual_read": "Round 2 texture: tube is now silvery grey-olive pearlescent as the real one (body mean RGB about 175,172,156 vs real 166,161,143; round 1 ivory was 198,193,176), black cap, pale crimped top, lime line, layout and shape match. All label words match incl. French lines. Minor: the leading '+' of '+ 3 peptides + zerumbone' is only a sliver at the tube edge in the real photo and is not visible in the AI render; swatch plausible ivory cream, no text or objects.",
+  "swatch": "plausible: ivory cream suits the product type; no text or objects added",
+  "status": "approved",
+  "fix_prompt": null
+}

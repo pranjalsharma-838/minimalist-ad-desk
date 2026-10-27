@@ -1,0 +1,462 @@
+[
+  {
+    "id": "alpha-arbutin-2__t10",
+    "layout": "hero",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "alpha-arbutin-2__t12",
+    "layout": "before_after",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "alpha-arbutin-2__t14",
+    "layout": "timeline",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "alpha-arbutin-2__t21",
+    "layout": "texture",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "alpha-arbutin-2__t26",
+    "layout": "review",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "alpha-arbutin-2__t3",
+    "layout": "actives",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "alpha-arbutin-2__t31",
+    "layout": "native",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "alpha-arbutin-2__t38",
+    "layout": "range",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "alpha-arbutin-2__t4",
+    "layout": "hero",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "multi-vitamin-spf-50__t10",
+    "layout": "hero",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "multi-vitamin-spf-50__t12",
+    "layout": "before_after",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "multi-vitamin-spf-50__t14",
+    "layout": "timeline",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "multi-vitamin-spf-50__t15",
+    "layout": "callouts",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "multi-vitamin-spf-50__t21",
+    "layout": "texture",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "multi-vitamin-spf-50__t3",
+    "layout": "actives",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "multi-vitamin-spf-50__t31",
+    "layout": "native",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "multi-vitamin-spf-50__t9",
+    "layout": "hero",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "niacinamide-10-with-matmarine__t10",
+    "layout": "hero",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "niacinamide-10-with-matmarine__t14",
+    "layout": "timeline",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "niacinamide-10-with-matmarine__t15",
+    "layout": "callouts",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "niacinamide-10-with-matmarine__t2",
+    "layout": "badges",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "niacinamide-10-with-matmarine__t21",
+    "layout": "texture",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "niacinamide-10-with-matmarine__t26",
+    "layout": "review",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "niacinamide-10-with-matmarine__t31",
+    "layout": "native",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "niacinamide-10-with-matmarine__t4",
+    "layout": "hero",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "salicylic-acid-2__t10",
+    "layout": "hero",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "salicylic-acid-2__t12",
+    "layout": "before_after",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "salicylic-acid-2__t14",
+    "layout": "timeline",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "salicylic-acid-2__t2",
+    "layout": "badges",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "salicylic-acid-2__t21",
+    "layout": "texture",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "salicylic-acid-2__t26",
+    "layout": "review",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "salicylic-acid-2__t3",
+    "layout": "actives",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "salicylic-acid-2__t38",
+    "layout": "range",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "salicylic-acid-2__t4",
+    "layout": "hero",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "salicylic-lha-2-cleanser__t12",
+    "layout": "before_after",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "salicylic-lha-2-cleanser__t14",
+    "layout": "timeline",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "salicylic-lha-2-cleanser__t15",
+    "layout": "callouts",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "salicylic-lha-2-cleanser__t21",
+    "layout": "texture",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "salicylic-lha-2-cleanser__t26",
+    "layout": "review",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "salicylic-lha-2-cleanser__t3",
+    "layout": "actives",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "salicylic-lha-2-cleanser__t31",
+    "layout": "native",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "salicylic-lha-2-cleanser__t4",
+    "layout": "hero",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "vitamin-b5-10-moisturizer__t10",
+    "layout": "hero",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "vitamin-b5-10-moisturizer__t12",
+    "layout": "before_after",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "vitamin-b5-10-moisturizer__t14",
+    "layout": "timeline",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "vitamin-b5-10-moisturizer__t2",
+    "layout": "badges",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "vitamin-b5-10-moisturizer__t21",
+    "layout": "texture",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "vitamin-b5-10-moisturizer__t3",
+    "layout": "actives",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "vitamin-b5-10-moisturizer__t31",
+    "layout": "native",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "vitamin-b5-10-moisturizer__t4",
+    "layout": "hero",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1__t10",
+    "layout": "hero",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1__t12",
+    "layout": "before_after",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1__t14",
+    "layout": "timeline",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1__t2",
+    "layout": "badges",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1__t21",
+    "layout": "texture",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1__t31",
+    "layout": "native",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1__t4",
+    "layout": "hero",
+    "exportable": true,
+    "layoutIssues": [],
+    "recheck": "LIMITED_CHECK"
+  },
+  {
+    "id": "vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1__t9",
+    "layout": "hero",
+    "exportable": false,
+    "layoutIssues": [
+      "Severe risk: a model (AI person, hands or skin frames) is used — needs real, consented photos (and study backing for any result) before any use — not exportable"
+    ],
+    "recheck": "LIMITED_CHECK"
+  }
+]

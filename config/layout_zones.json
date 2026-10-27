@@ -1,0 +1,14 @@
+{
+  "note": "Canvas zones per renderer layout, as fractions of width/height (x0,y0,x1,y1), read from public/render.js geometry at 1080x1080. Given to the image prompt director so generated scenes leave the right areas calm and empty.",
+  "common": { "footnote_band": [0.0, 0.76, 1.0, 1.0], "wordmark": [0.06, 0.05, 0.25, 0.1] },
+  "hero":         { "copy": [0.04, 0.12, 0.54, 0.74], "product": [0.55, 0.10, 0.95, 0.71] },
+  "actives":      { "copy": [0.04, 0.12, 0.54, 0.74], "product": [0.55, 0.10, 0.95, 0.71] },
+  "stat":         { "copy": [0.04, 0.12, 0.54, 0.74], "product": [0.55, 0.10, 0.95, 0.71] },
+  "spec":         { "copy": [0.04, 0.12, 0.54, 0.74], "product": [0.55, 0.10, 0.95, 0.71] },
+  "offer":        { "copy": [0.04, 0.12, 0.54, 0.74], "product": [0.55, 0.10, 0.95, 0.71] },
+  "badges":       { "copy": [0.04, 0.10, 0.96, 0.24], "product": [0.30, 0.26, 0.70, 0.74], "badges_ring": [0.06, 0.26, 0.94, 0.74] },
+  "callouts":     { "copy": [0.04, 0.10, 0.96, 0.20], "product": [0.37, 0.21, 0.63, 0.66], "labels_left": [0.04, 0.21, 0.32, 0.66], "labels_right": [0.66, 0.21, 0.96, 0.66] },
+  "journey":      { "copy": [0.04, 0.10, 0.96, 0.22], "products_row": [0.04, 0.24, 0.96, 0.72] },
+  "range":        { "copy": [0.04, 0.10, 0.96, 0.20], "products_row": [0.04, 0.20, 0.96, 0.68] },
+  "before_after": { "copy": [0.04, 0.10, 0.54, 0.20], "photo_frames": [0.06, 0.20, 0.54, 0.70], "product": [0.59, 0.18, 0.93, 0.70] }
+}

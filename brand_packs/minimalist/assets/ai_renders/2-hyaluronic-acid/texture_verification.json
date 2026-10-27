@@ -1,0 +1,13 @@
+{
+  "product": "2-hyaluronic-acid",
+  "accepted": "texture1.png",
+  "auto_check": {
+    "matches": 426,
+    "inliers": 335,
+    "label_similarity": 0.74
+  },
+  "visual_read": "Read both labels word by word: Hyaluronic + PGA / 02% / FACE SERUM / with aquaporin booster + copper + biosaccharide / hydrates & prevents TEWL / for all skin types / 30ml / 1 fl oz / Minimalist. All identical; blue line, black ribbed dropper, dark amber bottle identical. Only backdrop and lighting differ; body colour of pack measured equal or only brightened by white backdrop.",
+  "swatch": "plausible: clear gel suits the product type; no text or objects added",
+  "status": "approved",
+  "fix_prompt": ""
+}

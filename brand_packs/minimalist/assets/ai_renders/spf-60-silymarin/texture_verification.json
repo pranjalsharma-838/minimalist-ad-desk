@@ -1,0 +1,13 @@
+{
+  "product": "spf-60-silymarin",
+  "accepted": "texture1.png",
+  "auto_check": {
+    "matches": 343,
+    "inliers": 223,
+    "label_similarity": 0.784
+  },
+  "visual_read": "Read both labels word by word: SPF 60 / SUNSCREEN / with silymarin + hyaluronic acid + vitamin e / broad spectrum, PA++++ / for all skin types / 50g / 1.7 oz / Minimalist. All identical; orange line, white tube, black cap identical. Only backdrop and lighting differ; body colour of pack measured equal or only brightened by white backdrop.",
+  "swatch": "plausible: white cream suits the product type; no text or objects added",
+  "status": "approved",
+  "fix_prompt": ""
+}

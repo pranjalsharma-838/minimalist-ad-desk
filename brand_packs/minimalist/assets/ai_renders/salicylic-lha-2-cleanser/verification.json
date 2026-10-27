@@ -1,0 +1,16 @@
+{
+    "product":  "salicylic-lha-2-cleanser",
+    "source":  "brand_packs/minimalist/assets/hires/salicylic-lha-2-cleanser.jpg (beminimalist.co original, 1100x1600)",
+    "tool":  "ChatGPT web (user account), 2026-10-05",
+    "rounds":  1,
+    "accepted":  "round1.png",
+    "auto_check":  {
+                       "matches":  356,
+                       "inliers":  320,
+                       "label_similarity":  0.739
+                   },
+    "visual_read":  "All label text identical: Salicylic Acid + LHA / 02% / coral line / CLEANSER / with oat extract + zinc + allantoin / reduces sebum \u0026 acne / for oily / acne prone skin / 100ml / 3.4 fl oz / Minimalist. Cap and bottle shape match.",
+    "status":  "approved",
+    "shape":  "bottle",
+    "approved_by":  "user, 2026-10-05"
+}

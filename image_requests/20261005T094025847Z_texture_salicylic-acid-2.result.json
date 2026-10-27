@@ -1,0 +1,9 @@
+{
+  "status": "done",
+  "image": "image_requests/20261005T094025847Z_texture_salicylic-acid-2.png",
+  "rounds": 2,
+  "similarity": 0.647,
+  "verdict": "PASS candidate (read every word on the sheet)",
+  "notes": "Label check passed (similarity 0.647, 2 round(s)). Automatic check only: still read the label by eye. Any person in the image is an AI model: Severe, AI mark.",
+  "finished_at": "2026-10-05T09:43:09.153Z"
+}

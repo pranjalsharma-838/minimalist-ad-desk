@@ -1,0 +1,369 @@
+[
+ {
+  "product_handle": "salicylic-lha-2-cleanser",
+  "source_file": "brand_packs/minimalist/assets/raw/salicylic-lha-2-cleanser/01.jpg",
+  "cutout": "brand_packs/minimalist/assets/cutouts/salicylic-lha-2-cleanser_01.png",
+  "bg": [
+   235,
+   127,
+   127
+  ],
+  "kept_fraction": 0.293,
+  "size": [
+   510,
+   1176
+  ],
+  "auto_check": "ok",
+  "visual_check": "clean",
+  "visual_note": "re-cut 2026-10-04 (edge-walled, shape-aware); checked on red: body, label and cap intact, no floor shadow; base edge slightly uneven at full size",
+  "method": "edge-walled backdrop removal, shape other (scripts/cutout_edges.py)"
+ },
+ {
+  "product_handle": "multi-vitamin-spf-50",
+  "source_file": "brand_packs/minimalist/assets/raw/multi-vitamin-spf-50/01.jpg",
+  "cutout": "brand_packs/minimalist/assets/cutouts/multi-vitamin-spf-50_01.png",
+  "bg": [
+   235,
+   127,
+   127
+  ],
+  "kept_fraction": 0.358,
+  "size": [
+   542,
+   1348
+  ],
+  "auto_check": "ok",
+  "visual_check": "clean",
+  "visual_note": "re-cut 2026-10-04 (edge-walled, shape-aware); checked on red: body, label and cap intact, no floor shadow",
+  "method": "edge-walled backdrop removal, shape tube (scripts/cutout_edges.py)"
+ },
+ {
+  "product_handle": "vitamin-b5-10-moisturizer",
+  "source_file": "brand_packs/minimalist/assets/raw/vitamin-b5-10-moisturizer/01.png",
+  "cutout": "brand_packs/minimalist/assets/cutouts/vitamin-b5-10-moisturizer_01.png",
+  "bg": [
+   232,
+   127,
+   127
+  ],
+  "kept_fraction": 0.302,
+  "size": [
+   532,
+   1327
+  ],
+  "auto_check": "ok",
+  "visual_check": "clean",
+  "visual_note": "re-cut 2026-10-04 (edge-walled, shape-aware); checked on red: body, label and cap intact, no floor shadow",
+  "method": "edge-walled backdrop removal, shape tube (scripts/cutout_edges.py)"
+ },
+ {
+  "product_handle": "niacinamide-10-with-matmarine",
+  "source_file": "brand_packs/minimalist/assets/raw/niacinamide-10-with-matmarine/01.png",
+  "cutout": "brand_packs/minimalist/assets/cutouts/niacinamide-10-with-matmarine_01.png",
+  "bg": [
+   229,
+   233,
+   234
+  ],
+  "kept_fraction": 0.254,
+  "size": [
+   773,
+   1159
+  ],
+  "auto_check": "ok",
+  "visual_check": "clean",
+  "visual_note": "checked on black: edges and labels intact"
+ },
+ {
+  "product_handle": "vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1",
+  "source_file": "brand_packs/minimalist/assets/raw/vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1/01.png",
+  "cutout": "brand_packs/minimalist/assets/cutouts/vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1_01.png",
+  "bg": [
+   229,
+   233,
+   234
+  ],
+  "kept_fraction": 0.251,
+  "size": [
+   929,
+   1182
+  ],
+  "auto_check": "ok",
+  "visual_check": "clean",
+  "visual_note": "checked on black: edges and labels intact"
+ },
+ {
+  "product_handle": "salicylic-acid-2",
+  "source_file": "brand_packs/minimalist/assets/raw/salicylic-acid-2/01.png",
+  "cutout": "brand_packs/minimalist/assets/cutouts/salicylic-acid-2_01.png",
+  "bg": [
+   229,
+   233,
+   234
+  ],
+  "kept_fraction": 0.251,
+  "size": [
+   961,
+   1214
+  ],
+  "auto_check": "ok",
+  "visual_check": "clean",
+  "visual_note": "checked on black: edges and labels intact"
+ },
+ {
+  "product_handle": "alpha-arbutin-2",
+  "source_file": "brand_packs/minimalist/assets/raw/alpha-arbutin-2/01.png",
+  "cutout": "brand_packs/minimalist/assets/cutouts/alpha-arbutin-2_01.png",
+  "bg": [
+   229,
+   233,
+   234
+  ],
+  "kept_fraction": 0.26,
+  "size": [
+   667,
+   1177
+  ],
+  "auto_check": "ok",
+  "visual_check": "clean",
+  "visual_note": "checked on black: edges and labels intact"
+ },
+ {
+  "product_handle": "marula-05-moisturizer",
+  "source_file": "brand_packs/minimalist/assets/raw/marula-05-moisturizer/01.png",
+  "cutout": "brand_packs/minimalist/assets/cutouts/marula-05-moisturizer_01.png",
+  "bg": [
+   235,
+   127,
+   127
+  ],
+  "kept_fraction": 0.308,
+  "size": [
+   535,
+   1357
+  ],
+  "auto_check": "ok",
+  "visual_check": "clean",
+  "visual_note": "re-cut 2026-10-04 (edge-walled, shape-aware); checked on red: body, label and cap intact, no floor shadow",
+  "method": "edge-walled backdrop removal, shape tube (scripts/cutout_edges.py)"
+ },
+ {
+  "product_handle": "niacinamide-5-hyaluronic-acid-1",
+  "source_file": "brand_packs/minimalist/assets/raw/niacinamide-5-hyaluronic-acid-1/01.png",
+  "cutout": "brand_packs/minimalist/assets/cutouts/niacinamide-5-hyaluronic-acid-1_01.png",
+  "bg": [
+   229,
+   233,
+   234
+  ],
+  "kept_fraction": 0.25,
+  "size": [
+   962,
+   1222
+  ],
+  "auto_check": "ok",
+  "visual_check": "clean",
+  "visual_note": "checked on black: edges and labels intact"
+ },
+ {
+  "product_handle": "vitamin-c-e-ferulic-16",
+  "source_file": "brand_packs/minimalist/assets/raw/vitamin-c-e-ferulic-16/01.png",
+  "cutout": "brand_packs/minimalist/assets/cutouts/vitamin-c-e-ferulic-16_01.png",
+  "bg": [
+   229,
+   233,
+   234
+  ],
+  "kept_fraction": 0.254,
+  "size": [
+   670,
+   1164
+  ],
+  "auto_check": "ok",
+  "visual_check": "clean",
+  "visual_note": "checked on black: edges and labels intact"
+ },
+ {
+  "product_handle": "hair-growth-actives-18",
+  "source_file": "brand_packs/minimalist/assets/raw/hair-growth-actives-18/01.jpg",
+  "cutout": "brand_packs/minimalist/assets/cutouts/hair-growth-actives-18_01.png",
+  "bg": [
+   229,
+   233,
+   234
+  ],
+  "kept_fraction": 0.26,
+  "size": [
+   918,
+   1201
+  ],
+  "auto_check": "ok",
+  "visual_check": "clean",
+  "visual_note": "checked on black: edges and labels intact"
+ },
+ {
+  "product_handle": "oat-extract-06-gentle-cleanser",
+  "source_file": "brand_packs/minimalist/assets/raw/oat-extract-06-gentle-cleanser/01.jpg",
+  "cutout": "brand_packs/minimalist/assets/cutouts/oat-extract-06-gentle-cleanser_01.png",
+  "bg": [
+   228,
+   229,
+   231
+  ],
+  "kept_fraction": 0.277,
+  "size": [
+   712,
+   1185
+  ],
+  "auto_check": "ok",
+  "visual_check": "clean",
+  "visual_note": "checked on black: edges and labels intact"
+ },
+ {
+  "product_handle": "retinol-0-3-q10",
+  "source_file": "brand_packs/minimalist/assets/raw/retinol-0-3-q10/01.png",
+  "cutout": "brand_packs/minimalist/assets/cutouts/retinol-0-3-q10_01.png",
+  "bg": [
+   229,
+   233,
+   234
+  ],
+  "kept_fraction": 0.25,
+  "size": [
+   962,
+   1236
+  ],
+  "auto_check": "ok",
+  "visual_check": "clean",
+  "visual_note": "checked on black: edges and labels intact"
+ },
+ {
+  "product_handle": "pha-3-biotic-toner",
+  "source_file": "brand_packs/minimalist/assets/raw/pha-3-biotic-toner/01.jpg",
+  "cutout": "brand_packs/minimalist/assets/cutouts/pha-3-biotic-toner_01.png",
+  "bg": [
+   229,
+   233,
+   234
+  ],
+  "kept_fraction": 0.327,
+  "size": [
+   962,
+   1147
+  ],
+  "auto_check": "ok",
+  "visual_check": "clean",
+  "visual_note": "checked on black: edges and labels intact"
+ },
+ {
+  "product_handle": "light-fluid-spf-50-sunscreen",
+  "source_file": "brand_packs/minimalist/assets/raw/light-fluid-spf-50-sunscreen/01.jpg",
+  "cutout": "brand_packs/minimalist/assets/cutouts/light-fluid-spf-50-sunscreen_01.png",
+  "bg": [
+   235,
+   127,
+   127
+  ],
+  "kept_fraction": 0.235,
+  "size": [
+   434,
+   1191
+  ],
+  "auto_check": "CHECK",
+  "visual_check": "clean",
+  "visual_note": "re-cut 2026-10-04 (edge-walled, shape-aware); checked on red: body, label and cap intact, no floor shadow",
+  "method": "edge-walled backdrop removal, shape tube (scripts/cutout_edges.py)"
+ },
+ {
+  "product_handle": "2-hyaluronic-acid",
+  "source_file": "brand_packs/minimalist/assets/raw/2-hyaluronic-acid/01.png",
+  "cutout": "brand_packs/minimalist/assets/cutouts/2-hyaluronic-acid_01.png",
+  "bg": [
+   229,
+   233,
+   234
+  ],
+  "kept_fraction": 0.26,
+  "size": [
+   933,
+   1268
+  ],
+  "auto_check": "ok",
+  "visual_check": "clean",
+  "visual_note": "checked on black: edges and labels intact"
+ },
+ {
+  "product_handle": "vitamin-k-retinal-01-eye-cream",
+  "source_file": "brand_packs/minimalist/assets/raw/vitamin-k-retinal-01-eye-cream/01.png",
+  "cutout": "brand_packs/minimalist/assets/cutouts/vitamin-k-retinal-01-eye-cream_01.png",
+  "bg": [
+   235,
+   127,
+   127
+  ],
+  "kept_fraction": 0.136,
+  "size": [
+   307,
+   1134
+  ],
+  "auto_check": "ok",
+  "visual_check": "clean",
+  "visual_note": "re-cut 2026-10-04 (edge-walled, shape-aware); checked on red: body, label and cap intact, no floor shadow",
+  "method": "edge-walled backdrop removal, shape tube (scripts/cutout_edges.py)"
+ },
+ {
+  "product_handle": "spf-60-silymarin",
+  "source_file": "brand_packs/minimalist/assets/raw/spf-60-silymarin/01.png",
+  "cutout": "brand_packs/minimalist/assets/cutouts/spf-60-silymarin_01.png",
+  "bg": [
+   235,
+   127,
+   127
+  ],
+  "kept_fraction": 0.296,
+  "size": [
+   535,
+   1331
+  ],
+  "auto_check": "ok",
+  "visual_check": "clean",
+  "visual_note": "re-cut 2026-10-04 (edge-walled, shape-aware); checked on red: body, label and cap intact, no floor shadow",
+  "method": "edge-walled backdrop removal, shape tube (scripts/cutout_edges.py)"
+ },
+ {
+  "product_handle": "glycolic-acid-08-exfoliating-liquid-toner",
+  "source_file": "brand_packs/minimalist/assets/raw/glycolic-acid-08-exfoliating-liquid-toner/01.png",
+  "cutout": "brand_packs/minimalist/assets/cutouts/glycolic-acid-08-exfoliating-liquid-toner_01.png",
+  "bg": [
+   229,
+   233,
+   234
+  ],
+  "kept_fraction": 0.333,
+  "size": [
+   722,
+   1098
+  ],
+  "auto_check": "ok",
+  "visual_check": "clean",
+  "visual_note": "checked on black: edges and labels intact"
+ },
+ {
+  "product_handle": "aha-25-pha-5-bha-2",
+  "source_file": "brand_packs/minimalist/assets/raw/aha-25-pha-5-bha-2/01.png",
+  "cutout": "brand_packs/minimalist/assets/cutouts/aha-25-pha-5-bha-2_01.png",
+  "bg": [
+   229,
+   233,
+   234
+  ],
+  "kept_fraction": 0.247,
+  "size": [
+   890,
+   1195
+  ],
+  "auto_check": "ok",
+  "visual_check": "clean",
+  "visual_note": "checked on black: edges and labels intact"
+ }
+]

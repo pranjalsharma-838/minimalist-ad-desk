@@ -1,0 +1,1461 @@
+[
+  {
+    "id": "1112998357723510",
+    "brand": "Conscious Chemist",
+    "page_id": "484270765443744",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1112998357723510",
+    "started_running": "2026-09-16",
+    "format": "image",
+    "text_lines": [
+      "Conscious Chemist",
+      "Say goodbye to hair fall anxiety!",
+      "Get a complete Anti-Hairfall Routine with:",
+      "• Nourishing Shampoo & Conditioner",
+      "• Hair Growth Serum for stronger locks",
+      "• Rosemary Hair Oil for extra care",
+      "Limited Time Offer: Buy 2, Get 2 FREE!",
+      "Shop Now and start your journey to healthier hair! 🛒",
+      "Get 6 products for the price of 3",
+      "Buy 3, get 3 free.",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1112998357723510.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1112998357723510.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [
+      42,
+      38
+    ],
+    "one_line": "Oversized stacked offer headline with a starburst sticker above four different packs standing on a glass shelf in front of a tiled wall and bathroom taps.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "3298401657013295",
+    "brand": "Foxtale",
+    "page_id": "110186374689636",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=3298401657013295",
+    "started_running": "2026-08-11",
+    "format": "image",
+    "text_lines": [
+      "Foxtale",
+      "Monsoon dullness, tanning, and uneven skin? Upgrade your routine with Foxtale's glow essentials.",
+      "Get ANY 3 products for just ₹999 and build your perfect skincare routine at an unbeatable price.",
+      "Use code RAIN2 before the offer ends.",
+      "Buy Any 3 at ₹999 | Use Code RAIN2",
+      "Get Offer"
+    ],
+    "image_file": "research/competitor_ads/images/3298401657013295.jpg",
+    "image_files": [
+      "research/competitor_ads/images/3298401657013295.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [
+      48,
+      38
+    ],
+    "one_line": "Bold price headline with a coupon-code pill above three packs stacked in a pile on a rain-droplet backdrop, with a small italic tagline on top.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "2412798742586564",
+    "brand": "Foxtale",
+    "page_id": "110186374689636",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=2412798742586564",
+    "started_running": "2026-10-02",
+    "format": "image",
+    "text_lines": [
+      "Foxtale",
+      "Salon-facial glow, every day.",
+      "FOXTALE.IN",
+      "120 Hours of Hydration*",
+      "Get a facial-like glow every day with India’s 1st daily facial brightening moisturizer. Brightens from first use and reduces dark spots & uneven skin tone in 3 days.",
+      "Shop now"
+    ],
+    "image_file": "research/competitor_ads/images/2412798742586564.jpg",
+    "image_files": [
+      "research/competitor_ads/images/2412798742586564.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 31,
+    "secondary_template_ids": [],
+    "one_line": "Tight portrait frame of a woman mid-sentence in a bright room with only a corner logo and no product or text, which reads as a video still rather than a built static layout.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": false
+  },
+  {
+    "id": "1346398654244073",
+    "brand": "Deconstruct",
+    "page_id": "110954974008148",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1346398654244073",
+    "started_running": "2026-09-04",
+    "format": "image",
+    "text_lines": [
+      "Deconstruct Skincare",
+      "Ditch the guesswork. Get Deconstruct's 4 bestsellers in one simple combo to cleanse, hydrate, brighten & protect. Now up to 30% off + a free travel pouch. Sale Ka CEO is live ✨ Shop the combo now",
+      "Deconstruct Combo: Up To 30% Off",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1346398654244073.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1346398654244073.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [
+      38
+    ],
+    "one_line": "Oversized discount headline with a freebies tag and a thin-ruled 'all combos' line above four packs in a row on a grey plinth beside lab glassware.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1038411485571340",
+    "brand": "Deconstruct",
+    "page_id": "110954974008148",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1038411485571340",
+    "started_running": "2026-08-12",
+    "format": "image",
+    "text_lines": [
+      "Deconstruct Skincare",
+      "Pre-paired routines for specific skin concerns. Targeted, not generic.",
+      "Flat 25% off skincare combos. Use code FLAT25 at checkout.",
+      "THEDECONSTRUCT.IN",
+      "Hydrate and Defense Combo",
+      "Explore Deconstruct – science-backed skincare for all skin types. Gentle, effective formulas that support healthy, balanced skin.",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1038411485571340.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1038411485571340.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 38,
+    "secondary_template_ids": [
+      5,
+      48
+    ],
+    "one_line": "Two different packs side by side on a round black podium against a warm spotlit backdrop, dressed with gold curly ribbons and confetti and carrying no text overlay.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "4365417093788256",
+    "brand": "Deconstruct",
+    "page_id": "110954974008148",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=4365417093788256",
+    "started_running": "2026-09-23",
+    "format": "image",
+    "text_lines": [
+      "Deconstruct Skincare",
+      "Non-comedogenic isn't just a buzzword here. 💜",
+      "→ 3% NMF Complex hydrates without adding oil",
+      "→ 0.2% Panthenol soothes and maintains barrier",
+      "→ Lightweight gel absorbs completely",
+      "→ Non-comedogenic — pores stay unclogged",
+      "Deconstruct Oil-Free Moisturizer.",
+      "Made for oily skin. Actually.",
+      "Pore-fect hydration. No clogging.",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/4365417093788256.jpg",
+    "image_files": [
+      "research/competitor_ads/images/4365417093788256.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 15,
+    "secondary_template_ids": [
+      10,
+      7
+    ],
+    "one_line": "Scrapbook-style collage of a close-up skin photo with a 'skin concern' tab, a tube held in fingertips over a tilted paper card with a paperclip, and a stamp-edged headline label on a cream-swirl background.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1585888172980145",
+    "brand": "Deconstruct",
+    "page_id": "110954974008148",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1585888172980145",
+    "started_running": "2026-09-09",
+    "format": "image",
+    "text_lines": [
+      "Deconstruct Skincare",
+      "Ditch the guesswork. Get Deconstruct's 4 bestsellers in one simple combo to cleanse, hydrate, brighten & protect. Now up to 30% off + a free travel pouch. Sale Ka CEO is live ✨ Shop the combo now",
+      "Deconstruct Combo: Up To 30% Off",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1585888172980145.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1585888172980145.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [
+      38,
+      48
+    ],
+    "one_line": "Pixel-art styled sale banner with a 'pay day' header and oversized discount headline over a blue-sky cutout in a black frame, with four packs standing on a dark glossy floor.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "2291206748367354",
+    "brand": "Deconstruct",
+    "page_id": "110954974008148",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=2291206748367354",
+    "started_running": "2026-09-16",
+    "format": "image",
+    "text_lines": [
+      "Deconstruct Skincare",
+      "Flat 25% OFF + surprise freebies? Your skincare routine just got an upgrade. 👀✨",
+      "Stock up on your everyday essentials with a complete routine featuring Vitamin C Serum, Oil-Free Moisturizer, Oil Control Facewash & Gel Sunscreen.",
+      "💛 Flat 25% OFF",
+      "🎁 Surprise freebies",
+      "🧴 Skincare essentials in one routine",
+      "Build your routine and shop the sale now. 🛍️",
+      "Flat 25% OFF + Surprise Freebies",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/2291206748367354.jpg",
+    "image_files": [
+      "research/competitor_ads/images/2291206748367354.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [
+      40,
+      38
+    ],
+    "one_line": "Oversized flat-discount headline with a freebies tag over a blue cloudy sky, with four packs arranged inside an open black suitcase.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "3142590132578065",
+    "brand": "Deconstruct",
+    "page_id": "110954974008148",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=3142590132578065",
+    "started_running": "2026-09-07",
+    "format": "image",
+    "text_lines": [
+      "Deconstruct Skincare",
+      "Control excess oil without the dryness. Powered by 2% Salicylic Acid + 1.5% Niacinamide for deeply cleansed, unclogged pores.",
+      "BLINKIT.COM",
+      "Deconstruct Skincare",
+      "Shop online for groceries and get your order delivered to your doorstep. Enjoy delivery of 30,000+ products with Blinkit",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/3142590132578065.jpg",
+    "image_files": [
+      "research/competitor_ads/images/3142590132578065.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 1,
+    "secondary_template_ids": [
+      21
+    ],
+    "one_line": "Single tube centred on a plain white square with a gel smear and bubbles behind it as a texture swatch and no overlay text.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "3999564906846461",
+    "brand": "Deconstruct",
+    "page_id": "110954974008148",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=3999564906846461",
+    "started_running": "2026-09-01",
+    "format": "image",
+    "text_lines": [
+      "Deconstruct Skincare",
+      "Ditch the guesswork. Get Deconstruct's 4 bestsellers in one simple combo to cleanse, hydrate, brighten & protect. Now up to 30% off + a free travel pouch. Sale Ka CEO is live ✨ Shop the combo now",
+      "Deconstruct Combo: Up To 30% Off",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/3999564906846461.jpg",
+    "image_files": [
+      "research/competitor_ads/images/3999564906846461.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [
+      38,
+      48
+    ],
+    "one_line": "Chrome 'pay day sale' header with floating silver coins above an oversized discount headline and a row of four packs on a white shelf in front of ribbed glass panels.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1413961507592174",
+    "brand": "Deconstruct",
+    "page_id": "110954974008148",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1413961507592174",
+    "started_running": "2026-09-28",
+    "format": "image",
+    "text_lines": [
+      "Deconstruct Skincare",
+      "Minimum 25% Off + Free Gift",
+      "Serum, sunscreen, moisturiser. The three steps that actually change skin. 10% Liposomal Vitamin C, SPF 50 PA++++, 3% NMF Complex"
+    ],
+    "image_file": "research/competitor_ads/images/1413961507592174.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1413961507592174.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [
+      38
+    ],
+    "one_line": "Die-cut sticker-style offer lettering across the top half above three packs standing on a white shelf against a flat pale-blue wall.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1051779923890874",
+    "brand": "Deconstruct",
+    "page_id": "110954974008148",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1051779923890874",
+    "started_running": "2026-08-13",
+    "format": "image",
+    "text_lines": [
+      "EU transparency",
+      "Deconstruct Skincare",
+      "Gel Sunscreen Travel Pack deliered in 10 mins",
+      "BLINKIT.COM",
+      "Deconstruct Skincare",
+      "Shop online for groceries and get your order delivered to your doorstep. Enjoy delivery of 30,000+ products with Blinkit",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1051779923890874.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1051779923890874.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 1,
+    "secondary_template_ids": [
+      21
+    ],
+    "one_line": "Single tube centred on a plain white square with a cream smear behind it as a texture swatch and no overlay text.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "2021491641849953",
+    "brand": "Deconstruct",
+    "page_id": "110954974008148",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=2021491641849953",
+    "started_running": "2026-09-23",
+    "format": "image",
+    "text_lines": [
+      "Deconstruct Skincare",
+      "Moisturization that feels lighter than a feather. Literally. 💜",
+      "Deconstruct Oil-Free Moisturizer:",
+      "💧 3% NMF Complex — non-oily hydration",
+      "🛡️ 0.2% Panthenol — soothes skin barrier",
+      "✨ Lightweight gel — non-sticky, non-comedogenic",
+      "All the moisture. None of the weight.",
+      "Shop Deconstruct Oil-Free Moisturizer.",
+      "Heavy moisturizer on oily skin? Hard pass",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/2021491641849953.jpg",
+    "image_files": [
+      "research/competitor_ads/images/2021491641849953.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 47,
+    "secondary_template_ids": [],
+    "one_line": "Visual-metaphor scene of a chrome balance scale weighing a white feather against the tube, with a highlighted-word headline above and a one-line caption below.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "953410207770910",
+    "brand": "The Derma Co",
+    "page_id": "107783513956553",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=953410207770910",
+    "started_running": "2026-08-27",
+    "format": "image",
+    "text_lines": [
+      "The Derma Co.",
+      "✨ Your skincare routine just got better.",
+      "Get a FREE Face Care Combo when you shop your favorites from The Derma Co. Use code FACECARE at checkout.",
+      "PLAY.GOOGLE.COM",
+      "2% kojic acid cream - 30g",
+      "The Derma Co: Science-Backed, Dermatologist-Designed Skincare, Haircare Products",
+      "Install Now"
+    ],
+    "image_file": "research/competitor_ads/images/953410207770910.jpg",
+    "image_files": [
+      "research/competitor_ads/images/953410207770910.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 1,
+    "secondary_template_ids": [],
+    "one_line": "Carton standing behind a pump bottle on a soft lavender gradient with a glossy floor reflection and no overlay text.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1080631984556046",
+    "brand": "The Derma Co",
+    "page_id": "107783513956553",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1080631984556046",
+    "started_running": "2026-08-27",
+    "format": "image",
+    "text_lines": [
+      "The Derma Co.",
+      "Save more on your skincare haul.",
+      "Enjoy FREE products worth ₹198 with code FACECARE.",
+      "THEDERMACO.COM",
+      "3% aha+bha foaming daily face wash 100ml",
+      "Buy The Derma Co’s Dermatologically Designed Skincare Products worth ₹1499 & get Flat 30% Off. Enjoy an extra 5% discount on prepaid orders. (Code: FLAT30)",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1080631984556046.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1080631984556046.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 7,
+    "secondary_template_ids": [],
+    "one_line": "One hand rising from the bottom edge holding a pump bottle upright against a flat periwinkle backdrop with no overlay text.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "38610251661899533",
+    "brand": "The Derma Co",
+    "page_id": "107783513956553",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=38610251661899533",
+    "started_running": "2026-08-27",
+    "format": "image",
+    "text_lines": [
+      "The Derma Co.",
+      "✨ Your skincare routine just got better.",
+      "Get a FREE Face Care Combo when you shop your favorites from The Derma Co. Use code FACECARE at checkout.",
+      "PLAY.GOOGLE.COM",
+      "0.1% retinol serum - 30ml",
+      "The Derma Co: Science-Backed, Dermatologist-Designed Skincare, Haircare Products",
+      "Install Now"
+    ],
+    "image_file": "research/competitor_ads/images/38610251661899533.jpg",
+    "image_files": [
+      "research/competitor_ads/images/38610251661899533.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 1,
+    "secondary_template_ids": [],
+    "one_line": "Carton standing behind a pump bottle on a soft lavender gradient with a glossy floor reflection and no overlay text.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1387490716125146",
+    "brand": "The Derma Co",
+    "page_id": "107783513956553",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1387490716125146",
+    "started_running": "2026-08-27",
+    "format": "image",
+    "text_lines": [
+      "The Derma Co.",
+      "Hey!👋 Your cart of goodies just got raised to a sweet deal! FLAT 20% OFF + 10% Cashback + 5% Prepaid OFF. Code: REDEEM35",
+      "THEDERMACO.COM",
+      "0.3% retinol serum - 30ml",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1387490716125146.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1387490716125146.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 1,
+    "secondary_template_ids": [],
+    "one_line": "Carton standing behind a pump bottle on a soft lavender gradient with a glossy floor reflection and no overlay text.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1401645621925864",
+    "brand": "The Derma Co",
+    "page_id": "107783513956553",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1401645621925864",
+    "started_running": "2026-08-27",
+    "format": "image",
+    "text_lines": [
+      "The Derma Co.",
+      "Hey!👋 Your cart of goodies just got raised to a sweet deal! FLAT 20% OFF + 10% Cashback + 5% Prepaid OFF. Code: REDEEM35",
+      "THEDERMACO.COM",
+      "2% alpha arbutin face serum - 30ml",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1401645621925864.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1401645621925864.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 1,
+    "secondary_template_ids": [],
+    "one_line": "Carton standing behind a dropper bottle on a soft lavender gradient with a glossy floor reflection and no overlay text.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1066280599228544",
+    "brand": "The Derma Co",
+    "page_id": "107783513956553",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1066280599228544",
+    "started_running": "2026-08-27",
+    "format": "image",
+    "text_lines": [
+      "The Derma Co.",
+      "Save more on your skincare haul.",
+      "Enjoy FREE products worth ₹198 with code FACECARE.",
+      "THEDERMACO.COM",
+      "0.3% retinol serum - 30ml",
+      "Buy The Derma Co’s Dermatologically Designed Skincare Products worth ₹1499 & get Flat 30% Off. Enjoy an extra 5% discount on prepaid orders. (Code: FLAT30)",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1066280599228544.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1066280599228544.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 1,
+    "secondary_template_ids": [],
+    "one_line": "Carton standing behind a pump bottle on a soft lavender gradient with a glossy floor reflection and no overlay text.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "2585628381951932",
+    "brand": "The Derma Co",
+    "page_id": "107783513956553",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=2585628381951932",
+    "started_running": "2026-08-27",
+    "format": "image",
+    "text_lines": [
+      "The Derma Co.",
+      "B2G2 is LIVE! 🎉 Pick your favourites from our selected skincare range & get 2 FREE. Stock up on your skin essentials! ✨",
+      "THEDERMACO.COM",
+      "Buy 2, Get 2 FREE! 🎉",
+      "Buy The Derma Co Dermatologically Designed Skincare Products worth ₹1499 & get Flat 30% Off. Enjoy an extra 5% discount on prepaid orders. Code: FLAT30",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/2585628381951932.jpg",
+    "image_files": [
+      "research/competitor_ads/images/2585628381951932.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 2,
+    "secondary_template_ids": [],
+    "one_line": "Single tube centred on white with three hand-drawn curved arrows pointing out to short green benefit callouts at left, top right and right, plus a faint mirrored reflection.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1644230463794398",
+    "brand": "The Derma Co",
+    "page_id": "107783513956553",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1644230463794398",
+    "started_running": "2026-08-27",
+    "format": "image",
+    "text_lines": [
+      "The Derma Co.",
+      "Save more on your skincare haul.",
+      "Enjoy FREE products worth ₹198 with code FACECARE.",
+      "THEDERMACO.COM",
+      "2% Kojic Acid Cream - 30g",
+      "Buy The Derma Co’s Dermatologically Designed Skincare Products worth ₹1499 & get Flat 30% Off. Enjoy an extra 5% discount on prepaid orders. (Code: FLAT30)",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1644230463794398.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1644230463794398.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 1,
+    "secondary_template_ids": [],
+    "one_line": "Carton standing behind a pump bottle on a soft lavender gradient with a glossy floor reflection and no overlay text.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "931759333309878",
+    "brand": "The Derma Co",
+    "page_id": "107783513956553",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=931759333309878",
+    "started_running": "2026-08-27",
+    "format": "image",
+    "text_lines": [
+      "The Derma Co.",
+      "Hey!👋 Your cart of goodies just got raised to a sweet deal! FLAT 20% OFF + 10% Cashback + 5% Prepaid OFF. Code: REDEEM35",
+      "THEDERMACO.COM",
+      "0.3% retinol serum - 30ml",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/931759333309878.jpg",
+    "image_files": [
+      "research/competitor_ads/images/931759333309878.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 1,
+    "secondary_template_ids": [],
+    "one_line": "Carton standing behind a pump bottle on a soft lavender gradient with a glossy floor reflection and no overlay text.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1686510039132864",
+    "brand": "Dot & Key",
+    "page_id": "1806087489455976",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1686510039132864",
+    "started_running": "2026-08-07",
+    "format": "image",
+    "text_lines": [
+      "Dot & Key",
+      "Skincare that feels good! Try Dot & Key",
+      "✔ Fruits made clinically effective",
+      "✔ Results driven",
+      "✔ Cruelty-free",
+      "✔ No nasty chemicals",
+      "FLIPKART.COM",
+      "Dot & Key",
+      "Flipkart.com: Buy Dot & Key Sunscreen - SPF 50 PA++++ Strawberry Dew Tinted, In-Vivo Tested, Porcelain, for Daily Wear, Brightens Skin for Rs. 549 from Flipkart.com. •Daily wear tinted sunscreen, •Even, radiant skin instantly, •Broad spectrum protection, •Corrects dark spots overtime, •Ava...",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1686510039132864.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1686510039132864.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 2,
+    "secondary_template_ids": [
+      3
+    ],
+    "one_line": "Tube centred on white with a cracked-nut ingredient prop at its base and a tall tan side banner carrying one rotated benefit phrase and the pack size.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1791672931858222",
+    "brand": "Dot & Key",
+    "page_id": "1806087489455976",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1791672931858222",
+    "started_running": "2026-08-24",
+    "format": "image",
+    "text_lines": [
+      "Dot & Key",
+      "Pick your SPF:",
+      "☀️Vitamin C for glow",
+      "☀️Tinted for instant radiance",
+      "☀️Watermelon for cooling",
+      "☀️Ceramide for hydration",
+      "ZEPTO.COM",
+      "Dot & Key",
+      "Zepto is your next-door quick commerce app, delivering online groceries, fruits, vegetables, personal care, electronics & much more to you in just minutes.",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1791672931858222.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1791672931858222.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 2,
+    "secondary_template_ids": [
+      3
+    ],
+    "one_line": "Pack centred on white with a cut-fruit prop at its base, an orange stamp-style badge at top left, and a bold two-line benefit statement with a thin underline at right.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1728067308529188",
+    "brand": "Dot & Key",
+    "page_id": "1806087489455976",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1728067308529188",
+    "started_running": "2026-08-07",
+    "format": "image",
+    "text_lines": [
+      "Dot & Key",
+      "Pick your SPF:",
+      "☀️Vitamin C for glow",
+      "☀️Tinted for instant radiance",
+      "☀️Watermelon for cooling",
+      "☀️Ceramide for hydration",
+      "FLIPKART.COM",
+      "Dot & Key",
+      "Flipkart.com: Buy Dot & Key Sunscreen - SPF 50 PA++++ Strawberry Dew Tinted, In-Vivo Tested, Porcelain, for Daily Wear, Brightens Skin for Rs. 549 from Flipkart.com. •Daily wear tinted sunscreen, •Even, radiant skin instantly, •Broad spectrum protection, •Corrects dark spots overtime, •Ava...",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1728067308529188.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1728067308529188.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 2,
+    "secondary_template_ids": [
+      3
+    ],
+    "one_line": "Pack centred on white with a fruit wedge at its base, a pill-shaped starburst badge at top left, and a bold two-line benefit statement with a thin underline at right.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1052585330967773",
+    "brand": "Dot & Key",
+    "page_id": "1806087489455976",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1052585330967773",
+    "started_running": "2026-08-12",
+    "format": "image",
+    "text_lines": [
+      "Dot & Key",
+      "Oily skin all day? Cica crew to the rescue!",
+      "Meet the duo – Cica Facewash & Cica Oil-Free Moisturizer 🍀",
+      "✨ Cica (Centella) + Salicylic Calming Facewash",
+      "💚 Deeply cleanses excess oil & dirt",
+      "💚Keeps skin calm",
+      "💚 Non-drying & sulphate-free",
+      "✨ Cica (Centella) + Niacinamide Oil-Free Moisturizer",
+      "💚 Controls excess oil",
+      "💚 Oil-free hydration that lasts",
+      "💚 Fades dark spots & soothes skin",
+      "Say hello to calm, clear & oil-free skin! 🌿",
+      "Why Dot & Key?",
+      "✅ Dermatologically Tested"
+    ],
+    "image_file": "research/competitor_ads/images/1052585330967773.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1052585330967773.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 5,
+    "secondary_template_ids": [
+      38
+    ],
+    "one_line": "Two coordinated packs staged on a white ledge with a leaf-in-pot prop against a diagonal pink-to-lime colour split, under a big two-line script and block-letter headline at upper left.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1063699049628531",
+    "brand": "Dr. Sheth's",
+    "page_id": "1532336456993990",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1063699049628531",
+    "started_running": "2026-09-04",
+    "format": "image",
+    "text_lines": [
+      "Dr Sheths",
+      "You've been browsing the same cart for a week. The app has a 35% opinion on that 👀",
+      "Download the Dr. Sheth's app and unlock flat 35% OFF sitewide. Use CODE: APP35",
+      "✔️ Flat 35% off, only on the app",
+      "✔️ Extra 5% off when you pay online",
+      "✔️ Early access to launches and restocks",
+      "✔️ Track your order, reorder in two taps",
+      "Why Dr. Sheth's? 🥼",
+      "✔️ 3 generations of dermat expertise",
+      "✔️ Formulated for Indian skin",
+      "✔️ Efficacy uncompromised",
+      "Flat 35% OFF. App Only.",
+      "Use Code: APP35",
+      "Install Now"
+    ],
+    "image_file": "research/competitor_ads/images/1063699049628531.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1063699049628531.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [],
+    "one_line": "Bold app-download headline with perk bullets at the top, a discount-and-code tag at lower left, and a hand holding a phone that shows the shop's product grid filling the right half.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "3559165394258032",
+    "brand": "Dr. Sheth's",
+    "page_id": "1532336456993990",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=3559165394258032",
+    "started_running": "2026-09-02",
+    "format": "image",
+    "text_lines": [
+      "Dr Sheths",
+      "Buy 2 at 699. 🎉",
+      "Stock up on dermatologist-formulated skincare and get your lowest-priced product FREE. From sunscreens to serums and moisturizers—build your routine for less. Use code Buy 2. Limited time only.",
+      "⏳ Limited-time offer. Shop now!",
+      "Buy 2 at 699 - shop before the offers end! 🎁",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/3559165394258032.jpg",
+    "image_files": [
+      "research/competitor_ads/images/3559165394258032.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [
+      38,
+      2
+    ],
+    "one_line": "Offer block of headline, struck-through price pill, code line and shop button above two tubes staged on a pale yellow plinth, with a rotated tested-seal beside the tilted tube.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1718878085892428",
+    "brand": "Dr. Sheth's",
+    "page_id": "1532336456993990",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1718878085892428",
+    "started_running": "2026-08-20",
+    "format": "image",
+    "text_lines": [
+      "Dr Sheths",
+      "🌙 Wake up to skin that glows. Powered by 1% Collagen, 1% Vitamin C Complex & Polyglutamic Acid, this Overnight Moisture Wrapping Mask deeply hydrates for plump, radiant-looking skin by morning.",
+      "Peel. Glow. Repeat.",
+      "Extra 5% OFF on prepaid 🛒",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1718878085892428.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1718878085892428.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 1,
+    "secondary_template_ids": [],
+    "one_line": "Single tube centred on a glossy pink base against a soft satin backdrop with a faint clock-dial ring behind it, a headline and ingredient subline stacked above and the logo at top right.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "2879694605722470",
+    "brand": "Dr. Sheth's",
+    "page_id": "1532336456993990",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=2879694605722470",
+    "started_running": "2026-09-22",
+    "format": "image",
+    "text_lines": [
+      "Dr Sheths",
+      "Buy 2 at 699. 🎉",
+      "Stock up on dermatologist-formulated skincare and get your lowest-priced product FREE. From sunscreens to serums and moisturizers—build your routine for less. Use code Buy 2. Limited time only.",
+      "⏳ Limited-time offer. Shop now!",
+      "Buy 2 at 699 - shop before the offers end! 🎁",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/2879694605722470.jpg",
+    "image_files": [
+      "research/competitor_ads/images/2879694605722470.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [
+      38
+    ],
+    "one_line": "Offer block of headline, struck-through price, code line and shop button above two identical tubes standing on a pale ledge in hard diagonal window-light shadows, with a small label chip at left.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1344061094202970",
+    "brand": "Dr. Sheth's",
+    "page_id": "1532336456993990",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1344061094202970",
+    "started_running": "2026-09-04",
+    "format": "image",
+    "text_lines": [
+      "Dr Sheths",
+      "You've been browsing the same cart for a week. The app has a 35% opinion on that 👀",
+      "Download the Dr. Sheth's app and unlock flat 35% OFF sitewide. Use CODE: APP35",
+      "✔️ Flat 35% off, only on the app",
+      "✔️ Extra 5% off when you pay online",
+      "✔️ Early access to launches and restocks",
+      "✔️ Track your order, reorder in two taps",
+      "Why Dr. Sheth's? 🥼",
+      "✔️ 3 generations of dermat expertise",
+      "✔️ Formulated for Indian skin",
+      "✔️ Efficacy uncompromised",
+      "Flat 35% OFF. App Only.",
+      "Use Code: APP35",
+      "Install Now"
+    ],
+    "image_file": "research/competitor_ads/images/1344061094202970.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1344061094202970.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [],
+    "one_line": "App-download headline, perk bullets, discount tag and store badge stacked at left over a lifestyle crop of hands holding a phone with the shop's product grid above a denim-clad lap.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "28393502023577410",
+    "brand": "Dr. Sheth's",
+    "page_id": "1532336456993990",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=28393502023577410",
+    "started_running": "2026-09-04",
+    "format": "image",
+    "text_lines": [
+      "Dr Sheths",
+      "You've been browsing the same cart for a week. The app has a 35% opinion on that 👀",
+      "Download the Dr. Sheth's app and unlock flat 35% OFF sitewide. Use CODE: APP35",
+      "✔️ Flat 35% off, only on the app",
+      "✔️ Extra 5% off when you pay online",
+      "✔️ Early access to launches and restocks",
+      "✔️ Track your order, reorder in two taps",
+      "Why Dr. Sheth's? 🥼",
+      "✔️ 3 generations of dermat expertise",
+      "✔️ Formulated for Indian skin",
+      "✔️ Efficacy uncompromised",
+      "Flat 35% OFF. App Only.",
+      "Use Code: APP35",
+      "Install Now"
+    ],
+    "image_file": "research/competitor_ads/images/28393502023577410.jpg",
+    "image_files": [
+      "research/competitor_ads/images/28393502023577410.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [],
+    "one_line": "App-download headline, perk bullets, discount tag and store badge stacked at left beside an oversized, edge-cropped phone whose home screen shows the brand's app icon.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1401994495465220",
+    "brand": "Plum",
+    "page_id": "511641355600533",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1401994495465220",
+    "started_running": "2026-10-01",
+    "format": "image",
+    "text_lines": [
+      "Plum",
+      "A step-by-step approach to dandruff care:",
+      "gently exfoliating buildup with 0.5% Salicylic Acid, remineralizing the scalp with Volcanic Minerals, targeting dandruff-causing microbes with Piroctone Olamine, and supporting a healthy scalp barrier with Prebiotics.",
+      "Plum Anti-Dandruff Shampoo is clinically proven to deliver up to 72-hour flake-free calmness.",
+      "BLINKIT.COM",
+      "Plum",
+      "Shop online for groceries and get your order delivered to your doorstep. Enjoy delivery of 30,000+ products with Blinkit",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1401994495465220.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1401994495465220.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 1,
+    "secondary_template_ids": [],
+    "one_line": "One pump bottle with water droplets centred on a flat saturated orange backdrop with a glossy floor reflection and no text overlay.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1801892730993739",
+    "brand": "Plum",
+    "page_id": "511641355600533",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1801892730993739",
+    "started_running": "2026-10-01",
+    "format": "image",
+    "text_lines": [
+      "Plum",
+      "A step-by-step approach to dandruff care:",
+      "gently exfoliating buildup with 0.5% Salicylic Acid, remineralizing the scalp with Volcanic Minerals, targeting dandruff-causing microbes with Piroctone Olamine, and supporting a healthy scalp barrier with Prebiotics.",
+      "Plum Anti-Dandruff Shampoo is clinically proven to deliver up to 72-hour flake-free calmness.",
+      "BLINKIT.COM",
+      "Plum",
+      "Shop online for groceries and get your order delivered to your doorstep. Enjoy delivery of 30,000+ products with Blinkit",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1801892730993739.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1801892730993739.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 1,
+    "secondary_template_ids": [],
+    "one_line": "One pump bottle with water droplets centred on a flat saturated orange backdrop with a glossy floor reflection and no text overlay.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1785027909215807",
+    "brand": "Plum",
+    "page_id": "511641355600533",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1785027909215807",
+    "started_running": "2026-09-30",
+    "format": "image",
+    "text_lines": [
+      "Plum",
+      "Crafted with hydrating Rice Water and 99.99% pure-grade niacinamide to control oil, this gel-cream delivers deep moisture without the weight.",
+      "Twice as hydrating. Still light as air.",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1785027909215807.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1785027909215807.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 5,
+    "secondary_template_ids": [],
+    "one_line": "Logo and a big two-line lowercase headline over a deep blue set where a pyramid of jars sits in splashing water, with a small descriptor strip flush against the left edge.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "2605626533204905",
+    "brand": "Plum",
+    "page_id": "511641355600533",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=2605626533204905",
+    "started_running": "2026-09-28",
+    "format": "image",
+    "text_lines": [
+      "Plum",
+      "💸Shop Plum at EVERYDAY BEST PRICE only on plumgoodness.com & Plum app",
+      "💜 Earn PlumCash on every order",
+      "⏳ Hurry, don’t let your cart miss this party 🎊",
+      "Love,",
+      "Plum People 💜",
+      "Shop best prices only on plumgoodness.com",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/2605626533204905.jpg",
+    "image_files": [
+      "research/competitor_ads/images/2605626533204905.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [
+      38,
+      2
+    ],
+    "one_line": "Dark navy set with floating gift and card shapes, a short headline and a free-gift badge above three products grouped around a central offer sign, closed by a purple strip of five trust icons.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "2130523984569698",
+    "brand": "Re'equil",
+    "page_id": "1914679578768869",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=2130523984569698",
+    "started_running": "2026-09-16",
+    "format": "image",
+    "text_lines": [
+      "Re'equil",
+      "➡️ Products formulated by scientists and evaluated by dermatologists.",
+      "⭐ Rated 4+ stars by 87% customers.",
+      "🌍 Ingredients sources from 16+ countries for highest efficacy.",
+      "📈 Served more than 1 million customers.",
+      "REEQUIL.COM",
+      "Ceramide & Hyaluronic Acid Moisturiser",
+      "Re’equil Anniversary Sale with free gifts worth up to ₹699 on skincare essentials.",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/2130523984569698.jpg",
+    "image_files": [
+      "research/competitor_ads/images/2130523984569698.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 1,
+    "secondary_template_ids": [
+      28
+    ],
+    "one_line": "Single tube centred on a plain light-grey backdrop with a dark gradient ribbon label across the upper left and no other text.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1128957876743266",
+    "brand": "Re'equil",
+    "page_id": "1914679578768869",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1128957876743266",
+    "started_running": "2026-09-25",
+    "format": "image",
+    "text_lines": [
+      "Re'equil",
+      "🎉 Payday Deals are here!",
+      "Get UP TO 15% OFF + FREE GIFTS worth up to ₹729 on every order.",
+      "Shop now and grab your Payday offer! 🛍️",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1128957876743266.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1128957876743266.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [
+      34
+    ],
+    "one_line": "Three stacked coupon-ticket tiers fanning out of an envelope on a flat navy field, with a limited-time seal, an event logo lock-up and small pack and illustrated-character stickers around the edges.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1079448151618280",
+    "brand": "Re'equil",
+    "page_id": "1914679578768869",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1079448151618280",
+    "started_running": "2026-09-25",
+    "format": "image",
+    "text_lines": [
+      "Re'equil",
+      "🎉 Payday Deals are here!",
+      "Get UP TO 15% OFF + FREE GIFTS worth up to ₹729 on every order.",
+      "Shop now and grab your Payday offer! 🛍️",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1079448151618280.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1079448151618280.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [
+      34
+    ],
+    "one_line": "Three stacked coupon-ticket tiers fanning out of an envelope on a white field, with an event logo lock-up, a footnote and small pack and illustrated-character stickers around the edges.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1612128897222308",
+    "brand": "Re'equil",
+    "page_id": "1914679578768869",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1612128897222308",
+    "started_running": "2026-09-16",
+    "format": "image",
+    "text_lines": [
+      "Re'equil",
+      "Super Saving Week",
+      "Upto 33% OFF",
+      "on all bundles",
+      "+FREE Travel Pouch",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1612128897222308.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1612128897222308.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [
+      38
+    ],
+    "one_line": "Offer headline and subline with a scalloped event badge at top right, above a row of five different packs lined up along the bottom on white.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1062276283260494",
+    "brand": "Re'equil",
+    "page_id": "1914679578768869",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1062276283260494",
+    "started_running": "2026-09-16",
+    "format": "image",
+    "text_lines": [
+      "Re'equil",
+      "Re’equil Super Savings Week is LIVE NOW",
+      "Flat 15% OFF on all bundles + Free Sunscreen",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1062276283260494.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1062276283260494.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [
+      34
+    ],
+    "one_line": "Giant white all-caps headline crossed by diagonal repeating tape strips on a blue sky gradient, with the discount lines in navy below and no product.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1074025215538273",
+    "brand": "Re'equil",
+    "page_id": "1914679578768869",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1074025215538273",
+    "started_running": "2026-10-01",
+    "format": "image",
+    "text_lines": [
+      "Re'equil",
+      "Oily Skin Must-Have Bundle",
+      "3-Step routine that actually works",
+      "Cleanses & controls excess oil",
+      "Provides lightweight, oil-free hydration",
+      "Protects with a weightless sunscreen",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1074025215538273.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1074025215538273.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [
+      38,
+      2
+    ],
+    "one_line": "Bundle title and a wide banner above three packs lined up on navy, with a starburst on the smallest pack and a one-word role caption under each.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1523894492929181",
+    "brand": "Re'equil",
+    "page_id": "1914679578768869",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1523894492929181",
+    "started_running": "2026-10-01",
+    "format": "image",
+    "text_lines": [
+      "Re'equil",
+      "➡️ Products formulated by scientists and evaluated by dermatologists.",
+      "⭐ Rated 4+ stars by 87% customers.",
+      "🌍 Ingredients sources from 16+ countries for highest efficacy.",
+      "📈 Served more than 1 million customers.",
+      "REEQUIL.COM",
+      "The Retinol Starter Bundle",
+      "Re’equil Anniversary Sale with free gifts worth up to ₹699 on skincare essentials.",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1523894492929181.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1523894492929181.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 38,
+    "secondary_template_ids": [
+      28
+    ],
+    "one_line": "Three different packs of varied height lined up on plain white with a ribbon label at the top left and no other text.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1753626335689772",
+    "brand": "Re'equil",
+    "page_id": "1914679578768869",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1753626335689772",
+    "started_running": "2026-09-29",
+    "format": "image",
+    "text_lines": [
+      "Re'equil",
+      "Acne Care Essentials -",
+      "Calming & Purifying Gentle Cleanser Mini",
+      "Oil Free Moisturiser",
+      "Oxybenzone & OMC Free Sunscreen",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1753626335689772.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1753626335689772.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [
+      38,
+      2
+    ],
+    "one_line": "Bundle title and a wide banner above three packs on a deep-blue set, with a zero-price sticker showing a struck-through MRP on the smallest pack and a role caption under each.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1414652177442475",
+    "brand": "Re'equil",
+    "page_id": "1914679578768869",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1414652177442475",
+    "started_running": "2026-09-29",
+    "format": "image",
+    "text_lines": [
+      "Re'equil",
+      "Acne Care Essentials -",
+      "Calming & Purifying Gentle Cleanser Mini",
+      "Oil Free Moisturiser",
+      "Oxybenzone & OMC Free Sunscreen",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1414652177442475.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1414652177442475.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [
+      38,
+      2
+    ],
+    "one_line": "Bundle title and a wide banner above three packs on a white set, with a zero-price sticker showing a struck-through MRP on the smallest pack and a role caption under each.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1120733447309827",
+    "brand": "Re'equil",
+    "page_id": "1914679578768869",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1120733447309827",
+    "started_running": "2026-09-29",
+    "format": "image",
+    "text_lines": [
+      "Re'equil",
+      "Your #1 bestseller is now on offer!",
+      "Get Re’equil Ceramide & Hyaluronic Acid Moisturiser for intense hydration and moisturisation.",
+      "BUY 2 @ ₹499",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1120733447309827.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1120733447309827.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [
+      2,
+      28
+    ],
+    "one_line": "Product-name kicker and a giant price-offer headline above two identical tubes on a teal gradient, with a scalloped bestseller burst and three leader-line callouts on the right.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "3759764100846028",
+    "brand": "Re'equil",
+    "page_id": "1914679578768869",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=3759764100846028",
+    "started_running": "2026-09-29",
+    "format": "image",
+    "text_lines": [
+      "Re'equil",
+      "Your #1 bestseller is now on offer!",
+      "Get Re’equil Ceramide & Hyaluronic Acid Moisturiser for intense hydration and moisturisation.",
+      "BUY 2 @ ₹499",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/3759764100846028.jpg",
+    "image_files": [
+      "research/competitor_ads/images/3759764100846028.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [
+      2,
+      28
+    ],
+    "one_line": "Product-name kicker and a giant price-offer headline above two identical tubes on a teal gradient, with a scalloped bestseller burst and three leader-line callouts on the right.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1160155059723607",
+    "brand": "Re'equil",
+    "page_id": "1914679578768869",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1160155059723607",
+    "started_running": "2026-09-29",
+    "format": "image",
+    "text_lines": [
+      "Re'equil",
+      "Acne Care Essentials -",
+      "Calming & Purifying Gentle Cleanser Mini",
+      "Oil Free Moisturiser",
+      "Oxybenzone & OMC Free Sunscreen",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1160155059723607.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1160155059723607.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [
+      38,
+      2
+    ],
+    "one_line": "Wide banner above a triangular grouping of three packs on pale grey, with a role label above each, a tag on the smallest pack and a limited-time footnote.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  },
+  {
+    "id": "1080198611639843",
+    "brand": "Re'equil",
+    "page_id": "1914679578768869",
+    "ad_library_url": "https://www.facebook.com/ads/library/?id=1080198611639843",
+    "started_running": "2026-09-16",
+    "format": "image",
+    "text_lines": [
+      "Re'equil",
+      "Re’equil turns 8",
+      "Anniversary Sale is live",
+      "Flat 25% Off + 2 FREE Gifts Worth ₹399 🎁",
+      "Shop Now"
+    ],
+    "image_file": "research/competitor_ads/images/1080198611639843.jpg",
+    "image_files": [
+      "research/competitor_ads/images/1080198611639843.jpg"
+    ],
+    "captured": "2026-10-04",
+    "source": "scripts/adlib_weekly.js",
+    "template_id": 36,
+    "secondary_template_ids": [
+      38,
+      2
+    ],
+    "one_line": "Anniversary-style logo lock-up and ribbon above a big offer headline and bundle name, with three packs staggered on pale white and leader-line callouts pointing at each.",
+    "tagged_by": "stand-in: Claude Code subagent, prompts/trend_tagger.md (no API key on this machine)",
+    "is_static_skincare_ad": true
+  }
+]

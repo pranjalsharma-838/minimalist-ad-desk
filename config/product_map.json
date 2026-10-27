@@ -1,0 +1,13 @@
+{
+  "brand": "Minimalist",
+  "note": "Brand pack: which own product answers which skin concern in a competitor ad. Swap this file (and the catalog snapshot + brand rules) to run the pipeline for another brand. First match wins; order matters.",
+  "routes": [
+    { "concern": "sun protection", "keywords": ["spf", "sunscreen", "uv", "sun protection", "pa\\+\\+\\+\\+", "tan"], "product_url": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen" },
+    { "concern": "acne / oil / pores", "keywords": ["acne", "breakout", "pimple", "salicylic", "bha", "blackhead", "oil control", "oily", "pores?"], "product_url": "https://beminimalist.co/products/salicylic-acid-2" },
+    { "concern": "dark spots / pigmentation", "keywords": ["dark spot", "pigment", "arbutin", "tranexamic", "kojic", "uneven tone", "marks"], "product_url": "https://beminimalist.co/products/alpha-arbutin-2" },
+    { "concern": "dullness / vitamin C", "keywords": ["vitamin c", "glow", "radiance", "dull", "bright"], "product_url": "https://beminimalist.co/products/vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1" },
+    { "concern": "ageing / retinoids", "keywords": ["retin", "wrinkle", "fine line", "anti-?aging", "anti-?ageing", "firm", "collagen", "peptide"], "product_url": "https://beminimalist.co/products/retinol-0-3-q10" },
+    { "concern": "barrier / hydration", "keywords": ["barrier", "ceramide", "hydrat", "moistur", "dry skin", "hyaluronic"], "product_url": "https://beminimalist.co/products/ceramides-0-3-madecassoside" },
+    { "concern": "default: niacinamide", "keywords": [".*"], "product_url": "https://beminimalist.co/products/niacinamide-10-with-matmarine" }
+  ]
+}

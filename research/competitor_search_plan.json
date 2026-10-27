@@ -1,0 +1,26 @@
+{
+  "method": "User's method (2026-10-03): for each of Minimalist's top-20 sellers, search Amazon.in for the generic product type (not the brand), sort by best sellers, take the first 5 non-sponsored, non-Minimalist products. The brands among them are the competition. Then scrape those brands' websites for the matching products.",
+  "sort": "Amazon.in search sort: 'Best Sellers' (s=exact-aware-popularity-rank). If the sort option isn't offered, use the default sort and say so.",
+  "searches": [
+    { "rank": 1, "minimalist": "Salicylic Acid + LHA 2% Cleanser", "query": "salicylic acid face wash" },
+    { "rank": 2, "minimalist": "SPF 50 Sunscreen", "query": "sunscreen spf 50 for face" },
+    { "rank": 3, "minimalist": "Vitamin B5 10% Moisturizer", "query": "face moisturizer for oily skin" },
+    { "rank": 4, "minimalist": "Niacinamide 10% Face Serum", "query": "niacinamide 10% serum" },
+    { "rank": 5, "minimalist": "Vitamin C 10% Face Serum", "query": "vitamin c face serum" },
+    { "rank": 6, "minimalist": "Salicylic Acid 2% Face Serum", "query": "salicylic acid 2% serum" },
+    { "rank": 7, "minimalist": "Alpha Arbutin 2% Face Serum", "query": "alpha arbutin serum" },
+    { "rank": 8, "minimalist": "Marula Oil 5% Face Moisturizer", "query": "moisturizer for dry skin face" },
+    { "rank": 9, "minimalist": "Niacinamide 5% Face Serum", "query": "niacinamide 5% serum" },
+    { "rank": 10, "minimalist": "Vitamin C + E + Ferulic 16% Face Serum", "query": "vitamin c e ferulic serum" },
+    { "rank": 11, "minimalist": "Hair Growth Actives 18% Hair Serum", "query": "hair growth serum" },
+    { "rank": 12, "minimalist": "B12 + Oat Extract 6.5% Gentle Cleanser", "query": "gentle face wash for dry sensitive skin" },
+    { "rank": 13, "minimalist": "Retinol 0.3% Face Serum", "query": "retinol serum" },
+    { "rank": 14, "minimalist": "Polyhydroxy Acid (PHA) 3% Face Toner", "query": "pha toner" },
+    { "rank": 15, "minimalist": "Light Fluid SPF 50 Sunscreen", "query": "lightweight gel sunscreen spf 50" },
+    { "rank": 16, "minimalist": "Hyaluronic + PGA 2% Face Serum", "query": "hyaluronic acid serum" },
+    { "rank": 17, "minimalist": "Vitamin K + Retinal 1% Eye Cream", "query": "under eye cream for dark circles" },
+    { "rank": 18, "minimalist": "SPF 60 Sunscreen", "query": "sunscreen spf 60" },
+    { "rank": 19, "minimalist": "Glycolic Acid 8% Exfoliating Liquid", "query": "glycolic acid toner" },
+    { "rank": 20, "minimalist": "AHA PHA BHA 32% Face Peel", "query": "aha bha peeling solution" }
+  ]
+}

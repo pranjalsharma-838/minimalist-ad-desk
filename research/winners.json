@@ -1,0 +1,1091 @@
+{
+  "built": "2026-10-03",
+  "definition": "winner = active and running 30+ days (Meta Ad Library, India)",
+  "ads_classified": 74,
+  "ads_total": 74,
+  "ads": [
+    {
+      "id": "921995183584607",
+      "brand": "Chemist at Play",
+      "days_running": 302,
+      "winner": true,
+      "template_id": 36,
+      "template_name": "Offer creative",
+      "secondary_template_ids": [
+        7,
+        38
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "Giant sticker-style 'Buy any 3 @799' lockup with code and one CTA button beside a model holding three SKUs.",
+      "image_file": "research/competitor_ads/images/921995183584607.jpg"
+    },
+    {
+      "id": "1393861285783656",
+      "brand": "Chemist at Play",
+      "days_running": 303,
+      "winner": true,
+      "template_id": 36,
+      "template_name": "Offer creative",
+      "secondary_template_ids": [
+        38
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "Same 'Buy any 3 @799' sticker lockup over a three-SKU studio shot on colour blocks; offer is the whole message.",
+      "image_file": "research/competitor_ads/images/1393861285783656.jpg"
+    },
+    {
+      "id": "2196301691128293",
+      "brand": "Chemist at Play",
+      "days_running": 112,
+      "winner": true,
+      "template_id": 2,
+      "template_name": "Product + benefit badges",
+      "secondary_template_ids": [
+        5
+      ],
+      "reproducible_honestly": "yes",
+      "one_line": "One bold credential headline, three tick-mark benefit bullets, and a large stacked pack shot on saturated colour.",
+      "image_file": "research/competitor_ads/images/2196301691128293.jpg"
+    },
+    {
+      "id": "27546140265006255",
+      "brand": "Chemist at Play",
+      "days_running": 74,
+      "winner": true,
+      "template_id": 12,
+      "template_name": "Before / after",
+      "secondary_template_ids": [
+        25,
+        24
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Stacked labelled Before/After skin crops beside the pack, with a timed-result headline and clinical footnote.",
+      "image_file": "research/competitor_ads/images/27546140265006255.jpg"
+    },
+    {
+      "id": "903477385835263",
+      "brand": "Chemist at Play",
+      "days_running": 211,
+      "winner": true,
+      "template_id": 36,
+      "template_name": "Offer creative",
+      "secondary_template_ids": [
+        38
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "App-install offer: huge '25% off on app' lockup, code pill and store badges above a three-SKU shelf.",
+      "image_file": "research/competitor_ads/images/903477385835263.jpg"
+    },
+    {
+      "id": "4297183423887627",
+      "brand": "Chemist at Play",
+      "days_running": 148,
+      "winner": true,
+      "template_id": 36,
+      "template_name": "Offer creative",
+      "secondary_template_ids": [
+        38
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "Four-SKU lineup on top half, giant 'Flat 35% off' and download button on a neon bottom half.",
+      "image_file": "research/competitor_ads/images/4297183423887627.jpg"
+    },
+    {
+      "id": "1732129464862042",
+      "brand": "Chemist at Play",
+      "days_running": 182,
+      "winner": true,
+      "template_id": 7,
+      "template_name": "Product-in-hand",
+      "secondary_template_ids": [
+        42,
+        38
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Wet hands holding a face+body duo under a running shower, with a '#1 daily duo' headline naming one concern.",
+      "image_file": "research/competitor_ads/images/1732129464862042.jpg"
+    },
+    {
+      "id": "2167030027575229",
+      "brand": "Conscious Chemist",
+      "days_running": 28,
+      "winner": false,
+      "template_id": 35,
+      "template_name": "Question-led creative",
+      "secondary_template_ids": [
+        10,
+        18
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Question hook that challenges the old fix (pore strips) over a wincing user, with chat-bubble cycle callouts and a swipe prompt.",
+      "image_file": "research/competitor_ads/images/2167030027575229.jpg"
+    },
+    {
+      "id": "1390426132931304",
+      "brand": "Conscious Chemist",
+      "days_running": 71,
+      "winner": true,
+      "template_id": 31,
+      "template_name": "Creator selfie",
+      "secondary_template_ids": [
+        30,
+        34
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Native mirror-selfie with one insider-confession caption box; product withheld to drive swipe.",
+      "image_file": "research/competitor_ads/images/1390426132931304.jpg"
+    },
+    {
+      "id": "991199233902436",
+      "brand": "Conscious Chemist",
+      "days_running": 100,
+      "winner": true,
+      "template_id": 28,
+      "template_name": "Social-proof creative",
+      "secondary_template_ids": [
+        46,
+        2
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "Rating and user-count badge ('4.8 by 15,000+') over a basket overflowing with the same tube, plus two benefit bullets.",
+      "image_file": "research/competitor_ads/images/991199233902436.jpg"
+    },
+    {
+      "id": "1587965372880796",
+      "brand": "Conscious Chemist",
+      "days_running": 21,
+      "winner": false,
+      "template_id": 10,
+      "template_name": "Problem macro",
+      "secondary_template_ids": [
+        15,
+        25
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Extreme close-up of the problem moment (squeezing a pimple) with a 'don't do this, do this' instruction and timed claim.",
+      "image_file": "research/competitor_ads/images/1587965372880796.jpg"
+    },
+    {
+      "id": "27209515258657747",
+      "brand": "Conscious Chemist",
+      "days_running": 107,
+      "winner": true,
+      "template_id": 36,
+      "template_name": "Offer creative",
+      "secondary_template_ids": [
+        37,
+        21
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "Clearance banner: struck-through vs sale price, countdown starburst and diagonal Shop Now strip over a texture-spill pack shot.",
+      "image_file": "research/competitor_ads/images/27209515258657747.jpg"
+    },
+    {
+      "id": "1691072948832986",
+      "brand": "Conscious Chemist",
+      "days_running": 107,
+      "winner": true,
+      "template_id": 36,
+      "template_name": "Offer creative",
+      "secondary_template_ids": [
+        37,
+        7
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "Clearance banner with struck price starburst and 'only N units left' scarcity strip over a hand spraying the mist.",
+      "image_file": "research/competitor_ads/images/1691072948832986.jpg"
+    },
+    {
+      "id": "1393840196150399",
+      "brand": "Conscious Chemist",
+      "days_running": 14,
+      "winner": false,
+      "template_id": 36,
+      "template_name": "Offer creative",
+      "secondary_template_ids": [
+        43,
+        38
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "Replenishment hook ('Loved it? Stock up') plus Buy 2 Get 2 and expiry badge over a hand reaching into a product shelf.",
+      "image_file": "research/competitor_ads/images/1393840196150399.jpg"
+    },
+    {
+      "id": "1323892835918767",
+      "brand": "Conscious Chemist",
+      "days_running": 107,
+      "winner": true,
+      "template_id": 36,
+      "template_name": "Offer creative",
+      "secondary_template_ids": [
+        37
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "Clearance banner: struck price starburst, 'this price won't return' tag and countdown strip beside a single bottle.",
+      "image_file": "research/competitor_ads/images/1323892835918767.jpg"
+    },
+    {
+      "id": "4416615341943591",
+      "brand": "Deconstruct",
+      "days_running": 142,
+      "winner": true,
+      "template_id": 2,
+      "template_name": "Product + benefit badges",
+      "secondary_template_ids": [
+        45,
+        20
+      ],
+      "reproducible_honestly": "yes",
+      "one_line": "'India's 1st' claim headline with highlight bars, pack beside its carton, and callout lines to two features plus a pack-mechanism note.",
+      "image_file": "research/competitor_ads/images/4416615341943591.jpg"
+    },
+    {
+      "id": "4500111383646459",
+      "brand": "Deconstruct",
+      "days_running": 129,
+      "winner": true,
+      "template_id": 19,
+      "template_name": "This vs that",
+      "secondary_template_ids": [
+        17,
+        2
+      ],
+      "reproducible_honestly": "yes",
+      "one_line": "Two-column 'European v/s Korean' category contrast resolved by 'best of both worlds - get both' over a single pack on a plinth.",
+      "image_file": "research/competitor_ads/images/4500111383646459.jpg"
+    },
+    {
+      "id": "1739037801557913",
+      "brand": "Deconstruct",
+      "days_running": 53,
+      "winner": true,
+      "template_id": 15,
+      "template_name": "Problem → product",
+      "secondary_template_ids": [
+        10
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "'4 problems, 1 solution' headline with four labelled skin-concern thumbnails wired by callout lines to a central pack.",
+      "image_file": "research/competitor_ads/images/1739037801557913.jpg"
+    },
+    {
+      "id": "1619243416440363",
+      "brand": "Deconstruct",
+      "days_running": 50,
+      "winner": true,
+      "template_id": 26,
+      "template_name": "Review creative",
+      "secondary_template_ids": [
+        7
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "'What our customers say?' headline with a hand-held pack above a verified 5-star review card (name, city, quote).",
+      "image_file": "research/competitor_ads/images/1619243416440363.jpg"
+    },
+    {
+      "id": "1689296475500089",
+      "brand": "Deconstruct",
+      "days_running": 29,
+      "winner": false,
+      "template_id": 2,
+      "template_name": "Product + benefit badges",
+      "secondary_template_ids": [
+        34
+      ],
+      "reproducible_honestly": "yes",
+      "one_line": "Bold two-tone promise headline over a single tube on a diagonal ledge with three icon-led benefit lines.",
+      "image_file": "research/competitor_ads/images/1689296475500089.jpg"
+    },
+    {
+      "id": "2950827325263069",
+      "brand": "Deconstruct",
+      "days_running": 27,
+      "winner": false,
+      "template_id": 13,
+      "template_name": "Split-screen transformation",
+      "secondary_template_ids": [
+        7,
+        25
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Slider line splitting one face into dull vs bright halves, model holding the pack, highlighted day count and a 'Nx better' strip.",
+      "image_file": "research/competitor_ads/images/2950827325263069.jpg"
+    },
+    {
+      "id": "1411336474460924",
+      "brand": "Deconstruct",
+      "days_running": 31,
+      "winner": true,
+      "template_id": 36,
+      "template_name": "Offer creative",
+      "secondary_template_ids": [
+        38
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "Payday sale lockup ('up to 30% off + freebies on combos') in a 3D set above a four-SKU lineup.",
+      "image_file": "research/competitor_ads/images/1411336474460924.jpg"
+    },
+    {
+      "id": "1043812398239559",
+      "brand": "Deconstruct",
+      "days_running": 57,
+      "winner": true,
+      "template_id": 48,
+      "template_name": "Seasonal creative",
+      "secondary_template_ids": [
+        38,
+        36
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "Festival gift-hamper flat-lay (Rakhi) with four SKUs in an open box, struck MRP roundel and 'bestsellers + free pouch' banner.",
+      "image_file": "research/competitor_ads/images/1043812398239559.jpg"
+    },
+    {
+      "id": "2577485959347287",
+      "brand": "The Derma Co",
+      "days_running": 16,
+      "winner": false,
+      "template_id": 12,
+      "template_name": "Before / after",
+      "secondary_template_ids": [
+        35,
+        36
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Full-bleed stacked Before/After forehead crops with a reframing question hook ('that tan that never left?') and code badge.",
+      "image_file": "research/competitor_ads/images/2577485959347287.jpg"
+    },
+    {
+      "id": "1391126049254669",
+      "brand": "The Derma Co",
+      "days_running": 21,
+      "winner": false,
+      "template_id": 12,
+      "template_name": "Before / after",
+      "secondary_template_ids": [
+        36
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Side-by-side labelled Before/After acne crops with captions, pack straddling the split and a Buy 2 Get 2 badge.",
+      "image_file": "research/competitor_ads/images/1391126049254669.jpg"
+    },
+    {
+      "id": "2307135286779864",
+      "brand": "The Derma Co",
+      "days_running": 36,
+      "winner": true,
+      "template_id": 13,
+      "template_name": "Split-screen transformation",
+      "secondary_template_ids": [
+        3,
+        15
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "'2 problems, 2 actives, 1 product' headline over an unlabelled split face, with two ingredient-to-benefit callouts below.",
+      "image_file": "research/competitor_ads/images/2307135286779864.jpg"
+    },
+    {
+      "id": "1778713726796593",
+      "brand": "The Derma Co",
+      "days_running": 16,
+      "winner": false,
+      "template_id": 10,
+      "template_name": "Problem macro",
+      "secondary_template_ids": [
+        15,
+        36
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "'Spotted: <problem> / Solution: <product>' headline pair around a macro of the problem with the pack overlapping.",
+      "image_file": "research/competitor_ads/images/1778713726796593.jpg"
+    },
+    {
+      "id": "848238494946602",
+      "brand": "The Derma Co",
+      "days_running": 29,
+      "winner": false,
+      "template_id": 10,
+      "template_name": "Problem macro",
+      "secondary_template_ids": [
+        15,
+        36
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Three labelled circular macros of acne types on a skin-texture background, a 'getting severe? you need X' line and the pack.",
+      "image_file": "research/competitor_ads/images/848238494946602.jpg"
+    },
+    {
+      "id": "4305763079698667",
+      "brand": "The Derma Co",
+      "days_running": 35,
+      "winner": true,
+      "template_id": 1,
+      "template_name": "Clean product hero",
+      "secondary_template_ids": [
+        46,
+        36
+      ],
+      "reproducible_honestly": "yes",
+      "one_line": "Clean studio hero of one upright tube surrounded by scattered duplicates, with a dermat-approved concern headline (offer badge optional).",
+      "image_file": "research/competitor_ads/images/4305763079698667.jpg"
+    },
+    {
+      "id": "1414040904207915",
+      "brand": "The Derma Co",
+      "days_running": 16,
+      "winner": false,
+      "template_id": 36,
+      "template_name": "Offer creative",
+      "secondary_template_ids": [
+        40,
+        1
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "Gift-with-purchase offer ('buy any, get combo FREE') over a wet pack in a monsoon rain scene, with limited-time sticker and code pill.",
+      "image_file": "research/competitor_ads/images/1414040904207915.jpg"
+    },
+    {
+      "id": "3159883944203364",
+      "brand": "The Derma Co",
+      "days_running": 36,
+      "winner": true,
+      "template_id": 38,
+      "template_name": "Bundle / kit image",
+      "secondary_template_ids": [
+        1
+      ],
+      "reproducible_honestly": "yes",
+      "one_line": "Plain white-background group pack shot of a four-step kit; catalogue card with no overlay.",
+      "image_file": "research/competitor_ads/images/3159883944203364.jpg"
+    },
+    {
+      "id": "2593621517723635",
+      "brand": "Dot & Key",
+      "days_running": 51,
+      "winner": true,
+      "template_id": 22,
+      "template_name": "How-to / steps",
+      "secondary_template_ids": [
+        38,
+        41
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Skin-type routine headline with Step 1 / Step 2 labels on two packs beside a happy model on a brand-colour gradient.",
+      "image_file": "research/competitor_ads/images/2593621517723635.jpg"
+    },
+    {
+      "id": "621835826921394",
+      "brand": "Dot & Key",
+      "days_running": 610,
+      "winner": true,
+      "template_id": 26,
+      "template_name": "Review creative",
+      "secondary_template_ids": [
+        7
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "Hand holding the pack against open sky next to a dated, verified 5-star review card with a bold review title.",
+      "image_file": "research/competitor_ads/images/621835826921394.jpg"
+    },
+    {
+      "id": "9868853523169382",
+      "brand": "Dot & Key",
+      "days_running": 508,
+      "winner": true,
+      "template_id": 3,
+      "template_name": "Product + ingredients",
+      "secondary_template_ids": [
+        4
+      ],
+      "reproducible_honestly": "yes",
+      "one_line": "Pack on a pile of its hero fruit with three ingredient-to-benefit tag cards, a 'ONE serum for X' headline and NEW bubble.",
+      "image_file": "research/competitor_ads/images/9868853523169382.jpg"
+    },
+    {
+      "id": "1345878971083946",
+      "brand": "Dot & Key",
+      "days_running": 70,
+      "winner": true,
+      "template_id": 36,
+      "template_name": "Offer creative",
+      "secondary_template_ids": [
+        38,
+        48
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "Four-SKU colour-matched range with fruit prop, bubbly 'Flat 25% off' sticker and a seasonal 'monsoon glow' label.",
+      "image_file": "research/competitor_ads/images/1345878971083946.jpg"
+    },
+    {
+      "id": "1606881954486073",
+      "brand": "Dot & Key",
+      "days_running": 70,
+      "winner": true,
+      "template_id": 38,
+      "template_name": "Bundle / kit image",
+      "secondary_template_ids": [
+        36,
+        4
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "Four colour-matched routine products staged on fruit cubes and ice with a 'coolest routine for oily skin' headline and 25% off sticker.",
+      "image_file": "research/competitor_ads/images/1606881954486073.jpg"
+    },
+    {
+      "id": "2736630640023211",
+      "brand": "Dot & Key",
+      "days_running": 234,
+      "winner": true,
+      "template_id": 41,
+      "template_name": "Aspirational lifestyle",
+      "secondary_template_ids": [
+        6,
+        40
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Joyful model at the beach hugging an oversized pack, big benefit headline in the sky and one test-credential sticker.",
+      "image_file": "research/competitor_ads/images/2736630640023211.jpg"
+    },
+    {
+      "id": "2634392720313080",
+      "brand": "Dot & Key",
+      "days_running": 102,
+      "winner": true,
+      "template_id": 1,
+      "template_name": "Clean product hero",
+      "secondary_template_ids": [
+        4
+      ],
+      "reproducible_honestly": "yes",
+      "one_line": "White-background pack shot with one fruit prop, one benefit line and one sticker; catalogue card.",
+      "image_file": "research/competitor_ads/images/2634392720313080.jpg"
+    },
+    {
+      "id": "986987480766438",
+      "brand": "Dot & Key",
+      "days_running": 93,
+      "winner": true,
+      "template_id": 1,
+      "template_name": "Clean product hero",
+      "secondary_template_ids": [
+        21
+      ],
+      "reproducible_honestly": "yes",
+      "one_line": "Jar pack shot over a product texture swatch with a sticker-style benefit and one benefit line on white; catalogue card.",
+      "image_file": "research/competitor_ads/images/986987480766438.jpg"
+    },
+    {
+      "id": "1550169393471299",
+      "brand": "Dr. Sheth's",
+      "days_running": 37,
+      "winner": true,
+      "template_id": 12,
+      "template_name": "Before / after",
+      "secondary_template_ids": [
+        3,
+        36
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Huge 'fades X in 15 days' headline over unlabelled before/after face crops, pack centred, two molecule ingredient callouts and struck price.",
+      "image_file": "research/competitor_ads/images/1550169393471299.jpg"
+    },
+    {
+      "id": "1290012680862234",
+      "brand": "Dr. Sheth's",
+      "days_running": 32,
+      "winner": true,
+      "template_id": 13,
+      "template_name": "Split-screen transformation",
+      "secondary_template_ids": [
+        3,
+        36
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "One face split by a line with labelled Before/After pins, timed claim box, two ingredient icons and a 25% off block.",
+      "image_file": "research/competitor_ads/images/1290012680862234.jpg"
+    },
+    {
+      "id": "1594682718905718",
+      "brand": "Dr. Sheth's",
+      "days_running": 46,
+      "winner": true,
+      "template_id": 36,
+      "template_name": "Offer creative",
+      "secondary_template_ids": [
+        39,
+        10
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "Flat 20% off headline beside a strip of four different Indian skin-tone face crops and an 'every skin type' claim.",
+      "image_file": "research/competitor_ads/images/1594682718905718.jpg"
+    },
+    {
+      "id": "952136181261603",
+      "brand": "Dr. Sheth's",
+      "days_running": 36,
+      "winner": true,
+      "template_id": 36,
+      "template_name": "Offer creative",
+      "secondary_template_ids": [
+        38,
+        2
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "'Buy 2 at' pill with struck vs offer price and code above a two-tube duo leaning on a wall with two claim bubbles.",
+      "image_file": "research/competitor_ads/images/952136181261603.jpg"
+    },
+    {
+      "id": "1366133142166031",
+      "brand": "Dr. Sheth's",
+      "days_running": 35,
+      "winner": true,
+      "template_id": 36,
+      "template_name": "Offer creative",
+      "secondary_template_ids": [
+        39,
+        38
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "'Buy 2 at' price lockup over two sunscreen variants stacked on a plinth with a round test seal; 'for every skin type' framing.",
+      "image_file": "research/competitor_ads/images/1366133142166031.jpg"
+    },
+    {
+      "id": "984872741086615",
+      "brand": "Dr. Sheth's",
+      "days_running": 90,
+      "winner": true,
+      "template_id": 4,
+      "template_name": "Ingredient flat lay",
+      "secondary_template_ids": [
+        1
+      ],
+      "reproducible_honestly": "yes",
+      "one_line": "Square pack shot between halved oranges and water droplets on pale blue; ingredient cue via props, no overlay.",
+      "image_file": "research/competitor_ads/images/984872741086615.jpg"
+    },
+    {
+      "id": "1957996591744819",
+      "brand": "Foxtale",
+      "days_running": 227,
+      "winner": true,
+      "template_id": 23,
+      "template_name": "Infographic",
+      "secondary_template_ids": [
+        8,
+        35
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "'What does <ingredient> do?' question with a four-point icon benefit list beside a model wearing the mask on half her face holding the jar.",
+      "image_file": "research/competitor_ads/images/1957996591744819.jpg"
+    },
+    {
+      "id": "1475983576999549",
+      "brand": "Foxtale",
+      "days_running": 155,
+      "winner": true,
+      "template_id": 5,
+      "template_name": "Premium editorial product shot",
+      "secondary_template_ids": [
+        47
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Editorial metaphor shot (ballet pointe shoes) with the pack standing between them and a minimal two-line benefit headline.",
+      "image_file": "research/competitor_ads/images/1475983576999549.jpg"
+    },
+    {
+      "id": "1602641281689513",
+      "brand": "Foxtale",
+      "days_running": 112,
+      "winner": true,
+      "template_id": 8,
+      "template_name": "Product-in-use",
+      "secondary_template_ids": [
+        21,
+        9
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Three-panel collage (texture bed, finger scoop, model wearing the mask) beside a timed-fix seasonal headline.",
+      "image_file": "research/competitor_ads/images/1602641281689513.jpg"
+    },
+    {
+      "id": "2605728093198832",
+      "brand": "Foxtale",
+      "days_running": 105,
+      "winner": true,
+      "template_id": 22,
+      "template_name": "How-to / steps",
+      "secondary_template_ids": [
+        38,
+        48
+      ],
+      "reproducible_honestly": "yes",
+      "one_line": "Two packs floating over a water splash with Cleanse / Moisturize step bubbles and a seasonal-concern headline.",
+      "image_file": "research/competitor_ads/images/2605728093198832.jpg"
+    },
+    {
+      "id": "1380221640890732",
+      "brand": "Foxtale",
+      "days_running": 52,
+      "winner": true,
+      "template_id": 11,
+      "template_name": "Result / beauty shot",
+      "secondary_template_ids": [
+        12,
+        25
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Extreme glowing-cheek close-up with a cream swatch, hours-of-hydration roundel, pack, and a small inset before/after with study footnote.",
+      "image_file": "research/competitor_ads/images/1380221640890732.jpg"
+    },
+    {
+      "id": "1418542033483616",
+      "brand": "Foxtale",
+      "days_running": 31,
+      "winner": true,
+      "template_id": 28,
+      "template_name": "Social-proof creative",
+      "secondary_template_ids": [
+        46,
+        7
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "'Our #1' headline with a 'sold every 30 seconds' velocity oval, hand lifting a tube from an overflowing basket, quick-commerce footer.",
+      "image_file": "research/competitor_ads/images/1418542033483616.jpg"
+    },
+    {
+      "id": "903698342763669",
+      "brand": "Foxtale",
+      "days_running": 95,
+      "winner": true,
+      "template_id": 36,
+      "template_name": "Offer creative",
+      "secondary_template_ids": [
+        38,
+        48
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "Seasonal kicker plus a bold 'Buy 3 at <price>' headline and code bar over a three-SKU stack on a condensation background.",
+      "image_file": "research/competitor_ads/images/903698342763669.jpg"
+    },
+    {
+      "id": "1408884340671180",
+      "brand": "Foxtale",
+      "days_running": 29,
+      "winner": false,
+      "template_id": 39,
+      "template_name": "SKU / shade creative",
+      "secondary_template_ids": [
+        43,
+        40
+      ],
+      "reproducible_honestly": "yes",
+      "one_line": "'Pick your sunscreen' range chooser: four variants in a beach basket flat-lay, each tagged with its benefit label.",
+      "image_file": "research/competitor_ads/images/1408884340671180.jpg"
+    },
+    {
+      "id": "1000219876379194",
+      "brand": "Pilgrim",
+      "days_running": 32,
+      "winner": true,
+      "template_id": 22,
+      "template_name": "How-to / steps",
+      "secondary_template_ids": [
+        38,
+        43
+      ],
+      "reproducible_honestly": "yes",
+      "one_line": "Three products pinned on numbered polaroid cards (Cleanse / Treat / Glow) with swatches, washi tape and a handwritten checklist.",
+      "image_file": "research/competitor_ads/images/1000219876379194.jpg"
+    },
+    {
+      "id": "1111018274708028",
+      "brand": "Pilgrim",
+      "days_running": 31,
+      "winner": true,
+      "template_id": 23,
+      "template_name": "Infographic",
+      "secondary_template_ids": [
+        3,
+        25
+      ],
+      "reproducible_honestly": "yes",
+      "one_line": "Diagonal pack with four icon callouts linking each ingredient to a benefit under a timed-result headline.",
+      "image_file": "research/competitor_ads/images/1111018274708028.jpg"
+    },
+    {
+      "id": "1420890446893063",
+      "brand": "Pilgrim",
+      "days_running": 32,
+      "winner": true,
+      "template_id": 2,
+      "template_name": "Product + benefit badges",
+      "secondary_template_ids": [
+        38,
+        24
+      ],
+      "reproducible_honestly": "yes",
+      "one_line": "Named duo on a glass disc over water with sun flare, three line-icon benefits down the side and a three-badge credential strip.",
+      "image_file": "research/competitor_ads/images/1420890446893063.jpg"
+    },
+    {
+      "id": "1079958907863521",
+      "brand": "Pilgrim",
+      "days_running": 30,
+      "winner": true,
+      "template_id": 12,
+      "template_name": "Before / after",
+      "secondary_template_ids": [
+        3,
+        5
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Labelled BEFORE/AFTER skin-texture crops behind the pack on a stone plinth with spa props and one ingredient callout.",
+      "image_file": "research/competitor_ads/images/1079958907863521.jpg"
+    },
+    {
+      "id": "3885583851576384",
+      "brand": "Pilgrim",
+      "days_running": 137,
+      "winner": true,
+      "template_id": 1,
+      "template_name": "Clean product hero",
+      "secondary_template_ids": [],
+      "reproducible_honestly": "yes",
+      "one_line": "Plain white-background pack shot with no graphics; catalogue card carrying the message in headline copy.",
+      "image_file": "research/competitor_ads/images/3885583851576384.jpg"
+    },
+    {
+      "id": "1518480183631080",
+      "brand": "Plum",
+      "days_running": 37,
+      "winner": true,
+      "template_id": 30,
+      "template_name": "UGC screenshot style",
+      "secondary_template_ids": [
+        45,
+        31
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Creator unboxing hook ('X sent me a ...???') with the branded PR box held over her face; native video thumbnail.",
+      "image_file": "research/competitor_ads/images/1518480183631080.jpg"
+    },
+    {
+      "id": "1988982778427959",
+      "brand": "Plum",
+      "days_running": 30,
+      "winner": true,
+      "template_id": 31,
+      "template_name": "Creator selfie",
+      "secondary_template_ids": [
+        30,
+        10
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Talking-head creator in a bedroom gesturing to camera, no overlay; the concern is carried by the headline.",
+      "image_file": "research/competitor_ads/images/1988982778427959.jpg"
+    },
+    {
+      "id": "28367886479503739",
+      "brand": "Plum",
+      "days_running": 37,
+      "winner": true,
+      "template_id": 30,
+      "template_name": "UGC screenshot style",
+      "secondary_template_ids": [
+        10,
+        31
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Creator partnership frame showing the problem live (blotting sheets stuck on an oily face), no overlay.",
+      "image_file": "research/competitor_ads/images/28367886479503739.jpg"
+    },
+    {
+      "id": "1765439924891420",
+      "brand": "Plum",
+      "days_running": 37,
+      "winner": true,
+      "template_id": 46,
+      "template_name": "Scale / quantity image",
+      "secondary_template_ids": [
+        1,
+        43
+      ],
+      "reproducible_honestly": "yes",
+      "one_line": "Two shelves of identical bottles repeated in rows on a soft brand-tinted background; abundance as the message.",
+      "image_file": "research/competitor_ads/images/1765439924891420.jpg"
+    },
+    {
+      "id": "1442275664562421",
+      "brand": "Plum",
+      "days_running": 25,
+      "winner": false,
+      "template_id": 31,
+      "template_name": "Creator selfie",
+      "secondary_template_ids": [
+        30
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Talking-head creator against a coloured wall, no product or text in frame.",
+      "image_file": "research/competitor_ads/images/1442275664562421.jpg"
+    },
+    {
+      "id": "1751688796093249",
+      "brand": "Plum",
+      "days_running": 24,
+      "winner": false,
+      "template_id": 7,
+      "template_name": "Product-in-hand",
+      "secondary_template_ids": [
+        20
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Close-up of a hand holding the tube with label partly cropped on a soft background; native video frame.",
+      "image_file": "research/competitor_ads/images/1751688796093249.jpg"
+    },
+    {
+      "id": "1415802417140754",
+      "brand": "Plum",
+      "days_running": 37,
+      "winner": true,
+      "template_id": 31,
+      "template_name": "Creator selfie",
+      "secondary_template_ids": [
+        30,
+        35
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Smiling creator with natural skin talking to camera, finger raised; question-style headline carries the hook.",
+      "image_file": "research/competitor_ads/images/1415802417140754.jpg"
+    },
+    {
+      "id": "1115173371246578",
+      "brand": "Plum",
+      "days_running": 37,
+      "winner": true,
+      "template_id": 44,
+      "template_name": "Founder / expert portrait",
+      "secondary_template_ids": [
+        7
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Named doctor in a lab coat at a desk with the product box beside her; expert talking-head thumbnail.",
+      "image_file": "research/competitor_ads/images/1115173371246578.jpg"
+    },
+    {
+      "id": "1101473269058810",
+      "brand": "Re'equil",
+      "days_running": 25,
+      "winner": false,
+      "template_id": 36,
+      "template_name": "Offer creative",
+      "secondary_template_ids": [
+        38
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "Boxed 'Buy 2 Get 1 FREE' banner over a three-tube lineup with captions naming which item is free.",
+      "image_file": "research/competitor_ads/images/1101473269058810.jpg"
+    },
+    {
+      "id": "2274657823309888",
+      "brand": "Re'equil",
+      "days_running": 25,
+      "winner": false,
+      "template_id": 28,
+      "template_name": "Social-proof creative",
+      "secondary_template_ids": [
+        29,
+        1
+      ],
+      "reproducible_honestly": "needs_marketer_data",
+      "one_line": "'India's most loved' headline with award badges above and a star rating + customer count + retailer logos below a single tube.",
+      "image_file": "research/competitor_ads/images/2274657823309888.jpg"
+    },
+    {
+      "id": "1405373168193801",
+      "brand": "Re'equil",
+      "days_running": 25,
+      "winner": false,
+      "template_id": 9,
+      "template_name": "Application macro",
+      "secondary_template_ids": [
+        22,
+        21
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Tube dispensing a pea-sized dot onto a fingertip on a pack-matched solid colour, with dose and frequency instructions.",
+      "image_file": "research/competitor_ads/images/1405373168193801.jpg"
+    },
+    {
+      "id": "2333707560370954",
+      "brand": "Re'equil",
+      "days_running": 25,
+      "winner": false,
+      "template_id": 34,
+      "template_name": "Text-led creative",
+      "secondary_template_ids": [
+        2
+      ],
+      "reproducible_honestly": "yes",
+      "one_line": "Reverse-psychology 'DON'T BUY THIS' headline with an 'unless you want...' turn and three tick pills beside one tube.",
+      "image_file": "research/competitor_ads/images/2333707560370954.jpg"
+    },
+    {
+      "id": "1386072156792745",
+      "brand": "Re'equil",
+      "days_running": 66,
+      "winner": true,
+      "template_id": 15,
+      "template_name": "Problem → product",
+      "secondary_template_ids": [
+        7,
+        28
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "'4 problems, 1 solution' with four line-art concern icons around a tube balanced on an open palm, #1 best-seller strip below.",
+      "image_file": "research/competitor_ads/images/1386072156792745.jpg"
+    },
+    {
+      "id": "1039318678808682",
+      "brand": "Re'equil",
+      "days_running": 66,
+      "winner": true,
+      "template_id": 25,
+      "template_name": "Stat-led creative",
+      "secondary_template_ids": [
+        24,
+        21
+      ],
+      "reproducible_honestly": "yes",
+      "one_line": "Tube with a cream dollop and three callout lines to percentage-result stats, footnoted to a dermatological assessment.",
+      "image_file": "research/competitor_ads/images/1039318678808682.jpg"
+    },
+    {
+      "id": "3961263437511522",
+      "brand": "Re'equil",
+      "days_running": 66,
+      "winner": true,
+      "template_id": 13,
+      "template_name": "Split-screen transformation",
+      "secondary_template_ids": [
+        18
+      ],
+      "reproducible_honestly": "needs_real_photo",
+      "one_line": "Split macro skin texture (greasy vs balanced) with an arrow, above a 'From X to Y' headline and the pack.",
+      "image_file": "research/competitor_ads/images/3961263437511522.jpg"
+    },
+    {
+      "id": "1593356795737812",
+      "brand": "Re'equil",
+      "days_running": 66,
+      "winner": true,
+      "template_id": 24,
+      "template_name": "Clinical / science visual",
+      "secondary_template_ids": [
+        23
+      ],
+      "reproducible_honestly": "yes",
+      "one_line": "'Nutrition facts'-style spec label of product metrics with the tube overlapping it and cream dripping over the top.",
+      "image_file": "research/competitor_ads/images/1593356795737812.jpg"
+    }
+  ]
+}

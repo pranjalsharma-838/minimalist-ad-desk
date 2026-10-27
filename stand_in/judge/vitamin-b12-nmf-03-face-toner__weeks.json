@@ -1,0 +1,19 @@
+{
+    "findings":  [
+
+                 ],
+    "rule_hit_review":  [
+                            {
+                                "index":  0,
+                                "assessment":  "agree",
+                                "why":  "Headline names Vitamin B12 with no concentration in that field; advisory only, since the product name carries 03%."
+                            },
+                            {
+                                "index":  1,
+                                "assessment":  "agree",
+                                "why":  "Primary text names Vitamin B12 with no concentration in that field; advisory only."
+                            }
+                        ],
+    "tone_read":  "Calm and routine-focused; the week labels describe the routine, not results, and the footnote says so. No fear, hype or urgency.",
+    "language_read":  "Efficacy is hedged (\"help prevent water loss\") and every claim traces to the product page. The 03% strength is written as the brand writes it, but the hero active is named without its percentage in the headline and primary text."
+}

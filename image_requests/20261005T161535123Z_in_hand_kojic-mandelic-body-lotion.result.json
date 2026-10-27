@@ -1,0 +1,9 @@
+{
+  "status": "needs_review",
+  "image": "image_requests/20261005T161535123Z_in_hand_kojic-mandelic-body-lotion.png",
+  "rounds": 3,
+  "similarity": 0.559,
+  "verdict": "REVIEW: label detail differs; read the sheet",
+  "notes": "Pack label did NOT pass after 3 round(s): REVIEW: label detail differs; read the sheet (similarity 0.559). Not offered for ads: check the label by eye or ask again.",
+  "finished_at": "2026-10-05T16:28:34.143Z"
+}
