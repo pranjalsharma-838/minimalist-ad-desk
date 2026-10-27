@@ -991,8 +991,11 @@ function fillEditor(c) {
 
 // One honest status line: ready / still being made / needing typed input are three different things.
 function progressLine() {
-  const ready = formats.filter((f) => f.status === "ready").length, waitKeys = formats.filter((f) => f.pending?.state === "no_studio").length, making = formats.filter((f) => f.pending).length - waitKeys, input = formats.filter((f) => !f.pending && f.status !== "ready").length;
-  $("#gen-progress").textContent = [`${ready} ready`, making ? `${making} being made` : "", waitKeys ? `${waitKeys} waiting for an API key` : "", input ? `${input} need input` : ""].filter(Boolean).join(", ") + `.${llm ? "" : " Rules-only check (add a Claude API key for the AI judge)."}`;
+  const ready = formats.filter((f) => f.status === "ready").length, waitKeys = formats.filter((f) => f.pending?.state === "no_studio").length, input = formats.filter((f) => !f.pending && f.status !== "ready").length;
+  // Formats that will not get an image (none could be asked for, or it failed) are not "being made".
+  const cant = formats.filter((f) => f.pending?.state === "unavailable").length, failed = formats.filter((f) => f.pending?.state === "failed").length;
+  const making = formats.filter((f) => f.pending).length - waitKeys - cant - failed;
+  $("#gen-progress").textContent = [`${ready} ready`, making ? `${making} being made` : "", waitKeys ? `${waitKeys} waiting for an API key` : "", cant ? `${cant} need ${online ? "an OpenAI key" : "a new image"}` : "", failed ? `${failed} image${failed > 1 ? "s" : ""} failed` : "", input ? `${input} need input` : ""].filter(Boolean).join(", ") + `.${llm ? "" : " Rules-only check (add a Claude API key for the AI judge)."}`;
   // Nothing ready yet: no big preview or scores for an ad that can't be seen (no placeholder), just the waiting line.
   document.querySelector("#gen-result .result")?.classList.toggle("hidden", !ready);
   if (ready && fmtOf(selected)?.pending) select(formats.find((f) => f.status === "ready").id);
