@@ -25,9 +25,10 @@ async function api(path, body) {
 // ---------- status + Claude API key ----------
 // Without a key the app still works (copy word for word from the page, rules-only check). With one, the writer and
 // the AI judge run live. Locally the server keeps it in memory for the session; online it stays in this browser tab.
-let llm = false;
+let llm = false, online = false;
 function showStatus(s) {
   llm = s.llm;
+  online = Boolean(s.online);
   $("#status").innerHTML = `Rules v${esc(s.rulesVersion)} · AI judge: <b class="${s.llm ? "on" : "off"}">${s.llm ? "on" : "off (rules only)"}</b> · Images: <b class="${s.openai ? "on" : "off"}">${s.online ? "not in the online version" : s.openai ? "OpenAI" : "ChatGPT window"}</b>`;
   $("#mode").querySelector('[value="model"]').disabled = !s.llm;
   if (!s.llm) $("#mode").value = "verbatim";
@@ -318,7 +319,7 @@ function showSheet(s, refusal, cached) {
   $("#facts-body").innerHTML = `<p class="hint">${esc(s.title)} · actives from pack title: ${s.actives.map((a) => esc(a.pct + " " + a.name)).join(", ") || "none"} · source: ${s.source}${cached ? ` · page read ${esc(new Date(cached).toLocaleDateString())} (saved copy; tick "Re-read" to refresh)` : ""}. Greyed rows (testimonials, FAQ answers, full INCI) cannot be cited as claims; prices, offers, the rating and reviews are quoted only by the offer, price, rating and quote formats.</p><table>${rows}</table>`;
   $("#facts").classList.remove("hidden");
   $("#gen-controls").classList.remove("hidden");
-  $("#img-studio").classList.remove("hidden");
+  if (!online) $("#img-studio").classList.remove("hidden"); // the online version makes no new images
   $("#extract-msg").innerHTML = refusal ? `${esc(s.title)}: ${s.facts.length} facts.<div class="warnbox blocked"><b>Severe: every ad for this product</b> ${esc(refusal)}</div>` : `${esc(s.title)}: ${s.facts.length} facts.`;
   loadRequests();
 }
@@ -1045,7 +1046,8 @@ let keysWaived = false;
 async function missingKeys() {
   const s = await api("/api/status").catch(() => ({}));
   showStatus(s);
-  return [!s.llm ? "Claude API key (writes the copy, runs the AI judge)" : "", !s.openai && !s.studio ? "OpenAI API key (makes the images)" : ""].filter(Boolean);
+  // Online, images aren't made at all, so only the Claude key is asked for.
+  return [!s.llm ? "Claude API key (writes the copy, runs the AI judge)" : "", !s.online && !s.openai && !s.studio ? "OpenAI API key (makes the images)" : ""].filter(Boolean);
 }
 $("#generate").onclick = async () => {
   const miss = keysWaived ? [] : await missingKeys();
